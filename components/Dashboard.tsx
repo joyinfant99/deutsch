@@ -35,6 +35,12 @@ export default function Dashboard({ schedule }: { schedule: ScheduleItem[] }) {
     });
   }, [year, month, dayNumberOf, total]);
 
+  const weeks = useMemo(() => {
+    const rows = Array.from({ length: 6 }, (_, w) => cells.slice(w * 7, w * 7 + 7));
+    const used = rows.filter((row) => row.some((c) => c.inCourse));
+    return used.length ? used : rows;
+  }, [cells]);
+
   const goMonth = (delta: number) => setView(toISO(new Date(year, month + delta, 1, 12)));
   const minView = fromISO(start);
   const maxView = fromISO(end);
@@ -55,16 +61,16 @@ export default function Dashboard({ schedule }: { schedule: ScheduleItem[] }) {
   const todayBest = todayItem ? progress.days[todayItem.n]?.best : undefined;
 
   return (
-    <main className="grid flex-1 gap-5 px-5 py-5 sm:px-8 lg:h-dvh lg:grid-cols-[minmax(0,1fr)_340px]">
-      <section className="flex min-h-[520px] min-w-0 flex-col rounded-3xl border border-line bg-card p-4 shadow-[0_1px_0_rgba(0,0,0,0.03)] sm:p-5 lg:min-h-0">
+    <main className="grid flex-1 gap-4 px-4 py-4 sm:gap-5 sm:px-8 sm:py-5 lg:h-dvh lg:grid-cols-[minmax(0,1fr)_340px] lg:grid-rows-[auto_minmax(0,1fr)]">
+      <section className="order-2 flex min-w-0 flex-col rounded-3xl border border-line bg-card p-3.5 shadow-[0_1px_0_rgba(0,0,0,0.03)] sm:p-5 lg:order-none lg:col-start-1 lg:row-span-2 lg:row-start-1 lg:min-h-0">
         <div className="mb-3 flex items-center justify-between">
-          <h1 className="serif text-3xl sm:text-4xl">
+          <h1 className="serif whitespace-nowrap text-xl sm:text-4xl">
             {MONTHS[month]} <em>{year}</em>
           </h1>
-          <div className="flex items-center gap-1.5">
+          <div className="flex items-center gap-1 sm:gap-1.5">
             <button
               onClick={() => setView(initial)}
-              className="rounded-full border border-line px-3 py-1.5 text-sm text-muted hover:text-ink"
+              className="rounded-full border border-line px-3.5 py-2 text-sm text-muted hover:text-ink"
             >
               Today
             </button>
@@ -72,7 +78,7 @@ export default function Dashboard({ schedule }: { schedule: ScheduleItem[] }) {
               aria-label="Previous month"
               disabled={!canPrev}
               onClick={() => goMonth(-1)}
-              className="grid size-9 place-items-center rounded-full border border-line text-lg leading-none disabled:opacity-30"
+              className="grid size-9 place-items-center rounded-full border border-line text-lg leading-none disabled:opacity-30 sm:size-10"
             >
               ‹
             </button>
@@ -80,7 +86,7 @@ export default function Dashboard({ schedule }: { schedule: ScheduleItem[] }) {
               aria-label="Next month"
               disabled={!canNext}
               onClick={() => goMonth(1)}
-              className="grid size-9 place-items-center rounded-full border border-line text-lg leading-none disabled:opacity-30"
+              className="grid size-9 place-items-center rounded-full border border-line text-lg leading-none disabled:opacity-30 sm:size-10"
             >
               ›
             </button>
@@ -93,8 +99,11 @@ export default function Dashboard({ schedule }: { schedule: ScheduleItem[] }) {
           ))}
         </div>
 
-        <div className="grid min-h-0 flex-1 grid-cols-7 grid-rows-6 gap-1.5">
-          {cells.map((c) => {
+        <div
+          style={{ "--rows": weeks.length } as React.CSSProperties}
+          className="grid min-h-0 flex-1 auto-rows-[3.9rem] grid-cols-7 gap-1 sm:gap-1.5 lg:auto-rows-auto lg:[grid-template-rows:repeat(var(--rows),minmax(0,1fr))]"
+        >
+          {weeks.flat().map((c) => {
             const day = fromISO(c.iso).getDate();
             if (!c.inCourse) {
               return (
@@ -113,18 +122,18 @@ export default function Dashboard({ schedule }: { schedule: ScheduleItem[] }) {
                 key={c.iso}
                 href={`/day/${c.n}`}
                 title={`Day ${c.n} · ${item.title}`}
-                className={`group relative flex min-h-0 flex-col rounded-xl p-1.5 transition hover:brightness-95 ${bg} ${
+                className={`group relative flex min-h-0 flex-col rounded-xl p-1 transition hover:brightness-95 active:brightness-90 sm:p-1.5 ${bg} ${
                   isToday ? "ring-2 ring-accent" : ""
                 } ${c.inMonth ? "" : "opacity-40"}`}
               >
                 <span className="flex items-start justify-between text-xs">
                   <span className={`font-semibold ${isToday ? "text-accent" : "text-ink/80"}`}>{day}</span>
-                  <span className="rounded px-1 text-[10px] font-medium text-white" style={{ background: PHASE_COLOR[item.phase] }}>
+                  <span className="hidden rounded px-1 text-[10px] font-medium text-white sm:inline" style={{ background: PHASE_COLOR[item.phase] }}>
                     {c.n}
                   </span>
                 </span>
                 <span className="grid min-h-0 flex-1 place-items-center">
-                  <StatusMark status={status} className="pop max-h-full w-[62%] max-w-[54px]" />
+                  <StatusMark status={status} className="pop max-h-full w-[78%] max-w-[54px] sm:w-[62%]" />
                 </span>
               </Link>
             );
@@ -146,7 +155,7 @@ export default function Dashboard({ schedule }: { schedule: ScheduleItem[] }) {
         </div>
       </section>
 
-      <aside className="flex min-h-0 flex-col gap-4">
+      <div className="order-1 lg:col-start-2 lg:row-start-1">
         <div className="rounded-3xl border border-line bg-card p-5">
           {todayItem ? (
             <>
@@ -185,6 +194,9 @@ export default function Dashboard({ schedule }: { schedule: ScheduleItem[] }) {
           )}
         </div>
 
+      </div>
+
+      <aside className="order-3 flex min-h-0 flex-col gap-4 lg:col-start-2 lg:row-start-2">
         <div className="rounded-3xl border border-line bg-card p-5">
           <div className="flex items-baseline justify-between">
             <h3 className="text-sm font-medium">Progress</h3>

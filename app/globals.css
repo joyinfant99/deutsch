@@ -112,3 +112,27 @@ body {
   outline-offset: 2px;
   border-radius: 6px;
 }
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+a,
+button,
+label,
+input,
+textarea {
+  touch-action: manipulation;
+}
+@media (max-width: 1023px) {
+  input,
+  textarea,
+  select {
+    font-size: 16px;
+  }
+  body {
+    overscroll-behavior-y: none;
+  }
+}

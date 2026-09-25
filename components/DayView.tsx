@@ -186,7 +186,7 @@ function Section({
         {onToggle && (
           <button
             onClick={onToggle}
-            className={`rounded-full border px-3.5 py-1.5 text-sm transition ${
+            className={`min-h-10 rounded-full border px-4 py-1.5 text-sm transition ${
               done ? "border-good bg-good-soft text-good" : "border-line text-muted hover:text-ink"
             }`}
           >
@@ -283,7 +283,7 @@ function MaterialCard({ m, done, onToggle }: { m: Material; done: boolean; onTog
       <button
         onClick={onToggle}
         aria-label={done ? "Mark as not done" : "Mark as done"}
-        className={`mt-0.5 grid size-7 shrink-0 place-items-center rounded-full border-2 transition ${
+        className={`mt-0.5 grid size-8 shrink-0 place-items-center rounded-full border-2 transition ${
           done ? "border-good bg-good text-white" : "border-line bg-card hover:border-ink"
         }`}
       >

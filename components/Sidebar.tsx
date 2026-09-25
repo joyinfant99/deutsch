@@ -182,6 +182,62 @@ function Panel({ phases, total, onNavigate }: { phases: PhaseInfo[]; total: numb
   );
 }
 
+function TabIcon({ name }: { name: "calendar" | "today" | "chart" | "chat" }) {
+  const p = {
+    calendar: "M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 011 1v13a1 1 0 01-1 1H5a1 1 0 01-1-1V6a1 1 0 011-1z",
+    today: "M4 5.5A1.5 1.5 0 015.5 4h13A1.5 1.5 0 0120 5.5v13a1.5 1.5 0 01-1.5 1.5h-13A1.5 1.5 0 014 18.5zM8 12.5l2.7 2.7L16 9.5",
+    chart: "M5 20V10M12 20V4M19 20v-7",
+    chat: "M21 12a8 8 0 01-11.6 7.1L4 20l1-4.6A8 8 0 1121 12z",
+  }[name];
+  return (
+    <svg viewBox="0 0 24 24" className="size-[22px]" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+      <path d={p} />
+    </svg>
+  );
+}
+
+function MobileNav({ total }: { total: number }) {
+  const path = usePathname();
+  const { today, dayNumberOf, statusOf } = useProgress();
+  const todayN = today ? dayNumberOf(today) : 0;
+  const todayLink = todayN >= 1 && todayN <= total ? todayN : 1;
+  let missed = 0;
+  for (let n = 1; n <= total; n++) if (statusOf(n) === "missed") missed++;
+  if (/\/exam$/.test(path)) return null;
+  const cur = /^\/day\/(\d+)/.exec(path)?.[1];
+  const tab = (href: string, label: string, icon: "calendar" | "today" | "chart", active: boolean, badge?: number) => (
+    <Link
+      href={href}
+      className={`relative flex flex-col items-center gap-0.5 py-2 text-[11px] font-medium ${active ? "text-accent" : "text-muted"}`}
+    >
+      <span className={`grid h-7 w-14 place-items-center rounded-full transition-colors ${active ? "bg-accent-soft" : ""}`}>
+        <TabIcon name={icon} />
+      </span>
+      {label}
+      {badge ? <span className="absolute right-[calc(50%-1.6rem)] top-1 rounded-full bg-bad px-1.5 text-[10px] leading-4 text-white">{badge}</span> : null}
+    </Link>
+  );
+  return (
+    <nav
+      aria-label="Main"
+      className="fixed inset-x-0 bottom-0 z-40 grid grid-cols-4 border-t border-line bg-card/95 pb-[env(safe-area-inset-bottom)] backdrop-blur lg:hidden"
+    >
+      {tab("/", "Calendar", "calendar", path === "/", missed)}
+      {tab(`/day/${todayLink}`, "Today", "today", cur !== undefined && Number(cur) === todayLink)}
+      {tab("/progress", "Progress", "chart", path === "/progress")}
+      <button
+        onClick={() => window.dispatchEvent(new Event("open-tutor"))}
+        className="flex flex-col items-center gap-0.5 py-2 text-[11px] font-medium text-muted"
+      >
+        <span className="grid h-7 w-14 place-items-center rounded-full">
+          <TabIcon name="chat" />
+        </span>
+        Teacher
+      </button>
+    </nav>
+  );
+}
+
 export default function Sidebar({ phases, total }: { phases: PhaseInfo[]; total: number }) {
   const [open, setOpen] = useState(false);
   const path = usePathname();
@@ -196,7 +252,7 @@ export default function Sidebar({ phases, total }: { phases: PhaseInfo[]; total:
         <Panel phases={phases} total={total} />
       </aside>
 
-      <header className="sticky top-0 z-30 flex items-center justify-between border-b border-line bg-card/95 px-4 py-2.5 backdrop-blur lg:hidden">
+      <header className="sticky top-0 z-30 flex items-center justify-between border-b border-line bg-card/95 px-4 pb-2.5 pt-[calc(0.625rem+env(safe-area-inset-top))] backdrop-blur lg:hidden">
         <Link href="/" className="flex items-center gap-2">
           <span className="serif grid size-8 place-items-center rounded-full bg-accent text-base italic text-paper">D</span>
           <span className="serif text-xl">Deutsch</span>
@@ -213,8 +269,10 @@ export default function Sidebar({ phases, total }: { phases: PhaseInfo[]; total:
         </button>
       </header>
 
+      <MobileNav total={total} />
+
       {open && (
-        <div className="fixed inset-0 z-40 lg:hidden">
+        <div className="fixed inset-0 z-50 lg:hidden">
           <button aria-label="Close menu" className="absolute inset-0 bg-ink/40" onClick={() => setOpen(false)} />
           <div className="absolute inset-y-0 left-0 w-[19rem] max-w-[85vw] bg-card shadow-xl">
             <Panel phases={phases} total={total} onNavigate={() => setOpen(false)} />

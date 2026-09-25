@@ -206,7 +206,7 @@ export default function ExamView({ n, title, phase, quiz, total }: { n: number; 
             <button
               key={idx}
               onClick={() => setAnswer(idx)}
-              className={`flex w-full items-center gap-3 rounded-2xl border px-4 py-3.5 text-left text-[16px] transition ${
+              className={`flex min-h-14 w-full items-center gap-3 rounded-2xl border px-4 py-3.5 text-left text-[16px] transition active:scale-[0.99] ${
                 answers[i] === idx ? "border-accent bg-accent-soft" : "border-line bg-card hover:border-ink/40"
               }`}
             >
@@ -239,7 +239,7 @@ export default function ExamView({ n, title, phase, quiz, total }: { n: number; 
         </div>
       )}
 
-      <div className="mt-8 flex items-center justify-between">
+      <div className="fixed inset-x-0 bottom-0 z-30 flex items-center justify-between gap-3 border-t border-line bg-card/95 px-4 pb-[calc(0.75rem+env(safe-area-inset-bottom))] pt-3 backdrop-blur lg:static lg:mt-8 lg:border-0 lg:bg-transparent lg:p-0 lg:backdrop-blur-none">
         <button
           onClick={() => {
             if (i > 0) {
@@ -248,14 +248,14 @@ export default function ExamView({ n, title, phase, quiz, total }: { n: number; 
             }
           }}
           disabled={i === 0}
-          className="rounded-2xl px-4 py-3 text-muted hover:text-ink disabled:opacity-30"
+          className="min-h-12 rounded-2xl px-4 py-3 text-muted hover:text-ink disabled:opacity-30"
         >
           ‹ Back
         </button>
         <button
           onClick={next}
           disabled={!answered}
-          className="rounded-2xl bg-accent px-7 py-3 font-medium text-white transition hover:opacity-90 disabled:opacity-40"
+          className="min-h-12 flex-1 rounded-2xl bg-accent px-7 py-3 font-medium text-white transition hover:opacity-90 disabled:opacity-40 lg:flex-none"
         >
           {i + 1 === items.length ? "Finish exam" : "Next ›"}
         </button>

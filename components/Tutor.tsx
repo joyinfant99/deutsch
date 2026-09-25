@@ -34,6 +34,7 @@ export default function Tutor({ titles }: { titles: string[] }) {
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState("");
   const bottom = useRef<HTMLDivElement>(null);
+  const [vv, setVv] = useState<{ h: number; top: number } | null>(null);
   const abort = useRef<AbortController | null>(null);
 
   const m = /^\/day\/(\d+)(\/exam)?/.exec(path);
@@ -56,6 +57,26 @@ export default function Tutor({ titles }: { titles: string[] }) {
   useEffect(() => {
     bottom.current?.scrollIntoView({ block: "end" });
   }, [msgs, open, busy]);
+
+  useEffect(() => {
+    const onOpen = () => setOpen(true);
+    window.addEventListener("open-tutor", onOpen);
+    return () => window.removeEventListener("open-tutor", onOpen);
+  }, []);
+
+  useEffect(() => {
+    const v = window.visualViewport;
+    if (!open || !v) return;
+    const sync = () => setVv(window.innerWidth < 1024 ? { h: v.height, top: v.offsetTop } : null);
+    const t = setTimeout(sync, 0);
+    v.addEventListener("resize", sync);
+    v.addEventListener("scroll", sync);
+    return () => {
+      clearTimeout(t);
+      v.removeEventListener("resize", sync);
+      v.removeEventListener("scroll", sync);
+    };
+  }, [open]);
 
   const send = useCallback(
     async (text: string) => {
@@ -118,7 +139,7 @@ export default function Tutor({ titles }: { titles: string[] }) {
       {!open && (
         <button
           onClick={() => setOpen(true)}
-          className="fixed bottom-4 right-4 z-40 flex items-center gap-2 rounded-full bg-accent px-4 py-3 text-sm font-medium text-white shadow-lg hover:opacity-90"
+          className="fixed bottom-4 right-4 z-40 hidden items-center gap-2 rounded-full bg-accent px-4 py-3 text-sm font-medium text-white shadow-lg hover:opacity-90 lg:flex"
         >
           <svg viewBox="0 0 24 24" className="size-5" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
             <path d="M21 12a8 8 0 01-11.6 7.1L4 20l1-4.6A8 8 0 1121 12z" />
@@ -130,9 +151,10 @@ export default function Tutor({ titles }: { titles: string[] }) {
       {open && (
         <section
           aria-label="Your teacher"
-          className="fixed bottom-4 right-4 z-50 flex h-[min(640px,calc(100dvh-2rem))] w-[min(410px,calc(100vw-2rem))] flex-col overflow-hidden rounded-3xl border border-line bg-card shadow-2xl"
+          style={vv ? { height: vv.h, top: vv.top, bottom: "auto" } : undefined}
+          className="fixed inset-x-0 bottom-0 top-0 z-50 flex flex-col overflow-hidden bg-card lg:inset-x-auto lg:bottom-4 lg:right-4 lg:top-auto lg:h-[min(640px,calc(100dvh-2rem))] lg:w-[min(410px,calc(100vw-2rem))] lg:rounded-3xl lg:border lg:border-line lg:shadow-2xl"
         >
-          <header className="flex items-center gap-3 border-b border-line px-4 py-3">
+          <header className="flex items-center gap-3 border-b border-line px-4 pb-3 pt-[calc(0.75rem+env(safe-area-inset-top))] lg:pt-3">
             <span className="serif grid size-9 shrink-0 place-items-center rounded-full bg-accent text-lg italic text-paper">T</span>
             <div className="min-w-0 flex-1 leading-tight">
               <p className="serif text-lg">Your teacher</p>
@@ -145,7 +167,7 @@ export default function Tutor({ titles }: { titles: string[] }) {
                 Clear
               </button>
             )}
-            <button aria-label="Close" onClick={() => setOpen(false)} className="grid size-8 place-items-center rounded-full hover:bg-paper">
+            <button aria-label="Close" onClick={() => setOpen(false)} className="grid size-11 place-items-center rounded-full hover:bg-paper lg:size-8">
               <svg viewBox="0 0 24 24" className="size-4" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round">
                 <path d="M6 6l12 12M18 6L6 18" />
               </svg>
@@ -185,7 +207,7 @@ export default function Tutor({ titles }: { titles: string[] }) {
 
           {user ? (
           <form
-              className="flex items-end gap-2 border-t border-line p-3"
+              className="flex items-end gap-2 border-t border-line px-3 pb-[calc(0.75rem+env(safe-area-inset-bottom))] pt-3 lg:pb-3"
               onSubmit={(e) => {
                 e.preventDefault();
                 send(input);
@@ -202,12 +224,12 @@ export default function Tutor({ titles }: { titles: string[] }) {
                 }}
                 rows={1}
                 placeholder="Ask about today's lesson…"
-                className="max-h-28 min-h-10 flex-1 resize-none rounded-2xl border border-line bg-paper px-3.5 py-2 text-sm outline-none focus:border-accent"
+                className="max-h-28 min-h-11 flex-1 resize-none rounded-2xl border border-line bg-paper px-3.5 py-2.5 text-base outline-none focus:border-accent lg:min-h-10 lg:text-sm"
               />
               <button
                 disabled={busy || !input.trim()}
                 aria-label="Send"
-                className="grid size-10 shrink-0 place-items-center rounded-full bg-accent text-white disabled:opacity-40"
+                className="grid size-11 shrink-0 place-items-center rounded-full bg-accent text-white disabled:opacity-40 lg:size-10"
               >
                 <svg viewBox="0 0 24 24" className="size-4" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                   <path d="M5 12h14M13 6l6 6-6 6" />
@@ -215,7 +237,7 @@ export default function Tutor({ titles }: { titles: string[] }) {
               </button>
             </form>
             ) : (
-            <div className="border-t border-line p-4 text-center">
+            <div className="border-t border-line p-4 pb-[calc(1rem+env(safe-area-inset-bottom))] text-center">
               <p className="text-sm text-muted">Sign in with Google to talk to your teacher.</p>
               <button onClick={signIn} className="mt-2 rounded-full bg-accent px-4 py-2 text-sm font-medium text-white hover:opacity-90">
                 Sign in with Google
