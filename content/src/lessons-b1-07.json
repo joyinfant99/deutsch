@@ -1,0 +1,146 @@
+{
+"b1-29": {
+  "goal": "Describe your workplace, boss, colleagues and working conditions with precise adjectives and give your opinion (Ich finde es gut, dass …).",
+  "words": [
+    ["der Arbeitsplatz, -plätze", "workplace"],
+    ["die Arbeitsbedingungen (pl.)", "working conditions"],
+    ["die Arbeitszeit, -en", "working hours"],
+    ["der Chef / die Kollegen", "boss / colleagues"],
+    ["streng / hilfsbereit", "strict / helpful"],
+    ["verständnisvoll / unkompliziert", "understanding / easy-going"],
+    ["verantwortungsvoll", "responsible"],
+    ["die Aufgabe, -n", "task"],
+    ["im Team arbeiten", "to work in a team"],
+    ["Ich habe nicht viel mit ihnen zu tun.", "I don’t have much to do with them."],
+    ["Ich finde es schade, dass …", "I think it’s a pity that …"],
+    ["der Ausbildungsplatz", "training place"]
+  ],
+  "grammar": {
+    "title": "Describing your job and giving opinions",
+    "text": "Structure your description:\n\n- **Arbeitsbedingungen:** Die Arbeitsbedingungen sind toll, **obwohl** die Arbeitszeiten manchmal lang **sind**.\n- **Chef / Kollegen:** Er ist streng, **aber** hilfsbereit und verständnisvoll. Ich hoffe, **dass** die Kollegen nett und unkompliziert **sind**.\n- **Aufgaben:** Ich habe viele verantwortungsvolle Aufgaben. (adjective ending -e + plural -n)\n- **Meinung:** Ich **finde es gut / schade / toll, dass** … (es refers to the dass-clause)\n- **Kontakt:** Ich habe mit den meisten **nicht viel zu tun**.\n\nAdjectives ending in **-voll**, **-bereit**, **-los**: verantwortungsvoll, hilfsbereit, verständnislos.",
+    "ex": [
+      ["Er ist streng, aber hilfsbereit und verständnisvoll.", "He is strict but helpful and understanding."],
+      ["Ich find es gut, dass ich viele verantwortungsvolle Aufgaben habe.", "I think it’s good that I have many responsible tasks."],
+      ["Ich arbeite nicht so viel im Team. Das find ich ein bisschen schade.", "I don’t work in a team much. I find that a bit of a pity."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Wohin geht Selma?","o":["Zu ihrem Praktikum","Zur Universität","Zum Arzt"],"a":0,"why":"“Ich bin auf dem Weg zu meinem Praktikum.”","src":"video"},
+    {"t":"mc","q":"Wie sind die Arbeitsbedingungen?","o":["Toll, obwohl die Arbeitszeiten teilweise lang sind","Schlecht","Ohne Pausen"],"a":0,"why":"“Die Arbeitsbedingungen … sind toll, obwohl die Arbeitszeiten … lang sind.”","src":"video"},
+    {"t":"mc","q":"Wie beschreibt Selma ihren Chef?","o":["Streng, aber hilfsbereit und verständnisvoll","Nett, aber faul","Streng und unfreundlich"],"a":0,"why":"“Er ist streng, aber hilfsbereit und verständnisvoll.”","src":"video"},
+    {"t":"mc","q":"Was findet Selma ein bisschen schade?","o":["Sie arbeitet nicht viel im Team","Die Mittagspause ist zu kurz","Das Büro ist zu weit weg"],"a":0,"why":"“Ich arbeite nicht so viel im Team. Das find ich ein bisschen schade.”","src":"video"},
+    {"t":"fill","q":"Ich finde es gut, ___ ich viele Aufgaben habe. (that)","a":["dass"],"why":"dass-Satz.","src":"grammar"},
+    {"t":"fill","q":"Er ist streng, ___ hilfsbereit. (but)","a":["aber"],"why":"Kontrast.","src":"grammar"},
+    {"t":"mc","q":"“hilfsbereit” bedeutet:","o":["helpful, willing to help","helpless","helpfully rich"],"a":0,"why":"Hilfe + bereit.","src":"vocab"},
+    {"t":"mc","q":"“verantwortungsvoll” bedeutet:","o":["responsible","answerable to nobody","irresponsible"],"a":0,"why":"Verantwortung + voll.","src":"vocab"}
+  ]
+},
+"b1-30": {
+  "goal": "Read a payslip (Gehaltsabrechnung) and talk about taxes and insurance, and use negation correctly (nicht, kein, nicht mehr, kein … mehr, noch nicht).",
+  "words": [
+    ["das Bruttogehalt / das Nettogehalt", "gross / net salary"],
+    ["die Abzüge (pl.)", "deductions"],
+    ["die Einkommenssteuer", "income tax"],
+    ["die Krankenversicherung", "health insurance"],
+    ["die Rentenversicherung", "pension insurance"],
+    ["die Arbeitslosenversicherung", "unemployment insurance"],
+    ["die Kirchensteuer", "church tax"],
+    ["aus der Kirche austreten", "to leave the church"],
+    ["die Gehaltsabrechnung", "payslip"],
+    ["rund um die Uhr", "round the clock"],
+    ["doppelt so viele Kunden", "twice as many customers"],
+    ["einen Vorschlag machen", "to make a suggestion"]
+  ],
+  "grammar": {
+    "title": "Negation: nicht, kein, nicht mehr, noch nicht",
+    "text": "**kein / keine / keinen** negate a **noun** without an article or with **ein/eine**: Dann musst du **keine** Kirchensteuer bezahlen.\n\n**nicht** negates verbs, adjectives, definite nouns and whole sentences: Ich arbeite **nicht** rund um die Uhr. Ich schaffe das **nicht** mehr allein.\n\n**noch nicht / noch kein** (not yet) and **nicht mehr / kein … mehr** (no longer):\n- Ich habe **noch nichts** bekommen. – Er ist **noch nicht** da.\n- Ich schaffe das **nicht mehr** allein. – Ich habe **keine** Zeit **mehr**.\n\n**Position of nicht:** at the end for a whole verb phrase; before the word you negate: Ich arbeite **nicht** rund um die Uhr (not the time – the action).",
+    "ex": [
+      ["Ich arbeite doch nicht rund um die Uhr, um am Ende nur die Hälfte meines Gehalts zu bekommen!", "I don’t work round the clock to end up with only half of my salary!"],
+      ["Wenn du ausgetreten bist, musst du auch keine Kirchensteuer bezahlen.", "If you’ve left the church you don’t have to pay church tax either."],
+      ["Ich schaffe das nicht mehr alleine.", "I can’t manage it alone any more."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Worüber regt sich Lisa auf?","o":["Von ihrem Gehalt bleibt nach den Abzügen nur wenig übrig","Ihr Chef hat sie entlassen","Sie hat eine Steuerprüfung"],"a":0,"why":"“… nur die Hälfte meines Gehalts zu bekommen!”","src":"video"},
+    {"t":"mc","q":"Welche Abzüge nennt Lisa?","o":["Einkommenssteuer, Kranken-, Renten- und Arbeitslosenversicherung","Nur die Steuer","Nur die Miete"],"a":0,"why":"Lisa liest die Posten vor.","src":"video"},
+    {"t":"mc","q":"Warum muss Lisa keine Kirchensteuer zahlen?","o":["Sie ist schon vor Jahren aus der Kirche ausgetreten","Sie ist zu jung","Sie wohnt in einer WG"],"a":0,"why":"“… wenn du ausgetreten bist, … musst du auch keine Kirchensteuer bezahlen.”","src":"video"},
+    {"t":"mc","q":"Was hat die neue Website bewirkt?","o":["Yara hat fast doppelt so viele Kunden","Yara hat keine Kunden mehr","Yara musste den Laden schließen"],"a":0,"why":"“… hab ich fast doppelt so viele Kunden.”","src":"video"},
+    {"t":"fill","q":"Ich habe ___ Zeit mehr. (no … any more)","a":["keine"],"why":"kein … mehr.","src":"grammar"},
+    {"t":"fill","q":"Er ist ___ nicht da. (not yet)","a":["noch"],"why":"noch nicht.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Ich schaffe das nicht mehr alleine.","Ich schaffe das kein mehr alleine.","Ich schaffe nicht das mehr alleine."],"a":0,"why":"nicht mehr.","src":"grammar"},
+    {"t":"mc","q":"“die Abzüge” sind:","o":["deductions","withdrawals of troops","drafts"],"a":0,"why":"Abzug = deduction.","src":"vocab"}
+  ]
+},
+"b1-31": {
+  "goal": "Understand and describe an accident or emergency in the Präteritum, know how to call 112, and read an accident report (Unfallbericht).",
+  "words": [
+    ["der Notruf, -e / die 112", "emergency call / 112"],
+    ["der Rettungswagen / der Notarzt", "ambulance / emergency doctor"],
+    ["der Unfall, Unfälle / der Unfallbericht", "accident / accident report"],
+    ["die Versicherung, -en", "insurance"],
+    ["durchlesen", "to read through"],
+    ["Danke, das geht schon.", "Thanks, I can manage."],
+    ["Trinken Sie eine Tasse mit?", "Will you have a cup with us?"],
+    ["Was ist passiert? – Wo ist es passiert?", "What happened? – Where did it happen?"],
+    ["Wie viele Verletzte gibt es?", "How many injured are there?"],
+    ["Bleiben Sie am Apparat.", "Stay on the line."],
+    ["ins Krankenhaus bringen", "to take to hospital"],
+    ["Zeit zum Telefonieren", "time for phoning"]
+  ],
+  "grammar": {
+    "title": "Präteritum in reports; emergency call phrases",
+    "text": "Reports and accident descriptions use the **Präteritum**:\n\n- regular: hatte, wohnte, arbeitete, klagte, rief an (anrufen)\n- irregular: kam, ging, fiel, sah, sagte (regular), lag, stürzte\n\n**Report:** Der Unfall **passierte** am Montag um 8 Uhr. Herr Al-Pascha **hatte** starke Schmerzen und **fiel** zu Boden. Ein Kollege **rief** den Notarzt.\n\n**Emergency call 112:** **Wer** ruft an? **Wo** ist es passiert? **Was** ist passiert? **Wie viele** Verletzte? **Warten** Sie auf Rückfragen. Speak slowly: **Es gab einen Unfall in der Schillerstraße 5.**",
+    "ex": [
+      ["Ich hatte auch keine Zeit zum Telefonieren.", "I had no time to phone either."],
+      ["Der Unfall passierte am Montag. Ein Kollege rief den Notarzt.", "The accident happened on Monday. A colleague called the emergency doctor."],
+      ["Es gab einen Unfall. Wir brauchen einen Rettungswagen!", "There has been an accident. We need an ambulance!"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Hat der Mann von der Versicherung schon angerufen?","o":["Nein, noch nicht","Ja, heute Morgen","Ja, gestern"],"a":0,"why":"Aya: “Nein, noch nicht.”","src":"video"},
+    {"t":"mc","q":"Was bittet Selma Lisa?","o":["Den Unfallbericht durchzulesen","Ihren Vater zu operieren","Nico anzurufen"],"a":0,"why":"“… hast du vielleicht Zeit, den Unfallbericht einmal durchzulesen?”","src":"video"},
+    {"t":"mc","q":"Was bietet Aya Lisa an?","o":["Eine Tasse Tee","Ein Stück Kuchen","Ein Glas Wasser"],"a":0,"why":"“Trinken Sie eine Tasse mit, Frau Brunner?”","src":"video"},
+    {"t":"mc","q":"Welche Notrufnummer gilt in ganz Europa?","o":["112","110","911"],"a":0,"why":"112 = europäischer Notruf.","src":"grammar"},
+    {"t":"fill","q":"Der Unfall ___ am Montag. (passieren, Präteritum)","a":["passierte"],"why":"passieren – passierte.","src":"grammar"},
+    {"t":"fill","q":"Ein Kollege ___ den Notarzt. (rufen, Präteritum)","a":["rief"],"why":"rufen – rief.","src":"grammar"},
+    {"t":"mc","q":"“der Rettungswagen” ist:","o":["an ambulance","a rescue dog","a removal van"],"a":0,"why":"retten = to rescue.","src":"vocab"},
+    {"t":"mc","q":"“Bleiben Sie am Apparat.” bedeutet:","o":["Stay on the line.","Stay at the device.","Hang up."],"a":0,"why":"Notruf.","src":"vocab"}
+  ]
+},
+"b1-32": {
+  "goal": "Talk about accidents, insurance and job security, and use wenn-clauses with dann (Wenn eine ärztliche Verordnung vorliegt, dann bezahlt die Versicherung).",
+  "words": [
+    ["die Reha (Rehabilitation)", "rehab"],
+    ["die ärztliche Verordnung", "medical prescription"],
+    ["krankgeschrieben sein", "to be on sick leave"],
+    ["der Arbeitsvertrag, -verträge", "employment contract"],
+    ["befristet / unbefristet", "fixed-term / permanent"],
+    ["auslaufen", "to expire"],
+    ["verlängern", "to extend"],
+    ["der Arbeitgeber, -", "employer"],
+    ["der Arbeitsunfall", "accident at work"],
+    ["die Unfallversicherung", "accident insurance"],
+    ["ungerecht", "unfair"],
+    ["Wir werden eine Lösung finden.", "We will find a solution."]
+  ],
+  "grammar": {
+    "title": "Conditions with wenn … dann",
+    "text": "**wenn** introduces a **real condition**; the verb goes to the **end**. The main clause often starts with **dann** (then) – **verb right after dann**:\n\n- **Wenn** eine ärztliche Verordnung **vorliegt**, **dann bezahlt** die Versicherung die Reha.\n- **Wenn** Sie nicht **arbeiten**, **dann wird** Ihr Arbeitgeber den Vertrag nicht **verlängern**.\n\nConsequence: **Deshalb muss er Sie nicht weiter bezahlen.** Future: **wird verlängern**, **werden finden**: Wir **werden** eine Lösung **finden**.\n\nGood/bad news structure: **Es gibt gute Nachrichten und schlechte Nachrichten. Die gute ist, dass … Die schlechte ist, dass …**",
+    "ex": [
+      ["Wenn eine ärztliche Verordnung vorliegt, dann bezahlt die Versicherung die Reha.", "If there is a medical prescription, the insurance pays for rehab."],
+      ["Wenn Sie nicht arbeiten, dann wird Ihr Arbeitgeber den Vertrag bestimmt nicht verlängern.", "If you don’t work, your employer will surely not extend the contract."],
+      ["Wir werden eine Lösung finden.", "We will find a solution."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was ist die gute Nachricht?","o":["Die Versicherung bezahlt die Reha, wenn eine ärztliche Verordnung vorliegt","Ibrahim bekommt mehr Gehalt","Der Vertrag wird verlängert"],"a":0,"why":"“Wenn eine ärztliche Verordnung vorliegt, dann bezahlt die Versicherung die Reha.”","src":"video"},
+    {"t":"mc","q":"Was ist die schlechte Nachricht?","o":["Ibrahim bekommt möglicherweise kein Gehalt","Ibrahim muss ins Ausland","Die Miete steigt"],"a":0,"why":"“… in dieser Zeit möglicherweise kein Gehalt bekommen.”","src":"video"},
+    {"t":"mc","q":"Warum bekommt Ibrahim eventuell kein Gehalt?","o":["Sein befristeter Vertrag läuft diese Woche aus","Er hat gekündigt","Er hat zu wenig gearbeitet (früher)"],"a":0,"why":"“… befristeten Arbeitsvertrag, der diese Woche ausläuft.”","src":"video"},
+    {"t":"mc","q":"Wie reagiert Selma?","o":["Sie findet es ungerecht","Sie ist erleichtert","Sie schweigt"],"a":0,"why":"“Nein, das ist ungerecht!”","src":"video"},
+    {"t":"fill","q":"___ Sie nicht arbeiten, dann verlängert der Arbeitgeber den Vertrag nicht. (if)","a":["Wenn"],"why":"wenn-Bedingung.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Wenn es regnet, dann bleibe ich zu Hause.","Wenn es regnet, dann ich bleibe zu Hause.","Wenn regnet es, dann bleibe ich zu Hause."],"a":0,"why":"Nach dann: Verb direkt.","src":"grammar"},
+    {"t":"mc","q":"“befristet” bedeutet:","o":["limited in time","fixed by a Frist only","unpaid"],"a":0,"why":"ein befristeter Vertrag.","src":"vocab"},
+    {"t":"mc","q":"“der Arbeitgeber” ist:","o":["the employer","the employee","the work permit"],"a":0,"why":"Arbeitgeber vs Arbeitnehmer.","src":"vocab"}
+  ]
+}
+}

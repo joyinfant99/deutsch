@@ -1,0 +1,114 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #faf6ef;
+  --card: #fefdfb;
+  --ink: #332f2a;
+  --muted: #786a5e;
+  --line: #e7dfd5;
+  --sand: #f4efe5;
+  --accent: #1d4b47;
+  --accent-soft: #e2ece9;
+  --terra: #c1703f;
+  --terra-soft: #f6e6da;
+  --good: #2f7d5b;
+  --good-soft: #e3f0e8;
+  --bad: #b8402f;
+  --bad-soft: #f8e5df;
+  --half: #d08a1e;
+  --half-soft: #fbefd2;
+  --a1: #2f7f7a;
+  --a2: #7a9a6c;
+  --b1: #8a5a83;
+  --exam: #c1703f;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-card: var(--card);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-terra: var(--terra);
+  --color-terra-soft: var(--terra-soft);
+  --color-sand: var(--sand);
+  --color-good: var(--good);
+  --color-good-soft: var(--good-soft);
+  --color-bad: var(--bad);
+  --color-bad-soft: var(--bad-soft);
+  --color-half: var(--half);
+  --color-half-soft: var(--half-soft);
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+  --font-serif: var(--font-playfair), Georgia, serif;
+}
+
+html {
+  color-scheme: light;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-inter), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.serif {
+  font-family: var(--font-serif), Georgia, serif;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+}
+.serif em {
+  color: var(--terra);
+  font-style: italic;
+}
+.eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.eyebrow::before,
+.eyebrow::after {
+  content: "";
+  width: 1.5rem;
+  height: 1px;
+  background: var(--line);
+}
+
+.prose-lite p + p {
+  margin-top: 0.7em;
+}
+.prose-lite ul {
+  margin-top: 0.5em;
+  list-style: disc;
+  padding-left: 1.25em;
+}
+.prose-lite li + li {
+  margin-top: 0.25em;
+}
+.prose-lite strong {
+  font-weight: 650;
+  color: var(--accent);
+}
+
+@keyframes pop {
+  0% { transform: scale(0.6); opacity: 0; }
+  60% { transform: scale(1.08); opacity: 1; }
+  100% { transform: scale(1); }
+}
+.pop {
+  animation: pop 0.35s ease-out both;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 6px;
+}

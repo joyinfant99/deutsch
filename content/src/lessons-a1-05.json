@@ -1,0 +1,142 @@
+{
+"a1-21": {
+  "goal": "Name everyday objects with the right definite article (der, die, das, and die in the plural).",
+  "words": [
+    ["die Brille, -n", "glasses"],
+    ["der Stift, -e", "pen"],
+    ["das Buch, Bücher", "book"],
+    ["der Schlüssel, -", "key"],
+    ["die Tasche, -n", "bag"],
+    ["der Unterricht", "class, lesson"],
+    ["die Sprachschule, -n", "language school"],
+    ["die Lehrerin, -nen", "teacher (female)"],
+    ["unterrichten", "to teach"],
+    ["Wie heißt das auf Deutsch?", "What is that called in German?"],
+    ["Wo ist / Wo sind …?", "Where is / where are …?"],
+    ["Du bist echt die Beste!", "You’re really the best!"]
+  ],
+  "grammar": {
+    "title": "Definite articles: der, die, das",
+    "text": "The definite article (“the”) shows the gender of the noun:\n\n- **der** Stift, der Schlüssel (masculine)\n- **die** Brille, die Tasche (feminine)\n- **das** Buch (neuter)\n- **die** Stifte, die Brillen (plural, all genders)\n\nAsk **Was ist das?** and answer **Das ist der / die / das …**. Ask about several things with **Wo sind …?**: Wo sind die Stifte?",
+    "ex": [
+      ["Sie sucht die Brille, die Stifte und das Buch.", "She is looking for the glasses, the pens and the book."],
+      ["Wo ist meine Brille? – Wo sind die Stifte?", "Where are my glasses? – Where are the pens?"],
+      ["Der Schlüssel! – Danke!", "The key! – Thanks!"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What is Lisa looking for in the morning?","o":["Her glasses, the pens and the book","Her phone and her car","Her passport"],"a":0,"why":"“Sie sucht die Brille, die Stifte und das Buch.”","src":"video"},
+    {"t":"mc","q":"What is Lisa’s job?","o":["She teaches German at a language school","She is a police officer","She is a taxi driver"],"a":0,"why":"“Lisa ist Lehrerin. Sie unterrichtet Deutsch.”","src":"video"},
+    {"t":"mc","q":"What does Nina remind Lisa to take at the end?","o":["Der Schlüssel","Die Tasche","Das Handy"],"a":0,"why":"“Der Schlüssel!”","src":"video"},
+    {"t":"mc","q":"After class, where will Lisa and Nico go?","o":["To Yara’s address","To the airport","To the police"],"a":0,"why":"“Nach dem Unterricht fahren wir zu Yara.”","src":"video"},
+    {"t":"fill","q":"___ Buch ist neu. (the book)","a":["Das"],"why":"das Buch.","src":"grammar"},
+    {"t":"mc","q":"Which article goes with the plural “Stifte”?","o":["die","der","das"],"a":0,"why":"All plurals: die.","src":"grammar"},
+    {"t":"mc","q":"What is “die Brille”?","o":["glasses","a pencil","a table"],"a":0,"why":"die Brille = glasses.","src":"vocab"}
+  ]
+},
+"a1-22": {
+  "goal": "Ask “Was ist das?”, answer with indefinite articles (ein / eine), and ask who something belongs to.",
+  "words": [
+    ["die Tafel, -n", "blackboard"],
+    ["der Stuhl, Stühle", "chair"],
+    ["der Tisch, -e", "table"],
+    ["das Wörterbuch, -bücher", "dictionary"],
+    ["das Nomen, -", "noun"],
+    ["der Artikel, -", "article"],
+    ["Was ist das? – Das ist eine Tafel.", "What is that? – That’s a blackboard."],
+    ["Wem gehört das?", "Whose is that? / Who does that belong to?"],
+    ["Das ist die Tasche von Jenny.", "That is Jenny’s bag."],
+    ["buchstabieren", "to spell"],
+    ["wiederholen", "to repeat"],
+    ["Richtig! / Falsch!", "Correct! / Wrong!"]
+  ],
+  "grammar": {
+    "title": "Indefinite articles: ein / eine",
+    "text": "The indefinite article (“a / an”) has two forms in the nominative:\n\n- **ein** for masculine and neuter: ein Stuhl, ein Buch\n- **eine** for feminine: eine Tafel, eine Tasche\n- **plural: no article**: Das sind Stifte.\n\nUse it when something is new: Das ist **eine** Tasche. Use the definite article when it is known: Das ist **die** Tasche von Jenny.\n\nLisa’s golden rule: **Nomen und Artikel gehören immer zusammen.** Learn them together!",
+    "ex": [
+      ["Das ist eine Tafel. – Die Tafel ist grün.", "This is a blackboard. – The blackboard is green."],
+      ["Die Tasche, eine Tasche.", "The bag, a bag."],
+      ["Wem gehört das? – Das gehört Jenny.", "Whose is it? – It belongs to Jenny."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What object does the student Rana name first?","o":["Eine Tafel","Ein Stuhl","Ein Buch"],"a":0,"why":"“Das ist eine Tafel.”","src":"video"},
+    {"t":"mc","q":"Rana first says “Der Tafel” and then “Das Tafel”. What is the correct article, according to Lisa?","o":["die Tafel","der Tafel","das Tafel"],"a":0,"why":"“Die Tafel.”","src":"video"},
+    {"t":"mc","q":"What is Lisa’s golden rule about nouns?","o":["Nouns and articles always belong together","Only learn feminine nouns","Articles are optional"],"a":0,"why":"“Nomen und Artikel gehören immer zusammen.”","src":"video"},
+    {"t":"mc","q":"What do the students have to write on the Post-its?","o":["Nouns with their articles","Their names","Phone numbers"],"a":0,"why":"They label objects; the dictionary helps.","src":"video"},
+    {"t":"fill","q":"Das ist ___ Tasche. (a bag)","a":["eine"],"why":"feminine → eine.","src":"grammar"},
+    {"t":"fill","q":"Das ist ___ Stuhl. (a chair)","a":["ein"],"why":"masculine → ein.","src":"grammar"},
+    {"t":"mc","q":"“Wem gehört das?” asks:","o":["Who does it belong to?","Where is it?","How much is it?"],"a":0,"why":"gehören = to belong to.","src":"vocab"}
+  ]
+},
+"a1-23": {
+  "goal": "Say what you do not have with kein / keine / keinen and build simple sentences: subject, verb, object.",
+  "words": [
+    ["kein / keine / keinen", "no, not a"],
+    ["Ich habe keinen Stift.", "I don’t have a pen."],
+    ["der Zettel, -", "slip of paper"],
+    ["die Tür, -en", "door"],
+    ["der Aufzug, Aufzüge", "lift, elevator"],
+    ["die Terrasse, -n", "terrace"],
+    ["die Garage, -n", "garage"],
+    ["die Wohnung, -en", "flat"],
+    ["das Zimmer, -", "room"],
+    ["der Bewerber / der Mieter", "applicant / tenant"],
+    ["Ich brauche …", "I need …"],
+    ["Bis dann!", "See you then!"]
+  ],
+  "grammar": {
+    "title": "Negation with kein, and sentence construction",
+    "text": "To say you do **not** have a thing, use **kein** (the negative of ein):\n\n- Ich habe **keinen** Stift. (masculine, as an object)\n- Wir haben **keine** Garage. (feminine)\n- Im Haus ist **kein** Aufzug. (neuter/masculine subject)\n\nThe basic sentence order is **subject – verb – object**: Ich (subject) habe (verb) einen Zettel (object). The verb stays in second place even if you start with something else: Hier ist ein Zettel.",
+    "ex": [
+      ["Hast du einen Stift? – Nein, ich habe keinen Stift.", "Do you have a pen? – No, I don’t have a pen."],
+      ["Im Haus ist kein Aufzug.", "There is no lift in the building."],
+      ["Eine Garage haben wir nicht.", "We don’t have a garage."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Lisa is on the phone about Nawin’s room. What does she tell the caller about the flat?","o":["It has a terrace but no lift","It has a lift but no terrace","It has neither"],"a":0,"why":"“Die Wohnung hat eine Terrasse … im Haus ist kein Aufzug.”","src":"video"},
+    {"t":"mc","q":"What is the caller’s name, and what time does he come?","o":["Marvin Graupner, half past three","Marc Brunner, four o’clock","Sascha Graupner, half past two"],"a":0,"why":"“halb vier … Marvin Graupner.”","src":"video"},
+    {"t":"mc","q":"Why are they looking for a new tenant?","o":["Nawin is moving to France","Nina is getting married","Sebastian is buying a house"],"a":0,"why":"“Nawin geht doch nach Frankreich.”","src":"video"},
+    {"t":"fill","q":"Hast du einen Stift? – Nein, ich habe ___ Stift.","a":["keinen"],"why":"masculine object: keinen.","src":"grammar"},
+    {"t":"fill","q":"Wir haben ___ Garage. (no garage)","a":["keine"],"why":"feminine: keine Garage.","src":"grammar"},
+    {"t":"mc","q":"“Ich brauche einen Zettel.” means:","o":["I need a slip of paper.","I have a slip of paper.","I found a slip of paper."],"a":0,"why":"brauchen = to need.","src":"vocab"},
+    {"t":"mc","q":"Which sentence has the verb in second position?","o":["Hier ist ein Zettel.","Hier ein Zettel ist.","Ist hier ein Zettel."],"a":0,"why":"Statement → verb second.","src":"grammar"}
+  ]
+},
+"a1-24": {
+  "goal": "Describe things with adjectives after “sein” (groß, klein, rot, gelb …) and play “Ich sehe was, was du nicht siehst”.",
+  "words": [
+    ["groß / klein", "big / small"],
+    ["rot / gelb", "red / yellow"],
+    ["grün / blau", "green / blue"],
+    ["schwarz / weiß", "black / white"],
+    ["das Auto, -s", "car"],
+    ["das Haus, Häuser", "house"],
+    ["falsch", "wrong"],
+    ["richtig", "correct"],
+    ["Ich sehe was, was du nicht siehst.", "I spy with my little eye …"],
+    ["Du bist dran.", "It’s your turn."],
+    ["Es tut mir leid.", "I’m sorry."],
+    ["Die Adresse ist falsch.", "The address is wrong."]
+  ],
+  "grammar": {
+    "title": "Adjectives after sein",
+    "text": "After **sein** the adjective does **not** change its ending:\n\n- Das Auto **ist** rot.\n- Das Haus **ist** groß und gelb.\n- Die Adresse **ist** falsch.\n\nUse **nicht** before the adjective to negate it: Das Auto ist **nicht** groß. Opposites help you learn: groß – klein, neu – alt, richtig – falsch.",
+    "ex": [
+      ["Das Auto ist rot, aber es ist nicht groß, es ist klein.", "The car is red, but it isn’t big, it’s small."],
+      ["Das Haus ist groß und gelb.", "The house is big and yellow."],
+      ["Die Adresse ist falsch.", "The address is wrong."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Which game do Lisa and Nico play while walking?","o":["“Ich sehe was, was du nicht siehst”","Memory","Word chain"],"a":0,"why":"They describe an object and the other guesses it.","src":"video"},
+    {"t":"mc","q":"Lisa says something is “groß und rot”. Nico guesses “Das Auto”. What does Lisa answer?","o":["It is red, but small – not big","Correct, it is big and red","It is a bus"],"a":0,"why":"“Das Auto ist rot, aber es ist nicht groß, es ist klein.”","src":"video"},
+    {"t":"mc","q":"What do they find at August-Straußberg-Gasse 23?","o":["A big yellow house but no bicycle shop","Yara’s bicycle shop","A police station"],"a":0,"why":"“Die Adresse ist falsch. Es gibt hier wirklich keinen Fahrradladen.”","src":"video"},
+    {"t":"mc","q":"“Es tut mir leid” is said to:","o":["apologise or show sympathy","order food","greet someone"],"a":0,"why":"I’m sorry.","src":"video"},
+    {"t":"fill","q":"Das Haus ___ gelb. (sein)","a":["ist"],"why":"das Haus ist gelb.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Das Auto ist klein.","Das Auto ist kleines.","Das Auto klein ist."],"a":0,"why":"No ending after sein; verb in second place.","src":"grammar"},
+    {"t":"mc","q":"The opposite of “groß” is:","o":["klein","gelb","falsch"],"a":0,"why":"groß – klein.","src":"vocab"}
+  ]
+}
+}

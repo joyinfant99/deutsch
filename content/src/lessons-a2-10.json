@@ -1,0 +1,146 @@
+{
+"a2-41": {
+  "goal": "Compare living in the city and in the country (Vorteile und Nachteile) with comparatives, so … wie, genauso … wie and lieber … als.",
+  "words": [
+    ["die Stadt / das Land", "city / countryside"],
+    ["auf dem Land", "in the country"],
+    ["der Lärm / laut / leise", "noise / loud / quiet"],
+    ["der Verkehr / der Stau", "traffic / traffic jam"],
+    ["die Baustelle, -n", "building site"],
+    ["die Luft", "air"],
+    ["der Vorteil, -e / der Nachteil, -e", "advantage / disadvantage"],
+    ["günstig / teuer", "cheap / expensive"],
+    ["die Autobahn / der Flughafen", "motorway / airport"],
+    ["ein schlechtes Gewissen haben", "to feel guilty"],
+    ["Diese Stadt macht mich wahnsinnig!", "This city drives me mad!"],
+    ["Das ist ein klarer Vorteil.", "That’s a clear advantage."]
+  ],
+  "grammar": {
+    "title": "Comparing: comparative, so … wie, genauso … wie, lieber … als",
+    "text": "**Comparative + als** (unequal): Die Mieten sind **günstiger als** hier. Es ist **leiser als** in der Stadt.\n**so … wie / genauso … wie** (equal): Es ist **so laut wie** auf einer Autobahn. Du kannst **genauso gut** weggehen **wie** in der Stadt.\n**lieber … als** (preference): Ich lebe **viel lieber** in der Stadt **als** auf dem Land.\n**viel / weniger** to intensify: viel schöner, weniger Verkehr.\n\nIrregular: laut – lauter, leise – leiser, gut – besser, viel – mehr, gern – lieber.",
+    "ex": [
+      ["Es ist hier so laut wie auf einer Autobahn.", "It’s as loud here as on a motorway."],
+      ["Da sind die Mieten auch günstiger als hier.", "The rents are cheaper there than here."],
+      ["Ich lebe viel lieber in der Stadt als auf dem Land.", "I much prefer living in the city to living in the country."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Why did Pepe bring flowers?","o":["He doesn’t want to argue any more","It is Yara’s birthday","He wants a favour"],"a":0,"why":"“Weil ich nicht mehr mit dir streiten will.”","src":"video"},
+    {"t":"mc","q":"How loud is it at Yara’s shop, she says?","o":["As loud as at an airport","Quiet","As loud as a school"],"a":0,"why":"“… sogar so laut wie auf einem Flughafen!”","src":"video"},
+    {"t":"mc","q":"What advantages of the countryside does Yara list?","o":["Less traffic, better air, quieter, cheaper rents","More cinemas and bars","More jobs"],"a":0,"why":"Verkehr, Luft, leiser, Mieten.","src":"video"},
+    {"t":"mc","q":"What does Pepe see as a clear advantage of the city?","o":["You can go out in the evening – friends, cinema","Cheaper rent","Fresh air"],"a":0,"why":"“… abends mal schnell rausgehen und Freunde treffen oder ins Kino gehen.”","src":"video"},
+    {"t":"fill","q":"Es ist auf dem Land ___ als in der Stadt. (quiet, comparative)","a":["leiser"],"why":"leise – leiser.","src":"grammar"},
+    {"t":"fill","q":"Es ist so laut ___ auf einer Autobahn.","a":["wie"],"why":"so … wie.","src":"grammar"},
+    {"t":"mc","q":"“Ich wohne lieber in der Stadt als auf dem Land.” means:","o":["I prefer living in the city to the country.","I live in the city because of the country.","I don’t like cities."],"a":0,"why":"lieber … als.","src":"grammar"},
+    {"t":"mc","q":"“der Vorteil” is the opposite of:","o":["der Nachteil","der Nachbar","der Nachmittag"],"a":0,"why":"Vorteil – Nachteil.","src":"vocab"}
+  ]
+},
+"a2-42": {
+  "goal": "Read housing ads and ask about rent (Kaltmiete, Warmmiete, Nebenkosten, Kaution), and use ob-clauses in a request.",
+  "words": [
+    ["die Kaltmiete / die Warmmiete", "rent without / with utilities"],
+    ["die Nebenkosten (pl.)", "utility costs"],
+    ["die Kaution, -en", "deposit"],
+    ["die Besichtigung, -en", "viewing"],
+    ["das Dachgeschoss (DG)", "attic flat"],
+    ["möbliert / teilweise möbliert", "furnished / partly furnished"],
+    ["der Vorort, -e", "suburb"],
+    ["die Lage", "location"],
+    ["der Quadratmeter (qm)", "square metre"],
+    ["das Angebot, -e", "offer, ad"],
+    ["eine Gelegenheit ergreifen", "to seize an opportunity"],
+    ["Ich schaue nur.", "I’m just looking."]
+  ],
+  "grammar": {
+    "title": "Reading housing ads and asking about a flat",
+    "text": "**Abbreviations:** KM = Kaltmiete, NK = Nebenkosten, WM = Warmmiete, EG = Erdgeschoss, DG = Dachgeschoss, Zi. = Zimmer, qm / m² = Quadratmeter, EBK = Einbauküche.\n\n**Questions to ask:** Was kostet die Wohnung? – Wie hoch sind die Nebenkosten? – Muss man Kaution zahlen? – Wann kann ich sie besichtigen?\n\n**Indirect request:** Ich wollte dich fragen, **ob** du es ihm sagst. – Willst du eine Besichtigung vereinbaren? **Warmmiete = Kaltmiete + Nebenkosten.**",
+    "ex": [
+      ["1200 Euro Kaltmiete. Inklusive Nebenkosten sind das bestimmt 1500 Euro.", "1200 euros base rent. Including utilities that’s probably 1500 euros."],
+      ["Dachgeschoss, teilweise möbliert, 60 Quadratmeter, 550 Euro Warmmiete.", "Attic flat, partly furnished, 60 m², 550 euros all-in rent."],
+      ["Muss man denn Kaution bezahlen? – Sicher. Zwei Kaltmieten.", "Do you have to pay a deposit? – Of course. Two months’ base rent."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Is Yara really looking for a new flat?","o":["No, she is just interested in the ads","Yes, she has already signed","She wants to rent to Pepe"],"a":0,"why":"“Natürlich nicht. Aber ich interessiere mich für die Angebote.”","src":"video"},
+    {"t":"mc","q":"How much is the second flat, and what is it like?","o":["550 Euro Warmmiete, attic, partly furnished, 60 m²","1500 Euro, ground floor","300 Euro, unfurnished"],"a":0,"why":"“Dachgeschoss, teilweise möbliert, 60 Quadratmeter … 550 Euro Warmmiete.”","src":"video"},
+    {"t":"mc","q":"How high is the deposit?","o":["Two months’ base rent","One month’s rent","No deposit"],"a":0,"why":"“Zwei Kaltmieten.”","src":"video"},
+    {"t":"mc","q":"What job news does Pepe have?","o":["He has a job for Nico","He is selling his firm","He is moving to Spain"],"a":0,"why":"“Ich habe einen Job – für Nico.”","src":"video"},
+    {"t":"mc","q":"What does Yara answer to his request that she tells Nico?","o":["“Auf keinen Fall” – he must try himself","“Yes, gladly”","“Later”"],"a":0,"why":"“Ich finde, dass du es selbst versuchen musst.”","src":"video"},
+    {"t":"mc","q":"Warmmiete =","o":["Kaltmiete + Nebenkosten","Kaltmiete − Kaution","Kaution + Nebenkosten"],"a":0,"why":"Warmmiete includes utilities.","src":"grammar"},
+    {"t":"fill","q":"Ich wollte dich fragen, ___ du es ihm sagst. (whether)","a":["ob"],"why":"yes/no question → ob.","src":"grammar"},
+    {"t":"mc","q":"“die Besichtigung” is a:","o":["viewing","inspection of a bill","decoration"],"a":0,"why":"eine Wohnung besichtigen.","src":"vocab"}
+  ]
+},
+"a2-43": {
+  "goal": "Organise a move: say where you put things (Wohin? + accusative) and where they are (Wo? + dative) with two-case prepositions.",
+  "words": [
+    ["der Umzug, Umzüge", "move (house)"],
+    ["das Regal / die Kiste, -n / die Matratze", "shelf / box / mattress"],
+    ["die Ladefläche", "loading area"],
+    ["der Boden / die Seite", "floor / side"],
+    ["stellen / legen / setzen / hängen", "to put (upright / flat / seated / hang)"],
+    ["stehen / liegen / sitzen / hängen", "to stand / lie / sit / hang"],
+    ["hinten / vorn", "at the back / in front"],
+    ["das Treffen absagen", "to cancel the meeting"],
+    ["Ärger mit jemandem haben", "to be in trouble with someone"],
+    ["jemanden beim Lügen erwischen", "to catch someone lying"],
+    ["fremd", "strange, a stranger"],
+    ["Wohin sollen die Kisten?", "Where should the boxes go?"]
+  ],
+  "grammar": {
+    "title": "Two-case prepositions: Wohin? → Akkusativ, Wo? → Dativ",
+    "text": "**an, auf, hinter, in, neben, über, unter, vor, zwischen** take:\n\n- **Akkusativ** for **direction / movement** (question **Wohin?**) with verbs of putting: **stellen, legen, setzen, hängen, stecken**:\n  Wir stellen das Regal **auf die** Ladefläche. Wir legen die Matratzen **neben das** Regal. Die Kisten stellen wir **hinter das** Regal **auf den** Boden.\n- **Dativ** for **position / location** (question **Wo?**) with **stehen, liegen, sitzen, hängen**:\n  Das Regal **steht** auf **der** Ladefläche. Die Kisten **stehen** hinter **dem** Regal.",
+    "ex": [
+      ["Wohin stellen wir das Regal? – Auf die Ladefläche.", "Where do we put the shelf? – On the loading area."],
+      ["Wir legen die Matratzen neben das Regal.", "We’ll put the mattresses next to the shelf."],
+      ["Die Kisten stehen hinter dem Regal.", "The boxes are behind the shelf."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What is Nico angry about at the start?","o":["Pepe found him a job without asking","Selma is late","The bus was cancelled"],"a":0,"why":"“Ich finde alleine einen Job. Ich brauch deine Hilfe nicht.”","src":"video"},
+    {"t":"mc","q":"Who cancelled the meeting with Nico?","o":["Selma’s mother","Selma","Lisa"],"a":0,"why":"“Ich habe das Treffen nicht abgesagt. Das war meine Mutter.”","src":"video"},
+    {"t":"mc","q":"Why is Selma in trouble with her parents?","o":["She lied about going to German class","She broke a window","She stayed out overnight"],"a":0,"why":"“Sie hat mich beim Lügen erwischt.”","src":"video"},
+    {"t":"mc","q":"Where do they put the boxes?","o":["Behind the shelf on the floor","On the roof","Next to the driver’s seat"],"a":0,"why":"“Wir stellen sie einfach hinter das Regal auf den Boden.”","src":"video"},
+    {"t":"fill","q":"Wir stellen das Regal auf ___ Ladefläche. (Wohin? feminine)","a":["die"],"why":"Wohin → Akkusativ: die Ladefläche.","src":"grammar"},
+    {"t":"fill","q":"Das Regal steht auf ___ Ladefläche. (Wo? feminine)","a":["der"],"why":"Wo → Dativ: der Ladefläche.","src":"grammar"},
+    {"t":"mc","q":"Which is correct?","o":["Ich lege das Buch auf den Tisch.","Ich lege das Buch auf dem Tisch.","Ich liege das Buch auf den Tisch."],"a":0,"why":"legen + Wohin → Akkusativ.","src":"grammar"},
+    {"t":"mc","q":"“der Umzug” means:","o":["the move (house)","the suit","the journey"],"a":0,"why":"umziehen.","src":"vocab"}
+  ]
+},
+"a2-44": {
+  "goal": "Talk about accidents and injuries in the home (verletzen, schneiden, verbrennen, stürzen) and warn someone about dangers.",
+  "words": [
+    ["der Unfall, Unfälle", "accident"],
+    ["sich verletzen", "to hurt oneself"],
+    ["sich schneiden / sich verbrennen", "to cut / to burn oneself"],
+    ["stürzen / fallen", "to fall"],
+    ["die Treppe, -n", "stairs"],
+    ["das Glas / die Heizung", "glass / radiator"],
+    ["gefährlich", "dangerous"],
+    ["versichert sein", "to be insured"],
+    ["sich anstrengen", "to make an effort, to strain oneself"],
+    ["sich einleben", "to settle in"],
+    ["Es könnte etwas passieren.", "Something could happen."],
+    ["Mir passiert nichts.", "Nothing will happen to me."]
+  ],
+  "grammar": {
+    "title": "Reflexive verbs for injuries; könnte for possibility",
+    "text": "Injuries often use a **reflexive verb + body part with an- / am**:\n\n- Ich habe **mich** am Finger **geschnitten**. – Er hat **sich** an der Heizung **verbrannt**.\n- Du kannst **dich** am Kopf **verletzen**.\n- With **dative** + accusative: Ich habe **mir** den Arm **gebrochen**.\n- **fallen** and **stürzen** use **sein**: Ich **bin** auf der Treppe **gestürzt**.\n\nPossibility: Du **kannst** dich verletzen. / Es **könnte** etwas passieren. Give warnings: Ein Schrank **kann** dir auf den Fuß fallen.",
+    "ex": [
+      ["Du kannst dich am Kopf verletzen. Du kannst dich an Glas schneiden.", "You can hurt your head. You can cut yourself on glass."],
+      ["Ein Schrank kann dir auf den Fuß fallen.", "A wardrobe can fall on your foot."],
+      ["Ein Umzug ist gefährlich, weil man sich ganz schnell verletzen kann.", "A move is dangerous because you can hurt yourself very quickly."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How does Selma justify not letting Nico help?","o":["He isn’t insured and a move is dangerous","He is too weak","He is late"],"a":0,"why":"“Weil du nicht versichert bist. Es könnte etwas passieren.”","src":"video"},
+    {"t":"mc","q":"What dangers does Selma list?","o":["Head injuries, wardrobes falling, stairs, glass, radiators","Traffic accidents only","Bad weather"],"a":0,"why":"Kopf, Schrank, Treppe, Glas, Heizung.","src":"video"},
+    {"t":"mc","q":"Why must Selma’s father rest?","o":["He was in hospital","He is old","He has a broken leg"],"a":0,"why":"“Du musst dich ausruhen. Du warst im Krankenhaus.”","src":"video"},
+    {"t":"mc","q":"What does Selma’s father say at the end?","o":["Selma is settling in well","Selma is lying","Nico must leave"],"a":0,"why":"“Du lebst dich aber gut ein, Selma.”","src":"video"},
+    {"t":"fill","q":"Ich habe ___ am Finger geschnitten. (reflexive, ich)","a":["mich"],"why":"sich schneiden.","src":"grammar"},
+    {"t":"fill","q":"Er ___ auf der Treppe gestürzt. (haben/sein)","a":["ist"],"why":"stürzen → sein.","src":"grammar"},
+    {"t":"mc","q":"“gefährlich” means:","o":["dangerous","comfortable","expensive"],"a":0,"why":"die Gefahr = danger.","src":"vocab"},
+    {"t":"mc","q":"“sich einleben” means:","o":["to settle in","to move out","to celebrate"],"a":0,"why":"sich in einem neuen Land einleben.","src":"vocab"}
+  ]
+}
+}

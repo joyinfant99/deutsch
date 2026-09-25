@@ -1,0 +1,146 @@
+{
+"a2-65": {
+  "goal": "Talk about jobs in film and describe things and situations with relative clauses that contain a preposition (die Serie, bei der du mitarbeiten kannst).",
+  "words": [
+    ["das Praktikum, Praktika", "internship"],
+    ["das Filmset / drehen", "film set / to shoot (a film)"],
+    ["die Serie, -n / die Dokumentation", "series / documentary"],
+    ["das Fernsehen / im Fernsehen", "television / on TV"],
+    ["der Fußgänger, -", "pedestrian"],
+    ["die Szene, -n", "scene"],
+    ["das Angebot, -e", "offer"],
+    ["die Zusage geben", "to accept, to say yes"],
+    ["mitarbeiten bei", "to work on / with"],
+    ["aktuell", "current"],
+    ["lustig", "funny"],
+    ["Gibt’s den Job noch?", "Is the job still available?"]
+  ],
+  "grammar": {
+    "title": "Relative clauses with prepositions",
+    "text": "When the relative pronoun follows a **preposition**, the preposition stands in front of the pronoun; the case depends on the preposition:\n\n- **Dativ**: mit, bei, von, aus, zu, nach, seit → **dem / der / dem / denen**\n  - die Situation, **in der** du angerufen hast (in + Dat., feminine)\n  - eine Serie, **bei der** du mitarbeiten kannst (bei + Dat., feminine)\n  - die Leute, **mit denen** ich gesprochen habe (mit + Dat., plural: **denen**)\n- **Akkusativ**: für, über, auf (Wohin) → **den / die / das / die**: die Rolle, **für die** er einen Preis gewonnen hat.\n\nThe verb goes to the end, comma before the preposition.",
+    "ex": [
+      ["Die Situation, in der du angerufen hast, war ein bisschen blöd.", "The situation in which you called was a bit awkward."],
+      ["Eine Serie, bei der du mitarbeiten kannst.", "A series you can work on."],
+      ["Ich muss den Leuten, mit denen ich gesprochen habe, noch heute eine Zusage geben.", "I have to give the people I spoke with an answer today."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What job does Pepe have for Nico?","o":["An internship on a film set","A job in a hotel","A job in his firm"],"a":0,"why":"“Es ist ein Praktikum am Filmset.”","src":"video"},
+    {"t":"mc","q":"What kind of series is being shot?","o":["A current, funny TV series","A documentary","A cooking show"],"a":0,"why":"“… eine aktuelle Serie fürs Fernsehen … ziemlich lustig.”","src":"video"},
+    {"t":"mc","q":"What will Nico do there?","o":["Bring coffee and make sure no pedestrian walks into a scene","Play the lead role","Direct the actors"],"a":0,"why":"“Du bringst dem Team Kaffee. Du passt auf, dass kein Fußgänger in die Szene läuft.”","src":"video"},
+    {"t":"mc","q":"Why does Pepe want an answer today?","o":["He must give the people a yes today or the offer is gone","The set is closing","The series is cancelled"],"a":0,"why":"“… noch heute eine Zusage geben. Sonst ist das Angebot weg.”","src":"video"},
+    {"t":"fill","q":"Die Serie, bei ___ du mitarbeiten kannst. (relative pronoun, feminine dative)","a":["der"],"why":"bei + Dativ, feminine: der.","src":"grammar"},
+    {"t":"fill","q":"Die Leute, mit ___ ich gesprochen habe. (plural dative)","a":["denen"],"why":"dative plural: denen.","src":"grammar"},
+    {"t":"mc","q":"“die Zusage geben” means:","o":["to say yes / to accept","to ask a question","to cancel"],"a":0,"why":"Zusage = acceptance.","src":"vocab"},
+    {"t":"mc","q":"“drehen” (film) means:","o":["to shoot (a film)","to turn round","to watch"],"a":0,"why":"Ein Team dreht eine Serie.","src":"vocab"}
+  ]
+},
+"a2-66": {
+  "goal": "Talk about films and series (genre, plot, source) and use the genitive to say whose or what belongs to what (der Titel des Films).",
+  "words": [
+    ["die Krimiserie / die Komödie", "crime series / comedy"],
+    ["der Kommissar, -e", "inspector"],
+    ["der Gegner, -", "opponent"],
+    ["das Drehbuch, -bücher", "screenplay"],
+    ["der Roman / die Buchverfilmung", "novel / film adaptation"],
+    ["komisch / tragisch / spannend", "funny / tragic / exciting"],
+    ["laufen (im Fernsehen)", "to be on (TV)"],
+    ["die Filmbranche", "film industry"],
+    ["die Vorbereitung", "preparation"],
+    ["Worum geht es?", "What is it about?"],
+    ["Es geht um …", "It’s about …"],
+    ["hin und wieder", "now and then"]
+  ],
+  "grammar": {
+    "title": "The genitive",
+    "text": "The **genitive** shows possession or belonging. Articles:\n\n| masc. | fem. | neut. | pl. |\n|---|---|---|---|\n| **des** … (+s/es) | **der** | **des** … (+s/es) | **der** |\n\n- das Drehbuch **des** Films (masc./neut. nouns add **-s** or **-es**)\n- die Handlung **der** Serie (feminine: no ending)\n- der Titel **des** Romans, die Rollen **der** Schauspieler\n\nIn everyday speech you often use **von + Dativ** instead: das Drehbuch **von dem** Film. Asking: **Wessen** Drehbuch ist das? – **Des** Regisseurs.",
+    "ex": [
+      ["Die Serie ist eine Buchverfilmung des Romans.", "The series is a film adaptation of the novel."],
+      ["Das Drehbuch basiert auf einem Roman.", "The screenplay is based on a novel."],
+      ["Vorbereitung ist wichtig.", "Preparation is important."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"When does Nico officially start in the film business?","o":["From next week","Tomorrow","Next year"],"a":0,"why":"“Ab nächster Woche bist du offiziell in der Filmbranche tätig.”","src":"video"},
+    {"t":"mc","q":"What kind of series is it?","o":["A crime comedy","A horror series","A documentary"],"a":0,"why":"“… mehr ’ne Krimikomödie.”","src":"video"},
+    {"t":"mc","q":"What is the plot about?","o":["An inspector who has to work with his opponent","A family of farmers","Two chefs"],"a":0,"why":"“… um einen Kommissar, der mit seinem Gegner zusammenarbeiten muss.”","src":"video"},
+    {"t":"mc","q":"What is the series based on?","o":["A novel","A true story","A video game"],"a":0,"why":"“… das Drehbuch basiert auf einem Roman.”","src":"video"},
+    {"t":"fill","q":"das Drehbuch ___ Films (genitive, neuter)","a":["des"],"why":"des Films.","src":"grammar"},
+    {"t":"fill","q":"die Handlung ___ Serie (genitive, feminine)","a":["der"],"why":"der Serie.","src":"grammar"},
+    {"t":"mc","q":"Which is correct genitive of “der Roman”?","o":["des Romans","des Roman","der Romans"],"a":0,"why":"masc.: des + -s.","src":"grammar"},
+    {"t":"mc","q":"“Worum geht es?” means:","o":["What is it about?","Where is it?","Who is it?"],"a":0,"why":"worum = um was.","src":"vocab"}
+  ]
+},
+"a2-67": {
+  "goal": "Tell an anecdote about your work with the right word order (time, reason, manner, place) and talk about a film crew and a small role.",
+  "words": [
+    ["die Filmklappe, -n", "clapperboard"],
+    ["der Schauspieler / der Regisseur", "actor / director"],
+    ["der Beleuchter / der Ton", "lighting technician / sound"],
+    ["die Rolle, -n / die Szene", "role / scene"],
+    ["die Verfolgungsjagd", "chase"],
+    ["das Autogramm, -e", "autograph"],
+    ["berühmt", "famous"],
+    ["das Abschiedsgeschenk", "farewell gift"],
+    ["abgedreht", "wrapped (shooting finished)"],
+    ["Das hat Riesenspaß gemacht.", "That was great fun."],
+    ["das Talent", "talent"],
+    ["Passen Sie doch auf!", "Watch out!"]
+  ],
+  "grammar": {
+    "title": "Word order in the middle field: time, reason, manner, place",
+    "text": "After the verb, information usually follows this order **(TeKaMoLo)**:\n\n**Te**mporal (when) – **Ka**usal (why) – **Mo**dal (how) – **Lo**kal (where)\n\n- Ich habe **gestern** (Te) **wegen des Praktikums** (Ka) **mit großer Freude** (Mo) **am Filmset** (Lo) gearbeitet.\n- Der Kommissar rennt **am Ende** (Te) **erschöpft** (Mo) **in einen Fußgänger** (Lo).\n\nPronouns come first: Ich habe **sie** von meinem Chef geschenkt bekommen. Longer/newer information usually goes last.",
+    "ex": [
+      ["Das Team hat auf der Klappe unterschrieben: Beleuchter, Schauspieler, Aufnahmeleiter, Ton, sogar der Regisseur.", "The team signed the clapperboard: lighting, actors, production manager, sound, even the director."],
+      ["Ich habe sogar in einer Szene mitgespielt.", "I even acted in a scene."],
+      ["Ich hab sie von meinem Chef geschenkt bekommen.", "I got it as a present from my boss."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What present did Nico get from the team?","o":["A clapperboard signed by everyone","A DVD","A camera"],"a":0,"why":"“Das ist eine Filmklappe … Das Team hat auf der Klappe unterschrieben.”","src":"video"},
+    {"t":"mc","q":"What was Tarek’s job in a film production once?","o":["Driver","Actor","Director"],"a":0,"why":"“Als ich mal Fahrer in einer Filmproduktion war …”","src":"video"},
+    {"t":"mc","q":"What was Nico’s role?","o":["A pedestrian the exhausted inspector runs into","The inspector","The gangster"],"a":0,"why":"“Ich bin der Fußgänger.”","src":"video"},
+    {"t":"mc","q":"What does Max want from Nico?","o":["An autograph before he becomes famous","Money","A role in his restaurant"],"a":0,"why":"“Ich will ’n Autogramm, bevor du berühmt bist.”","src":"video"},
+    {"t":"mc","q":"Which order is correct (TeKaMoLo)?","o":["Ich habe gestern wegen der Kälte allein zu Hause gearbeitet.","Ich habe zu Hause allein wegen der Kälte gestern gearbeitet.","Ich habe allein gestern zu Hause wegen der Kälte gearbeitet."],"a":0,"why":"Te – Ka – Mo – Lo.","src":"grammar"},
+    {"t":"fill","q":"Ich habe ___ in einer Szene mitgespielt. (even)","a":["sogar"],"why":"sogar = even.","src":"grammar"},
+    {"t":"mc","q":"“berühmt” means:","o":["famous","brave","rich"],"a":0,"why":"bevor du berühmt bist.","src":"vocab"},
+    {"t":"mc","q":"“abgedreht” (series) means:","o":["shooting is finished","cancelled","started"],"a":0,"why":"Die Serie ist abgedreht.","src":"vocab"}
+  ]
+},
+"a2-68": {
+  "goal": "Discuss career plans and doubts (Schauspieler werden?) and describe people, things and places with relative clauses (ein Freund, der …).",
+  "words": [
+    ["der Lohn / das Gehalt", "wage / salary"],
+    ["das Praktikumszeugnis", "internship reference"],
+    ["die Schauspielschule, -n", "drama school"],
+    ["der Filmpreis, -e", "film award"],
+    ["der Auftrag, Aufträge", "job, assignment"],
+    ["Geld verdienen", "to earn money"],
+    ["mehrere Jobs machen", "to do several jobs"],
+    ["Hast du dir das gut überlegt?", "Have you thought it over well?"],
+    ["Schauspieler werden", "to become an actor"],
+    ["unterstützen", "to support"],
+    ["Das kriegen wir hin.", "We’ll manage that."],
+    ["Ist es das, was du willst?", "Is that what you want?"]
+  ],
+  "grammar": {
+    "title": "Relative clauses: describing people, roles and schools",
+    "text": "Use relative clauses to add information about a noun:\n\n- Ich habe einen Freund, **der** Schauspieler **ist**. (subject: der)\n- Er hat für eine Rolle, **für die** er einen Preis **gewonnen hat**, … (für + Akk.)\n- Es gibt Schauspielschulen, **an denen** man ausgebildet wird. (an + Dat., plural)\n- Ein Beruf, **von dem** viele träumen, … (von + Dat., masculine)\n\n**was** for whole clauses or **das/alles/etwas**: Ist es das, **was** du willst? Alles, **was** du brauchst, …",
+    "ex": [
+      ["Ich habe einen Freund, der Schauspieler ist.", "I have a friend who is an actor."],
+      ["Ist es das, was du willst?", "Is that what you want?"],
+      ["Die meisten Schauspieler verdienen so wenig, dass sie mehrere Jobs machen müssen.", "Most actors earn so little that they have to do several jobs."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What did Nico get in addition to his wage?","o":["A very good internship reference","A car","A contract"],"a":0,"why":"“Und ein sehr gutes Praktikumszeugnis.”","src":"video"},
+    {"t":"mc","q":"What does Nico want to do now?","o":["Become an actor","Return to Spain","Study law"],"a":0,"why":"“Ich könnte Schauspieler werden.”","src":"video"},
+    {"t":"mc","q":"What does Yara’s actor friend experience?","o":["He won an award but has had no jobs for a year","He earns a lot","He moved to Hollywood"],"a":0,"why":"“… hat einen Filmpreis gewonnen … seit einem Jahr hat er keine Aufträge mehr.”","src":"video"},
+    {"t":"mc","q":"How does Yara react in the end?","o":["She will support him but asks whether it is what he really wants","She forbids it","She laughs"],"a":0,"why":"“Ich unterstütze dich, Nico … Aber ist es das, was du willst?”","src":"video"},
+    {"t":"fill","q":"Ich habe einen Freund, ___ Schauspieler ist. (relative pronoun)","a":["der"],"why":"masculine subject: der.","src":"grammar"},
+    {"t":"fill","q":"Ist es das, ___ du willst? (what)","a":["was"],"why":"das, was …","src":"grammar"},
+    {"t":"mc","q":"“Hast du dir das gut überlegt?” means:","o":["Have you thought it over well?","Did you write it down?","Do you want it?"],"a":0,"why":"sich etwas überlegen.","src":"vocab"},
+    {"t":"mc","q":"“der Auftrag” is:","o":["a job or assignment","a request for silence","a floor"],"a":0,"why":"keine Aufträge mehr.","src":"vocab"}
+  ]
+}
+}

@@ -1,0 +1,28 @@
+{
+"1": {
+  "kind": "video",
+  "title": "GERMAN LESSON 1: Learn German for Beginners – German Greetings",
+  "source": "YouTube · Learn German with Anja",
+  "url": "https://www.youtube.com/watch?v=iB_sassbnOw",
+  "minutes": 5,
+  "focus": "Watch once, then again while repeating each greeting aloud. Notice which greeting belongs to which time of day and which goodbye is formal.",
+  "questions": [
+    {"t":"mc","q":"Anja says one goodbye is formal, for people you do not know very well. Which one?","o":["Tschüss","Auf Wiedersehen","Hallo"],"a":1,"why":"Auf Wiedersehen is the formal goodbye; Tschüss is for friends and family."},
+    {"t":"mc","q":"Anja points out a pattern: “Guten Morgen, Guten Tag, Guten Abend” but “Gute Nacht”. Why?","o":["Nacht is feminine; Morgen, Tag and Abend are masculine","Nacht is a verb","Gute Nacht is only used in the south"],"a":0,"why":"Masculine nouns take “Guten” (accusative), the feminine noun die Nacht takes “Gute”."},
+    {"t":"fill","q":"Anja’s informal question for friends: “Hallo! Wie geht es ___?”","a":["dir"],"why":"Wie geht es dir? is the informal way to ask how someone is."}
+  ]
+},
+"2": {
+  "kind": "video",
+  "title": "GERMAN PRONUNCIATION 1: The German Alphabet",
+  "source": "YouTube · Learn German with Anja",
+  "url": "https://www.youtube.com/watch?v=s-e4cXgmEy4",
+  "minutes": 6,
+  "focus": "Say every letter out loud with Anja. Then spell your own first name and last name, exactly as she asks at the end.",
+  "questions": [
+    {"t":"mc","q":"What homework does Anja give at the end of the video?","o":["Spell your first and last name in German","Write a short email to a friend","Count from 1 to 100"],"a":0,"why":"She asks you to learn the letters and spell your first and last name."},
+    {"t":"mc","q":"Which German city does Anja spell in her exercise, after spelling her own name?","o":["Munich","Hamburg","Berlin"],"a":2,"why":"She spells Berlin, the capital of Germany: B – E – R – L – I – N."},
+    {"t":"mc","q":"For the letter E, what does Anja tell you to do with your mouth?","o":["Pull it apart wide, like a smile","Round your lips into a circle","Keep your mouth almost closed"],"a":0,"why":"The German E needs your mouth pulled apart."}
+  ]
+}
+}

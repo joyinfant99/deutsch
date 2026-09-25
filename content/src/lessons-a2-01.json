@@ -1,0 +1,146 @@
+{
+"a2-05": {
+  "goal": "Give reasons with weil and explain what you have to do first, using subordinate clauses with the verb at the end.",
+  "words": [
+    ["das Geld", "money"],
+    ["das Konto, Konten", "bank account"],
+    ["ein Konto eröffnen", "to open an account"],
+    ["die Bank, -en", "bank"],
+    ["wütend / stinksauer", "angry / furious"],
+    ["sich freuen (über/auf)", "to be pleased"],
+    ["sich um etwas kümmern", "to take care of something"],
+    ["das Willkommensgeschenk", "welcome gift"],
+    ["Das schaffst du.", "You can do it."],
+    ["zum Sprachkurs gehen", "to go to the language course"],
+    ["weil", "because"],
+    ["danach", "afterwards"]
+  ],
+  "grammar": {
+    "title": "Subordinate clauses with weil",
+    "text": "**weil** (because) answers **Warum?** and introduces a subordinate clause with the **verb at the end**:\n\n- Sie sind wütend, **weil** ich nicht mehr studieren **will**.\n- Ich muss zur Bank gehen, **weil** ich ein Konto eröffnen **will**.\n- Ich kann heute nicht, **weil** ich zum Sprachkurs gehen **muss**.\n\nWith a modal verb the modal stands last: … weil ich gehen **muss**. Put a **comma** before weil. If the weil-clause comes first, the main clause continues with its verb: **Weil** ich gehen muss, **kann** ich nicht kommen.",
+    "ex": [
+      ["Sie sind wütend, weil ich nicht zurückkommen will.", "They are angry because I don’t want to come back."],
+      ["Ich muss zur Bank gehen, weil ich ein Konto eröffnen will.", "I have to go to the bank because I want to open an account."],
+      ["Weil ich zum Sprachkurs muss, kann ich nicht kommen.", "Because I have to go to the language course, I can’t come."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How do Nico’s parents really react to his decision?","o":["They are angry because he doesn’t want to study or come back","They are delighted","They send money"],"a":0,"why":"“Sie sind wütend, weil ich nicht mehr studieren will.”","src":"video"},
+    {"t":"mc","q":"Why does Nico have to go to the bank?","o":["He wants to open an account","He wants to take out a loan","He wants to change money"],"a":0,"why":"“… weil ich ein Konto eröffnen will.”","src":"video"},
+    {"t":"mc","q":"Why can’t he go to the bank before eleven?","o":["He has to go to Lisa’s language course","He is ill","The bank is closed"],"a":0,"why":"“… weil ich zu Lisa zum Sprachkurs gehen muss.”","src":"video"},
+    {"t":"mc","q":"“stinksauer” means:","o":["furious","tired","hungry"],"a":0,"why":"very angry (colloquial).","src":"vocab"},
+    {"t":"mc","q":"“Das schaffst du.” means:","o":["You can do it.","You are late.","You are lucky."],"a":0,"why":"schaffen = to manage.","src":"vocab"},
+    {"t":"fill","q":"Ich bleibe hier, ___ ich nicht zurück will. (because)","a":["weil"],"why":"weil + verb at the end.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Ich gehe zur Bank, weil ich Geld brauche.","Ich gehe zur Bank, weil brauche ich Geld.","Ich gehe zur Bank, weil ich brauche Geld."],"a":0,"why":"Verb last: … Geld brauche.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Weil ich müde bin, gehe ich schlafen.","Weil ich müde bin, ich gehe schlafen.","Weil bin ich müde, gehe ich schlafen."],"a":0,"why":"After the subordinate clause the main verb comes first.","src":"grammar"}
+  ]
+},
+"a2-06": {
+  "goal": "Explain step by step how to open a bank account and use wenn-clauses for conditions.",
+  "words": [
+    ["das Formular, -e", "form"],
+    ["ausfüllen", "to fill in"],
+    ["das Geburtsdatum", "date of birth"],
+    ["das Einkommen", "income"],
+    ["fest / ein festes Einkommen", "permanent / a regular income"],
+    ["der Beruf / die Arbeit", "profession / work"],
+    ["mittlerweile", "by now"],
+    ["im Schlaf können", "to know in one’s sleep"],
+    ["Das ist in Ordnung.", "That’s fine."],
+    ["Nicht ganz.", "Not quite."],
+    ["nennen", "to name"],
+    ["Ich möchte ein Konto eröffnen.", "I would like to open an account."]
+  ],
+  "grammar": {
+    "title": "Conditions with wenn",
+    "text": "**wenn** (if / when) introduces a **condition** or something that repeatedly happens. The verb goes to the **end**:\n\n- Die Bank findet es besser, **wenn** du ein festes Einkommen **hast**.\n- **Wenn** es ein Problem **gibt**, rufst du mich an.\n\nIf the **wenn-clause** comes first, the main clause starts with the verb: **Wenn** es ein Problem gibt, **rufst** du mich an. Steps are given in the present tense with the du-form: **Du gehst** zur Bank und **nennst** deinen Namen.",
+    "ex": [
+      ["Du musst ein Formular ausfüllen: dein Geburtsdatum, deine Adresse …", "You have to fill in a form: your date of birth, your address …"],
+      ["Die Bank findet es besser, wenn du ein festes Einkommen hast.", "The bank prefers it if you have a regular income."],
+      ["Wenn es ein Problem gibt, rufst du mich an.", "If there is a problem, you call me."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What is the first thing you say at the bank, according to Max?","o":["Your name and that you want to open an account","Your date of birth","Your salary"],"a":0,"why":"“Guten Tag, ich heiße … und ich möchte bitte ein Konto eröffnen.”","src":"video"},
+    {"t":"mc","q":"Which address will Nico use on the form?","o":["Yara’s address","Inge’s address","Lisa’s address"],"a":0,"why":"“Ich schreibe einfach die Adresse von Tante Yara, oder? – Ja.”","src":"video"},
+    {"t":"mc","q":"What does the bank find better?","o":["A regular income","A high salary","A long name"],"a":0,"why":"“… wenn du ein festes Einkommen hast.”","src":"video"},
+    {"t":"mc","q":"Can Nico say he has no job yet?","o":["Yes, that is fine","No, it is forbidden","Only in writing"],"a":0,"why":"“Ja, das ist okay.”","src":"video"},
+    {"t":"mc","q":"“das Formular” is a:","o":["form","fee","rule"],"a":0,"why":"das Formular ausfüllen.","src":"vocab"},
+    {"t":"fill","q":"___ es ein Problem gibt, rufst du mich an. (if)","a":["Wenn"],"why":"Wenn + verb at the end.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Wenn du Zeit hast, ruf mich an.","Wenn du hast Zeit, ruf mich an.","Wenn du Zeit hast, du ruf mich an."],"a":0,"why":"Verb last in the wenn-clause.","src":"grammar"},
+    {"t":"mc","q":"“Nicht ganz.” means:","o":["Not quite.","Not at all.","Not now."],"a":0,"why":"ganz = entirely.","src":"vocab"}
+  ]
+},
+"a2-07": {
+  "goal": "Talk about bills, payments and online banking, and recognise nouns ending in -ung (die Rechnung, die Bestellung, die Überweisung).",
+  "words": [
+    ["die Rechnung, -en", "bill, invoice"],
+    ["die Bestellung, -en", "order"],
+    ["die Überweisung, -en", "bank transfer"],
+    ["überweisen", "to transfer (money)"],
+    ["die Miete, -n", "rent"],
+    ["der Empfänger / die IBAN", "recipient / IBAN"],
+    ["der Verwendungszweck", "payment reference"],
+    ["die TAN", "one-time code"],
+    ["eingeben / absenden", "to enter / to send"],
+    ["erledigen", "to get done"],
+    ["beantworten", "to answer"],
+    ["Ich hab total vergessen …", "I totally forgot …"]
+  ],
+  "grammar": {
+    "title": "Nouns ending in -ung",
+    "text": "Nouns ending in **-ung** are made from verbs and are always **feminine (die)**:\n\n- bestellen → die **Bestellung**\n- rechnen → die **Rechnung**\n- überweisen → die **Überweisung**\n- wohnen → die **Wohnung**\n- zahlen → die **Zahlung**\n- erklären → die **Erklärung**\n\nPlural: **-ungen** (die Rechnungen). Learn the pair verb + noun together; the noun is easy to guess, and you already know its article.",
+    "ex": [
+      ["Rechnungen bezahlen, E-Mails beantworten, Bestellungen aufgeben …", "Paying bills, answering emails, placing orders …"],
+      ["Ich hab total vergessen, die Miete zu überweisen.", "I totally forgot to transfer the rent."],
+      ["Danke, dass ihr euch darum gekümmert habt.", "Thanks for taking care of it."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What is Yara doing when Tarek comes in?","o":["Paying bills and online transfers","Repairing a bike","Cooking"],"a":0,"why":"“Empfänger, IBAN, Verwendungszweck … TAN eingeben, absenden.”","src":"video"},
+    {"t":"mc","q":"What list of tasks does Yara mention?","o":["Pay bills, answer emails, place orders","Clean, cook, shop","Sell bikes, close the shop, travel"],"a":0,"why":"“Rechnungen bezahlen, E-Mails beantworten, Bestellungen aufgeben.”","src":"video"},
+    {"t":"mc","q":"What did Yara forget?","o":["To transfer the rent","To close the shop","To call her friend"],"a":0,"why":"“Ich hab total vergessen, die Miete zu überweisen.”","src":"video"},
+    {"t":"mc","q":"What news comes from Nico?","o":["He now has his own bank account","He found a job","He is moving to Berlin"],"a":0,"why":"“Nico hat jetzt ein eigenes Konto.”","src":"video"},
+    {"t":"fill","q":"bestellen → die ___ (noun ending -ung)","a":["Bestellung"],"why":"bestellen → Bestellung.","src":"grammar"},
+    {"t":"mc","q":"Which article goes with “Überweisung”?","o":["die","der","das"],"a":0,"why":"All -ung nouns are feminine.","src":"grammar"},
+    {"t":"mc","q":"“die Miete” means:","o":["rent","meeting","mail"],"a":0,"why":"Miete = rent.","src":"vocab"},
+    {"t":"mc","q":"“überweisen” means:","o":["to transfer money","to overlook","to forget"],"a":0,"why":"die Überweisung = transfer.","src":"vocab"}
+  ]
+},
+"a2-08": {
+  "goal": "Describe a sequence of events in the past (an ATM problem) and use money vocabulary: Bankautomat, Karte, PIN, Geld abheben.",
+  "words": [
+    ["der Bankautomat, -en", "cash machine"],
+    ["Geld abheben", "to withdraw money"],
+    ["die Karte, -n / die PIN", "card / PIN"],
+    ["stecken", "to insert"],
+    ["drücken", "to press"],
+    ["die Fehlermeldung, -en", "error message"],
+    ["der Bankangestellte", "bank clerk"],
+    ["Es hat geklappt.", "It worked out."],
+    ["die Ausbildung, -en", "vocational training"],
+    ["das Semester, -", "semester"],
+    ["zuerst … dann … danach", "first … then … afterwards"],
+    ["Es tut mir leid.", "I’m sorry."]
+  ],
+  "grammar": {
+    "title": "Telling a story: Perfekt and Präteritum together",
+    "text": "In spoken stories you mostly use the **Perfekt**, but common verbs often stay in the **Präteritum** (kam, konnte, musste, war):\n\n- Ich **habe** zuerst die Karte in den Automaten **gesteckt**. (Perfekt)\n- Dann **habe** ich auf „Geld abheben“ **gedrückt**.\n- Danach **kam** eine Fehlermeldung. (Präteritum)\n- Ich **konnte** meine PIN noch gar nicht eingeben.\n\nUse **zuerst – dann – danach – zum Schluss** to order the steps. Modal verbs and **sein/haben** prefer the Präteritum.",
+    "ex": [
+      ["Ich habe zuerst die Karte in den Automaten gesteckt.", "First I put the card into the machine."],
+      ["Danach kam eine Fehlermeldung.", "Then an error message appeared."],
+      ["Einer der Bankangestellten musste mir helfen.", "One of the bank employees had to help me."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Nico want to do in Germany, according to his own words?","o":["Do vocational training and work with his hands","Study law again","Move back to Spain"],"a":0,"why":"“Ich möchte mit den Händen arbeiten, einen Beruf lernen.”","src":"video"},
+    {"t":"mc","q":"How many semesters of law did Nico already study in Spain?","o":["Two","Four","None"],"a":0,"why":"“… zwei Semester Jura studiert.”","src":"video"},
+    {"t":"mc","q":"What went wrong at the cash machine?","o":["The card got stuck and an error message appeared","The machine had no money","Her PIN was wrong"],"a":0,"why":"“Die Karte kam nicht mehr heraus.”","src":"video"},
+    {"t":"mc","q":"Who helped Selma in the end?","o":["A bank employee","Nico","A police officer"],"a":0,"why":"“Einer der Bankangestellten musste mir helfen.”","src":"video"},
+    {"t":"mc","q":"“Geld abheben” means:","o":["to withdraw money","to save money","to pay a bill"],"a":0,"why":"abheben = take out.","src":"vocab"},
+    {"t":"mc","q":"“die Ausbildung” is:","o":["vocational training","a university degree","a holiday"],"a":0,"why":"Ausbildung = apprenticeship/training.","src":"vocab"},
+    {"t":"fill","q":"Ich ___ zuerst die Karte gesteckt. (haben)","a":["habe"],"why":"Perfekt: ich habe … gesteckt.","src":"grammar"},
+    {"t":"mc","q":"Which is the natural spoken form?","o":["Ich konnte meine PIN nicht eingeben.","Ich habe meine PIN nicht eingeben gekonnt.","Ich könnte meine PIN nicht eingegeben."],"a":0,"why":"Modal verbs prefer the Präteritum.","src":"grammar"}
+  ]
+}
+}

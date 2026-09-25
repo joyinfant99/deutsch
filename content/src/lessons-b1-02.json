@@ -1,0 +1,146 @@
+{
+"b1-09": {
+  "goal": "Talk about home (Heimat), family history and migration in the past, using the Präteritum of irregular verbs and relative clauses with prepositions.",
+  "words": [
+    ["die Heimat", "home, homeland"],
+    ["stammen aus + Dat.", "to come from, to originate from"],
+    ["der Zweite Weltkrieg", "the Second World War"],
+    ["den Krieg verlieren", "to lose the war"],
+    ["der Flüchtling, -e", "refugee"],
+    ["die Heimat verlassen", "to leave one’s homeland"],
+    ["der Ort, -e / das Dorf", "place / village"],
+    ["kaputt sein", "to be destroyed, broken"],
+    ["ein großer Vorteil", "a great advantage"],
+    ["Es nicht leicht haben", "to have a hard time"],
+    ["die Jugend / die Kindheit", "youth / childhood"],
+    ["immerhin", "at least"]
+  ],
+  "grammar": {
+    "title": "Präteritum of irregular verbs; relative clauses with prepositions",
+    "text": "Written and narrative German uses the **Präteritum**. Irregular (strong) verbs change their stem:\n\n- liegen – **lag**, kommen – **kam**, geben – **gab**, verlieren – **verlor**, sprechen – **sprach**, gehen – **ging**, sein – **war**, haben – **hatte**\n- Mixed: **mussten**, **konnten**, **wollten** (modal verbs).\n\n**Relative clauses with a preposition:** Der Ort, **aus dem** meine Familie kommt, liegt heute in Polen. Das Dorf, **aus dem** meine Familie kommt, … (aus + Dativ, neuter: **dem**). Das Land, **in dem** viel kaputt war, …\n\n**als** for a single past situation: **Als** meine Eltern dort **lebten**, **lag** er noch in Deutschland.",
+    "ex": [
+      ["Der Ort, aus dem meine Familie kommt, liegt heute in Polen.", "The place my family comes from is in Poland today."],
+      ["Als meine Eltern dort lebten, lag er noch in Deutschland.", "When my parents lived there it was still in Germany."],
+      ["Die Menschen kamen in ein Land, in dem sehr viel kaputt war.", "The people came to a country in which a lot was destroyed."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Wo liegt der Ort, aus dem Inges Familie kommt, heute?","o":["In Polen","In Österreich","In Frankreich"],"a":0,"why":"“… liegt heute in Polen.”","src":"video"},
+    {"t":"mc","q":"Warum mussten Inges Eltern ihre Heimat verlassen?","o":["Deutschland hat den Krieg verloren","Sie wollten in die Stadt ziehen","Sie fanden keine Arbeit"],"a":0,"why":"“… als Deutschland den Krieg verloren hat, mussten meine Eltern unsere Heimat verlassen.”","src":"video"},
+    {"t":"mc","q":"Welchen Vorteil hatten die Flüchtlinge damals laut Inge?","o":["Sie konnten die Sprache verstehen","Sie hatten viel Geld","Sie fanden sofort Arbeit"],"a":0,"why":"“Immerhin konnten sie die Sprache verstehen.”","src":"video"},
+    {"t":"mc","q":"Wo ist Inges Heimat?","o":["Hier in Deutschland","In Polen","In Frankreich"],"a":0,"why":"“Aber meine Heimat ist hier, in Deutschland.”","src":"video"},
+    {"t":"fill","q":"Der Ort ___ Polen liegt. (liegen, Präteritum, singular)","a":["lag"],"why":"liegen – lag.","src":"grammar"},
+    {"t":"fill","q":"Das Dorf, aus ___ meine Familie kommt. (relative pronoun, neuter dative)","a":["dem"],"why":"aus + Dativ, neuter: dem.","src":"grammar"},
+    {"t":"mc","q":"Präteritum von “geben”:","o":["gab","gebte","gegeben"],"a":0,"why":"geben – gab – gegeben.","src":"grammar"},
+    {"t":"mc","q":"“stammen aus” bedeutet:","o":["to come from","to stand out of","to stem the flow"],"a":0,"why":"Sie stammt aus Polen.","src":"vocab"}
+  ]
+},
+"b1-10": {
+  "goal": "Tell personal experiences about war and peace and childhood memories, using als, da-compounds (daran erinnern) and the mix of Perfekt and Präteritum.",
+  "words": [
+    ["der Krieg / der Frieden", "war / peace"],
+    ["zerstört", "destroyed"],
+    ["fliehen – ist geflohen", "to flee"],
+    ["die Vergangenheit", "the past"],
+    ["das Foto mitbringen", "to bring a photo"],
+    ["die Heimatstadt", "hometown"],
+    ["der Tourist, -en", "tourist"],
+    ["ein neues Leben beginnen", "to start a new life"],
+    ["Ich erinnere mich daran.", "I remember it."],
+    ["besonders / ein besonderer Tag", "special / a special day"],
+    ["nicht möglich", "not possible"],
+    ["Notizen machen", "to take notes"]
+  ],
+  "grammar": {
+    "title": "als for single past events; da-compounds (daran, darüber)",
+    "text": "Use **als** (not wenn) for **one situation in the past**: **Als** noch Frieden **war**, gab es viele Touristen. (Wenn = repeated events or future.)\n\n**Da-compounds** replace preposition + thing: **daran** denken, **daran** erinnern: Das war mein sechzehnter Geburtstag. **Daran** erinnere ich mich gut. (sich erinnern an + Akk. → **daran**). Ask: **Woran** erinnerst du dich?\n\nMix of tenses: Perfekt for events (Viele Menschen **sind geflohen**), Präteritum for states (Es **gab** so viel zu essen; das **war** ein besonderer Tag).",
+    "ex": [
+      ["Es gab viele Touristen, als noch Frieden war.", "There were many tourists when there was still peace."],
+      ["Das war mein sechzehnter Geburtstag. Daran erinnere ich mich gut.", "That was my sixteenth birthday. I remember it well."],
+      ["Ich denke sehr oft an meine Heimat.", "I think about my homeland very often."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was zeigen Selmas Fotos?","o":["Ihre Heimatstadt in Syrien","Ein Hotel in Spanien","Ihre Schule in Berlin"],"a":0,"why":"“… die Fotos zeigen meine Heimatstadt in Syrien.”","src":"video"},
+    {"t":"mc","q":"Wie ist die Situation dort heute?","o":["Viele Häuser sind zerstört und Menschen sind geflohen","Es kommen viele Touristen","Alles ist wie früher"],"a":0,"why":"“Viele Häuser und Wohnungen sind zerstört.”","src":"video"},
+    {"t":"mc","q":"Was möchte Selma gern?","o":["Zurück nach Hause, aber das ist im Moment nicht möglich","In Deutschland studieren, nie zurückgehen","In Spanien wohnen"],"a":0,"why":"“… ich möchte gerne wieder zurück nach Hause.”","src":"video"},
+    {"t":"mc","q":"Warum war der Tag auf Inges Foto besonders?","o":["Sie trug zum ersten Mal ihr neues Kleid","Sie hatte Geburtstag","Sie fuhr in Urlaub"],"a":0,"why":"“… ich das erste Mal mein neues Kleid anhatte.”","src":"video"},
+    {"t":"fill","q":"___ noch Frieden war, gab es viele Touristen. (when, single past)","a":["Als"],"why":"als = einmalige Situation in der Vergangenheit.","src":"grammar"},
+    {"t":"fill","q":"Das war mein Geburtstag. ___ erinnere ich mich gut. (an + das)","a":["Daran"],"why":"da + an = daran.","src":"grammar"},
+    {"t":"mc","q":"“zerstört” bedeutet:","o":["destroyed","disturbed","zero-rated"],"a":0,"why":"Häuser sind zerstört.","src":"vocab"},
+    {"t":"mc","q":"“der Frieden” ist das Gegenteil von:","o":["der Krieg","der Fried","die Ruhe"],"a":0,"why":"Krieg – Frieden.","src":"vocab"}
+  ]
+},
+"b1-11": {
+  "goal": "Choose between Präteritum and Perfekt correctly when you talk about the past, and understand a short history of an object (DDR-Klapprad).",
+  "words": [
+    ["die DDR (Deutsche Demokratische Republik)", "GDR (East Germany)"],
+    ["die Wiedervereinigung", "reunification"],
+    ["das Klapprad, -räder", "folding bike"],
+    ["der Schrott", "scrap, junk"],
+    ["sammeln", "to collect"],
+    ["produzieren / bauen", "to produce / to build"],
+    ["zusammenklappen", "to fold up"],
+    ["stabil", "sturdy"],
+    ["ein Stück Geschichte", "a piece of history"],
+    ["der Neffe, -n", "nephew"],
+    ["unhöflich", "impolite"],
+    ["auf Vordermann bringen", "to get into shape"]
+  ],
+  "grammar": {
+    "title": "Präteritum or Perfekt?",
+    "text": "**Speaking / informal writing → Perfekt**: Als ich nach Deutschland **gekommen bin**, **hatte** ich auch so ein Fahrrad. Ich **habe** in der Schule **gelernt**, dass …\n\n**Formal writing, reports, stories → Präteritum**: Das Klapprad **wurde** in der DDR **produziert**.\n\n**Always Präteritum (even in speech) with:** sein (war), haben (hatte), modal verbs (konnte, musste, wollte), **es gab**, and often werden/wissen: **Ich war**, **ich hatte**, **es gab**.\n\nUse **als** + Präteritum for a completed past situation: **Als** ich in deinem Alter **war**, hab ich davon geträumt.",
+    "ex": [
+      ["Als ich nach Deutschland gekommen bin, hatte ich auch so ein Fahrrad.", "When I came to Germany I had a bike like that, too."],
+      ["Dieses Klapprad wurde in der DDR produziert, als es das Land noch gab.", "This folding bike was produced in the GDR when the country still existed."],
+      ["Das hab ich in der Schule gelernt.", "I learned that at school."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was bewundert Yara?","o":["Ein altes Fahrrad aus der DDR","Ein Motorrad","Ein neues Auto"],"a":0,"why":"“Das ist ein altes Fahrrad aus der Deutschen Demokratischen Republik.”","src":"video"},
+    {"t":"mc","q":"Was sagt Nico über das Fahrrad?","o":["Es sieht aus wie Schrott","Es ist wunderschön","Es ist neu"],"a":0,"why":"“… das Fahrrad sieht aus wie Schrott.”","src":"video"},
+    {"t":"mc","q":"Warum heißt es “Klapprad”?","o":["Man kann es zusammenklappen","Es klappert laut","Es ist klein"],"a":0,"why":"“… weil man es zusammenklappen kann.”","src":"video"},
+    {"t":"mc","q":"Wer ist “Otto” im Video?","o":["Ein Mann, der Fahrräder sammelt","Yaras Bruder","Ein Polizist"],"a":0,"why":"“Er sammelt Fahrräder.”","src":"video"},
+    {"t":"fill","q":"Gestern ___ ich krank. (sein, Präteritum)","a":["war"],"why":"sein immer Präteritum.","src":"grammar"},
+    {"t":"mc","q":"Was sagt man im Gespräch normalerweise für „Ich habe gestern Pizza gegessen“?","o":["Perfekt","Präteritum","Plusquamperfekt"],"a":0,"why":"gesprochen: Perfekt.","src":"grammar"},
+    {"t":"mc","q":"“der Schrott” bedeutet:","o":["junk, scrap","a shirt","a screw"],"a":0,"why":"sieht aus wie Schrott.","src":"vocab"},
+    {"t":"mc","q":"“sammeln” bedeutet:","o":["to collect","to sell","to sew"],"a":0,"why":"Fahrräder sammeln.","src":"vocab"}
+  ]
+},
+"b1-12": {
+  "goal": "Explain historical events (the fall of the Wall and reunification) with correct main-clause word order, connectors like deshalb and trotzdem, and the passive in the past.",
+  "words": [
+    ["die Wende", "the turning point (1989/90)"],
+    ["die Wiedervereinigung", "reunification"],
+    ["die Grenze, -n", "border"],
+    ["das politische System", "political system"],
+    ["die Währung, -en", "currency"],
+    ["demonstrieren (für)", "to demonstrate (for)"],
+    ["die Freiheit", "freedom"],
+    ["die Veränderung", "change"],
+    ["geteilt", "divided"],
+    ["ehemalig", "former"],
+    ["Firmen schließen", "to close companies"],
+    ["die Räder werden nicht mehr gebaut", "the bikes are no longer built"]
+  ],
+  "grammar": {
+    "title": "Main clauses: word order and connectors",
+    "text": "In a **main clause** the conjugated verb is always in **position 2**. Position 1 can be the subject, time, place or a **connector**:\n\n- **Nach der Wende wurden** viele Firmen geschlossen. (verb 2, then subject)\n- **Deshalb / Deswegen / Trotzdem / Außerdem / Dann / Danach** **mussten** die Firmen schließen. → connector + verb + subject.\n\nCompare: **weil / dass / obwohl** send the verb to the **end**; **denn / aber / und / oder / sondern** keep normal order; **deshalb / trotzdem / außerdem** are adverbs → **verb right after**.\n\n**Passive past:** Die Firmen **wurden** geschlossen. Present: Die Räder **werden** nicht mehr gebaut.",
+    "ex": [
+      ["Nach der Wende wurden viele Firmen in der ehemaligen DDR geschlossen.", "After the Wende many companies in the former GDR were closed."],
+      ["Die Räder werden nicht mehr gebaut, weil es die Firma nicht mehr gibt.", "The bikes are no longer built because the company no longer exists."],
+      ["Die Menschen wollten Veränderung. Deshalb haben sie demonstriert.", "The people wanted change. That’s why they demonstrated."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Warum werden die Klappräder nicht mehr gebaut?","o":["Die Firma gibt es nicht mehr","Sie sind zu teuer","Niemand will sie"],"a":0,"why":"“… weil es die Firma nicht mehr gibt.”","src":"video"},
+    {"t":"mc","q":"Was bedeutet “die Wende”?","o":["Die Zeit der Wiedervereinigung","Ein Fahrradtyp","Eine Währung"],"a":0,"why":"“So nennt man die Zeit der Wiedervereinigung.”","src":"video"},
+    {"t":"mc","q":"Worin waren Ost- und Westdeutschland unterschiedlich?","o":["Politische Systeme und Währungen","Nur die Sprache","Nur das Wetter"],"a":0,"why":"“… völlig verschiedenen politischen Systemen … Währungen.”","src":"video"},
+    {"t":"mc","q":"Wofür haben viele Ostdeutsche demonstriert?","o":["Für mehr Freiheit","Für höhere Löhne","Für mehr Fahrräder"],"a":0,"why":"“… haben für mehr Freiheit demonstriert.”","src":"video"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Deshalb haben die Menschen demonstriert.","Deshalb die Menschen haben demonstriert.","Deshalb demonstriert haben die Menschen."],"a":0,"why":"Connector + Verb + Subjekt.","src":"grammar"},
+    {"t":"fill","q":"Viele Firmen ___ geschlossen. (passive Präteritum, plural)","a":["wurden"],"why":"wurden + Partizip II.","src":"grammar"},
+    {"t":"mc","q":"Nach welchem Wort steht das Verb am Ende?","o":["weil","denn","deshalb"],"a":0,"why":"weil = Nebensatz.","src":"grammar"},
+    {"t":"mc","q":"“die Währung” ist:","o":["the currency","the warranty","the war"],"a":0,"why":"D-Mark, Euro.","src":"vocab"}
+  ]
+}
+}

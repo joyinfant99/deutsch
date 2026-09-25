@@ -1,0 +1,142 @@
+{
+"a1-53": {
+  "goal": "Talk about a holiday in the past using the Perfekt with haben (ich habe Fotos gemacht) and the past of sein (es war großartig).",
+  "words": [
+    ["der Urlaub, -e", "holiday, vacation"],
+    ["das Meer / der Strand", "sea / beach"],
+    ["der Berg, -e", "mountain"],
+    ["das Foto, -s", "photo"],
+    ["großartig / fantastisch", "great / fantastic"],
+    ["sich entspannen", "to relax"],
+    ["vermissen", "to miss"],
+    ["schwimmen gehen", "to go swimming"],
+    ["zwei Wochen", "two weeks"],
+    ["Wie war dein Urlaub?", "How was your holiday?"],
+    ["Ich habe viele Fotos gemacht.", "I took many photos."],
+    ["Kaum zu glauben.", "Hard to believe."]
+  ],
+  "grammar": {
+    "title": "Perfekt with haben",
+    "text": "The **Perfekt** is the everyday past tense: **haben** (conjugated, second position) + **Partizip II** (at the end).\n\n- regular verbs: **ge-** + stem + **-t**: machen → **gemacht**, sagen → **gesagt**, kaufen → **gekauft**\n- irregular verbs: **ge-** + stem + **-en**: sehen → **gesehen**, essen → **gegessen**, trinken → **getrunken**\n\nIch **habe** viele Fotos **gemacht**. Wir **haben** das Meer **gesehen**. For the state of things use **war**: Der Urlaub **war** großartig.",
+    "ex": [
+      ["Ich habe viele Fotos gemacht: von den Bergen, vom Strand.", "I took lots of photos: of the mountains, of the beach."],
+      ["Der Urlaub war großartig. Das Meer war fantastisch.", "The holiday was great. The sea was fantastic."],
+      ["Ich habe mich großartig entspannt.", "I relaxed wonderfully."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How long was the passenger’s holiday?","o":["Two weeks","One week","Three weeks"],"a":0,"why":"“Es waren nur zwei Wochen.”","src":"video"},
+    {"t":"mc","q":"What does the passenger say about the sea?","o":["It was fantastic","It was too cold","It was dirty"],"a":0,"why":"“Das Meer war fantastisch.”","src":"video"},
+    {"t":"mc","q":"What did the passenger photograph?","o":["Mountains, the beach and the hotel","Only people","Only food"],"a":0,"why":"“… von den Bergen, vom Strand … auch Fotos vom Hotel gemacht.”","src":"video"},
+    {"t":"mc","q":"How will the passenger get home?","o":["By train","By plane","By taxi"],"a":0,"why":"“… dann komme ich nach Hause. Mit dem Zug.”","src":"video"},
+    {"t":"fill","q":"Ich ___ viele Fotos gemacht. (haben)","a":["habe"],"why":"ich habe + Partizip II.","src":"grammar"},
+    {"t":"fill","q":"machen → Ich habe Fotos ___. (Partizip II)","a":["gemacht"],"why":"ge + mach + t.","src":"grammar"},
+    {"t":"mc","q":"“sich entspannen” means:","o":["to relax","to travel","to swim"],"a":0,"why":"Ich habe mich entspannt.","src":"vocab"}
+  ]
+},
+"a1-54": {
+  "goal": "Compare things and talk about the seasons using the comparative and superlative (kälter, am kältesten).",
+  "words": [
+    ["der Frühling / der Sommer", "spring / summer"],
+    ["der Herbst / der Winter", "autumn / winter"],
+    ["die Kälte", "cold"],
+    ["kalt – kälter – am kältesten", "cold – colder – coldest"],
+    ["schön – schöner – am schönsten", "nice – nicer – nicest"],
+    ["gut – besser – am besten", "good – better – best"],
+    ["frieren", "to freeze, to be cold"],
+    ["das Hemd, -en", "shirt"],
+    ["alt / neu", "old / new"],
+    ["Im Oktober ist es schon kalt.", "In October it is already cold."],
+    ["deswegen", "that’s why"],
+    ["nur, was wir brauchen", "only what we need"]
+  ],
+  "grammar": {
+    "title": "Comparison: comparative and superlative",
+    "text": "Add **-er** for the comparative, **am … -sten** for the superlative. Short adjectives often get an **umlaut**:\n\n- kalt – **kälter** – **am kältesten**\n- warm – **wärmer** – **am wärmsten**\n- schön – **schöner** – **am schönsten**\n\nIrregular: **gut – besser – am besten**, **viel – mehr – am meisten**, **gern – lieber – am liebsten**.\n\nCompare with **als**: Das Hemd ist schöner **als** mein Hemd. Im Winter ist es **am kältesten**.",
+    "ex": [
+      ["Im November wird es immer kälter.", "In November it gets colder and colder."],
+      ["Im Dezember und Januar ist es am kältesten.", "In December and January it is coldest."],
+      ["Das ist schöner als mein Hemd.", "That is nicer than my shirt."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Why do the two men take things from Nico’s bag?","o":["They want warm and new clothes","They want to return the bag","They are looking for money"],"a":0,"why":"They need clothes because it is getting colder; one wants a new shirt for spring.","src":"video"},
+    {"t":"mc","q":"When is it coldest, according to Julius?","o":["December and January","July and August","October"],"a":0,"why":"“Im Dezember und Januar ist es immer am kältesten!”","src":"video"},
+    {"t":"mc","q":"Dennis says the shirt is “schöner als mein Hemd”. Why does he want a new one?","o":["His old shirt is already old","He hates red","His shirt is too small"],"a":0,"why":"“Dein Hemd ist ja auch schon alt.”","src":"video"},
+    {"t":"fill","q":"kalt – ___ – am kältesten","a":["kälter","kaelter"],"why":"kalt – kälter.","src":"grammar"},
+    {"t":"fill","q":"gut – ___ – am besten","a":["besser"],"why":"irregular.","src":"grammar"},
+    {"t":"mc","q":"Which is correct?","o":["Im Winter ist es kälter als im Herbst.","Im Winter ist es kälter wie im Herbst.","Im Winter ist es kalter als im Herbst."],"a":0,"why":"comparative + als; umlaut kälter.","src":"grammar"},
+    {"t":"mc","q":"“der Frühling” is:","o":["spring","summer","autumn"],"a":0,"why":"der Frühling = spring.","src":"vocab"}
+  ]
+},
+"a1-55": {
+  "goal": "Tell a story about a trip in the past with the Perfekt, and choose haben or sein correctly (sind geschwommen, haben gefeiert).",
+  "words": [
+    ["der Ausflug, Ausflüge", "trip, excursion"],
+    ["die Hochzeit, -en", "wedding"],
+    ["der See, -n", "lake"],
+    ["der Onkel / die Cousine", "uncle / cousin (f)"],
+    ["feiern – gefeiert", "to celebrate"],
+    ["schwimmen – ist geschwommen", "to swim"],
+    ["fahren – ist gefahren", "to travel, to drive"],
+    ["grillen – gegrillt", "to barbecue"],
+    ["einen Spaziergang machen", "to go for a walk"],
+    ["übernachten – übernachtet", "to stay overnight"],
+    ["Wann war dein letzter Urlaub?", "When was your last holiday?"],
+    ["viel Spaß haben", "to have lots of fun"]
+  ],
+  "grammar": {
+    "title": "Perfekt with sein",
+    "text": "Verbs of **movement** and **change of state** form the Perfekt with **sein**:\n\n- gehen → ich **bin** gegangen\n- fahren → wir **sind** gefahren\n- schwimmen → wir **sind** geschwommen\n- aufstehen → ich **bin** aufgestanden\n- bleiben → ich **bin** geblieben (also sein / werden)\n\nAll other verbs use **haben**: Wir **haben** gefeiert, gegessen, gesungen, getanzt, gegrillt.",
+    "ex": [
+      ["Wir sind geschwommen und wir haben gegrillt.", "We swam and we barbecued."],
+      ["Wir haben bei meiner Cousine übernachtet.", "We stayed overnight at my cousin’s."],
+      ["Wir haben die Hochzeit von meinem Onkel gefeiert.", "We celebrated my uncle’s wedding."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What was Selma’s trip in May about?","o":["Her uncle’s wedding","Her own birthday","A school trip"],"a":0,"why":"“Wir haben die Hochzeit von meinem Onkel gefeiert.”","src":"video"},
+    {"t":"mc","q":"Where did they celebrate?","o":["Near Hamburg","Near Munich","Near Berlin"],"a":0,"why":"“In der Nähe von Hamburg.”","src":"video"},
+    {"t":"mc","q":"Where did Selma stay overnight?","o":["At her cousin’s","In a hotel","In a tent"],"a":0,"why":"“Wir haben bei meiner Cousine übernachtet.”","src":"video"},
+    {"t":"mc","q":"What will Lisa do during her holiday?","o":["Stay in a whole house with the others","Camp at the beach","Visit Spain"],"a":0,"why":"“Wir haben ein ganzes Haus für uns alleine.”","src":"video"},
+    {"t":"fill","q":"Wir ___ geschwommen. (sein)","a":["sind"],"why":"schwimmen → sein.","src":"grammar"},
+    {"t":"fill","q":"Wir ___ gefeiert. (haben)","a":["haben"],"why":"feiern → haben.","src":"grammar"},
+    {"t":"mc","q":"Which verb takes “sein” in the Perfekt?","o":["fahren","kaufen","essen"],"a":0,"why":"fahren = movement.","src":"grammar"}
+  ]
+},
+"a1-56": {
+  "goal": "Talk about the weather and temperature and use the pronoun “es” in weather sentences.",
+  "words": [
+    ["das Wetter", "weather"],
+    ["die Sonne / der Regen", "sun / rain"],
+    ["der Himmel", "sky"],
+    ["bewölkt / grau", "cloudy / grey"],
+    ["regnen / schneien", "to rain / to snow"],
+    ["der Wind / windig", "wind / windy"],
+    ["das Grad", "degree"],
+    ["Es sind sieben Grad.", "It is seven degrees."],
+    ["Es wird kälter.", "It’s getting colder."],
+    ["Wie ist das Wetter?", "What’s the weather like?"],
+    ["gemein", "mean, unfair"],
+    ["aussehen", "to look like"]
+  ],
+  "grammar": {
+    "title": "The pronoun es",
+    "text": "In weather sentences German needs the empty subject **es**:\n\n- **Es** regnet. **Es** schneit. **Es** ist kalt.\n- **Es** sind sieben Grad. (plural verb because of Grad)\n- **Es** wird kälter. (getting colder)\n- **Es** ist bewölkt.\n\nBut: **Die Sonne scheint.** (the sun is the real subject). Ask: **Wie ist das Wetter?** – **Wie wird das Wetter?** (What will the weather be like?)",
+    "ex": [
+      ["Es sind so um die sieben Grad, und es ist bewölkt.", "It’s about seven degrees and it’s cloudy."],
+      ["Abends soll es noch regnen und morgen wird es kälter.", "In the evening it’s supposed to rain and tomorrow it’ll get colder."],
+      ["Ihr habt Sonne und 20 Grad?", "You have sun and 20 degrees?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What is the weather like where Selma is?","o":["About seven degrees and cloudy","Sunny and 20 degrees","Snowy and windy"],"a":0,"why":"“… sieben Grad, und es ist bewölkt.”","src":"video"},
+    {"t":"mc","q":"What is the weather like where Lisa is on holiday?","o":["Sunny, 20 degrees","Rainy","Foggy"],"a":0,"why":"“Ihr habt Sonne und 20 Grad?”","src":"video"},
+    {"t":"mc","q":"What amazing discovery does Selma make?","o":["She thinks she has found Nico’s bag","She finds a wallet","She finds Yara"],"a":0,"why":"“Ich glaube, ich habe sie gefunden.”","src":"video"},
+    {"t":"mc","q":"How does Selma identify the bag?","o":["Black with a bicycle patch","Red with stripes","Blue with a name tag"],"a":0,"why":"“Schwarz und ein Aufnäher mit einem Fahrrad.”","src":"video"},
+    {"t":"fill","q":"___ regnet. (It rains.)","a":["Es"],"why":"Weather needs es.","src":"grammar"},
+    {"t":"mc","q":"Which is correct?","o":["Es sind sieben Grad.","Es ist sieben Grad.","Sind sieben Grad."],"a":0,"why":"Plural: sieben Grad → sind.","src":"grammar"},
+    {"t":"mc","q":"“bewölkt” means:","o":["cloudy","sunny","rainy"],"a":0,"why":"die Wolke = cloud.","src":"vocab"}
+  ]
+}
+}

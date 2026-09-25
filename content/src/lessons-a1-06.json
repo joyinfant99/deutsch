@@ -1,0 +1,613 @@
+{
+"a1-25": {
+"goal": "Talk about where you live and where you can stay: shared flat, hotel, hostel, and why one is cheaper than another.",
+"words": [
+[
+"die WG (Wohngemeinschaft), -s",
+"shared flat"
+],
+[
+"die Heizung, -en",
+"heating"
+],
+[
+"der Urlaub",
+"holiday, vacation"
+],
+[
+"das Hotel, -s",
+"hotel"
+],
+[
+"die Jugendherberge, -n",
+"youth hostel"
+],
+[
+"das Hostel, -s",
+"hostel"
+],
+[
+"teuer",
+"expensive"
+],
+[
+"übernachten",
+"to stay overnight"
+],
+[
+"umziehen",
+"to move (house)"
+],
+[
+"bleiben",
+"to stay"
+],
+[
+"frei",
+"free, vacant"
+],
+[
+"Verstehst du?",
+"Do you understand?"
+]
+],
+"grammar": {
+"title": "Articles with places to live",
+"text": "Learn places to live with their articles: **das** Hotel, **die** Jugendherberge, **das** Hostel, **die** WG, **die** Wohnung, **das** Haus.\n\nUse the indefinite article when you first mention something: Ich suche **eine** Jugendherberge. Then the definite article: **Die** Jugendherberge ist nicht teuer.\n\nCompare prices with **nicht so … wie**: Ein Hostel ist **nicht so teuer wie** ein Hotel.",
+"ex": [
+[
+"Du kannst nur noch zwei Tage in der WG bleiben.",
+"You can only stay in the shared flat for two more days."
+],
+[
+"Eine Jugendherberge ist besser als ein Hotel.",
+"A youth hostel is better than a hotel."
+],
+[
+"Ein Hostel ist nicht so teuer wie ein Hotel.",
+"A hostel isn’t as expensive as a hotel."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "Why can Nico only stay in the shared flat for two more days?",
+"o": [
+"The flat has no heating and the others are going on holiday",
+"The rent is too high",
+"Nawin is coming back"
+],
+"a": 0,
+"why": "“Unsere Heizung ist kaputt … wir fahren dann in Urlaub.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What does Nico suggest first?",
+"o": [
+"A hotel",
+"A youth hostel",
+"Sleeping in the car"
+],
+"a": 0,
+"why": "“Ich suche mir ein Hotel.” Lisa says it is too expensive.",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What does Lisa recommend instead?",
+"o": [
+"A youth hostel or hostel",
+"A tent",
+"A hotel in the centre"
+],
+"a": 0,
+"why": "Jugendherbergen sind nicht so teuer wie ein Hotel.",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "“teuer” means:",
+"o": [
+"expensive",
+"cheap",
+"new"
+],
+"a": 0,
+"why": "teuer = expensive.",
+"src": "vocab"
+},
+{
+"t": "fill",
+"q": "Ich suche ___ Jugendherberge. (a youth hostel)",
+"a": [
+"eine"
+],
+"why": "die Jugendherberge is feminine.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "Which article goes with “Hotel”?",
+"o": [
+"das",
+"der",
+"die"
+],
+"a": 0,
+"why": "das Hotel.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“Ein Hostel ist nicht so teuer wie ein Hotel.” means:",
+"o": [
+"A hostel is cheaper than a hotel.",
+"A hostel is more expensive.",
+"They cost the same."
+],
+"a": 0,
+"why": "nicht so … wie = not as … as.",
+"src": "grammar"
+}
+]
+},
+"a1-26": {
+"goal": "Describe a flat: rooms, size, rent and how it feels, and use nicht to say what something is not.",
+"words": [
+[
+"das Wohnzimmer, -",
+"living room"
+],
+[
+"die Küche, -n",
+"kitchen"
+],
+[
+"das Bad, Bäder",
+"bathroom"
+],
+[
+"das Fenster, -",
+"window"
+],
+[
+"der Quadratmeter (m²)",
+"square metre"
+],
+[
+"die Miete, -n",
+"rent"
+],
+[
+"die Nebenkosten (pl.)",
+"extra costs (utilities)"
+],
+[
+"im Monat",
+"per month"
+],
+[
+"ruhig",
+"quiet"
+],
+[
+"hell / gemütlich",
+"bright / cosy"
+],
+[
+"Wie viele Zimmer hat die Wohnung?",
+"How many rooms does the flat have?"
+],
+[
+"Ich nehme das Zimmer!",
+"I’ll take the room!"
+]
+],
+"grammar": {
+"title": "Negation with nicht",
+"text": "**nicht** negates verbs, adjectives and whole statements. Its place:\n\n- with an adjective: **before** it – Das Zimmer ist **nicht** groß.\n- with a verb: usually at the **end** – Das Zimmer gefällt mir **nicht**.\n- **keine / kein** negate a noun with ein/eine (or no article): Es gibt **keine** Autos.\n\nRemember: kein + noun, nicht + everything else.",
+"ex": [
+[
+"Das Zimmer ist nicht teuer.",
+"The room is not expensive."
+],
+[
+"Es ist sehr ruhig. Keine Autos.",
+"It’s very quiet. No cars."
+],
+[
+"Die Miete kostet mit Nebenkosten 400 Euro im Monat.",
+"The rent is 400 euros a month including extra costs."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "How many rooms does the flat have?",
+"o": [
+"Five rooms, a kitchen and a bathroom",
+"Three rooms and two bathrooms",
+"Two rooms and a kitchen"
+],
+"a": 0,
+"why": "“Es gibt fünf Zimmer, eine Küche und ein Bad.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "How many square metres does Nawin’s room have, according to Lisa?",
+"o": [
+"11",
+"10",
+"20"
+],
+"a": 0,
+"why": "Nawin thinks ten; Lisa corrects: “elf Quadratmeter”.",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "How much is the rent?",
+"o": [
+"400 euros a month including extra costs",
+"400 euros a year",
+"40 euros a week"
+],
+"a": 0,
+"why": "“400 Euro im Monat.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What does Marvin say at the end of the visit?",
+"o": [
+"“Ich nehme das Zimmer!”",
+"“Ich suche eine andere WG.”",
+"“Das Zimmer ist zu teuer.”"
+],
+"a": 0,
+"why": "But other applicants are still coming.",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "“ruhig” means:",
+"o": [
+"quiet",
+"dirty",
+"big"
+],
+"a": 0,
+"why": "ruhig = quiet.",
+"src": "vocab"
+},
+{
+"t": "fill",
+"q": "Das Zimmer ist ___ teuer. (not)",
+"a": [
+"nicht"
+],
+"why": "nicht before the adjective.",
+"src": "grammar"
+},
+{
+"t": "fill",
+"q": "Es gibt hier ___ Autos. (no cars)",
+"a": [
+"keine"
+],
+"why": "plural noun: keine.",
+"src": "grammar"
+}
+]
+},
+"a1-27": {
+"goal": "Describe furniture and say what is too big, too old or not nice, using zu + adjective.",
+"words": [
+[
+"das Sofa, -s",
+"sofa"
+],
+[
+"der Sessel, -",
+"armchair"
+],
+[
+"der Tisch, -e",
+"table"
+],
+[
+"der Stuhl, Stühle",
+"chair"
+],
+[
+"der Schrank, Schränke",
+"cupboard, wardrobe"
+],
+[
+"der Teppich, -e",
+"carpet"
+],
+[
+"das Kissen, -",
+"cushion"
+],
+[
+"die Lampe, -n",
+"lamp"
+],
+[
+"die Wand, Wände",
+"wall"
+],
+[
+"die Ecke, -n",
+"corner"
+],
+[
+"alt / neu",
+"old / new"
+],
+[
+"viel zu groß",
+"far too big"
+]
+],
+"grammar": {
+"title": "zu + adjective (too …)",
+"text": "**zu** before an adjective means “too” – more than is good:\n\n- Der Schrank ist **zu groß**. (too big)\n- Der Tisch ist **zu alt**.\n- Das Zimmer ist **zu klein**.\n\nIntensify with **viel zu** (far too) or **sehr** (very): viel zu groß, sehr schön. **sehr** is positive, **zu** is negative.",
+"ex": [
+[
+"Die Stühle sind alt und der Schrank ist viel zu groß.",
+"The chairs are old and the cupboard is far too big."
+],
+[
+"Der Tisch, der ist nicht schön.",
+"The table – it’s not nice."
+],
+[
+"Das Sofa stellen wir an die Wand.",
+"We’ll put the sofa against the wall."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "What does Wolfgang say is far too big?",
+"o": [
+"The cupboard (Schrank)",
+"The sofa",
+"The table"
+],
+"a": 0,
+"why": "“Der Schrank ist viel zu groß.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What would Wolfgang put in the corner?",
+"o": [
+"His drums",
+"His bed",
+"A plant"
+],
+"a": 0,
+"why": "“In die Ecke kommt mein Schlagzeug, die Drums.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What does everybody call Wolfgang?",
+"o": [
+"Wolf",
+"Wolli",
+"Gang"
+],
+"a": 0,
+"why": "“Alle sagen nur Wolf.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What do Lisa and the others say at the end?",
+"o": [
+"“Wir melden uns bei dir.”",
+"“Du kannst sofort einziehen.”",
+"“Das Zimmer ist vergeben.”"
+],
+"a": 0,
+"why": "Polite way to say they won’t choose him: we’ll get in touch.",
+"src": "video"
+},
+{
+"t": "fill",
+"q": "Der Schrank ist ___ groß. (too)",
+"a": [
+"zu",
+"viel zu"
+],
+"why": "zu = too.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "Which is a piece of furniture for sitting?",
+"o": [
+"der Sessel",
+"der Teppich",
+"das Kissen"
+],
+"a": 0,
+"why": "der Sessel = armchair.",
+"src": "vocab"
+},
+{
+"t": "mc",
+"q": "“Die Stühle sind alt.” means:",
+"o": [
+"The chairs are old.",
+"The chairs are new.",
+"The chairs are broken."
+],
+"a": 0,
+"why": "alt = old.",
+"src": "vocab"
+}
+]
+},
+"a1-28": {
+"goal": "Say what belongs to whom with mein, dein, unser … and ask polite questions about a shared flat.",
+"words": [
+[
+"mein / dein",
+"my / your (informal)"
+],
+[
+"sein / ihr",
+"his / her"
+],
+[
+"unser / euer",
+"our / your (pl.)"
+],
+[
+"Das ist mein Zimmer.",
+"That’s my room."
+],
+[
+"Das ist meine.",
+"That’s mine (feminine)."
+],
+[
+"das Bad",
+"bathroom"
+],
+[
+"duschen",
+"to shower"
+],
+[
+"sauber / dreckig",
+"clean / dirty"
+],
+[
+"putzen",
+"to clean"
+],
+[
+"der Nachbar, -n",
+"neighbour"
+],
+[
+"laut / nett",
+"loud / nice"
+],
+[
+"Was für eine Katastrophe!",
+"What a disaster!"
+]
+],
+"grammar": {
+"title": "Possessive determiners: mein, dein, sein, ihr, unser …",
+"text": "Possessive determiners show who something belongs to:\n\n- ich → **mein** | du → **dein**\n- er → **sein** | sie → **ihr**\n- wir → **unser** | ihr → **euer**\n- sie/Sie → **ihr / Ihr**\n\nThey take the same endings as **ein / kein**: mein Zimmer (neuter), mein Bad, **meine** Küche (feminine), **meine** Stifte (plural). “Ist das auch deine?” – “Nein, das ist meine.” (deine / meine stand for a feminine noun).",
+"ex": [
+[
+"Das ist mein Zimmer. Vielleicht bald dein Zimmer?",
+"This is my room. Maybe soon your room?"
+],
+[
+"Ist das mein Bad? – Nein, wir haben nur ein Bad.",
+"Is that my bathroom? – No, we only have one bathroom."
+],
+[
+"Wie sind die Nachbarn? Die sind nicht zu laut, oder?",
+"What are the neighbours like? They aren’t too loud, are they?"
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "What does Ulla ask about the flat’s cleanliness?",
+"o": [
+"How often the flatmates clean",
+"Whether there is a cleaner",
+"Whether the kitchen has a dishwasher"
+],
+"a": 0,
+"why": "“Wie oft putzt ihr denn?”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What does Sebastian say about the neighbours – as a joke?",
+"o": [
+"They are super loud and not nice",
+"They are quiet and friendly",
+"They have a dog"
+],
+"a": 0,
+"why": "“Die sind superlaut und nicht nett!”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "How many bathrooms does the flat have?",
+"o": [
+"One – everybody showers there",
+"Two",
+"Three"
+],
+"a": 0,
+"why": "“Wir haben nur ein Bad. Hier duschen alle.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What does Lisa suddenly remember at the end?",
+"o": [
+"The language school (she is late)",
+"Emma’s birthday",
+"Nawin’s flight"
+],
+"a": 0,
+"why": "“Die Sprachschule … Oh nein!”",
+"src": "video"
+},
+{
+"t": "fill",
+"q": "Das ist ___ Zimmer. (my)",
+"a": [
+"mein"
+],
+"why": "mein Zimmer.",
+"src": "grammar"
+},
+{
+"t": "fill",
+"q": "Das ist ___ Küche. (our)",
+"a": [
+"unsere"
+],
+"why": "feminine Küche: unsere.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“sauber” is the opposite of:",
+"o": [
+"dreckig",
+"ruhig",
+"teuer"
+],
+"a": 0,
+"why": "sauber = clean, dreckig = dirty.",
+"src": "vocab"
+}
+]
+}
+}

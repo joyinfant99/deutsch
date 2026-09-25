@@ -1,0 +1,615 @@
+{
+"a1-29": {
+"goal": "Plan a day and say when things happen: um neun, von acht bis zwölf, and ask “Wann …?”.",
+"words": [
+[
+"Wann beginnt der Kurs? – Um neun.",
+"When does the course start? – At nine."
+],
+[
+"von … bis …",
+"from … to …"
+],
+[
+"der Termin, -e",
+"appointment"
+],
+[
+"der Arzt, Ärzte",
+"doctor"
+],
+[
+"die Uni (Universität)",
+"university"
+],
+[
+"das Training, -s",
+"training"
+],
+[
+"das Mittagessen",
+"lunch"
+],
+[
+"der Unterricht",
+"lesson, class"
+],
+[
+"krank",
+"ill"
+],
+[
+"die Kollegin, -nen",
+"colleague (female)"
+],
+[
+"aufpassen auf",
+"to look after"
+],
+[
+"Tut mir leid.",
+"I’m sorry."
+]
+],
+"grammar": {
+"title": "Time: the 12-hour clock",
+"text": "Ask with **Wann …?** (when) or **Wie spät ist es?** (what time is it). For a point in time use **um** + hour: **Um neun** beginnt der Kurs. For a period use **von … bis …**: **von acht bis zwölf**.\n\nIn everyday talk Germans often say only the number: um neun, um zwei, um halb sieben (6:30).\n\nThe hour numbers you need: eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn, elf, zwölf.",
+"ex": [
+[
+"Ich arbeite morgen von acht bis zwölf.",
+"Tomorrow I work from eight to twelve."
+],
+[
+"Nina hat morgen um acht einen Termin beim Arzt.",
+"Tomorrow at eight Nina has a doctor’s appointment."
+],
+[
+"Ich bin von neun bis fünf in der Uni.",
+"I’m at university from nine to five."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "Why does Lisa need someone to look after Emma tomorrow?",
+"o": [
+"She has to teach a colleague’s class at 9 because Manja is ill",
+"She has a doctor’s appointment",
+"She is going on holiday"
+],
+"a": 0,
+"why": "“Meine Kollegin Manja ist krank. Ich mache morgen Manjas Unterricht.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "When does Nawin have university tomorrow?",
+"o": [
+"From nine to five",
+"From eight to twelve",
+"From two to four"
+],
+"a": 0,
+"why": "“Ich bin von neun bis fünf in der Uni.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What does Sebastian do from two to four?",
+"o": [
+"Volleyball training",
+"Work",
+"A doctor’s visit"
+],
+"a": 0,
+"why": "“Das Training ist von zwei bis vier.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Who finally agrees to look after Emma?",
+"o": [
+"Nico",
+"Nina",
+"Sebastian"
+],
+"a": 0,
+"why": "“Nico, passt du morgen auf Emma auf?” – “Ja! Gerne!”",
+"src": "video"
+},
+{
+"t": "fill",
+"q": "Der Kurs beginnt ___ neun. (at nine)",
+"a": [
+"um"
+],
+"why": "um + hour.",
+"src": "grammar"
+},
+{
+"t": "fill",
+"q": "Ich arbeite von acht ___ zwölf.",
+"a": [
+"bis"
+],
+"why": "von … bis …",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“krank” means:",
+"o": [
+"ill",
+"angry",
+"late"
+],
+"a": 0,
+"why": "krank = ill.",
+"src": "vocab"
+}
+]
+},
+"a1-30": {
+"goal": "Describe a daily routine with separable verbs (aufstehen, fernsehen, aufräumen) and words like immer, manchmal, oft.",
+"words": [
+[
+"aufstehen",
+"to get up"
+],
+[
+"fernsehen",
+"to watch TV"
+],
+[
+"aufräumen",
+"to tidy up"
+],
+[
+"die Zähne putzen",
+"to brush one’s teeth"
+],
+[
+"das Frühstück / das Mittagessen / das Abendessen",
+"breakfast / lunch / dinner"
+],
+[
+"die Hausaufgaben (pl.)",
+"homework"
+],
+[
+"immer / oft / manchmal",
+"always / often / sometimes"
+],
+[
+"normalerweise",
+"normally"
+],
+[
+"das Gemüse",
+"vegetables"
+],
+[
+"das Müsli",
+"muesli"
+],
+[
+"die Flöte, -n",
+"flute"
+],
+[
+"das Chaos",
+"chaos"
+]
+],
+"grammar": {
+"title": "Separable verbs",
+"text": "Many German verbs have a **prefix that separates**: **auf|stehen**, **fern|sehen**, **auf|räumen**. In a main clause the verb is in second place and the prefix goes to the **end**:\n\n- Emma **steht** um halb sieben **auf**.\n- Du **siehst** nicht **fern**.\n- Nach dem Spielen **räumst** du **auf**.\n\nWith a modal verb or in the infinitive they stay together: Ich möchte aufstehen.",
+"ex": [
+[
+"Emma steht um halb sieben auf.",
+"Emma gets up at half past six."
+],
+[
+"Von vier bis halb fünf übt sie Flöte.",
+"From four to half past four she practises the flute."
+],
+[
+"Und du siehst nicht fern.",
+"And you don’t watch TV."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "When does Emma get up?",
+"o": [
+"At half past six",
+"At seven",
+"At half past seven"
+],
+"a": 0,
+"why": "“Emma steht um halb sieben auf.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What does Emma normally eat for breakfast?",
+"o": [
+"Muesli with milk",
+"Bread with cheese",
+"Pancakes"
+],
+"a": 0,
+"why": "“Zum Frühstück isst Emma normalerweise Müsli mit Milch.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What must Emma do between four and half past four?",
+"o": [
+"Practise the flute",
+"Do homework",
+"Watch TV"
+],
+"a": 0,
+"why": "“Von vier bis halb fünf übt sie Flöte.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What is forbidden during the day?",
+"o": [
+"Watching TV",
+"Playing outside",
+"Eating vegetables"
+],
+"a": 0,
+"why": "“Und du siehst nicht fern.”",
+"src": "video"
+},
+{
+"t": "fill",
+"q": "Emma ___ um halb sieben auf. (aufstehen)",
+"a": [
+"steht"
+],
+"why": "aufstehen → sie steht … auf.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "Which sentence is correct?",
+"o": [
+"Du räumst dein Zimmer auf.",
+"Du aufräumst dein Zimmer.",
+"Du räumst auf dein Zimmer."
+],
+"a": 0,
+"why": "The prefix goes to the end.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“manchmal” means:",
+"o": [
+"sometimes",
+"never",
+"always"
+],
+"a": 0,
+"why": "immer = always, oft = often, manchmal = sometimes.",
+"src": "vocab"
+}
+]
+},
+"a1-31": {
+"goal": "Talk about what you do on which day of the week: “Am Montag spiele ich Fußball.”",
+"words": [
+[
+"der Montag / Dienstag / Mittwoch",
+"Monday / Tuesday / Wednesday"
+],
+[
+"der Donnerstag / Freitag",
+"Thursday / Friday"
+],
+[
+"der Samstag / Sonntag",
+"Saturday / Sunday"
+],
+[
+"am Montag",
+"on Monday"
+],
+[
+"Fußball spielen",
+"to play football"
+],
+[
+"das Auto waschen",
+"to wash the car"
+],
+[
+"das Zimmer aufräumen",
+"to tidy the room"
+],
+[
+"kochen",
+"to cook"
+],
+[
+"lesen",
+"to read"
+],
+[
+"ins Bett gehen",
+"to go to bed"
+],
+[
+"die Ferien (pl.)",
+"holidays (school)"
+],
+[
+"fertig",
+"finished, ready"
+]
+],
+"grammar": {
+"title": "Prepositions of time: am + day",
+"text": "For days of the week use **am** (an + dem): **am Montag**, **am Dienstag**, **am Wochenende** (on the weekend). The verb stays in second position, so the time expression can start the sentence: **Am Montag spiele ich** Fußball.\n\nThe days are masculine: **der** Montag, **der** Dienstag … Only **das** Wochenende is neuter.",
+"ex": [
+[
+"Am Montag spiele ich mit Tante Lisa Fußball.",
+"On Monday I play football with Aunt Lisa."
+],
+[
+"Am Samstag stehe ich spät auf.",
+"On Saturday I get up late."
+],
+[
+"Am Sonntag koche ich mit Nico Paella.",
+"On Sunday I cook paella with Nico."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "What does Emma say she does on Wednesday?",
+"o": [
+"Washes the car with Opa",
+"Plays football",
+"Goes to music class"
+],
+"a": 0,
+"why": "“Am Mittwoch wasche ich mit Opa das Auto.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What will Emma and Nico cook on Sunday?",
+"o": [
+"Paella",
+"Pizza",
+"Soup"
+],
+"a": 0,
+"why": "“Am Sonntag koche ich mit Nico Paella.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "On which day does Emma say she tidies her room?",
+"o": [
+"Thursday",
+"Friday",
+"Monday"
+],
+"a": 0,
+"why": "Nico answers “Das glaube ich nicht!”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What does Emma do before she goes to bed?",
+"o": [
+"Reads a book for school",
+"Practises the flute",
+"Calls her mother"
+],
+"a": 0,
+"why": "“Ich lese gleich noch ein Buch für die Schule.”",
+"src": "video"
+},
+{
+"t": "fill",
+"q": "___ Freitag sehe ich fern. (on Friday)",
+"a": [
+"Am"
+],
+"why": "am + day.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "Which article goes with “Montag”?",
+"o": [
+"der",
+"die",
+"das"
+],
+"a": 0,
+"why": "der Montag.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“das Wochenende” means:",
+"o": [
+"the weekend",
+"the week",
+"the workday"
+],
+"a": 0,
+"why": "Samstag und Sonntag.",
+"src": "vocab"
+}
+]
+},
+"a1-32": {
+"goal": "Say in which order you do things with zuerst, dann, danach and später, and say what you feel like doing.",
+"words": [
+[
+"zuerst",
+"first"
+],
+[
+"dann / danach",
+"then / after that"
+],
+[
+"später",
+"later"
+],
+[
+"zuletzt",
+"finally"
+],
+[
+"das Wochenende, -n",
+"weekend"
+],
+[
+"ausschlafen",
+"to sleep in"
+],
+[
+"frühstücken",
+"to have breakfast"
+],
+[
+"die Hausaufgaben machen",
+"to do homework"
+],
+[
+"Ich habe Lust auf Eis.",
+"I fancy ice cream."
+],
+[
+"Keine Lust!",
+"I don’t feel like it!"
+],
+[
+"das Kino, -s",
+"cinema"
+],
+[
+"Mir ist schlecht.",
+"I feel sick."
+]
+],
+"grammar": {
+"title": "Sequence adverbs: zuerst, dann, danach",
+"text": "To tell the order of events, use **zuerst** (first), **dann** (then), **danach** (after that), **später** (later) and **zuletzt** (last). They occupy first position, so the verb comes second and the subject after it:\n\n- **Zuerst machen** wir die Hausaufgaben.\n- **Dann räumen** wir auf.\n- **Danach sehen** wir fern.\n\nSay what you feel like: **Ich habe Lust auf …** / **Ich habe keine Lust.**",
+"ex": [
+[
+"Zuerst machen wir die Hausaufgaben, dann räumen wir auf und dann sehen wir fern.",
+"First we do the homework, then we tidy up and then we watch TV."
+],
+[
+"Wir schlafen lange aus, dann gehen wir ins Kino.",
+"We sleep in, then we go to the cinema."
+],
+[
+"Ich habe Lust auf Eis!",
+"I feel like ice cream!"
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "What does Emma want to do at the weekend?",
+"o": [
+"Sleep in, have breakfast, go to the cinema",
+"Go to the zoo",
+"Visit Yara"
+],
+"a": 0,
+"why": "“… lange ausschlafen, Frühstück, ins Kino.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What does Emma say when Nico tells her to do her homework?",
+"o": [
+"“Keine Lust! Es sind Ferien!”",
+"“Gern!”",
+"“Morgen.”"
+],
+"a": 0,
+"why": "Keine Lust = no desire.",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "In which order does Nico say they do things?",
+"o": [
+"Homework, tidy up, watch TV",
+"Watch TV, homework, tidy up",
+"Tidy up, TV, homework"
+],
+"a": 0,
+"why": "“Zuerst … dann … dann …”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "At the end, Lisa finds two large empty tubs in the bin. What are they?",
+"o": [
+"Ice cream tubs",
+"Milk cartons",
+"Pizza boxes"
+],
+"a": 0,
+"why": "Emma: “Ich hab Lust auf Eis! Oh, mir ist schlecht!”",
+"src": "video"
+},
+{
+"t": "fill",
+"q": "___ machen wir die Hausaufgaben, dann räumen wir auf. (first)",
+"a": [
+"Zuerst"
+],
+"why": "zuerst = first.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "Which sentence is correct?",
+"o": [
+"Danach sehen wir fern.",
+"Danach wir sehen fern.",
+"Danach fern sehen wir."
+],
+"a": 0,
+"why": "After danach, the verb comes second.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“Ich habe keine Lust.” means:",
+"o": [
+"I don’t feel like it.",
+"I have no time.",
+"I have no money."
+],
+"a": 0,
+"why": "die Lust = desire.",
+"src": "vocab"
+}
+]
+}
+}

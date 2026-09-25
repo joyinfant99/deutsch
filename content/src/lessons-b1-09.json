@@ -1,0 +1,146 @@
+{
+"b1-37": {
+  "goal": "Discuss career choices and ask about things with wo(r)- question words (wovon, womit, wofür, worauf, worum), and answer with da(r)- words.",
+  "words": [
+    ["die Berufswahl", "choice of career"],
+    ["die Ausbildung / das Studium", "vocational training / university studies"],
+    ["die Schulden abbezahlen", "to pay off debts"],
+    ["entlassen – entließ – entlassen", "to dismiss"],
+    ["der Auftrag, Aufträge", "job, order"],
+    ["sich interessieren für + Akk.", "to be interested in"],
+    ["gemeinsam anrufen", "to call together"],
+    ["sich gegenseitig helfen", "to help each other"],
+    ["reich werden", "to get rich"],
+    ["Es wird Zeit, dass …", "It’s time that …"],
+    ["Wenn es sein muss.", "If it has to be."],
+    ["die Arbeit gefällt mir", "I like the work"]
+  ],
+  "grammar": {
+    "title": "Question words with wo(r)-",
+    "text": "For **things and ideas** (not people) ask with **wo(r) + preposition**: **wo** + consonant, **wor** + vowel:\n\n- **wovon** leben? – Von Aufträgen. → **davon**\n- **womit** Geld verdienen? – Mit Fahrrädern. → **damit**\n- **wofür** brauchst du das? – Für die Prüfung. → **dafür**\n- **worum** geht es? – Um meine Zukunft. → **darum**\n- **worauf** wartest du? – Auf die Antwort. → **darauf**\n- **woran** denkst du? → **daran**, **worüber** sprecht ihr? → **darüber**\n\nFor **people** use preposition + **wen/wem**: **Auf wen** wartest du? **Mit wem** sprichst du?",
+    "ex": [
+      ["Aber wovon willst du leben? Womit willst du dein Geld verdienen?", "But what will you live on? What will you earn your money with?"],
+      ["Wofür brauchst du diese Ausbildung?", "What do you need this training for?"],
+      ["Okay, worum geht es hier eigentlich?", "OK, what is this actually about?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was musste Pepe verkaufen?","o":["Die Büros seiner Firma","Sein Haus","Seine App"],"a":0,"why":"“Ich musste die Büros verkaufen.”","src":"video"},
+    {"t":"mc","q":"Wo arbeitet Pepe jetzt?","o":["Zu Hause oder in Cafés","In Yaras Laden","Im Ausland"],"a":0,"why":"“Zu Hause oder in Cafés.”","src":"video"},
+    {"t":"mc","q":"Was schlägt Pepe Nico vor?","o":["Nach der Sprachprüfung zu studieren","Auszuwandern","Bei ihm zu arbeiten (ohne Ausbildung)"],"a":0,"why":"“… kannst du doch auch studieren.”","src":"video"},
+    {"t":"mc","q":"Was ist Nico wichtig?","o":["Dass ihm die Arbeit gefällt","Reich zu werden","Viel Freizeit"],"a":0,"why":"“Ich muss nicht reich werden. Ich will, dass mir meine Arbeit gefällt.”","src":"video"},
+    {"t":"fill","q":"___ willst du leben? (from what)","a":["Wovon"],"why":"von + wo(r) → wovon.","src":"grammar"},
+    {"t":"fill","q":"___ geht es hier eigentlich? (what about)","a":["Worum"],"why":"um → worum.","src":"grammar"},
+    {"t":"mc","q":"Frage nach einer Person: „___ wartest du?“","o":["Auf wen","Worauf","Wofür"],"a":0,"why":"Person → Präposition + wen.","src":"grammar"},
+    {"t":"mc","q":"“die Schulden abbezahlen” bedeutet:","o":["to pay off debts","to pay for school","to be in debt"],"a":0,"why":"Schulden abbezahlen.","src":"vocab"}
+  ]
+},
+"b1-38": {
+  "goal": "Understand information about retraining (Umschulung), recognition of certificates and further education, and use the passive perfect (ist anerkannt worden).",
+  "words": [
+    ["die Weiterbildung / die Umschulung", "further education / retraining"],
+    ["das Zeugnis anerkennen", "to recognise a certificate"],
+    ["die Agentur für Arbeit", "employment agency"],
+    ["der Abschluss, Abschlüsse", "qualification"],
+    ["soziale Einrichtungen (pl.)", "social institutions"],
+    ["die Lebensmittel (pl.)", "food"],
+    ["übrig bleiben", "to be left over"],
+    ["liefern", "to deliver"],
+    ["langweilig werden", "to get boring"],
+    ["etwas Neues lernen", "to learn something new"],
+    ["reparieren", "to repair"],
+    ["Ich helf dir!", "I’ll help you!"]
+  ],
+  "grammar": {
+    "title": "Passive perfect and Umschulung vocabulary",
+    "text": "**Passiv Perfekt:** **sein** + **Partizip II** + **worden** (not geworden!):\n\n- Mein spanischer Abschluss **ist anerkannt worden**. (has been recognised)\n- Die Lebensmittel **sind geliefert worden**.\n- Die Kisten **wurden** geliefert. (Präteritum alternative)\n\nInformation words: **die Weiterbildung** (continuing education while working), **die Umschulung** (retraining for a new profession), **die Fortbildung**, **der Abschluss**, **die Anerkennung**.\n\n**Relative clauses:** Wir liefern die Lebensmittel, **die** am Wochenende **übrig geblieben sind**, an Institutionen, **die** sie gebrauchen **können**.",
+    "ex": [
+      ["Mein spanischer Abschluss ist anerkannt worden.", "My Spanish qualification has been recognised."],
+      ["Wir liefern die Lebensmittel, die übrig geblieben sind, an soziale Institutionen.", "We deliver the food that was left over to social institutions."],
+      ["Wenn es langweilig wird, machst du einfach eine Umschulung.", "If it gets boring you just do a retraining."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was machen Max und Tarek mit den übrig gebliebenen Lebensmitteln?","o":["Sie liefern sie an soziale Institutionen","Sie werfen sie weg","Sie verkaufen sie"],"a":0,"why":"“Wir liefern die Lebensmittel … an soziale Institutionen.”","src":"video"},
+    {"t":"mc","q":"Was ist Nicos gute Neuigkeit?","o":["Sein spanischer Abschluss wurde anerkannt","Er hat den Job bei Yara","Er hat die B1-Prüfung bestanden"],"a":0,"why":"“Mein spanischer Abschluss ist anerkannt worden.”","src":"video"},
+    {"t":"mc","q":"Was ist eine Umschulung?","o":["Man lernt einen neuen Beruf","Man lernt nur eine Sprache","Man wiederholt die Schule"],"a":0,"why":"“Du lernst etwas Neues.”","src":"video"},
+    {"t":"mc","q":"Wann hat Nico als Kind schon gern etwas gemacht?","o":["Sachen repariert","Kuchen gebacken","Bilder gemalt"],"a":0,"why":"“… hab ich auch schon gerne Sachen repariert.”","src":"video"},
+    {"t":"fill","q":"Mein Abschluss ist anerkannt ___. (worden)","a":["worden"],"why":"Passiv Perfekt: sein + Partizip II + worden.","src":"grammar"},
+    {"t":"mc","q":"Welche Form ist richtig?","o":["Das Paket ist geliefert worden.","Das Paket ist geliefert geworden.","Das Paket hat geliefert worden."],"a":0,"why":"Passiv: worden.","src":"grammar"},
+    {"t":"mc","q":"“die Umschulung” ist:","o":["retraining for a new job","a school change","a school uniform"],"a":0,"why":"sich umschulen lassen.","src":"vocab"},
+    {"t":"mc","q":"“anerkennen” bedeutet:","o":["to recognise (officially)","to admire only","to forget"],"a":0,"why":"Abschlüsse anerkennen.","src":"vocab"}
+  ]
+},
+"b1-39": {
+  "goal": "Talk about your internship: tasks, competition, chances, and use expressions of probability (es ist unwahrscheinlich, dass …).",
+  "words": [
+    ["das Praktikum, Praktika", "internship"],
+    ["die Architektur / der Architekt", "architecture / architect"],
+    ["der Entwurf, Entwürfe", "design, draft"],
+    ["die Brücke, -n", "bridge"],
+    ["der Wettbewerb, -e", "competition"],
+    ["die Projektausschreibung", "call for project proposals"],
+    ["teilnehmen an + Dat.", "to take part in"],
+    ["der Gewinnerentwurf", "winning design"],
+    ["unwahrscheinlich / wahrscheinlich", "unlikely / likely"],
+    ["zufrieden sein mit + Dat.", "to be satisfied with"],
+    ["anstrengend", "exhausting"],
+    ["gespannt sein auf + Akk.", "to look forward to (with curiosity)"]
+  ],
+  "grammar": {
+    "title": "Talking about chances and probability",
+    "text": "Express how likely something is:\n\n- **Es ist wahrscheinlich / unwahrscheinlich / möglich / sicher, dass** … (dass-clause, verb at the end): Es ist **sehr unwahrscheinlich, dass ich gewinne**.\n- **Vielleicht / wahrscheinlich / bestimmt / sicher / kaum:** Ich gewinne **wahrscheinlich** nicht.\n- **Ich habe eine (gute) Chance, zu …** – Es ist ein Anfang!\n\nVerbs with prepositions: **teilnehmen an** + Dat. (Wir nehmen **an einem** Wettbewerb teil), **gespannt sein auf** + Akk. (Ich bin gespannt **auf** deine Brücke), **zufrieden sein mit** + Dat. (Mein Chef ist **mit mir** zufrieden).",
+    "ex": [
+      ["Wir nehmen gerade an einer Projektausschreibung teil.", "We’re currently taking part in a call for project proposals."],
+      ["Es ist also sehr unwahrscheinlich, dass ich gewinne.", "So it’s very unlikely that I’ll win."],
+      ["Ich bin schon sehr gespannt auf deine Brücke.", "I’m very curious about your bridge."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Warum ist Selma gestresst?","o":["Ihr Praktikum ist anstrengend, macht aber Spaß","Sie hat Streit im Praktikum","Sie hat keine Arbeit"],"a":0,"why":"“… es macht auch großen Spaß! Architektur ist superinteressant.”","src":"video"},
+    {"t":"mc","q":"Woran nimmt Selmas Büro teil?","o":["An einem Wettbewerb um den Entwurf einer neuen Brücke","An einer Messe","An einem Sportfest"],"a":0,"why":"“Es geht um den Entwurf für eine neue Brücke.”","src":"video"},
+    {"t":"mc","q":"Wie schätzt Selma ihre Chancen ein?","o":["Sehr unwahrscheinlich, dass sie gewinnt","Sehr gut","Sicher"],"a":0,"why":"“Es ist also sehr unwahrscheinlich, dass ich gewinne.”","src":"video"},
+    {"t":"mc","q":"Wie reagiert Lisa?","o":["Sie findet es einen guten Anfang und ist gespannt","Sie ist enttäuscht","Sie rät zum Aufgeben"],"a":0,"why":"“Aber es ist ein Anfang! … Ich bin schon sehr gespannt.”","src":"video"},
+    {"t":"fill","q":"Es ist unwahrscheinlich, ___ ich gewinne. (that)","a":["dass"],"why":"dass-Satz.","src":"grammar"},
+    {"t":"fill","q":"Wir nehmen ___ einem Wettbewerb teil. (an)","a":["an"],"why":"teilnehmen an + Dat.","src":"grammar"},
+    {"t":"mc","q":"“der Wettbewerb” ist:","o":["a competition","a weather report","a bet on the web"],"a":0,"why":"Wettbewerb für Architekten.","src":"vocab"},
+    {"t":"mc","q":"“der Entwurf” ist:","o":["a design / draft","an expression","an eviction"],"a":0,"why":"Entwurf für eine Brücke.","src":"vocab"}
+  ]
+},
+"b1-40": {
+  "goal": "Talk about studies, degrees and career paths: employed (angestellt) vs self-employed (selbstständig), with superlatives before nouns.",
+  "words": [
+    ["der Abschluss / der Studiengang", "degree / course of study"],
+    ["der Jahrgang", "year group"],
+    ["die Studiengebühren (pl.)", "tuition fees"],
+    ["abbezahlen", "to pay off"],
+    ["angestellt sein", "to be employed"],
+    ["selbstständig / sich selbstständig machen", "self-employed / to become self-employed"],
+    ["der eigene Chef", "one’s own boss"],
+    ["das Jobangebot", "job offer"],
+    ["die Redakteurin", "editor (f)"],
+    ["Aufträge annehmen", "to accept jobs"],
+    ["unsicher", "insecure, uncertain"],
+    ["Gratuliere!", "Congratulations!"]
+  ],
+  "grammar": {
+    "title": "Superlative before nouns; pros and cons",
+    "text": "The **superlative** before a noun takes adjective endings: **der beste Abschluss**, **mit dem besten Abschluss im gesamten Jahrgang** (dative: -en), **das beste Angebot**, **die besten Fotos**.\n\nForms: gut – besser – **best-**; viel – mehr – **meist-**; hoch – höher – **höchst-**; nah – näher – **nächst-**.\n\nTalk about **pros and cons** of self-employment: **Vorteile:** mein eigener Chef sein, Aufträge selbst wählen. **Nachteile:** unsicher, vielleicht keine Aufträge. Use **wenn … dann**: **Wenn** ich selbstständig arbeite, **dann** bin ich mein eigener Chef. **erst wenn / erst mal** for stages: Dein Studium ist erst beendet, **wenn** du die Gebühren abbezahlt hast.",
+    "ex": [
+      ["Der Mann mit dem besten Abschluss im gesamten Jahrgang.", "The man with the best degree in the whole year."],
+      ["Wenn ich selbstständig arbeite, bin ich mein eigener Chef.", "If I’m self-employed I’m my own boss."],
+      ["Es kann auch sein, dass du gar keine Aufträge bekommst.", "It may also be that you get no jobs at all."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was ist Sebastians gute Neuigkeit?","o":["Er hat den besten Abschluss seines Jahrgangs","Er hat im Lotto gewonnen","Er zieht aus"],"a":0,"why":"“Der Mann mit dem besten Abschluss im gesamten Jahrgang.”","src":"video"},
+    {"t":"mc","q":"Welches Jobangebot hat er?","o":["Von einer Redakteurin der Zeitschrift","Von einer Bank","Von einer Schule"],"a":0,"why":"“Die Redakteurin hat mir schon einen Job angeboten.”","src":"video"},
+    {"t":"mc","q":"Was bedeutet „selbstständig machen“?","o":["Man ist sein eigener Chef","Man arbeitet für die Regierung","Man arbeitet nur nachts"],"a":0,"why":"“… dann bin ich mein eigener Chef.”","src":"video"},
+    {"t":"mc","q":"Was ist das Risiko der Selbstständigkeit?","o":["Man bekommt vielleicht keine Aufträge","Man darf nicht frei arbeiten","Man hat zu viel Freizeit"],"a":0,"why":"“… es kann auch sein, dass du gar keine Aufträge bekommst.”","src":"video"},
+    {"t":"fill","q":"Er hat den ___ Abschluss des Jahrgangs. (bester – masc. acc.: best-)","a":["besten"],"why":"den besten Abschluss.","src":"grammar"},
+    {"t":"fill","q":"mit dem ___ Ergebnis (dative, bester: best-)","a":["besten"],"why":"Dativ: -en.","src":"grammar"},
+    {"t":"mc","q":"“angestellt” ist das Gegenteil von:","o":["selbstständig","freundlich","gestellt"],"a":0,"why":"angestellt vs. selbstständig.","src":"vocab"},
+    {"t":"mc","q":"“die Studiengebühren” sind:","o":["tuition fees","study places","exam results"],"a":0,"why":"Gebühren = fees.","src":"vocab"}
+  ]
+}
+}

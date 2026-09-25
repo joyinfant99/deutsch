@@ -1,0 +1,146 @@
+{
+"a2-13": {
+  "goal": "Talk about household chores in a shared flat, use -eln verbs (bügeln) and give group instructions with the ihr-imperative.",
+  "words": [
+    ["die Wohngemeinschaft (WG), -en", "shared flat"],
+    ["saugen / staubsaugen", "to vacuum"],
+    ["den Müll rausbringen", "to take out the rubbish"],
+    ["aufräumen", "to tidy up"],
+    ["das Badezimmer putzen", "to clean the bathroom"],
+    ["die Pfandflaschen (pl.)", "deposit bottles"],
+    ["bügeln", "to iron"],
+    ["einziehen", "to move in"],
+    ["Ist das euer Ernst?", "Are you serious?"],
+    ["Das Chaos", "the chaos"],
+    ["Tut uns leid.", "We’re sorry."],
+    ["Zum Glück!", "Luckily!"]
+  ],
+  "grammar": {
+    "title": "Conjugation of verbs ending in -eln, and the ihr-imperative",
+    "text": "Verbs ending in **-eln** (bügeln, sammeln, wechseln) drop the **e** before the **l** in the ich-form:\n\n- ich **bügle**, du bügelst, er bügelt, wir bügeln, ihr bügelt, sie bügeln\n- ich **sammle**, ich **wechsle**\n\n**Imperative for several people (ihr)**: the ihr-form without the pronoun: **Bringt** den Müll raus! **Räumt** auf! **Putzt** das Badezimmer! For the ich-form of separable verbs: **Ich bringe** den Müll raus.",
+    "ex": [
+      ["Bitte bringt den Müll raus, räumt auf, putzt das Badezimmer!", "Please take out the rubbish, tidy up, clean the bathroom!"],
+      ["Ich bügle jeden Sonntag meine Hemden.", "I iron my shirts every Sunday."],
+      ["Nico, möchtest du bei uns einziehen?", "Nico, would you like to move in with us?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How is Selma’s father doing?","o":["He is fine and can go home tomorrow","He is still in hospital for a week","He has to stay in a care home"],"a":0,"why":"“Er darf morgen wieder nach Hause.”","src":"video"},
+    {"t":"mc","q":"Why is Nina upset?","o":["She does all the housework alone","Someone broke her phone","The rent has gone up"],"a":0,"why":"“Kann ich ja alles machen.”","src":"video"},
+    {"t":"mc","q":"What did Nina ask her flatmates to do yesterday?","o":["Take out the rubbish, tidy up, clean the bathroom, take the bottles back","Cook dinner","Paint the flat"],"a":0,"why":"“… bringt den Müll raus, räumt auf, putzt das Badezimmer … Pfandflaschen wegbringen.”","src":"video"},
+    {"t":"mc","q":"What does Lisa offer Nico at the end?","o":["To move into the free room","To pay his rent","To cook for him"],"a":0,"why":"“Nico, möchtest du bei uns einziehen?”","src":"video"},
+    {"t":"fill","q":"Ich ___ jeden Sonntag meine Hemden. (bügeln, ich)","a":["bügle","buegle"],"why":"-eln verbs: ich bügle.","src":"grammar"},
+    {"t":"fill","q":"___ bitte den Müll raus! (rausbringen, ihr-imperative)","a":["Bringt"],"why":"ihr-form: Bringt … raus!","src":"grammar"},
+    {"t":"mc","q":"“Ist das euer Ernst?” means:","o":["Are you serious?","Is that your business?","Is that your flat?"],"a":0,"why":"der Ernst = seriousness.","src":"vocab"},
+    {"t":"mc","q":"“einziehen” means:","o":["to move in","to move out","to invite"],"a":0,"why":"ein + ziehen.","src":"vocab"}
+  ]
+},
+"a2-14": {
+  "goal": "Complain politely about neighbours and use verbs with fixed prepositions (sich aufregen über, sich beschweren über, Rücksicht nehmen auf).",
+  "words": [
+    ["der Nachbar, -n", "neighbour"],
+    ["die Mülltonne, -n", "dustbin"],
+    ["der Vermieter, -", "landlord"],
+    ["der Streit", "quarrel"],
+    ["Rücksicht nehmen auf + Akk.", "to be considerate of"],
+    ["sich aufregen über + Akk.", "to get worked up about"],
+    ["sich beschweren über + Akk.", "to complain about"],
+    ["streiten mit + Dat.", "to argue with"],
+    ["unhöflich", "impolite"],
+    ["laut Musik hören", "to play loud music"],
+    ["Das hat Zeit.", "That can wait."],
+    ["Probleme haben wir alle.", "We all have problems."]
+  ],
+  "grammar": {
+    "title": "Verbs with prepositions",
+    "text": "Many German verbs are tied to a **fixed preposition** that also decides the case. Learn them together:\n\n- **sich aufregen über** + Akk.: Ich rege mich **über** den Nachbarn auf.\n- **sich beschweren über** + Akk.: Ich habe mich **über** meinen Nachbarn beschwert.\n- **Rücksicht nehmen auf** + Akk.: Er soll **auf** seine Nachbarn Rücksicht nehmen.\n- **streiten mit** + Dat.: Ich will mich nicht **mit** ihm streiten.\n- **sprechen mit** (person) **über** (topic).\n\nReflexive verbs need the reflexive pronoun (mich, dich, sich …).",
+    "ex": [
+      ["Ich habe mich bei ihm über meinen Nachbarn beschwert.", "I complained to him about my neighbour."],
+      ["Regen Sie sich doch nicht immer so auf!", "Don’t get so worked up all the time!"],
+      ["Ich will mich auch nicht mit ihm streiten.", "I don’t want to argue with him either."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What is Yara’s problem with her neighbour?","o":["He puts his dustbin in front of her shop","He plays loud music at night only","He has a dog"],"a":0,"why":"“Er stellt immer seinen Müll vor meinen Laden.”","src":"video"},
+    {"t":"mc","q":"Who is Herr Friese?","o":["Yara’s landlord","Her neighbour","Her customer"],"a":0,"why":"“Mein Vermieter, Herr Friese.”","src":"video"},
+    {"t":"mc","q":"What is the landlord’s reaction?","o":["He thinks it isn’t so bad and says she shouldn’t get so worked up","He shouts at her","He calls the police"],"a":0,"why":"“So schlimm ist das doch nicht. Regen Sie sich nicht immer so auf!”","src":"video"},
+    {"t":"mc","q":"What does Nico say about Yara?","o":["She has become very German","She has become very Spanish","She has become very rich"],"a":0,"why":"“Du bist schon sehr deutsch geworden!”","src":"video"},
+    {"t":"fill","q":"Ich rege mich ___ den Lärm auf. (about)","a":["über"],"why":"sich aufregen über + Akk.","src":"grammar"},
+    {"t":"fill","q":"Ich habe mich ___ meinem Nachbarn gestritten. (with)","a":["mit"],"why":"streiten mit + Dat.","src":"grammar"},
+    {"t":"mc","q":"“der Vermieter” is:","o":["the landlord","the tenant","the neighbour"],"a":0,"why":"vermieten = to rent out.","src":"vocab"},
+    {"t":"mc","q":"“Das hat Zeit.” means:","o":["That can wait.","That takes time.","That’s late."],"a":0,"why":"no hurry.","src":"vocab"}
+  ]
+},
+"a2-15": {
+  "goal": "Talk about pregnancy, childcare and worries, and give encouraging advice with müssen, dürfen and sollen.",
+  "words": [
+    ["schwanger sein", "to be pregnant"],
+    ["das Kind, -er", "child"],
+    ["erziehen", "to raise, to bring up"],
+    ["der Kindergarten, -gärten", "kindergarten"],
+    ["die Tagesmutter, -mütter", "childminder"],
+    ["die Ausbildung", "vocational training"],
+    ["Ich habe überreagiert.", "I overreacted."],
+    ["die Nerven verlieren", "to lose one’s nerve"],
+    ["sich Sorgen machen", "to worry"],
+    ["Freu dich!", "Be happy!"],
+    ["zusammen sein", "to be together (a couple)"],
+    ["Das schaffst du.", "You’ll manage."]
+  ],
+  "grammar": {
+    "title": "Giving advice: müssen, dürfen, sollen and the imperative",
+    "text": "Ways to encourage and advise a friend:\n\n- **Imperative**: **Freu dich!** **Mach dir keine Sorgen!**\n- **müssen**: Du **musst** es ihm sagen.\n- **nicht dürfen**: Du **darfst** nicht die Nerven verlieren. (You must not …)\n- **Es gibt …**: Es gibt Kindergärten und Tagesmütter.\n- **dass**: Ich weiß, **dass** du eine tolle Mutter wirst.\n\nA question of doubt: **Was soll ich jetzt machen?** (What am I supposed to do?) **Wie soll ich das schaffen?**",
+    "ex": [
+      ["Du musst es ihm sagen.", "You have to tell him."],
+      ["Du darfst dir nicht so viele Sorgen machen.", "You mustn’t worry so much."],
+      ["Ich weiß, dass du eine ganz tolle Mutti wirst.", "I know that you’ll be a really great mum."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What is Nina’s secret?","o":["She is pregnant","She is moving out","She lost her job"],"a":0,"why":"“Ich bin schwanger.”","src":"video"},
+    {"t":"mc","q":"Who is the father?","o":["Dario","Sebastian","Max"],"a":0,"why":"“Dario.”","src":"video"},
+    {"t":"mc","q":"How long have Nina and Dario been together?","o":["Only a few weeks","Five years","One month exactly"],"a":0,"why":"“… erst seit ein paar Wochen zusammen.”","src":"video"},
+    {"t":"mc","q":"Why is Nina afraid she can’t manage a child?","o":["She is in vocational training","She has no money at all","She lives abroad"],"a":0,"why":"“Ich bin doch in der Ausbildung.”","src":"video"},
+    {"t":"mc","q":"What solutions does Lisa mention?","o":["Kindergartens and childminders","Moving to Spain","Giving up her training"],"a":0,"why":"“Es gibt Kindergärten, Tagesmütter.”","src":"video"},
+    {"t":"fill","q":"Du ___ es ihm sagen. (müssen)","a":["musst"],"why":"du musst.","src":"grammar"},
+    {"t":"fill","q":"Du ___ nicht die Nerven verlieren! (dürfen, du)","a":["darfst"],"why":"nicht dürfen = must not.","src":"grammar"},
+    {"t":"mc","q":"“schwanger” means:","o":["pregnant","angry","tired"],"a":0,"why":"schwanger sein.","src":"vocab"}
+  ]
+},
+"a2-16": {
+  "goal": "Compare living situations (alone, in a WG, with the family) with comparative and superlative, and talk about life then and now.",
+  "words": [
+    ["die WG / bei der Familie wohnen", "shared flat / to live with the family"],
+    ["früher / heutzutage", "in the past / nowadays"],
+    ["billiger / teurer", "cheaper / more expensive"],
+    ["allein wohnen", "to live alone"],
+    ["zusammenwohnen", "to live together"],
+    ["umziehen", "to move (house)"],
+    ["der Unterschied, -e", "difference"],
+    ["das Studium / die Ausbildung", "studies / training"],
+    ["Zum Wohl! / Prost!", "Cheers!"],
+    ["Herzlichen Glückwunsch!", "Congratulations!"],
+    ["der große Bruder", "big brother"],
+    ["Bei uns war das anders.", "With us, that was different."]
+  ],
+  "grammar": {
+    "title": "Comparison: lieber … als, am besten, viel + comparative",
+    "text": "Comparing living situations:\n\n- **Comparative**: teurer, billiger, schöner, öfter, mehr. Add **viel** to intensify: **viel öfter**, **viel schöner**, **viel teurer**.\n- **lieber … als**: Ich wohne **lieber** in einem kleinen Zimmer **als** bei meinen Eltern.\n- **Superlative**: **am besten**, **am liebsten**: Mit anderen zusammenwohnen gefällt mir **am besten**.\n- **so … wie**: Es ist nicht **so** teuer **wie** allein zu wohnen.\n\nSubjects of preference: **gefallen** + dative: Es gefällt **mir**.",
+    "ex": [
+      ["Heutzutage zieht man viel öfter um als früher.", "Nowadays people move much more often than in the past."],
+      ["Ich wohne lieber in einem kleinen Zimmer als bei meinen Eltern.", "I’d rather live in a small room than with my parents."],
+      ["Mit anderen zusammenwohnen gefällt mir am besten.", "Living with others is what I like best."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What do they toast to?","o":["Nico’s new home","Yara’s birthday","Tarek’s restaurant"],"a":0,"why":"“Auf Nicos neue Wohnung! Zum Wohl!”","src":"video"},
+    {"t":"mc","q":"How did Inge’s generation live?","o":["With their families – it was cheaper","In flats alone","In shared flats"],"a":0,"why":"“Wir haben noch bei der Familie gewohnt. Das war billiger.”","src":"video"},
+    {"t":"mc","q":"What does Max say is a disadvantage of living alone?","o":["It is more expensive","It is noisy","It is impossible"],"a":0,"why":"“Es ist aber teurer.”","src":"video"},
+    {"t":"mc","q":"Who suddenly appears at the restaurant?","o":["Nico’s big brother Pepe","Nico’s father","Selma"],"a":0,"why":"“Pepe ist mein großer Bruder.”","src":"video"},
+    {"t":"mc","q":"How does Nico prefer to live?","o":["In a small room rather than with his parents","With his parents","Alone"],"a":0,"why":"“Ich wohne lieber in einem kleinen Zimmer als bei meinen Eltern.”","src":"video"},
+    {"t":"fill","q":"Ich wohne lieber allein ___ mit meinen Eltern. (than)","a":["als"],"why":"lieber … als.","src":"grammar"},
+    {"t":"fill","q":"Das gefällt mir am ___. (best, superlative of gut)","a":["besten"],"why":"gut – besser – am besten.","src":"grammar"},
+    {"t":"mc","q":"“heutzutage” means:","o":["nowadays","yesterday","in the future"],"a":0,"why":"heute + zu Tage.","src":"vocab"}
+  ]
+}
+}

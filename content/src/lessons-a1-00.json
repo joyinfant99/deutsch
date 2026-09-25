@@ -1,0 +1,142 @@
+{
+"a1-01": {
+  "goal": "Greet people at different times of day, and ask “How are you?” in both the informal (du) and formal (Sie) way.",
+  "words": [
+    ["Guten Morgen.", "Good morning."],
+    ["Guten Tag.", "Hello. / Good day."],
+    ["Guten Abend.", "Good evening."],
+    ["Hallo! / Hi! / Hey!", "Hello! (informal)"],
+    ["Wie geht es Ihnen?", "How are you? (formal)"],
+    ["Wie geht’s dir?", "How are you? (informal)"],
+    ["Und Ihnen? / Und dir?", "And you? (formal / informal)"],
+    ["Danke, gut.", "Thanks, I’m fine."],
+    ["sehr gut", "very well"],
+    ["nicht so gut", "not so good"],
+    ["der Herr", "Mr / gentleman"],
+    ["die Frau", "Mrs, Ms / woman"]
+  ],
+  "grammar": {
+    "title": "du or Sie? Informal and formal",
+    "text": "German has two ways to say “you”.\n\n- **du** (informal): friends, family, children, people your age in casual settings.\n- **Sie** (formal): strangers, colleagues you do not know well, officials, your boss. **Sie** is always written with a capital S.\n\nThe question “How are you?” changes with it: **Wie geht es Ihnen?** (formal) and **Wie geht es dir? / Wie geht’s dir?** (informal). If in doubt in Germany, start with Sie.",
+    "ex": [
+      ["Guten Tag, Frau Kamp. Wie geht es Ihnen?", "Hello, Ms Kamp. How are you? (formal)"],
+      ["Hey, Lena! Na, wie geht’s?", "Hey, Lena! So, how’s it going? (informal)"],
+      ["Super, danke. Und dir?", "Great, thanks. And you? (informal)"]
+    ]
+  },
+  "quiz": [
+    {"t":"fill","q":"In the audio course Frau Schneider asks Herr Müller: “Guten Morgen, Herr Müller, wie geht es ___?”","a":["Ihnen"],"why":"Herr Müller is addressed formally, so the form is Ihnen.","src":"video"},
+    {"t":"mc","q":"In the video, Emma says “Oh, schön! Die Tasche ist schön!” What is she praising?","o":["The taxi","The bag","Nico’s shoes"],"a":1,"why":"die Tasche = the bag.","src":"video"},
+    {"t":"mc","q":"Which greeting from the audio course is informal, between a grandfather and his granddaughter?","o":["Guten Tag, Frau Kamp.","Wie geht es Ihnen?","Hey, Lena! Na, wie geht’s?"],"a":2,"why":"Hey and wie geht’s are casual; Frau Kamp and Ihnen are formal.","src":"video"},
+    {"t":"mc","q":"It is 8 pm. What do you say when you meet a neighbour?","o":["Guten Morgen.","Guten Tag.","Guten Abend."],"a":2,"why":"Morgen = morning, Tag = day, Abend = evening.","src":"vocab"},
+    {"t":"mc","q":"What does “Sehr gut, danke.” mean?","o":["Very well, thanks.","Not so good, thanks.","See you soon, thanks."],"a":0,"why":"sehr = very, gut = good/well.","src":"vocab"},
+    {"t":"mc","q":"You meet your new boss, Herr Weber. Which question is correct?","o":["Wie geht’s dir?","Wie geht es Ihnen?","Na, wie geht’s?"],"a":1,"why":"A boss you do not know well is addressed with Sie: Ihnen.","src":"grammar"},
+    {"t":"fill","q":"You meet your friend Tom. Complete the question: “Hallo, Tom! Wie geht es ___?”","a":["dir"],"why":"Friends are addressed with du, and the form after “geht es” is dir.","src":"grammar"}
+  ]
+},
+"a1-02": {
+  "goal": "Recognise everyday German words that look like English, and know that every German noun is capitalised and comes with der, die or das.",
+  "words": [
+    ["das Hotel, -s", "hotel"],
+    ["das Taxi, -s", "taxi"],
+    ["der Flughafen, -häfen", "airport"],
+    ["das Zentrum, Zentren", "city centre"],
+    ["das Restaurant, -s", "restaurant"],
+    ["der Supermarkt, -märkte", "supermarket"],
+    ["die Bank, -en", "bank"],
+    ["das Kino, -s", "cinema"],
+    ["das Museum, Museen", "museum"],
+    ["die Toilette, -n", "toilet"],
+    ["das Problem, -e", "problem"],
+    ["Kein Problem.", "No problem."]
+  ],
+  "grammar": {
+    "title": "Nouns: capital letters and der / die / das",
+    "text": "Every German noun is written with a **capital letter** (das Hotel, die Bank). Every noun also has a grammatical gender:\n\n- **der** = masculine\n- **die** = feminine\n- **das** = neuter\n\nThe gender is not always predictable, so always learn a noun together with its article: not “Taxi” but **das Taxi**. The plural of all three is **die**: die Taxis, die Banken.",
+    "ex": [
+      ["der Flughafen – die Flughäfen", "the airport – the airports"],
+      ["die Toilette – die Toiletten", "the toilet – the toilets"],
+      ["das Museum – die Museen", "the museum – the museums"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"The man in the taxi says “Ins Zentrum bitte. Zum Königshof.” Where does he want to go?","o":["To the airport","To the Hotel Königshof","To a supermarket"],"a":1,"why":"The driver asks Restaurant or Hotel Königshof, and the man answers: Hotel Königshof.","src":"video"},
+    {"t":"mc","q":"The taxi driver answers “Okay, kein Problem.” What does he mean?","o":["No problem.","Not possible.","One moment."],"a":0,"why":"kein Problem = no problem.","src":"video"},
+    {"t":"mc","q":"At the end of the episode Nico shouts “Hey, stopp!” What has just happened?","o":["He missed his flight","He realises his bag has vanished","He has found his aunt Yara"],"a":1,"why":"The episode ends with Nico noticing that his bag is gone.","src":"video"},
+    {"t":"mc","q":"Which noun is correctly written in German?","o":["das hotel","das Hotel","Das hotel"],"a":1,"why":"Nouns always start with a capital letter.","src":"grammar"},
+    {"t":"mc","q":"Which article goes with “Flughafen” (airport)?","o":["der","die","das"],"a":0,"why":"der Flughafen, masculine.","src":"vocab"},
+    {"t":"fill","q":"Complete: “___ Taxi ist da.” (the taxi)","a":["Das"],"why":"das Taxi is neuter.","src":"grammar"},
+    {"t":"mc","q":"“Wo ist das Kino?” What is the person looking for?","o":["A cinema","A museum","A bank"],"a":0,"why":"das Kino = cinema.","src":"vocab"}
+  ]
+},
+"a1-03": {
+  "goal": "Say goodbye politely, formally and informally, and ask for help.",
+  "words": [
+    ["Tschüss!", "Bye! (informal)"],
+    ["Auf Wiedersehen!", "Goodbye! (formal)"],
+    ["Bis bald!", "See you soon!"],
+    ["Mach’s gut!", "Take care! / So long!"],
+    ["Gute Reise!", "Have a good trip!"],
+    ["Danke schön! / Vielen Dank!", "Thank you very much!"],
+    ["Bitte schön!", "You’re welcome! / Here you are."],
+    ["die Hilfe", "help"],
+    ["Brauchst du Hilfe?", "Do you need help?"],
+    ["die Tasche, -n", "bag"],
+    ["ja", "yes"],
+    ["nein", "no"]
+  ],
+  "grammar": {
+    "title": "Formal and informal goodbyes",
+    "text": "Just like the greetings, farewells depend on who you talk to.\n\n- **Formal:** Auf Wiedersehen, Herr Tillmanns. (strangers, business, older people)\n- **Informal:** Tschüss! / Bis bald! / Mach’s gut! (friends, family)\n\nAsking for help follows the same du/Sie rule: **Brauchst du Hilfe?** (informal) and **Brauchen Sie Hilfe?** (formal).",
+    "ex": [
+      ["Auf Wiedersehen, Frau Scholl. Gute Reise!", "Goodbye, Ms Scholl. Have a good trip!"],
+      ["Mach’s gut, Herbert. Bis bald!", "Take care, Herbert. See you soon!"],
+      ["Alles okay? Brauchst du Hilfe?", "All okay? Do you need help?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"At the airport a man says “Tschüss, Martina. Gute Reise!” What does “Gute Reise” mean?","o":["Good luck!","Have a good trip!","Good night!"],"a":1,"why":"die Reise = the trip; gute Reise = have a good trip.","src":"video"},
+    {"t":"mc","q":"“Auf Wiedersehen, Herr Tillmanns. Gute Reise!” Is this formal or informal?","o":["Formal","Informal","Both are possible"],"a":0,"why":"Auf Wiedersehen plus Herr/Frau is the formal goodbye.","src":"video"},
+    {"t":"fill","q":"Lisa asks Nico: “Alles okay? Brauchst du ___?” (help)","a":["Hilfe"],"why":"die Hilfe = help. Nico answers “Ja! Hilfe!”","src":"video"},
+    {"t":"mc","q":"Nico says “Die Tasche ist weg.” What is gone?","o":["The address","The bag","The taxi"],"a":1,"why":"die Tasche = the bag; weg = gone.","src":"video"},
+    {"t":"mc","q":"Which goodbye would you say to your best friend?","o":["Auf Wiedersehen, Herr Meier.","Mach’s gut! Bis bald!","Guten Tag."],"a":1,"why":"Mach’s gut and Bis bald are informal.","src":"grammar"},
+    {"t":"mc","q":"What does “Vielen Dank!” mean?","o":["Many thanks!","Good morning!","See you soon!"],"a":0,"why":"vielen Dank = thank you very much.","src":"vocab"},
+    {"t":"fill","q":"Formal: “Brauchen ___ Hilfe?” (Do you need help?)","a":["Sie"],"why":"Formal you = Sie, and the verb becomes brauchen.","src":"grammar"}
+  ]
+},
+"a1-04": {
+  "goal": "Spell your name and address aloud with the German alphabet and ask someone to repeat or spell something.",
+  "words": [
+    ["der Buchstabe, -n", "letter (of the alphabet)"],
+    ["buchstabieren", "to spell"],
+    ["Wie schreibt man das?", "How do you spell/write that?"],
+    ["Noch einmal, bitte.", "Again, please."],
+    ["Langsam, bitte.", "Slowly, please."],
+    ["der Name, -n", "name"],
+    ["Mein Name ist …", "My name is …"],
+    ["Wie ist dein / Ihr Name?", "What is your name? (informal / formal)"],
+    ["die Adresse, -n", "address"],
+    ["die Straße, -n", "street"],
+    ["die Hausnummer, -n", "house number"],
+    ["die Tante, -n", "aunt"]
+  ],
+  "grammar": {
+    "title": "The German alphabet and special sounds",
+    "text": "The alphabet has 26 letters plus **ä, ö, ü** (umlauts) and **ß** (Eszett, sounds like a sharp “ss”).\n\nSounds that surprise English speakers:\n- **w** = English v (Wasser); **v** = usually f (Vater); **z** = ts (Zeit); **j** = y (ja)\n- **ei** = “eye” (nein); **ie** = long “ee” (Bier)\n- **sch** = sh (Schule); **s** before a vowel = z (Sonne)\n- **st / sp** at the start of a word = sht / shp (Straße, sprechen)\n\nWhen you spell a word, say each letter name: Emma = E – M – M – A. Practise your own name and your street.",
+    "ex": [
+      ["Wie schreibt man das? – E, M, M, A.", "How do you spell that? – E, M, M, A."],
+      ["Bitte buchstabieren Sie das. (formal)", "Please spell that."],
+      ["Noch einmal, bitte. Langsam, bitte.", "Again, please. Slowly, please."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Nico is looking for someone called Yara. Who is she, according to the video?","o":["His aunt (Tante)","His teacher","His mother"],"a":0,"why":"Nico says “Meine … aunt?” and Emma helps: “Deine Tante?”","src":"video"},
+    {"t":"mc","q":"Lisa asks Nico: “Hast du die Adresse? Adresse: Straße, Hausnummer?” What is she asking for?","o":["His phone number","His address: street and house number","His name"],"a":1,"why":"die Straße = street, die Hausnummer = house number.","src":"video"},
+    {"t":"mc","q":"Emma says “Mein Name ist Emma! Und das ist meine Tante.” Who is Lisa to Emma?","o":["Her mother","Her aunt","Her teacher"],"a":1,"why":"Emma explains: “Lisa ist nicht meine Mama. Sie ist meine Tante.”","src":"video"},
+    {"t":"fill","q":"Complete: “Mein ___ ist Nico.” (name)","a":["Name"],"why":"der Name = name. Mein Name ist Nico.","src":"vocab"},
+    {"t":"mc","q":"You did not understand a word. What do you say?","o":["Noch einmal, bitte.","Auf Wiedersehen.","Kein Problem."],"a":0,"why":"noch einmal = once more/again.","src":"vocab"},
+    {"t":"mc","q":"How is the German letter “w” pronounced?","o":["Like English w","Like English v","Like English y"],"a":1,"why":"Wasser sounds like “vasser”.","src":"grammar"},
+    {"t":"mc","q":"Which word starts with the sound “sht”?","o":["Straße","Sonne","Salat"],"a":0,"why":"st at the start of a word is pronounced sht: Straße.","src":"grammar"}
+  ]
+}
+}

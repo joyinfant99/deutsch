@@ -1,0 +1,146 @@
+{
+"b1-01": {
+  "goal": "Talk about your career options and your German level with a counsellor, and express certainty and uncertainty (Ich bin mir (nicht) sicher, dass …).",
+  "words": [
+    ["die Berufsberatung / die Berufsberaterin", "career counselling / counsellor"],
+    ["die Deutschkenntnisse (pl.)", "German language skills"],
+    ["die Ausbildung, -en / der Ausbildungsberuf", "vocational training / training occupation"],
+    ["das Studium / studieren", "university studies / to study"],
+    ["der Nachweis, -e", "proof, certificate"],
+    ["die Sprachprüfung, -en", "language exam"],
+    ["der Betrieb, -e", "company, firm"],
+    ["verlangen", "to demand"],
+    ["die Aufnahmeprüfung", "entrance exam"],
+    ["der Arbeitsmarkt", "job market"],
+    ["garantieren", "to guarantee"],
+    ["sich sicher / unsicher sein", "to be sure / unsure"]
+  ],
+  "grammar": {
+    "title": "Expressing certainty and uncertainty",
+    "text": "Use **sich (Dat.) sicher sein** (be sure) with a **dass-clause** (verb at the end):\n\n- Ich **bin mir sicher, dass** Sie das können.\n- Ich **bin mir nicht sicher**, welchen Beruf ich lernen möchte. (indirect question)\n- Ich **bin unsicher**, ob ich die Prüfung schaffe.\n\nOther phrases: **Ich glaube, dass …** – **Ich bezweifle, dass …** – **Es ist (nicht) sicher, dass …** – **Niemand kann garantieren, dass …**\n\nNote **reflexive dative**: Ich bin **mir** sicher. Du bist **dir** sicher. Er ist **sich** sicher.",
+    "ex": [
+      ["Ich bin mir sicher, dass Sie das können.", "I’m sure that you can do that."],
+      ["Ich bin mir nicht sicher, welchen Beruf ich lernen möchte.", "I’m not sure which job I want to learn."],
+      ["Niemand kann Ihnen garantieren, dass Sie danach als Schauspieler arbeiten können.", "Nobody can guarantee that you can work as an actor afterwards."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was braucht Nico für viele Ausbildungen oder ein Studium in Deutschland?","o":["Gute bis sehr gute Deutschkenntnisse","Ein Abitur aus Spanien","Einen deutschen Pass"],"a":0,"why":"“… gute bis sehr gute Deutschkenntnisse brauchen.”","src":"video"},
+    {"t":"mc","q":"Was verlangen die meisten Betriebe laut der Beraterin?","o":["Einen Nachweis über die Deutschkenntnisse","Ein Empfehlungsschreiben","Einen Führerschein"],"a":0,"why":"“… einen Nachweis über Ihre Deutschkenntnisse verlangen.”","src":"video"},
+    {"t":"mc","q":"Was sagt die Beraterin über die Schauspielausbildung?","o":["Die Aufnahmeprüfung ist sehr schwer und der Arbeitsmarkt schwierig","Sie ist leicht und günstig","Sie gibt es nicht in Deutschland"],"a":0,"why":"“… sehr schwere Aufnahmeprüfung … Arbeitsmarkt … sehr schwierig.”","src":"video"},
+    {"t":"mc","q":"Was kann Nico gut?","o":["Fahrräder und Mopeds reparieren","Kochen","Malen"],"a":0,"why":"“Ich kann Fahrräder und Mopeds reparieren.”","src":"video"},
+    {"t":"fill","q":"Ich bin ___ sicher, dass du das schaffst. (mir / dir)","a":["mir"],"why":"Ich bin mir sicher.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Ich bin mir sicher, dass er kommt.","Ich bin mir sicher, dass kommt er.","Ich bin sicher mir, dass er kommt."],"a":0,"why":"dass-Satz: Verb am Ende.","src":"grammar"},
+    {"t":"mc","q":"“der Nachweis” bedeutet:","o":["proof, certificate","reference book","website"],"a":0,"why":"Nachweis über Deutschkenntnisse.","src":"vocab"},
+    {"t":"mc","q":"“die Aufnahmeprüfung” ist:","o":["an entrance exam","an audition tape","a final exam"],"a":0,"why":"Aufnahme = admission.","src":"vocab"}
+  ]
+},
+"b1-02": {
+  "goal": "Describe your language biography (mother tongue, foreign languages, school languages) and use seit + dative and welch- correctly.",
+  "words": [
+    ["die Muttersprache, -n", "mother tongue"],
+    ["die Fremdsprache, -n", "foreign language"],
+    ["zweisprachig aufwachsen", "to grow up bilingual"],
+    ["die Sprachkenntnisse (pl.)", "language skills"],
+    ["seit einem Jahr", "for a year (now)"],
+    ["das Studienfach, -fächer", "subject of study"],
+    ["die Medizin / der Lehrer", "medicine / teacher"],
+    ["die Sprachprüfung bestehen", "to pass the language exam"],
+    ["Fortschritte machen", "to make progress"],
+    ["Arabisch, Armenisch, Französisch", "Arabic, Armenian, French"],
+    ["in der Schule lernen", "to learn at school"],
+    ["Du hast noch ein bisschen Zeit.", "You still have a bit of time."]
+  ],
+  "grammar": {
+    "title": "Talking about your languages: seit, welch-, wie gut",
+    "text": "**seit + Dativ** for something that started in the past and still continues: Ich lerne **seit einem Jahr** Deutsch. (not: seit ein Jahre)\n\n**Ask about a language / subject with welch-:** **Welche** Sprachen sprichst du? **Für welches** Studienfach interessierst du dich? (sich interessieren **für** + Akk.; das Fach → welches)\n\nDescribe your level: **ganz gut**, **nicht so gut**, **nur ein bisschen**, **fließend**. Learn languages **in der Schule**, **im Kurs**, **zu Hause**, **seit …**",
+    "ex": [
+      ["Ich lerne seit einem Jahr Deutsch.", "I’ve been learning German for a year."],
+      ["Welche Sprachen lernt ihr in der Schule?", "Which languages do you learn at school?"],
+      ["Für welches Studienfach interessierst du dich?", "Which subject are you interested in?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Welche Sprachen spricht Selmas Mutter Aya?","o":["Arabisch und Armenisch","Arabisch und Englisch","Französisch und Deutsch"],"a":0,"why":"“Ich spreche Arabisch und Armenisch.”","src":"video"},
+    {"t":"mc","q":"Was lernt man in Syrien in der Schule (laut Selma)?","o":["Englisch und Französisch","Deutsch und Spanisch","Nur Arabisch"],"a":0,"why":"“Bei uns lernt man Englisch und Französisch in der Schule.”","src":"video"},
+    {"t":"mc","q":"Was möchte Selma auf jeden Fall?","o":["Studieren","Reisen","Arbeiten und nicht studieren"],"a":0,"why":"“Ich möchte auf jeden Fall studieren!”","src":"video"},
+    {"t":"mc","q":"Welche Studienfächer nennt Selma?","o":["Medizin oder Lehramt","Jura","Kunst"],"a":0,"why":"“… Medizin oder ich werde Lehrerin.”","src":"video"},
+    {"t":"fill","q":"Ich lerne ___ einem Jahr Deutsch. (since / for)","a":["seit"],"why":"seit + Dativ.","src":"grammar"},
+    {"t":"fill","q":"___ Studienfach interessierst du dich? (which, neuter)","a":["Welches"],"why":"das Fach → welches.","src":"grammar"},
+    {"t":"mc","q":"“zweisprachig aufgewachsen” heißt:","o":["grew up bilingual","born in two countries","learning two languages at school"],"a":0,"why":"zwei + Sprache.","src":"vocab"},
+    {"t":"mc","q":"“die Muttersprache” ist:","o":["the mother tongue","the language of the mother-in-law","a foreign language"],"a":0,"why":"native language.","src":"vocab"}
+  ]
+},
+"b1-03": {
+  "goal": "Talk about working conditions and ask polite indirect questions with ob and question words (Wissen Sie, wann …? Ich möchte wissen, ob …).",
+  "words": [
+    ["die Arbeitsbedingungen (pl.)", "working conditions"],
+    ["der Unterschied, -e", "difference"],
+    ["erstaunliche Fortschritte", "amazing progress"],
+    ["stolz sein auf + Akk.", "to be proud of"],
+    ["gut vorbereitet sein", "to be well prepared"],
+    ["vertrauen + Dat.", "to trust"],
+    ["anlügen", "to lie to"],
+    ["die Lösung, -en", "solution"],
+    ["die Zukunft", "future"],
+    ["Das ist Sache der Familie.", "That is a family matter."],
+    ["Ich habe das Datum nicht im Kopf.", "I don’t remember the date."],
+    ["Es tut mir leid, aber das ist nicht möglich.", "I’m sorry but that’s not possible."]
+  ],
+  "grammar": {
+    "title": "Indirect questions with ob and question words",
+    "text": "Indirect questions are subordinate clauses; the verb goes to the **end**:\n\n- **ob** (yes/no): Ich kann nicht sagen, **ob** ich es **schaffe**. – Ich möchte wissen, **ob** es möglich **ist**, dass …\n- **question word**: Wissen Sie, **wann** Ihre Sprachprüfung **ist**? – Ich weiß nicht, **wie** es **weitergeht**.\n\nThe introductory clause: **Ich möchte wissen, …** – **Können Sie mir sagen, …** – **Wissen Sie, …?** – **Ich weiß nicht, …** – **Ich frage mich, …**\n\nAfter **möglich sein** you can add a **dass-clause**: Es ist möglich, **dass** wir das machen.",
+    "ex": [
+      ["Wissen Sie schon, wann Ihre Sprachprüfung ist?", "Do you already know when your language exam is?"],
+      ["Ich kann wirklich nicht sagen, ob ich es schaffe.", "I really can’t say whether I’ll manage it."],
+      ["Ich möchte wissen, ob es möglich ist, dass wir Selmas Sprachunterricht bei mir machen.", "I’d like to know whether it’s possible for us to do Selma’s language lessons at my place."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was sagt Lisa über Selmas Fortschritte?","o":["Sie macht erstaunliche Fortschritte","Sie macht kaum Fortschritte","Sie muss mehr lernen"],"a":0,"why":"“Selma erstaunliche Fortschritte macht.”","src":"video"},
+    {"t":"mc","q":"Wie findet Ibrahim seine neue Arbeit im Vergleich zu seiner Arbeit als Arzt?","o":["Der Unterschied ist sehr groß, aber er hat Arbeit","Sie ist besser","Sie ist genau gleich"],"a":0,"why":"“Der Unterschied … ist sehr groß. Aber ich habe Arbeit.”","src":"video"},
+    {"t":"mc","q":"Warum ist Ibrahim bei der Sprachprüfung unsicher?","o":["Er hat wenig Zeit zum Lernen und spricht zu selten Deutsch","Er hat die Prüfung schon bestanden","Er will nicht teilnehmen"],"a":0,"why":"“Ich habe nur wenig Zeit zum Lernen … die Sprache viel zu selten.”","src":"video"},
+    {"t":"mc","q":"Was antwortet Ibrahim auf Lisas Bitte, dass Selma wieder zu ihr zum Sprachunterricht kommt?","o":["Nein, das ist nicht möglich – Selma hat sie angelogen","Ja, sofort","Vielleicht nächste Woche"],"a":0,"why":"“Selma hat uns angelogen. Wir können ihr nicht mehr vertrauen.”","src":"video"},
+    {"t":"fill","q":"Ich weiß nicht, ___ ich es schaffe. (whether)","a":["ob"],"why":"ob-clause.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Wissen Sie, wann die Prüfung ist?","Wissen Sie, wann ist die Prüfung?","Wissen Sie, wann die Prüfung sein?"],"a":0,"why":"Verb am Ende.","src":"grammar"},
+    {"t":"mc","q":"“anlügen” bedeutet:","o":["to lie to someone","to light up","to look at"],"a":0,"why":"Selma hat uns angelogen.","src":"vocab"},
+    {"t":"mc","q":"“Das Datum hab ich nicht im Kopf.” bedeutet:","o":["I don’t remember the date.","I don’t have a calendar.","The date is in my head."],"a":0,"why":"idiom.","src":"vocab"}
+  ]
+},
+"b1-04": {
+  "goal": "Talk about your goals and plans with modal verbs and the future (werden + Infinitiv) and give reasons.",
+  "words": [
+    ["die Agentur für Arbeit", "employment agency"],
+    ["der Zweiradmechatroniker", "two-wheeler mechatronics technician"],
+    ["die Werkstatt, -stätten", "workshop"],
+    ["die Ausbildung dauert drei Jahre", "the training lasts three years"],
+    ["Geld verdienen", "to earn money"],
+    ["die Sprachprüfung bestehen", "to pass the language exam"],
+    ["optimistisch", "optimistic"],
+    ["sich vorbereiten auf + Akk.", "to prepare for"],
+    ["das Studienfach", "subject of study"],
+    ["vor allen Dingen", "above all"],
+    ["Es geht um deine Zukunft.", "It’s about your future."],
+    ["Bis bald!", "See you soon!"]
+  ],
+  "grammar": {
+    "title": "Modal verbs and the future with werden",
+    "text": "**Modal verbs** express goals and necessity: **wollen** (want), **müssen** (must), **können** (be able), **sollen** (be supposed to), **dürfen** (may), **möchten** (would like). Infinitive at the end: Zuerst **muss** ich eine Sprachprüfung **bestehen**.\n\n**Future with werden + Infinitiv:** Ich **werde** eine Ausbildung zum Zweiradmechatroniker **machen**. (firm plan) – ich werde, du wirst, er wird, wir werden, ihr werdet, sie werden.\n\nGive reasons with **weil** / **denn**: Ich mache die Ausbildung, **denn** ich muss endlich Geld verdienen.",
+    "ex": [
+      ["Ich werde eine Ausbildung zum Zweiradmechatroniker machen.", "I’m going to do an apprenticeship as a two-wheeler mechatronics technician."],
+      ["Zuerst muss ich eine Sprachprüfung bestehen, dann kann ich die Ausbildung beginnen.", "First I have to pass a language exam, then I can start the training."],
+      ["Ich möchte studieren, aber ich weiß noch nicht so genau, was.", "I’d like to study, but I don’t know exactly what yet."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Welche Ausbildung möchte Nico machen?","o":["Zweiradmechatroniker","Schauspieler","Koch"],"a":0,"why":"“Ich werde eine Ausbildung zum Zweiradmechatroniker machen.”","src":"video"},
+    {"t":"mc","q":"Wie lange dauert die Ausbildung?","o":["Drei Jahre","Ein Jahr","Fünf Jahre"],"a":0,"why":"“Die Ausbildung dauert drei Jahre.”","src":"video"},
+    {"t":"mc","q":"Was muss Nico zuerst tun?","o":["Eine Sprachprüfung bestehen","Ein Studium beginnen","Nach Spanien fliegen"],"a":0,"why":"“Zuerst muss ich eine Sprachprüfung bestehen.”","src":"video"},
+    {"t":"mc","q":"Warum kann Selma keinen Job suchen?","o":["Sie muss immer zu Hause bleiben","Sie hat keine Zeit","Sie ist krank"],"a":0,"why":"“Ich kann schlecht einen Job suchen, wenn ich immer zu Hause bleiben muss.”","src":"video"},
+    {"t":"fill","q":"Ich ___ eine Ausbildung machen. (werden, ich – Futur)","a":["werde"],"why":"ich werde + Infinitiv.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Zuerst muss ich die Prüfung bestehen.","Zuerst ich muss die Prüfung bestehen.","Zuerst muss bestehen ich die Prüfung."],"a":0,"why":"Modalverb an Position 2, Infinitiv am Ende.","src":"grammar"},
+    {"t":"mc","q":"“die Werkstatt” ist:","o":["a workshop","a work desk","a work permit"],"a":0,"why":"in einer Werkstatt arbeiten.","src":"vocab"},
+    {"t":"mc","q":"“Geld verdienen” bedeutet:","o":["to earn money","to save money","to deserve money"],"a":0,"why":"verdienen = to earn.","src":"vocab"}
+  ]
+}
+}

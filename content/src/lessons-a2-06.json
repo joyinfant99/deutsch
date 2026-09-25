@@ -1,0 +1,146 @@
+{
+"a2-25": {
+  "goal": "Talk about your interests and what you are good or bad at, and use common expressions with a dative pronoun (Das macht mir Spaß).",
+  "words": [
+    ["sich interessieren für + Akk.", "to be interested in"],
+    ["sich beschäftigen mit + Dat.", "to occupy oneself with"],
+    ["die Literatur / der Roman / der Krimi", "literature / novel / crime novel"],
+    ["die Politik / der Politiker", "politics / politician"],
+    ["lügen", "to lie"],
+    ["Fahrrad fahren können", "to be able to ride a bike"],
+    ["singen", "to sing"],
+    ["jemandem etwas beibringen", "to teach someone something"],
+    ["versprechen", "to promise"],
+    ["Das macht mir Spaß.", "I enjoy that."],
+    ["Was kannst du besonders gut?", "What are you especially good at?"],
+    ["Das fällt mir schwer / leicht.", "I find that hard / easy."]
+  ],
+  "grammar": {
+    "title": "Expressions with the dative",
+    "text": "Many everyday expressions put the **person in the dative** (mir, dir, ihm, ihr, uns, euch, ihnen):\n\n- Das **macht mir** Spaß. – Das **gefällt mir**.\n- Das **fällt mir** schwer / leicht. – Es **ist mir** wichtig. – Es **ist mir** egal.\n- **Mir ist** kalt / schlecht / warm.\n- Das **tut mir** leid. – Das **gehört mir**.\n- **Ich bringe es dir bei.** (jemandem etwas beibringen: teach) – **Ich verspreche es dir.**\n\nPerfekt with reflexive: Ich **habe mich** schon immer für Bücher **interessiert**.",
+    "ex": [
+      ["Ich habe mich schon immer für Bücher interessiert.", "I have always been interested in books."],
+      ["Ich bringe es dir bei. Ich verspreche es dir.", "I’ll teach you. I promise you."],
+      ["Das macht mir Spaß.", "I enjoy that."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What is Nico interested in?","o":["Football","Politics","Theatre"],"a":0,"why":"“Ich interessiere mich für Fußball.”","src":"video"},
+    {"t":"mc","q":"What can’t Selma do?","o":["Ride a bicycle","Swim","Cook"],"a":0,"why":"“Ich kann nicht Fahrrad fahren.”","src":"video"},
+    {"t":"mc","q":"What does Nico promise Selma?","o":["To teach her to ride a bike","To buy her a bike","To take her to a concert"],"a":0,"why":"“Ich bringe es dir bei. Ich verspreche es dir.”","src":"video"},
+    {"t":"mc","q":"What can’t Nico do well, Lisa suspects?","o":["Sing","Dance","Draw"],"a":0,"why":"“Ich glaube, er kann nicht gut singen?”","src":"video"},
+    {"t":"fill","q":"Ich interessiere ___ für Fußball. (reflexive)","a":["mich"],"why":"ich → mich.","src":"grammar"},
+    {"t":"fill","q":"Das macht ___ Spaß. (to me)","a":["mir"],"why":"dative: mir.","src":"grammar"},
+    {"t":"mc","q":"“Das fällt mir schwer.” means:","o":["I find that hard.","That is heavy.","I dropped it."],"a":0,"why":"schwer = difficult.","src":"vocab"},
+    {"t":"mc","q":"“der Krimi” is a:","o":["crime novel","comic","cookbook"],"a":0,"why":"Krimi = crime story.","src":"vocab"}
+  ]
+},
+"a2-26": {
+  "goal": "Talk about joining a club and making suggestions, and use indefinite pronouns (alle, viele, wenige, niemand, jemand) and könnte for ideas.",
+  "words": [
+    ["der Verein, -e", "club, association"],
+    ["der Reitverein / reiten", "riding club / to ride"],
+    ["das Pferd, -e", "horse"],
+    ["der Angler / angeln", "angler / to fish"],
+    ["Volleyball spielen", "to play volleyball"],
+    ["erinnern an + Akk. / sich erinnern an", "to remember"],
+    ["fürchterlich / furchtbar", "terrible"],
+    ["wenigstens", "at least"],
+    ["Ich sag ja nur …", "I’m just saying …"],
+    ["Bitte gib mir eine Chance!", "Please give me a chance!"],
+    ["Hör dir an, was er sagen möchte.", "Listen to what he wants to say."],
+    ["Ja und nein.", "Yes and no."]
+  ],
+  "grammar": {
+    "title": "Indefinite pronouns and suggestions",
+    "text": "Quantity and person words:\n\n- **alle** (all), **viele** (many), **wenige** (few), **einige** (some)\n- **jemand** (someone) – **niemand** (no one)\n- **etwas** (something) – **nichts** (nothing)\n- **man** (one, people)\n\n**Niemand** mag Volleyball. – Nicht **alle** hassen Volleyball, aber nur **wenige** mögen Volleyball.\n\nSuggest with **könnte** (Konjunktiv II of können): **Ihr könntet** Volleyball spielen. **Wir könnten** wieder mal was zusammen machen. Or **Warum … nicht?**: Warum gehen wir nicht öfter angeln?",
+    "ex": [
+      ["Niemand mag Volleyball. – Ich mag Volleyball!", "Nobody likes volleyball. – I like volleyball!"],
+      ["Nicht alle hassen Volleyball, aber nur wenige mögen Volleyball.", "Not everyone hates volleyball, but only few like it."],
+      ["Wir könnten wieder mal was zusammen machen.", "We could do something together again."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Max want to do more often?","o":["Go fishing","Play volleyball","Go riding"],"a":0,"why":"“Warum gehen wir nicht öfter angeln?”","src":"video"},
+    {"t":"mc","q":"How many times did they go fishing – and how many fish did they catch?","o":["About ten times, one fish","Twenty times, no fish","Once, five fish"],"a":0,"why":"“Wir waren bestimmt zehnmal angeln und wir haben einen Fisch gefangen.”","src":"video"},
+    {"t":"mc","q":"What does Max say about horses?","o":["He likes them but cannot ride and doesn’t want to learn","He is afraid of them","He owns one"],"a":0,"why":"“Ich mag Pferde, aber ich kann nicht reiten.”","src":"video"},
+    {"t":"mc","q":"What does Pepe ask Nico?","o":["To listen to him","To give him money","To move back"],"a":0,"why":"“Ich möchte, dass du mir wenigstens zuhörst.”","src":"video"},
+    {"t":"fill","q":"___ mag Volleyball. (Nobody)","a":["Niemand"],"why":"niemand = nobody.","src":"grammar"},
+    {"t":"fill","q":"Nicht alle hassen Volleyball, aber nur ___ mögen es. (few)","a":["wenige"],"why":"wenige = few.","src":"grammar"},
+    {"t":"mc","q":"“Wir könnten wieder mal was zusammen machen.” is a:","o":["suggestion","complaint","command"],"a":0,"why":"Konjunktiv II: könnten.","src":"grammar"},
+    {"t":"mc","q":"“der Verein” is a:","o":["club","meeting","match"],"a":0,"why":"Reitverein, Sportverein.","src":"vocab"}
+  ]
+},
+"a2-27": {
+  "goal": "Express worries and reject an offer of help, using reflexive verbs with a dative pronoun (sich Sorgen machen, sich vorstellen, sich überlegen).",
+  "words": [
+    ["sich (Dat.) Sorgen machen", "to worry"],
+    ["sich (Dat.) etwas vorstellen", "to imagine something"],
+    ["sich (Dat.) etwas überlegen", "to think something over"],
+    ["Ich überleg’s mir.", "I’ll think about it."],
+    ["die Entscheidung, -en", "decision"],
+    ["der Respekt", "respect"],
+    ["eine Firma gründen", "to found a company"],
+    ["unterstützen", "to support"],
+    ["die Ruhe", "peace and quiet"],
+    ["streiten", "to argue"],
+    ["verdienen", "to earn"],
+    ["Ich habe Respekt vor deiner Entscheidung.", "I respect your decision."]
+  ],
+  "grammar": {
+    "title": "Reflexive pronouns in the dative",
+    "text": "When the reflexive verb already has an **accusative object**, the reflexive pronoun is in the **dative**:\n\n| ich | du | er/sie/es | wir | ihr | sie |\n|---|---|---|---|---|---|\n| **mir** | **dir** | **sich** | **uns** | **euch** | **sich** |\n\n- Ich mache **mir** Sorgen. (Ich mache mich … would be wrong)\n- Ich kann **mir** nicht vorstellen, dass du das schaffst.\n- Ich habe **mir** etwas überlegt. – Ich überlege **mir** das.\n- Du machst **dir** keine Sorgen.\n\nOnly **ich** and **du** differ from the accusative reflexive pronouns (mich/dich).",
+    "ex": [
+      ["Ich mach mir auch Sorgen.", "I’m worried too."],
+      ["Ich kann mir nicht vorstellen, dass du es ohne Hilfe schaffen kannst.", "I can’t imagine that you can manage without help."],
+      ["Ich hab mir etwas überlegt. Ich bleibe hier.", "I’ve thought something over. I’m staying here."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How does Nico describe Pepe?","o":["Their father’s “great son” with his own firm","A poor student","A lazy brother"],"a":0,"why":"“Pepe, unser toller Sohn, hat eine eigene Firma.”","src":"video"},
+    {"t":"mc","q":"What does Pepe offer?","o":["To help and support Nico","To pay for his flat","To take him to Spain"],"a":0,"why":"“Ich kann dich unterstützen.”","src":"video"},
+    {"t":"mc","q":"What does Pepe decide?","o":["To stay in Germany for a few days or weeks","To fly home tomorrow","To move to Munich"],"a":0,"why":"“Ich bleibe hier. – Paar Tage, paar Wochen. Vielleicht länger.”","src":"video"},
+    {"t":"mc","q":"What does Nico think Pepe really wants?","o":["Peace and quiet for himself","Nico’s flat","A holiday"],"a":0,"why":"“Du willst einfach nur deine Ruhe haben.”","src":"video"},
+    {"t":"fill","q":"Ich mache ___ Sorgen. (reflexive dative, ich)","a":["mir"],"why":"sich (Dat.) Sorgen machen.","src":"grammar"},
+    {"t":"fill","q":"Ich kann ___ nicht vorstellen, dass du das schaffst. (ich)","a":["mir"],"why":"sich (Dat.) vorstellen.","src":"grammar"},
+    {"t":"mc","q":"“Ich überleg’s mir.” means:","o":["I’ll think about it.","I’ve forgotten it.","I don’t agree."],"a":0,"why":"sich etwas überlegen.","src":"vocab"},
+    {"t":"mc","q":"“die Entscheidung” means:","o":["decision","description","discussion"],"a":0,"why":"sich entscheiden.","src":"vocab"}
+  ]
+},
+"a2-28": {
+  "goal": "Talk about workload, volunteer work and sharing tasks, and use verbs that take a dative object (gefallen, gratulieren, helfen, schaden).",
+  "words": [
+    ["der WG-Plan", "flat rota"],
+    ["ehrenamtlich", "voluntary, unpaid"],
+    ["sich engagieren", "to get involved"],
+    ["die Aufgabe, -n", "task"],
+    ["übernehmen", "to take over"],
+    ["gratulieren + Dat.", "to congratulate"],
+    ["helfen + Dat.", "to help"],
+    ["gefallen + Dat.", "to please, to like"],
+    ["schaden + Dat.", "to harm"],
+    ["Das reicht aus.", "That’s enough."],
+    ["Ich mach das wieder gut.", "I’ll make it up."],
+    ["Vergiss es!", "Forget it!"]
+  ],
+  "grammar": {
+    "title": "Verbs with a dative object",
+    "text": "These verbs need a **dative** person:\n\n- **gefallen**: Die Arbeit gefällt **mir**.\n- **gratulieren**: Ich gratuliere **dir**.\n- **helfen**: Wie können wir **dir** helfen?\n- **schaden**: Das würde **dir** nicht schaden.\n- **gehören**, **passen**, **zuhören**, **danken**, **antworten**, **glauben**, **fehlen**.\n\nA thing in the accusative can follow: Ich bringe **dir** **das Lied** bei. Learn: **wem?** → dative (Wem hilfst du? – Dem Freund.)",
+    "ex": [
+      ["Die Arbeit gefällt mir, aber ich habe keine Zeit mehr.", "I like the work, but I have no more time."],
+      ["Wie können wir dir helfen?", "How can we help you?"],
+      ["Sebastian kann für dich das Bad putzen.", "Sebastian can clean the bathroom for you."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How often does Sebastian think they need to clean the bathroom?","o":["Every two weeks","Every day","Every month"],"a":0,"why":"“… wenn wir nur alle zwei Wochen das Bad putzen.”","src":"video"},
+    {"t":"mc","q":"What is Lisa’s problem?","o":["She has too much to do: language courses, volunteer work and the flat","She has no job","She has no money"],"a":0,"why":"“Die Sprachkurse, die ehrenamtlichen Sachen … keine Zeit mehr.”","src":"video"},
+    {"t":"mc","q":"What does Nina suggest?","o":["Take over Lisa’s tasks in the flat for a few weeks","Move out","Hire a cleaner"],"a":0,"why":"“… deine Aufgaben in der WG übernehmen – für die ersten Wochen.”","src":"video"},
+    {"t":"mc","q":"What does Nico say to the plan?","o":["“Ja! Klar!”","“Nein!”","“Vielleicht.”"],"a":0,"why":"He agrees.","src":"video"},
+    {"t":"fill","q":"Wie können wir ___ helfen? (you, informal dative)","a":["dir"],"why":"helfen + dative.","src":"grammar"},
+    {"t":"fill","q":"Ich gratuliere ___. (to you)","a":["dir"],"why":"gratulieren + dative.","src":"grammar"},
+    {"t":"mc","q":"Which verb takes the dative?","o":["gefallen","sehen","kaufen"],"a":0,"why":"Es gefällt mir.","src":"grammar"},
+    {"t":"mc","q":"“ehrenamtlich” means:","o":["voluntary","expensive","honest"],"a":0,"why":"das Ehrenamt = voluntary post.","src":"vocab"}
+  ]
+}
+}

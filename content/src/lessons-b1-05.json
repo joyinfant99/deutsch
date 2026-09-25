@@ -1,0 +1,146 @@
+{
+"b1-21": {
+  "goal": "Discuss clichés and stereotypes (Klischees), state your opinion and object politely but firmly.",
+  "words": [
+    ["das Klischee, -s", "cliché, stereotype"],
+    ["das Vorurteil, -e", "prejudice"],
+    ["typisch weiblich / männlich", "typically female / male"],
+    ["der Unterschied, -e", "difference"],
+    ["das Kompliment, -e", "compliment"],
+    ["Unsinn / Quatsch", "nonsense"],
+    ["sich konzentrieren auf + Akk.", "to concentrate on"],
+    ["programmieren / mit Computern umgehen", "to programme / to handle computers"],
+    ["kompliziert / einfach", "complicated / simple"],
+    ["jede Menge …", "loads of …"],
+    ["Das soll ein Kompliment gewesen sein?", "That’s supposed to be a compliment?"],
+    ["Entschuldigung?", "Excuse me? (protest)"]
+  ],
+  "grammar": {
+    "title": "Expressing and defending an opinion",
+    "text": "Phrases for discussions about clichés:\n\n- **Meinung:** Ich finde (nicht), **dass** das typisch weiblich **ist**. – Meiner Meinung nach … – Ich bin der Meinung, dass …\n- **Widersprechen:** Das stimmt nicht. – So ein Unsinn! – Da bin ich anderer Meinung. – Das sehe ich anders.\n- **Gegenbeispiel:** Es gibt **jede Menge Frauen, die** besser programmieren können als du. (relative clause)\n- **Einschränken:** Das kann sein, **aber** trotzdem gibt es Unterschiede.\n\nStay polite: **Ich sehe das anders** is stronger than **Ich verstehe, was du meinst, aber …**",
+    "ex": [
+      ["Es gibt bestimmt jede Menge Frauen, die besser programmieren können als du.", "There are surely loads of women who can programme better than you."],
+      ["Ich finde nicht, dass das typisch weiblich ist.", "I don’t think that’s typically female."],
+      ["Das kann sein, aber trotzdem gibt es Unterschiede zwischen Männern und Frauen.", "That may be, but there are still differences between men and women."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was sagt Pepe über Frauen und Technik?","o":["Das passt nicht zusammen","Frauen sind besser","Beide sind gleich gut"],"a":0,"why":"“Frauen und Technik, das passt eben nicht zusammen.”","src":"video"},
+    {"t":"mc","q":"Wie reagiert Yara?","o":["Sie findet das ein blödes Klischee","Sie stimmt zu","Sie lacht"],"a":0,"why":"“… was für ein blödes Klischee!”","src":"video"},
+    {"t":"mc","q":"Warum ärgert sich Yara über „sogar für Frauen“?","o":["Es klingt, als müsse man ihr alles einfach erklären","Es ist ein Lob","Sie versteht den Satz nicht"],"a":0,"why":"“Es muss aber nicht immer alles ganz einfach sein, damit ich es verstehe.”","src":"video"},
+    {"t":"mc","q":"Was schlägt Pepe zum Schluss (scherzhaft) vor?","o":["Die Webseite in Pink","Ein neues Logo","Weniger Text"],"a":0,"why":"“Wie wär’s mit Pink?”","src":"video"},
+    {"t":"fill","q":"Ich finde nicht, ___ das typisch weiblich ist. (that)","a":["dass"],"why":"finden, dass … verb at the end.","src":"grammar"},
+    {"t":"mc","q":"Welche Antwort widerspricht höflich?","o":["Ich sehe das anders.","Du hast keine Ahnung.","Halt den Mund."],"a":0,"why":"neutral.","src":"grammar"},
+    {"t":"mc","q":"“das Klischee” bedeutet:","o":["cliché, stereotype","clique","cliff"],"a":0,"why":"Klischees bedienen.","src":"vocab"},
+    {"t":"mc","q":"“jede Menge” bedeutet:","o":["loads of","every man","each time"],"a":0,"why":"jede Menge Frauen.","src":"vocab"}
+  ]
+},
+"b1-22": {
+  "goal": "Describe people’s character and looks with adjectives, and understand how adjectives are formed (-voll, -los, -isch, un-, -lich).",
+  "words": [
+    ["rücksichtsvoll / rücksichtslos", "considerate / inconsiderate"],
+    ["charmant / humorvoll", "charming / humorous"],
+    ["romantisch / sensibel", "romantic / sensitive"],
+    ["unsensibel / verständnislos", "insensitive / unsympathetic"],
+    ["attraktiv / schlank / groß", "attractive / slim / tall"],
+    ["schöne Augen", "beautiful eyes"],
+    ["frech werden", "to get cheeky"],
+    ["im Gegensatz zu + Dat.", "in contrast to"],
+    ["gemeinsam", "together, joint"],
+    ["der Fahrradhändler", "bicycle dealer"],
+    ["Ich sag ja nur …", "I’m just saying …"],
+    ["ähnlich aussehen", "to look similar"]
+  ],
+  "grammar": {
+    "title": "Word formation: adjectives",
+    "text": "Learn the common endings and prefixes to guess meanings:\n\n- **-voll** (full of): humor**voll**, rücksichts**voll**, liebe**voll**, sinn**voll**\n- **-los** (without): verständnis**los**, rücksichts**los**, arbeits**los**, hilf**los**\n- **-lich**: freund**lich**, weib**lich**, männ**lich**, persön**lich**\n- **-isch**: roman**tisch**, typ**isch**, sympath**isch**\n- **-ig**: lust**ig**, ruh**ig**, schwierig\n- **un-** (not): **un**sensibel, **un**freundlich, **un**wichtig\n\n**im Gegensatz zu + Dativ:** Im Gegensatz zu den meisten Männern ist Jacques rücksichtsvoll.",
+    "ex": [
+      ["Im Gegensatz zu den meisten Männern ist Jacques rücksichtsvoll, charmant, humorvoll, romantisch.", "In contrast to most men Jacques is considerate, charming, humorous, romantic."],
+      ["Viele Männer sind unsensibel und reagieren verständnislos.", "Many men are insensitive and react with a lack of understanding."],
+      ["Er ist groß und schlank und hat schöne Augen.", "He is tall and slim and has beautiful eyes."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was plant Inge bald?","o":["Einen gemeinsamen Urlaub mit Jacques","Einen Umzug","Einen Kochkurs"],"a":0,"why":"“Und bald fahren wir gemeinsam in den Urlaub!”","src":"video"},
+    {"t":"mc","q":"Wie beschreibt Inge Jacques?","o":["Rücksichtsvoll, charmant, humorvoll, romantisch","Laut und frech","Klein und schüchtern"],"a":0,"why":"Im Gegensatz zu den meisten Männern …","src":"video"},
+    {"t":"mc","q":"Was fällt Nico beim Foto auf?","o":["Der Mann sieht aus wie Otto, der Fahrradhändler","Der Mann ist sein Lehrer","Der Mann ist sein Onkel"],"a":0,"why":"“Das ist Otto, der Fahrradhändler von Yara.”","src":"video"},
+    {"t":"mc","q":"Wie reagiert Inge?","o":["Sie ärgert sich und sagt: Das ist Jacques!","Sie lacht laut","Sie geht weg ohne etwas zu sagen"],"a":0,"why":"“So ein Quatsch! Das ist Jacques!”","src":"video"},
+    {"t":"fill","q":"hilf___ (ohne Hilfe) – adjective ending","a":["los"],"why":"-los = without.","src":"grammar"},
+    {"t":"fill","q":"humor___ (mit Humor) – adjective ending","a":["voll"],"why":"-voll = full of.","src":"grammar"},
+    {"t":"mc","q":"“unsensibel” ist:","o":["insensitive","invisible","unsound"],"a":0,"why":"un + sensibel.","src":"vocab"},
+    {"t":"mc","q":"“im Gegensatz zu” steht mit:","o":["Dativ","Akkusativ","Genitiv"],"a":0,"why":"im Gegensatz zu den Männern.","src":"grammar"}
+  ]
+},
+"b1-23": {
+  "goal": "Talk about jobs and gender (typische Frauen- und Männerberufe), equality and pay, and express reasons with wegen + Genitiv, deshalb, da.",
+  "words": [
+    ["die Gleichberechtigung", "equal rights"],
+    ["der Gehaltsunterschied, -e", "pay gap"],
+    ["der Beruf, -e / der Handwerkerberuf", "profession / trade"],
+    ["der Maurer / der Klempner / der Lackierer", "bricklayer / plumber / paint sprayer"],
+    ["der Berufskraftfahrer / der LKW-Fahrer", "professional driver / lorry driver"],
+    ["der Friseur / die Friseurin", "hairdresser"],
+    ["der Erzieher / die Erzieherin", "educator, nursery teacher"],
+    ["die Sekretärin / die Verkäuferin", "secretary / saleswoman"],
+    ["der Fotoauftrag", "photo commission"],
+    ["darstellen", "to depict"],
+    ["die Geburt", "birth"],
+    ["das Baby behalten", "to keep the baby"]
+  ],
+  "grammar": {
+    "title": "Causal connections: weil, da, deshalb, wegen + Genitiv",
+    "text": "Ways to express a reason:\n\n- **weil / da** + verb at the end: **Da** Nina schwanger **ist**, muss sie sich schonen.\n- **denn** (verb second): Sie arbeitet weniger, **denn** sie erwartet ein Baby.\n- **deshalb / deswegen / darum** (verb right after): Das Thema sind Berufe. **Deshalb** habe ich diese Frau dargestellt.\n- **wegen + Genitiv** (because of): **Wegen des** Babys muss sie aufhören. **Wegen der** Kinder …\n- **aufgrund + Genitiv** (formal).\n\nGenitive: **des** Babys, **des** Wetters; feminine/plural **der**: wegen **der** Prüfung, wegen **der** Kosten. In spoken German you often hear wegen + Dativ.",
+    "ex": [
+      ["Das Thema sind Frauen- und Männerberufe. Deshalb habe ich diese Frau in Bauarbeiterkleidung dargestellt.", "The topic is women’s and men’s jobs. That’s why I portrayed this woman in construction-worker clothes."],
+      ["Wegen des Babys?", "Because of the baby?"],
+      ["Es geht um Gleichberechtigung und Gehaltsunterschiede zwischen Männern und Frauen.", "It’s about equal rights and pay differences between men and women."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was fotografiert Sebastian für eine Zeitschrift?","o":["Frauen und Männer in Berufen des jeweils anderen Geschlechts","Landschaften","Autos"],"a":0,"why":"“Frauen in typischen Männerberufen … auch Männer in typischen Frauenberufen.”","src":"video"},
+    {"t":"mc","q":"Was sind typische Männerberufe laut Nina?","o":["Handwerker wie Maurer, Klempner, Lackierer","Erzieher","Sekretär"],"a":0,"why":"“… die Handwerkerberufe, oder? Lackierer, Maurer, Klempner …”","src":"video"},
+    {"t":"mc","q":"Was hält Nina von „Friseurin“ als Frauenberuf?","o":["Sie findet nicht, dass es ein typischer Frauenberuf ist","Sie findet es typisch","Sie kennt den Beruf nicht"],"a":0,"why":"“Es gibt aber auch viele Friseure.”","src":"video"},
+    {"t":"mc","q":"Was will Nina mit dem Baby?","o":["Sie will es behalten – „Mitbewohner Nummer fünf“","Sie weiß es noch nicht","Sie will es adoptieren lassen"],"a":0,"why":"“Mitbewohner Nummer fünf!”","src":"video"},
+    {"t":"fill","q":"___ des Wetters bleiben wir zu Hause. (because of)","a":["Wegen"],"why":"wegen + Genitiv.","src":"grammar"},
+    {"t":"fill","q":"Wegen ___ Babys muss sie weniger arbeiten. (genitive neuter)","a":["des"],"why":"des Babys.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Es regnet. Deshalb bleibe ich zu Hause.","Es regnet. Deshalb ich bleibe zu Hause.","Es regnet. Deshalb zu Hause bleibe ich."],"a":0,"why":"Verb direkt nach deshalb.","src":"grammar"},
+    {"t":"mc","q":"“die Gleichberechtigung” bedeutet:","o":["equal rights","equal weight","equality of prices"],"a":0,"why":"gleich + Recht.","src":"vocab"}
+  ]
+},
+"b1-24": {
+  "goal": "Argue about roles at work and in the family, and use concessive clauses (obwohl, trotzdem) to express a contrast.",
+  "words": [
+    ["die Rollenverteilung", "division of roles"],
+    ["berufstätig sein", "to be employed"],
+    ["der Kollege / die Chefin", "colleague / female boss"],
+    ["beschimpfen", "to insult"],
+    ["respektlos", "disrespectful"],
+    ["akzeptieren", "to accept"],
+    ["der Haushalt", "household"],
+    ["die Gründe (pl.)", "reasons"],
+    ["stolz sein auf + Akk.", "to be proud of"],
+    ["umkippen", "to collapse, to tip over"],
+    ["der Krankenwagen", "ambulance"],
+    ["Jetzt mal langsam!", "Hold on a moment!"]
+  ],
+  "grammar": {
+    "title": "Concession: obwohl and trotzdem",
+    "text": "**obwohl** (although) introduces a **subordinate clause** (verb at the end):\n\n- **Obwohl** ich manchmal Fehler **mache**, kann sie so nicht mit mir sprechen.\n- Mit Herrn Müller hat es nie Probleme gegeben, **obwohl** er der Chef **war**.\n\n**trotzdem** (nevertheless) is an **adverb**: the verb comes right after it (position 2):\n- Sie ist meine Chefin. **Trotzdem kann** sie normal mit mir sprechen.\n\nCompare: **aber** (main clause, position 0): Sie ist Chefin, **aber** sie kann normal sprechen. **obwohl** = subordinate clause; **trotzdem** = main clause with inversion.",
+    "ex": [
+      ["Obwohl ich manchmal Fehler mache, kann sie so nicht mit mir sprechen.", "Although I sometimes make mistakes, she can’t talk to me like that."],
+      ["Okay, sie ist meine Chefin. Trotzdem kann sie doch normal mit mir sprechen.", "OK, she is my boss. Nevertheless she can speak to me normally."],
+      ["Ich bin stolz auf meine Tochter, obwohl sie noch jung ist.", "I’m proud of my daughter although she is still young."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Worüber regt sich der Kollege auf?","o":["Die Chefin hat ihn vor den anderen beschimpft","Die Pausen sind zu kurz","Das Essen ist schlecht"],"a":0,"why":"“… dass die Chefin mich grade beschimpft hat!”","src":"video"},
+    {"t":"mc","q":"Was meint der Kollege über Männer und Frauen?","o":["Männer arbeiten, Frauen machen den Haushalt","Beide sollten Haushalt machen","Beide sollten arbeiten"],"a":0,"why":"“Männer gehen arbeiten. Frauen machen den Haushalt.”","src":"video"},
+    {"t":"mc","q":"Wie sieht Ibrahim das?","o":["Ganz anders – er ist stolz auf seine arbeitende Tochter","Er stimmt zu","Er hat keine Meinung"],"a":0,"why":"“Ich seh das ganz anders. Meine Tochter Selma arbeitet.”","src":"video"},
+    {"t":"mc","q":"Was passiert am Ende?","o":["Ibrahim kippt um – ein Krankenwagen wird gerufen","Der Kollege kündigt","Die Chefin entschuldigt sich"],"a":0,"why":"“… ich brauch bitte einen Krankenwagen.”","src":"video"},
+    {"t":"fill","q":"___ er müde ist, arbeitet er weiter. (although)","a":["Obwohl"],"why":"obwohl + verb at the end.","src":"grammar"},
+    {"t":"fill","q":"Er ist müde. ___ arbeitet er weiter. (nevertheless)","a":["Trotzdem"],"why":"trotzdem + verb 2.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Obwohl es regnet, gehen wir spazieren.","Obwohl es regnet, wir gehen spazieren.","Obwohl regnet es, gehen wir spazieren."],"a":0,"why":"Nebensatz: Verb am Ende; danach Verb.","src":"grammar"},
+    {"t":"mc","q":"“respektlos” bedeutet:","o":["disrespectful","respectful","without a spectacle"],"a":0,"why":"Das war respektlos.","src":"vocab"}
+  ]
+}
+}

@@ -1,0 +1,146 @@
+{
+"a2-21": {
+  "goal": "Talk about moving in and free-time projects, and use reflexive verbs (sich freuen, sich entscheiden, sich unterhalten).",
+  "words": [
+    ["die Möbel (pl.)", "furniture"],
+    ["der Schrank / das Bett / die Matratze", "wardrobe / bed / mattress"],
+    ["der Secondhandladen, -läden", "second-hand shop"],
+    ["tragen", "to carry"],
+    ["die Bedingung, -en", "condition"],
+    ["das Fotoprojekt, -e", "photo project"],
+    ["die Redewendung, -en", "idiom, saying"],
+    ["wortwörtlich", "literally"],
+    ["darstellen", "to depict"],
+    ["sich entscheiden", "to decide"],
+    ["sich unterhalten", "to chat"],
+    ["Ich bin dabei.", "I’m in."]
+  ],
+  "grammar": {
+    "title": "Reflexive verbs",
+    "text": "With reflexive verbs the action goes back to the subject. Use the **reflexive pronoun**:\n\n| ich | du | er/sie/es | wir | ihr | sie/Sie |\n|---|---|---|---|---|---|\n| **mich** | **dich** | **sich** | **uns** | **euch** | **sich** |\n\nExamples: Ich muss **mich** duschen. Ich freue **mich** darauf. Du kannst **dich** entscheiden. Wir unterhalten **uns** morgen.\n\nIn a main clause the pronoun follows the conjugated verb; in the Perfekt: Ich habe **mich** gefreut. Many verbs are reflexive **only** in German: sich entscheiden, sich beeilen, sich erinnern.",
+    "ex": [
+      ["Da muss ich mich ja gleich noch mal duschen.", "I’d have to shower again straight away."],
+      ["Ich freu mich drauf!", "I’m looking forward to it!"],
+      ["Wir unterhalten uns morgen noch mal.", "We’ll talk again tomorrow."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What furniture does Nico bring?","o":["A wardrobe, a bed and a mattress","A sofa and a table","Only a chair"],"a":0,"why":"“Ich hab einen Schrank, ein Bett und eine Matratze.”","src":"video"},
+    {"t":"mc","q":"Where is the furniture from?","o":["A second-hand shop","IKEA","His parents"],"a":0,"why":"“Alles ausm Secondhandladen.”","src":"video"},
+    {"t":"mc","q":"What condition does Sebastian set?","o":["Lisa must take part in his photo project","Lisa must pay","Lisa must cook"],"a":0,"why":"“Du machst bei meinem Fotoprojekt mit.”","src":"video"},
+    {"t":"mc","q":"What is the photo project about?","o":["Depicting German idioms literally","Portraits of old people","Landscapes"],"a":0,"why":"“… deutsche Redewendungen mit Fotos darstellen … wortwörtlich umsetzen.”","src":"video"},
+    {"t":"fill","q":"Ich freue ___ auf das Projekt. (reflexive, ich)","a":["mich"],"why":"ich → mich.","src":"grammar"},
+    {"t":"fill","q":"Wir unterhalten ___ morgen. (reflexive, wir)","a":["uns"],"why":"wir → uns.","src":"grammar"},
+    {"t":"mc","q":"“die Redewendung” is:","o":["an idiom","a speech","a rule"],"a":0,"why":"Redewendung = fixed expression.","src":"vocab"},
+    {"t":"mc","q":"Which is correct?","o":["Er hat sich entschieden.","Er hat entschieden sich.","Er hat sich entscheidet."],"a":0,"why":"Perfekt: sich entschieden.","src":"grammar"}
+  ]
+},
+"a2-22": {
+  "goal": "Talk about stress and busy days, and use verbs with prepositions (sich freuen auf, warten auf, denken an) and the da-compounds (damit, darauf).",
+  "words": [
+    ["stressig", "stressful"],
+    ["das Angebot, -e / die Werbung", "offer / advertising"],
+    ["wandern / segeln / surfen", "to hike / to sail / to surf"],
+    ["absagen", "to cancel"],
+    ["abhalten von + Dat.", "to keep from"],
+    ["der Umzug, Umzüge", "move (house)"],
+    ["die Kleinigkeit, -en", "small thing"],
+    ["gebrauchen", "to use, to need"],
+    ["in meinem Alter", "at my age"],
+    ["Ich habe keine Zeit.", "I have no time."],
+    ["Was denken die sich nur?", "What are they thinking?"],
+    ["Macht’s gut!", "Take care!"]
+  ],
+  "grammar": {
+    "title": "Verbs with prepositions and da-compounds",
+    "text": "Learn the verb with its preposition and case:\n\n- **sich freuen auf** + Akk. (something in the future): Ich freue mich **auf** die Reise.\n- **sich freuen über** + Akk. (present/past): Ich freue mich **über** das Geschenk.\n- **warten auf** + Akk. – **denken an** + Akk. – **abhalten von** + Dat.\n\n**Da-compounds** replace preposition + thing: **damit** (with it), **darauf** (for it), **dafür**, **darüber**: Ich weiß nicht, was ich **damit** machen soll. Ich freue mich **darauf**. For a person: auf **ihn**, mit **ihr**.",
+    "ex": [
+      ["Ich weiß doch gar nicht, was ich damit machen soll.", "I don’t know at all what to do with it."],
+      ["Ich will euch nicht von der Arbeit abhalten.", "I don’t want to keep you from your work."],
+      ["Ich freue mich auf den Ausflug.", "I’m looking forward to the trip."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Why did Inge come to see Nico?","o":["To bring him small things for his move","To cancel her trip","To ask for money"],"a":0,"why":"“Ich wollte dir gerne ein paar Sachen für den Umzug mitbringen.”","src":"video"},
+    {"t":"mc","q":"What would Inge like to do with the trip Tarek and Max booked?","o":["Cancel it","Extend it","Invite friends"],"a":0,"why":"“Am liebsten würde ich ihn absagen.”","src":"video"},
+    {"t":"mc","q":"What kind of offers does Inge receive by email?","o":["Hiking, sailing and surfing","Cooking classes","Language courses"],"a":0,"why":"“Ich soll wandern gehen, ich soll segeln oder surfen.”","src":"video"},
+    {"t":"mc","q":"How does Inge feel about all of it?","o":["Very stressed","Excited","Bored"],"a":0,"why":"“Es ist alles furchtbar stressig.”","src":"video"},
+    {"t":"fill","q":"Ich freue mich ___ die Reise. (looking forward to)","a":["auf"],"why":"sich freuen auf + Akk.","src":"grammar"},
+    {"t":"fill","q":"Was soll ich ___ machen? (with it)","a":["damit"],"why":"da + mit = damit.","src":"grammar"},
+    {"t":"mc","q":"“absagen” means:","o":["to cancel","to say goodbye","to reply"],"a":0,"why":"einen Ausflug absagen.","src":"vocab"},
+    {"t":"mc","q":"Which is correct?","o":["Ich warte auf den Bus.","Ich warte für den Bus.","Ich warte an den Bus."],"a":0,"why":"warten auf + Akk.","src":"grammar"}
+  ]
+},
+"a2-23": {
+  "goal": "Express feelings and relationships with adjective + preposition (egal, sauer auf, stolz auf), reflexive verbs of feeling, and understand a letter and its parts.",
+  "words": [
+    ["sich ärgern über + Akk.", "to be annoyed about"],
+    ["sich interessieren für + Akk.", "to be interested in"],
+    ["sich aufregen über + Akk.", "to get worked up about"],
+    ["Du bist mir egal.", "I don’t care about you."],
+    ["die Firma, Firmen", "company"],
+    ["das Hausverbot", "house ban"],
+    ["der Brief / der Umschlag", "letter / envelope"],
+    ["die Briefmarke / der Briefkasten", "stamp / mailbox"],
+    ["die Zusage / die Absage", "acceptance / rejection"],
+    ["die Abendschule", "evening school"],
+    ["Zur Feier des Tages!", "To celebrate the day!"],
+    ["Ich trau mich nicht.", "I don’t dare."]
+  ],
+  "grammar": {
+    "title": "Adjectives with prepositions and feelings",
+    "text": "Some adjectives always go with a preposition:\n\n- **egal** + Dat.: Ich bin **ihm** egal. (He doesn’t care about me.)\n- **sauer / wütend auf** + Akk.: Ich bin **auf** meinen Bruder sauer.\n- **stolz auf** + Akk., **froh über** + Akk., **zufrieden mit** + Dat., **gespannt auf** + Akk.\n\nFeeling verbs are often reflexive: **sich ärgern über**, **sich aufregen über**, **sich interessieren für**: Er interessiert sich nicht **für** mich.\n\nThe post: **Ich schreibe die Adresse auf den Umschlag und werfe den Brief in den Briefkasten.**",
+    "ex": [
+      ["Pepe interessiert sich überhaupt nicht für mich.", "Pepe is not interested in me at all."],
+      ["Du ärgerst dich über deinen Bruder, oder?", "You’re annoyed about your brother, aren’t you?"],
+      ["Du schreibst die Adresse auf den Umschlag und wirfst den Brief in den Briefkasten.", "You write the address on the envelope and put the letter in the mailbox."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Nico’s brother do in Germany?","o":["He has his own company","He studies","He is a teacher"],"a":0,"why":"“Er hat eine eigene Firma.”","src":"video"},
+    {"t":"mc","q":"How does Nico feel about Pepe?","o":["He often gets annoyed by him","He admires him","He is proud of him"],"a":0,"why":"“Ich ärgere mich oft über meinen Bruder.”","src":"video"},
+    {"t":"mc","q":"What was in the post for Lisa?","o":["A letter from the evening school","A bill","A postcard"],"a":0,"why":"“Ein Brief von der Abendschule.”","src":"video"},
+    {"t":"mc","q":"What is Lisa’s news?","o":["She was accepted (Zusage)","She was rejected","She won a prize"],"a":0,"why":"“Eine Zusage!”","src":"video"},
+    {"t":"mc","q":"What does Nina explain to Nico?","o":["How to send a letter: envelope, stamp, mailbox","How to cook","How to open a bank account"],"a":0,"why":"Umschlag, Briefmarke, Briefkasten.","src":"video"},
+    {"t":"fill","q":"Er interessiert sich nicht ___ mich. (in)","a":["für","fuer"],"why":"sich interessieren für + Akk.","src":"grammar"},
+    {"t":"fill","q":"Ich ärgere mich ___ meinen Bruder. (about)","a":["über","ueber"],"why":"sich ärgern über + Akk.","src":"grammar"},
+    {"t":"mc","q":"“die Zusage” is the opposite of:","o":["die Absage","die Anzeige","die Anrede"],"a":0,"why":"Zusage = acceptance, Absage = rejection.","src":"vocab"}
+  ]
+},
+"a2-24": {
+  "goal": "Follow and take part in a tense discussion: express disagreement, argue with reasons, and recognise phrases like “Das meinen Sie nicht ernst”.",
+  "words": [
+    ["die Mieterhöhung, -en", "rent increase"],
+    ["die Miete wird teurer", "the rent is getting more expensive"],
+    ["der Vermieter / der Mieter", "landlord / tenant"],
+    ["diskutieren", "to discuss, to argue"],
+    ["besprechen", "to discuss (a matter)"],
+    ["der Ladenbesitzer, -", "shop owner"],
+    ["schließen", "to close"],
+    ["tragisch", "tragic"],
+    ["Das meinen Sie nicht ernst.", "You can’t be serious."],
+    ["Das wundert mich nicht.", "That doesn’t surprise me."],
+    ["Es interessiert mich nicht.", "I’m not interested."],
+    ["auf keinen Fall", "under no circumstances"]
+  ],
+  "grammar": {
+    "title": "Expressing agreement and disagreement",
+    "text": "Phrases for discussions:\n\n- **Disagreeing**: Das meinen Sie nicht ernst. – Das sehe ich anders. – Ich bin nicht einverstanden. – Auf keinen Fall!\n- **Reasons**: Ich zahle nicht mehr, **weil** … – **denn** …\n- **Announcing**: Es gibt im nächsten Jahr eine Mieterhöhung. Die Miete **wird** ab Januar teurer.\n- **Future with werden**: Ich **werde** auf keinen Fall mehr Miete **bezahlen**. (werden + infinitive at the end)\n\n**Sie** forms for formal talks: Haben **Sie** einen Moment Zeit? Glauben **Sie**, dass …?",
+    "ex": [
+      ["Das meinen Sie nicht ernst.", "You can’t be serious."],
+      ["Die Miete wird ab Januar teurer.", "The rent goes up from January."],
+      ["Ich werde auf keinen Fall mehr Miete bezahlen!", "I will under no circumstances pay more rent!"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What bad news does the landlord bring?","o":["A rent increase from January","A sale of the building","The shop must close today"],"a":0,"why":"“Die Miete wird ab Januar teurer.”","src":"video"},
+    {"t":"mc","q":"How does Yara react?","o":["“Das meinen Sie nicht ernst.”","She agrees calmly","She pays at once"],"a":0,"why":"She is angry.","src":"video"},
+    {"t":"mc","q":"What does Yara say many small shop owners must do?","o":["Close their shops because rents keep rising","Move abroad","Raise their prices"],"a":0,"why":"“… viele kleine Ladenbesitzer ihre Geschäfte schließen müssen …”","src":"video"},
+    {"t":"mc","q":"What is the landlord’s answer?","o":["“Das ist tragisch. Aber es interessiert mich nicht.”","“I will lower the rent.”","“Let’s talk again tomorrow.”"],"a":0,"why":"He refuses to discuss.","src":"video"},
+    {"t":"mc","q":"“Das wundert mich nicht.” means:","o":["That doesn’t surprise me.","That is wonderful.","I wonder about that."],"a":0,"why":"sich wundern = to be surprised.","src":"vocab"},
+    {"t":"fill","q":"Ich ___ auf keinen Fall mehr Miete bezahlen. (werden, ich)","a":["werde"],"why":"ich werde + Infinitiv.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is a polite way to disagree?","o":["Das sehe ich anders.","Das ist mir egal.","Das ist doch Quatsch, Idiot!"],"a":0,"why":"neutral disagreement.","src":"grammar"},
+    {"t":"mc","q":"“die Mieterhöhung” is:","o":["a rent increase","a flat viewing","a tenant"],"a":0,"why":"erhöhen = to raise.","src":"vocab"}
+  ]
+}
+}

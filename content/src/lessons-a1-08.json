@@ -1,0 +1,613 @@
+{
+"a1-33": {
+"goal": "Ask for and tell the time, read opening hours, and understand both the 24-hour clock and everyday time phrases (Viertel nach, halb, Viertel vor).",
+"words": [
+[
+"Wie spät ist es? / Wie viel Uhr ist es?",
+"What time is it?"
+],
+[
+"die Öffnungszeiten (pl.)",
+"opening hours"
+],
+[
+"geöffnet / geschlossen",
+"open / closed"
+],
+[
+"Viertel nach zwölf",
+"quarter past twelve (12:15)"
+],
+[
+"halb eins",
+"half past twelve (12:30)"
+],
+[
+"Viertel vor eins",
+"quarter to one (12:45)"
+],
+[
+"dreiundzwanzig Uhr",
+"23:00 (11 pm)"
+],
+[
+"pünktlich",
+"on time"
+],
+[
+"das Mittagsangebot",
+"lunch special"
+],
+[
+"das Bewerbungsgespräch",
+"job interview"
+],
+[
+"dauern",
+"to last"
+],
+[
+"Bis gleich!",
+"See you in a moment!"
+]
+],
+"grammar": {
+"title": "Time: the 24-hour clock and everyday time",
+"text": "**Official time** (timetables, opening hours) uses 0–24: **dreizehn Uhr** = 1 pm, **dreiundzwanzig Uhr** = 11 pm.\n\n**Everyday time** uses the 12-hour clock:\n- 12:15 = **Viertel nach** zwölf\n- 12:30 = **halb eins** (half **to** one!)\n- 12:45 = **Viertel vor** eins\n\nWatch out: **halb eins** is 12:30, not 1:30. Nico says “halb zwölf” = 11:30 – that is why Lisa is late in his head!",
+"ex": [
+[
+"Wir haben von Dienstag bis Sonntag von neun bis dreiundzwanzig Uhr geöffnet.",
+"We are open Tuesday to Sunday from 9 am to 11 pm."
+],
+[
+"Sie kommt um Viertel vor eins, also um 12:45 Uhr.",
+"She’s coming at quarter to one, that is 12:45."
+],
+[
+"Wie viel Uhr ist es? – Es ist zwölf Uhr.",
+"What time is it? – It’s twelve o’clock."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "On which day is the restaurant Das Marek closed?",
+"o": [
+"Monday",
+"Tuesday",
+"Sunday"
+],
+"a": 0,
+"why": "“Am Montag haben wir leider geschlossen.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Which dish is NOT on today’s lunch menu?",
+"o": [
+"Pizza",
+"Rouladen with red cabbage",
+"Turkish lentil soup"
+],
+"a": 0,
+"why": "Rouladen, Fisch mit Gemüse, türkische Linsensuppe.",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Why is Lisa late?",
+"o": [
+"Her job interview takes longer",
+"She missed the bus",
+"She forgot the address"
+],
+"a": 0,
+"why": "“Das Bewerbungsgespräch dauert länger.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What does Inge order in the end?",
+"o": [
+"The Rouladen",
+"The fish",
+"The soup"
+],
+"a": 0,
+"why": "“Die Rouladen, ich nehme die Rouladen.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What time is “Viertel vor eins”?",
+"o": [
+"12:45",
+"1:15",
+"1:45"
+],
+"a": 0,
+"why": "Quarter to one = 12:45.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "What time is “halb eins”?",
+"o": [
+"12:30",
+"1:30",
+"12:00"
+],
+"a": 0,
+"why": "halb eins = half an hour before one = 12:30.",
+"src": "grammar"
+},
+{
+"t": "fill",
+"q": "Wie ___ Uhr ist es? (how many)",
+"a": [
+"viel"
+],
+"why": "Wie viel Uhr ist es?",
+"src": "vocab"
+}
+]
+},
+"a1-34": {
+"goal": "Talk about dates and appointments with ordinal numbers (der erste, der zweiundzwanzigste) and words like morgen and übermorgen.",
+"words": [
+[
+"heute / morgen / übermorgen",
+"today / tomorrow / the day after tomorrow"
+],
+[
+"der erste, der zweite, der dritte",
+"1st, 2nd, 3rd"
+],
+[
+"der zweiundzwanzigste",
+"22nd"
+],
+[
+"der Monat, -e / der November",
+"month / November"
+],
+[
+"der Kalender, -",
+"calendar"
+],
+[
+"der Termin, -e",
+"appointment"
+],
+[
+"der Frühdienst",
+"early shift"
+],
+[
+"reservieren",
+"to reserve"
+],
+[
+"einen Tisch reservieren",
+"to book a table"
+],
+[
+"am Fenster",
+"by the window"
+],
+[
+"Wir freuen uns auf Sie!",
+"We look forward to seeing you!"
+],
+[
+"Auf Wiederhören!",
+"Goodbye! (on the phone)"
+]
+],
+"grammar": {
+"title": "Ordinal numbers and dates",
+"text": "Ordinal numbers say the order: **erste (1.)**, **zweite (2.)**, **dritte (3.)**, then **-te** up to 19 (vierte, fünfte … neunzehnte) and **-ste** from 20 (zwanzigste, einundzwanzigste …).\n\nDates use the masculine ordinal with **der**: **Morgen ist der Zweiundzwanzigste.** With **am**: am zweiundzwanzigsten. A period: **vom ersten bis zum siebten** November = from 1 to 7 November.\n\nWriting: 22.11. (say: der zweiundzwanzigste elfte).",
+"ex": [
+[
+"Morgen ist der Zweiundzwanzigste, übermorgen der Dreiundzwanzigste.",
+"Tomorrow is the 22nd, the day after tomorrow the 23rd."
+],
+[
+"Vom ersten bis zum siebten November habe ich Frühdienst.",
+"From 1 to 7 November I have the early shift."
+],
+[
+"Wir haben erst um Viertel vor acht einen Tisch frei.",
+"We only have a table free at quarter to eight."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "What does Tarek ask Max to do tomorrow?",
+"o": [
+"Come a bit earlier",
+"Stay at home",
+"Close the restaurant"
+],
+"a": 0,
+"why": "“Kannst du morgen vielleicht etwas früher kommen?”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "When does Max have the early shift again?",
+"o": [
+"From the 1st to the 7th of November",
+"From the 22nd to the 23rd",
+"Only at the weekend"
+],
+"a": 0,
+"why": "“Vom ersten bis zum siebten November.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "A guest wants a table for quarter to seven. What does Tarek offer?",
+"o": [
+"Quarter to eight, by the window",
+"Half past six",
+"Nothing at all"
+],
+"a": 0,
+"why": "“Um Viertel vor acht … am Fenster.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "“Übermorgen” means:",
+"o": [
+"the day after tomorrow",
+"yesterday",
+"next month"
+],
+"a": 0,
+"why": "morgen + übermorgen.",
+"src": "vocab"
+},
+{
+"t": "fill",
+"q": "Morgen ist der zweiundzwanzig___. (22nd)",
+"a": [
+"ste"
+],
+"why": "Ab 20: -ste (zweiundzwanzigste).",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "How do you say the 3rd of May?",
+"o": [
+"der dritte Mai",
+"der drei Mai",
+"der dreite Mai"
+],
+"a": 0,
+"why": "dritte is irregular.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“Sie möchten einen Tisch reservieren.” means:",
+"o": [
+"You would like to book a table.",
+"You have a table.",
+"You want to leave."
+],
+"a": 0,
+"why": "reservieren = to book.",
+"src": "vocab"
+}
+]
+},
+"a1-35": {
+"goal": "Make arrangements and say what you can and cannot do with the modal verb können.",
+"words": [
+[
+"können",
+"can, to be able to"
+],
+[
+"Wann spielen wir? / Wann treffen wir uns?",
+"When do we play? / When do we meet?"
+],
+[
+"Das geht (nicht).",
+"That works (doesn’t work)."
+],
+[
+"Ich kann nicht.",
+"I can’t."
+],
+[
+"zu früh / zu spät",
+"too early / too late"
+],
+[
+"Geht das?",
+"Is that OK?"
+],
+[
+"diese Woche / nächste Woche",
+"this week / next week"
+],
+[
+"oft / wieder",
+"often / again"
+],
+[
+"das Schwimmbad, -bäder",
+"swimming pool"
+],
+[
+"nachmittags",
+"in the afternoon"
+],
+[
+"Hast du Lust?",
+"Do you feel like it?"
+],
+[
+"Wir treffen uns hier.",
+"We’ll meet here."
+]
+],
+"grammar": {
+"title": "Conjugation: können",
+"text": "**können** is a modal verb. It is irregular in the singular:\n\n- ich **kann**\n- du **kannst**\n- er / sie / es **kann**\n- wir **können**\n- ihr **könnt**\n- sie / Sie **können**\n\nThe second verb goes to the **end in the infinitive**: Ich **kann** am Freitag nicht **kommen**. When the meaning is clear, the second verb can be dropped: Samstag **kann** ich nicht.",
+"ex": [
+[
+"Diese Woche kann ich nicht. Aber nächste Woche geht’s.",
+"This week I can’t. But next week works."
+],
+[
+"Robert kann am Freitag nicht.",
+"Robert can’t on Friday."
+],
+[
+"Ich kann erst um zwei.",
+"I can’t until two."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "What sport do Max, Tarek and their friends play together?",
+"o": [
+"Football",
+"Volleyball",
+"Tennis"
+],
+"a": 0,
+"why": "“Wir spielen oft zusammen Fußball.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Why can Yanis not play on Saturday?",
+"o": [
+"He meets Anna at the swimming pool",
+"He has to work",
+"He is on holiday"
+],
+"a": 0,
+"why": "“Da treffe ich Anna nachmittags im Schwimmbad.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "When and where do they agree to meet?",
+"o": [
+"Next Friday at two, at the restaurant",
+"This Saturday at one, at the pool",
+"Next Friday at one, at the park"
+],
+"a": 0,
+"why": "One is too early for Max; they meet at two.",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Who is invited as the eighth player?",
+"o": [
+"Nico",
+"Robert",
+"Lisa"
+],
+"a": 0,
+"why": "“Wir brauchen eine achte Person.” – “Spielst du mit uns Fußball?”",
+"src": "video"
+},
+{
+"t": "fill",
+"q": "Ich ___ am Freitag nicht. (können)",
+"a": [
+"kann"
+],
+"why": "ich kann.",
+"src": "grammar"
+},
+{
+"t": "fill",
+"q": "Wir ___ nächste Woche spielen. (können)",
+"a": [
+"können",
+"koennen"
+],
+"why": "wir können.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“Das geht nicht.” means:",
+"o": [
+"That doesn’t work.",
+"That is not mine.",
+"That is not here."
+],
+"a": 0,
+"why": "gehen = to work, to be possible.",
+"src": "vocab"
+}
+]
+},
+"a1-36": {
+"goal": "Apologise for being late and explain why, and use hatte (simple past of haben) and war.",
+"words": [
+[
+"zu spät / pünktlich",
+"late / on time"
+],
+[
+"der Stau, -s",
+"traffic jam"
+],
+[
+"der Verkehr",
+"traffic"
+],
+[
+"Ich war eine halbe Stunde im Stau.",
+"I was in a traffic jam for half an hour."
+],
+[
+"Entschuldigung, ich bin zu spät.",
+"Sorry, I’m late."
+],
+[
+"Es sind keine Zimmer mehr frei.",
+"There are no rooms left."
+],
+[
+"reserviert",
+"booked"
+],
+[
+"keine Chance",
+"no chance"
+],
+[
+"der Platz",
+"room, space"
+],
+[
+"bei mir wohnen",
+"to stay at my place"
+],
+[
+"Komm einfach vorbei.",
+"Just drop by."
+],
+[
+"renoviert",
+"renovated"
+]
+],
+"grammar": {
+"title": "Simple past of haben: hatte",
+"text": "To say what you **had** in the past use the simple past of haben:\n\n- ich **hatte**\n- du **hattest**\n- er / sie / es **hatte**\n- wir **hatten**\n- ihr **hattet**\n- sie / Sie **hatten**\n\nLike **war**, this Präteritum form is normal in spoken German: Ich **hatte** einen Termin. Wir **hatten** keine Zeit. Combine with **sein**: Ich **war** im Stau.",
+"ex": [
+[
+"Ich hatte gestern keine Zeit.",
+"I had no time yesterday."
+],
+[
+"Wir hatten keine Chance.",
+"We had no chance."
+],
+[
+"Ich war eine halbe Stunde im Stau.",
+"I was in a traffic jam for half an hour."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "What reason does Lisa give for being late?",
+"o": [
+"A traffic jam (Stau)",
+"A broken car",
+"She forgot the time"
+],
+"a": 0,
+"why": "“Ich war eine halbe Stunde im Stau.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What bad news does Lisa have about the hostel?",
+"o": [
+"All rooms are booked",
+"The hostel is too expensive",
+"It is closed forever"
+],
+"a": 0,
+"why": "“Es sind keine Zimmer mehr frei … alle Zimmer sind reserviert.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Who offers Nico a place to stay?",
+"o": [
+"Inge",
+"Tarek",
+"Max"
+],
+"a": 0,
+"why": "“Ich habe doch Platz. Der nette junge Mann kann gern ein paar Tage bei mir wohnen.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What does Nico call Inge in the end – to her amusement?",
+"o": [
+"“Frau Inge, mein Lieber”",
+"“Oma”",
+"“Tante Inge”"
+],
+"a": 0,
+"why": "Inge told him “Inge, mein Lieber!”",
+"src": "video"
+},
+{
+"t": "fill",
+"q": "Gestern ___ ich keine Zeit. (haben, past)",
+"a": [
+"hatte"
+],
+"why": "ich hatte.",
+"src": "grammar"
+},
+{
+"t": "fill",
+"q": "Wir ___ keine Chance. (haben, past)",
+"a": [
+"hatten"
+],
+"why": "wir hatten.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "What is “ein Stau”?",
+"o": [
+"a traffic jam",
+"a station",
+"a stop sign"
+],
+"a": 0,
+"why": "Stau = many cars, everything slow.",
+"src": "vocab"
+}
+]
+}
+}

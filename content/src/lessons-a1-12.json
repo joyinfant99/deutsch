@@ -1,0 +1,139 @@
+{
+"a1-49": {
+  "goal": "Write and understand a shopping list with quantities (ein Pfund, ein Kilo, ein Stück) and say where you shop (im Supermarkt, auf dem Markt).",
+  "words": [
+    ["das Hähnchen, -", "chicken"],
+    ["die Gurke, -n", "cucumber"],
+    ["das Pfund", "pound (500 g)"],
+    ["das Kilo / das Gramm", "kilo / gram"],
+    ["ein halbes Kilo", "half a kilo"],
+    ["das Brötchen, -", "bread roll"],
+    ["die Lebensmittel (pl.)", "groceries"],
+    ["der Gefallen, -", "favour"],
+    ["Könnt ihr mir einen Gefallen tun?", "Could you do me a favour?"],
+    ["umsonst", "free of charge"],
+    ["das Abendbrot", "evening meal"],
+    ["Kannst du das bitte wiederholen?", "Can you repeat that, please?"]
+  ],
+  "grammar": {
+    "title": "Places to shop: in and auf",
+    "text": "Where you shop uses **in** or **auf** with the dative (question **Wo?**):\n\n- **im** Supermarkt, **in der** Bäckerei, **im** Restaurant (inside a building)\n- **auf dem** Markt, **auf dem** Wochenmarkt (open place)\n\nQuantities stay in the singular after a number: **ein Pfund** Tomaten, **drei** Gurken, **zwei Kilo** Äpfel, **ein Stück** Kuchen. **Ein Pfund = 500 Gramm = ein halbes Kilo.**",
+    "ex": [
+      ["Ein Hähnchen, drei Gurken und ein Pfund Tomaten.", "A chicken, three cucumbers and a pound of tomatoes."],
+      ["Ich kaufe im Supermarkt um die Ecke ein.", "I shop at the supermarket around the corner."],
+      ["Wir können doch für euch einkaufen gehen.", "We can go shopping for you."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Who has the keys to Yara’s shop?","o":["Max and Tarek – they are Yara’s friends","Inge","Nobody"],"a":0,"why":"“Yara, Tarek und ich sind Freunde.”","src":"video"},
+    {"t":"mc","q":"What does Max ask Inge and Nico to buy?","o":["A chicken, three cucumbers and a pound of tomatoes","A loaf of bread and cheese","Fish and potatoes"],"a":0,"why":"“… ein Hähnchen, drei Gurken und ein Pfund Tomaten.”","src":"video"},
+    {"t":"mc","q":"How much is “ein Pfund” in the video?","o":["500 grams","250 grams","1 kilo"],"a":0,"why":"“Das sind 500 Gramm, also ein halbes Kilo.”","src":"video"},
+    {"t":"mc","q":"What do Inge and Nico get as a reward?","o":["The next meal for free","Money","A gift card"],"a":0,"why":"“Dafür bekommt ihr das nächste Essen umsonst!”","src":"video"},
+    {"t":"fill","q":"Wir brauchen ein ___ Tomaten. (500 g)","a":["Pfund"],"why":"ein Pfund Tomaten.","src":"grammar"},
+    {"t":"fill","q":"Ich kaufe ___ Markt ein. (on the market, dative + dem)","a":["auf dem","auf"],"why":"auf dem Markt.","src":"grammar"},
+    {"t":"mc","q":"“umsonst” means:","o":["for free","expensive","too late"],"a":0,"why":"umsonst = free.","src":"vocab"}
+  ]
+},
+"a1-50": {
+  "goal": "Shop at a bakery: ask for prices, order halves and pieces, and understand the total and the change.",
+  "words": [
+    ["das Brot, -e", "bread"],
+    ["das Roggenbrot / das Weißbrot", "rye bread / white bread"],
+    ["das Vollkornbrot", "wholemeal bread"],
+    ["der Apfelkuchen, -", "apple cake"],
+    ["das Stück, -e", "piece"],
+    ["die Hälfte / ein halbes Brot", "half / half a loaf"],
+    ["Was darf es sein?", "What can I get you?"],
+    ["Darf es sonst noch etwas sein?", "Anything else?"],
+    ["Ich hätte gern …", "I would like …"],
+    ["Was kostet …?", "How much is …?"],
+    ["Das macht 8,60 Euro.", "That’s 8.60 euros."],
+    ["… zurück", "… change"]
+  ],
+  "phrases": [
+    ["Ich hätte gern ein Brot. Was kostet das Roggenbrot?", "I’d like a loaf. How much is the rye bread?"],
+    ["Ein halbes Roggenbrot kostet 1,60 Euro.", "Half a rye loaf costs 1.60 euros."],
+    ["Zwei Stück Apfelkuchen, bitte.", "Two pieces of apple cake, please."],
+    ["Darf es sonst noch etwas sein? – Nein, danke.", "Anything else? – No, thanks."]
+  ],
+  "quiz": [
+    {"t":"mc","q":"How much does a whole rye loaf cost?","o":["3,20 Euro","1,60 Euro","8,60 Euro"],"a":0,"why":"“3,20 Euro … ein halbes kostet 1,60 Euro.”","src":"video"},
+    {"t":"mc","q":"What does Inge finally take?","o":["Half a white and half a wholemeal loaf, plus two pieces of apple cake","A whole rye loaf","Only rolls"],"a":0,"why":"“… ein halbes Weißbrot und ein halbes Vollkornbrot … zwei Stück Apfelkuchen.”","src":"video"},
+    {"t":"mc","q":"What is the total price?","o":["8,60 Euro","10 Euro","1,40 Euro"],"a":0,"why":"“Das macht dann … 8,60 Euro.”","src":"video"},
+    {"t":"mc","q":"How much change does Inge get back?","o":["1,40 Euro","2 Euro","0,60 Euro"],"a":0,"why":"“Und 1,40 zurück.”","src":"video"},
+    {"t":"fill","q":"Ich ___ gern ein Brot. (would like)","a":["hätte","haette"],"why":"Ich hätte gern …","src":"grammar"},
+    {"t":"mc","q":"“Darf es sonst noch etwas sein?” is said by:","o":["the shop assistant","the customer","the taxi driver"],"a":0,"why":"Anything else?","src":"grammar"},
+    {"t":"mc","q":"“die Hälfte” means:","o":["half","quarter","double"],"a":0,"why":"ein halbes = half a.","src":"vocab"}
+  ]
+},
+"a1-51": {
+  "goal": "Shop at a market: ask how much things cost, choose quantities, and use the question words wie viel and wie viele.",
+  "words": [
+    ["die Dattel, -n", "date (fruit)"],
+    ["die Banane, -n", "banana"],
+    ["im Angebot", "on offer"],
+    ["günstig", "cheap, good value"],
+    ["frisch", "fresh"],
+    ["das Stück / 90 Cent das Stück", "piece / 90 cents each"],
+    ["Wie viel kostet …? / Wie viel kosten …?", "How much is / are …?"],
+    ["Ich nehme fünf Gurken!", "I’ll take five cucumbers!"],
+    ["Wie viel kostet alles zusammen?", "How much is everything altogether?"],
+    ["Sehr gute Wahl!", "Very good choice!"],
+    ["schenken", "to give as a gift"],
+    ["Danke, gern!", "Thanks, you’re welcome!"]
+  ],
+  "grammar": {
+    "title": "Question words: wie viel / wie viele",
+    "text": "**Wie viel** asks about an amount you cannot count (money, weight) – singular verb: **Wie viel kostet** das? **Wie viel** Mehl brauchst du?\n\n**Wie viele** asks about countable things – plural: **Wie viele** Gurken möchten Sie?\n\nThe verb **kosten** agrees with the thing: Die Gurke **kostet** … / Die Gurken **kosten** …\n\nAsk the total: **Wie viel kostet alles zusammen?**",
+    "ex": [
+      ["Wie viel kosten die Gurken? – 90 Cent das Stück.", "How much are the cucumbers? – 90 cents each."],
+      ["Ein Kilo Bananen kostet 1,10 Euro.", "A kilo of bananas costs 1.10 euros."],
+      ["Wie viele Gurken möchten Sie? – Fünf.", "How many cucumbers would you like? – Five."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How many cucumbers does Nico buy?","o":["Five","Three","One"],"a":0,"why":"“Ich nehme fünf Gurken!”","src":"video"},
+    {"t":"mc","q":"How much do the five cucumbers cost?","o":["4 Euro","4,50 Euro","3 Euro"],"a":0,"why":"“Oder Sie nehmen fünf Stück für 4 Euro.”","src":"video"},
+    {"t":"mc","q":"How much does one pound of tomatoes cost?","o":["2 Euro","5 Euro","1 Euro"],"a":0,"why":"“Ein Pfund Tomaten kostet 2 Euro.”","src":"video"},
+    {"t":"mc","q":"What does the seller give them as a gift?","o":["Two oranges","Two bananas","A bag of dates"],"a":0,"why":"“Die beiden Orangen schenke ich Ihnen.”","src":"video"},
+    {"t":"fill","q":"Wie ___ kostet das? (how much)","a":["viel"],"why":"Wie viel kostet das?","src":"grammar"},
+    {"t":"fill","q":"Wie ___ Gurken möchten Sie? (how many)","a":["viele"],"why":"countable → wie viele.","src":"grammar"},
+    {"t":"mc","q":"“im Angebot” means:","o":["on offer","out of stock","expensive"],"a":0,"why":"das Angebot = offer.","src":"vocab"}
+  ]
+},
+"a1-52": {
+  "goal": "Follow a simple recipe: understand instructions in the imperative and describe steps with zuerst, dann, danach, zum Schluss.",
+  "words": [
+    ["das Rezept / das Kochbuch", "recipe / cookbook"],
+    ["schneiden", "to cut"],
+    ["klein schneiden", "to chop"],
+    ["die Zwiebel, -n", "onion"],
+    ["der Fetakäse", "feta cheese"],
+    ["der Pizzateig", "pizza dough"],
+    ["der Ofen, Öfen", "oven"],
+    ["das Stück / der Würfel", "piece / cube"],
+    ["Grad / Minuten", "degrees / minutes"],
+    ["zum Schluss", "finally"],
+    ["backen / kochen", "to bake / to cook"],
+    ["Das sieht gut aus.", "That looks good."]
+  ],
+  "grammar": {
+    "title": "Instructions: the imperative",
+    "text": "Recipes give instructions in the **imperative**, the verb in **first position**:\n\n- formal (Sie): **Schneiden Sie** den Käse klein. **Legen Sie** alles auf die Pizza.\n- informal (du): **Schneide** die Tomaten. **Leg** alles auf den Teig.\n\nOrder the steps with **zuerst**, **dann**, **danach**, **zum Schluss**. Cooking verbs you need: schneiden, legen, schieben (push), backen, kochen, mischen.",
+    "ex": [
+      ["Schneiden Sie zuerst den Käse klein.", "First chop the cheese."],
+      ["Legen Sie alles auf die Pizza.", "Put everything on the pizza."],
+      ["Schieben Sie die Pizza für 20 Minuten bei 180 Grad in den Ofen.", "Put the pizza in the oven for 20 minutes at 180 degrees."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How much feta cheese do they need?","o":["250 grams","500 grams","100 grams"],"a":0,"why":"“Wir brauchen 250 Gramm.”","src":"video"},
+    {"t":"mc","q":"According to the cookbook, how long and at what temperature does the pizza bake?","o":["20 minutes at 180 degrees","10 minutes at 200 degrees","30 minutes at 150 degrees"],"a":0,"why":"“… für 20 Minuten bei 180 Grad in den Ofen.”","src":"video"},
+    {"t":"mc","q":"Who cooks and bakes very well?","o":["Inge’s sister","Inge","Nico"],"a":0,"why":"“Meine Schwester kann sehr gut kochen und backen. Ich leider nicht.”","src":"video"},
+    {"t":"mc","q":"What is the first step in the cookbook?","o":["Chop the cheese","Put pizza in the oven","Cut the tomatoes"],"a":0,"why":"“Schneiden Sie zuerst den Käse klein.”","src":"video"},
+    {"t":"fill","q":"___ Sie zuerst den Käse klein! (schneiden, formal imperative)","a":["Schneiden"],"why":"Verb first: Schneiden Sie …","src":"grammar"},
+    {"t":"mc","q":"Which is an informal instruction to one person?","o":["Schneide die Tomaten!","Schneiden Sie die Tomaten!","Wir schneiden die Tomaten."],"a":0,"why":"du-imperative: stem + (e).","src":"grammar"},
+    {"t":"mc","q":"“zum Schluss” means:","o":["finally","at first","in between"],"a":0,"why":"der Schluss = end.","src":"vocab"}
+  ]
+}
+}

@@ -1,0 +1,142 @@
+{
+"a1-37": {
+  "goal": "Talk about jobs: ask “Was ist dein Beruf?”, say what you do, and form the female job title with -in.",
+  "words": [
+    ["der Beruf, -e", "profession"],
+    ["Was ist dein Beruf?", "What do you do for a living?"],
+    ["Ich bin Lehrerin.", "I’m a teacher (f)."],
+    ["als Lehrerin arbeiten", "to work as a teacher"],
+    ["der Ingenieur / die Ingenieurin", "engineer (m/f)"],
+    ["der Elektriker / die Elektrikerin", "electrician (m/f)"],
+    ["der Bankkaufmann / die Bankkauffrau", "bank clerk (m/f)"],
+    ["der Chef / die Chefin", "boss (m/f)"],
+    ["der Nebenjob, -s", "side job"],
+    ["die Arbeit", "work, job"],
+    ["Viel Erfolg!", "Good luck! / Much success!"],
+    ["Es macht Spaß.", "It’s fun."]
+  ],
+  "grammar": {
+    "title": "Word formation: professions with -in",
+    "text": "Most job titles have a male and a female form. Add **-in** for women (plural **-innen**):\n\n- der Lehrer → die Lehrer**in**\n- der Chef → die Chef**in**\n- der Elektriker → die Elektriker**in**\n- der Ingenieur → die Ingenieur**in**\n\nAfter **sein** and **werden** there is **no article**: Ich bin Lehrerin. Er wird Ingenieur. With **als**: Ich arbeite **als** Lehrerin.",
+    "ex": [
+      ["Ich bin Lehrerin für Deutsch und Englisch.", "I’m a teacher of German and English."],
+      ["Tarek ist eigentlich Elektriker von Beruf.", "Tarek is actually an electrician by profession."],
+      ["Hier sind Tarek und ich die Chefs.", "Here Tarek and I are the bosses."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Lisa teach?","o":["German and English","Spanish and French","Maths and physics"],"a":0,"why":"“Ich bin Lehrerin für Deutsch und Englisch.”","src":"video"},
+    {"t":"mc","q":"Why does Lisa say she needs a “richtige Arbeit”?","o":["The language courses are only a side job","She hates teaching","She wants to move away"],"a":0,"why":"“Die Sprachkurse sind nur ein Nebenjob.”","src":"video"},
+    {"t":"mc","q":"What was Max’s profession before the restaurant?","o":["Bank clerk","Electrician","Teacher"],"a":0,"why":"“Ich bin Bankkaufmann.”","src":"video"},
+    {"t":"mc","q":"What job do Nico’s parents think is good?","o":["Engineer","Doctor","Chef"],"a":0,"why":"“Meine Eltern sagen, Ingenieur ist gut.”","src":"video"},
+    {"t":"fill","q":"der Chef → die ___ (female boss)","a":["Chefin"],"why":"add -in.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Ich bin Lehrerin.","Ich bin eine Lehrerin Beruf.","Ich bin der Lehrerin."],"a":0,"why":"No article after sein for professions.","src":"grammar"},
+    {"t":"mc","q":"“Viel Erfolg!” is said to wish someone:","o":["success","a happy birthday","a good night"],"a":0,"why":"der Erfolg = success.","src":"vocab"}
+  ]
+},
+"a1-38": {
+  "goal": "Describe what people do at work with the modal verb müssen (“Ein Bankkaufmann muss …”).",
+  "words": [
+    ["müssen", "must, have to"],
+    ["Kunden beraten", "to advise customers"],
+    ["Termine organisieren", "to organise appointments"],
+    ["E-Mails schreiben", "to write emails"],
+    ["Verträge unterschreiben", "to sign contracts"],
+    ["Geräte installieren", "to install devices"],
+    ["etwas reparieren", "to repair something"],
+    ["die Büroarbeit", "office work"],
+    ["freundlich", "friendly"],
+    ["die Mappe, -n", "folder, portfolio"],
+    ["lecker", "delicious"],
+    ["Das klingt cool!", "That sounds cool!"]
+  ],
+  "grammar": {
+    "title": "Modal verbs: müssen (and the infinitive at the end)",
+    "text": "**müssen** expresses obligation:\n\n- ich **muss**\n- du **musst**\n- er / sie / es **muss**\n- wir **müssen**\n- ihr **müsst**\n- sie / Sie **müssen**\n\nThe conjugated modal verb stands in second place, and the **infinitive goes to the end**: Ein Bankkaufmann **muss** Kunden **beraten**. Du **musst** E-Mails **schreiben**.",
+    "ex": [
+      ["Was muss ein Bankkaufmann machen?", "What does a bank clerk have to do?"],
+      ["Er muss Finanzen überprüfen und Termine organisieren.", "He has to check finances and organise appointments."],
+      ["Wir müssen viel arbeiten. Aber die Arbeit ist super.", "We have to work a lot. But the work is great."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"According to Max, what does a bank clerk have to do?","o":["Advise customers and organise appointments","Cook and serve food","Repair machines"],"a":0,"why":"“… Kunden beraten … Termine mit Kunden organisieren.”","src":"video"},
+    {"t":"mc","q":"What does Tarek say an electrician has to do?","o":["Install devices or repair something","Write contracts","Count money"],"a":0,"why":"“Ein Elektriker muss Geräte installieren oder er repariert etwas.”","src":"video"},
+    {"t":"mc","q":"Why do Max and Nico have to hurry at the end?","o":["Lisa forgot her application folder","The restaurant is closing","The football match starts"],"a":0,"why":"“Das ist Lisas Mappe. Die braucht sie.”","src":"video"},
+    {"t":"mc","q":"When will they meet Yanis for football?","o":["Friday at two","Friday at one","Saturday at two"],"a":0,"why":"Max corrects Yanis: “um zwei”.","src":"video"},
+    {"t":"fill","q":"Ich ___ heute lange arbeiten. (müssen)","a":["muss"],"why":"ich muss.","src":"grammar"},
+    {"t":"fill","q":"Du ___ freundlich sein. (müssen)","a":["musst"],"why":"du musst.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Er muss E-Mails schreiben.","Er E-Mails schreiben muss.","Er muss schreiben E-Mails."],"a":0,"why":"Modal verb second, infinitive at the end.","src":"grammar"}
+  ]
+},
+"a1-39": {
+  "goal": "Find your way inside a building using floors, rooms and prepositions (in der dritten Etage, neben der Kantine) and give simple directions.",
+  "words": [
+    ["die Etage, -n", "floor"],
+    ["der Aufzug, Aufzüge", "lift"],
+    ["die Kantine, -n", "canteen"],
+    ["der Besprechungsraum", "meeting room"],
+    ["der Lageplan", "floor plan"],
+    ["links / rechts / geradeaus", "left / right / straight on"],
+    ["neben / zwischen", "next to / between"],
+    ["die Toilette, -n", "toilet"],
+    ["vergessen", "to forget"],
+    ["die Bewerbungsunterlagen (pl.)", "application documents"],
+    ["der Retter, -", "saviour"],
+    ["Wo finden wir …?", "Where do we find …?"]
+  ],
+  "grammar": {
+    "title": "The dative after in, neben, zwischen",
+    "text": "To say **where** something is (position, question **Wo?**), these prepositions take the **dative**:\n\n- masculine/neuter: **im** (in dem) Besprechungsraum, **neben dem** Aufzug\n- feminine: **in der** dritten Etage, **neben der** Kantine\n- plural: **neben den** Toiletten, **zwischen den** Konferenzräumen (dative plural adds **-n**)\n\nDirections: **Sie nehmen den Aufzug**, fahren in die vierte Etage, gehen links, dann rechts.",
+    "ex": [
+      ["Die Bewerbungsgespräche finden in der vierten Etage neben der Kantine statt.", "The interviews take place on the fourth floor next to the canteen."],
+      ["Wir sind hier, neben den Toiletten.", "We are here, next to the toilets."],
+      ["Der Besprechungsraum ist rechts. Zimmer 431.", "The meeting room is on the right. Room 431."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"At what time is Lisa’s interview?","o":["14 Uhr","12 Uhr","16 Uhr"],"a":0,"why":"“… um vierzehn Uhr ein Bewerbungsgespräch.”","src":"video"},
+    {"t":"mc","q":"On which floor do the interviews take place today?","o":["The fourth floor, next to the canteen","The third floor","The ground floor"],"a":0,"why":"“In der vierten Etage neben der Kantine.”","src":"video"},
+    {"t":"mc","q":"What is the room number of the meeting room?","o":["431","341","134"],"a":0,"why":"“Zimmer 431.”","src":"video"},
+    {"t":"mc","q":"How does Lisa react when Max and Nico give her the folder?","o":["She calls them her saviours (Retter)","She is angry","She does not notice"],"a":0,"why":"“Ihr seid meine Retter!”","src":"video"},
+    {"t":"fill","q":"Der Besprechungsraum ist in ___ vierten Etage. (feminine, dative)","a":["der"],"why":"die Etage → in der Etage.","src":"grammar"},
+    {"t":"fill","q":"Das Büro ist neben ___ Aufzug. (masculine, dative)","a":["dem"],"why":"der Aufzug → neben dem Aufzug.","src":"grammar"},
+    {"t":"mc","q":"“Wir sind neben den Toiletten.” – which case is “den Toiletten”?","o":["Dative plural","Accusative plural","Nominative plural"],"a":0,"why":"Position (wo?) → dative; plural adds -n.","src":"grammar"}
+  ]
+},
+"a1-40": {
+  "goal": "Say what you want and do not want to do with the modal verb wollen, and talk about career wishes.",
+  "words": [
+    ["wollen", "to want (to)"],
+    ["der Traumberuf, -e", "dream job"],
+    ["studieren", "to study (at university)"],
+    ["Ich will nicht mehr studieren.", "I don’t want to study any more."],
+    ["nie wieder", "never again"],
+    ["hassen", "to hate"],
+    ["die Eltern (pl.)", "parents"],
+    ["weit weg", "far away"],
+    ["zu Hause", "at home"],
+    ["still", "quiet"],
+    ["der Job, -s", "job"],
+    ["Ich habe den Job!", "I got the job!"]
+  ],
+  "grammar": {
+    "title": "Modal verbs: wollen",
+    "text": "**wollen** expresses a wish or strong intention:\n\n- ich **will**\n- du **willst**\n- er / sie / es **will**\n- wir **wollen**\n- ihr **wollt**\n- sie / Sie **wollen**\n\nThe infinitive stands at the **end**: Ich **will** nicht mehr **studieren**. Meine Eltern **wollen** das. **wollen** is stronger than **möchten** (would like).",
+    "ex": [
+      ["Ich will nicht mehr studieren. Nie wieder.", "I don’t want to study any more. Never again."],
+      ["Meine Eltern wollen das.", "My parents want that."],
+      ["Und was willst du hier machen?", "And what do you want to do here?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Why is Nico quiet and sad?","o":["He does not want to study, but his parents want him to","He misses Spain’s weather","He is hungry"],"a":0,"why":"“Ich will nicht mehr studieren … meine Eltern wollen das.”","src":"video"},
+    {"t":"mc","q":"Why did Nico come to Germany?","o":["To get away from home","To study medicine","To visit Lisa"],"a":0,"why":"“Ich will weg von zu Hause. Weit weg!”","src":"video"},
+    {"t":"mc","q":"What good news does Lisa bring at the end?","o":["She got the job","Yara has been found","Nico’s bag has been found"],"a":0,"why":"“Ich hab den Job!”","src":"video"},
+    {"t":"fill","q":"Ich ___ nicht mehr studieren. (wollen)","a":["will"],"why":"ich will.","src":"grammar"},
+    {"t":"fill","q":"Meine Eltern ___ das. (wollen)","a":["wollen"],"why":"sie wollen.","src":"grammar"},
+    {"t":"mc","q":"“Nie wieder!” means:","o":["Never again!","See you soon!","Once more!"],"a":0,"why":"nie = never, wieder = again.","src":"vocab"},
+    {"t":"mc","q":"Which is correct?","o":["Du willst nach Deutschland ziehen.","Du willst ziehen nach Deutschland.","Du wollen nach Deutschland ziehen."],"a":0,"why":"willst + infinitive at the end.","src":"grammar"}
+  ]
+}
+}

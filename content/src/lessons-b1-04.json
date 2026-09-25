@@ -1,0 +1,146 @@
+{
+"b1-17": {
+  "goal": "Talk about your skills and interests and link ideas with double conjunctions (nicht nur … sondern auch, sowohl … als auch, weder … noch, entweder … oder).",
+  "words": [
+    ["die Fähigkeit, -en", "ability, skill"],
+    ["die Bewerbung abschicken", "to send off an application"],
+    ["die Aufenthaltserlaubnis", "residence permit"],
+    ["die Möglichkeit, -en", "possibility"],
+    ["das technische Fach", "technical subject"],
+    ["kreativ / mathematisch", "creative / mathematical"],
+    ["das Produktdesign", "product design"],
+    ["der Social-Media-Bereich", "social media field"],
+    ["ein Praktikum machen", "to do an internship"],
+    ["herausfinden", "to find out"],
+    ["die Theorie in die Praxis umsetzen", "to put theory into practice"],
+    ["Das macht mir Spaß.", "I enjoy that."]
+  ],
+  "grammar": {
+    "title": "Double conjunctions (Doppelkonjunktionen)",
+    "text": "Two-part connectors join equal parts of a sentence:\n\n- **nicht nur … sondern auch** (not only … but also): Sie dürfen **nicht nur** in Deutschland wohnen, **sondern** hier **auch** arbeiten.\n- **sowohl … als auch** (both … and): Sie ist **sowohl** kreativ **als auch** mathematisch begabt.\n- **weder … noch** (neither … nor): Er hat **weder** Zeit **noch** Geld.\n- **entweder … oder** (either … or): **Entweder** studierst du **oder** du machst eine Ausbildung.\n- **zwar … aber**: Ich bin **zwar** müde, **aber** ich arbeite weiter.\n\nThe verb stays in second position when a whole clause follows (nicht nur … sondern auch: verb after subject).",
+    "ex": [
+      ["Sie dürfen nicht nur in Deutschland wohnen, sondern hier auch arbeiten oder studieren.", "You may not only live in Germany but also work or study here."],
+      ["Man muss nicht nur technisch und mathematisch interessiert, sondern auch kreativ sein.", "You have to be not only technically and mathematically interested but also creative."],
+      ["Der Text war nicht für eine bestimmte Bewerbung, sondern nur eine Übung.", "The text wasn’t for a specific application, but just an exercise."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was war Selmas Text?","o":["Eine Übung im Sprachkurs, keine echte Bewerbung","Ein Brief an die Schule","Ein Lebenslauf"],"a":0,"why":"“… nicht für eine bestimmte Bewerbung, sondern nur eine Übung.”","src":"video"},
+    {"t":"mc","q":"Was darf Selma mit ihrer Aufenthaltserlaubnis?","o":["In Deutschland wohnen, arbeiten oder studieren","Nur wohnen","Nur arbeiten"],"a":0,"why":"“… nicht nur in Deutschland wohnen, sondern … auch arbeiten oder studieren.”","src":"video"},
+    {"t":"mc","q":"Welche Fähigkeiten hat Selma laut Aya?","o":["Sie ist sehr gut mit Zahlen","Sie kann gut kochen","Sie spricht viele Sprachen"],"a":0,"why":"“Selma ist sehr gut mit Zahlen.”","src":"video"},
+    {"t":"mc","q":"Was schlägt die Beraterin Selma vor?","o":["Ein Praktikum in einer Firma","Ein Studium in Mathematik","Einen Job im Restaurant"],"a":0,"why":"“Bewerben Sie sich für ein Praktikum in einer Firma.”","src":"video"},
+    {"t":"fill","q":"Sie ist nicht nur intelligent, ___ auch kreativ. (but)","a":["sondern"],"why":"nicht nur … sondern auch.","src":"grammar"},
+    {"t":"fill","q":"Er hat weder Zeit ___ Geld. (nor)","a":["noch"],"why":"weder … noch.","src":"grammar"},
+    {"t":"mc","q":"“sowohl … als auch” bedeutet:","o":["both … and","either … or","not … but"],"a":0,"why":"sowohl A als auch B.","src":"grammar"},
+    {"t":"mc","q":"“die Theorie in die Praxis umsetzen” bedeutet:","o":["to put theory into practice","to explain the theory","to reject the theory"],"a":0,"why":"umsetzen = implement.","src":"vocab"}
+  ]
+},
+"b1-18": {
+  "goal": "Read and understand job and internship adverts (Stellenanzeigen), and use typical phrases from the advert (wir suchen, Sie bringen mit, wir bieten).",
+  "words": [
+    ["die Stellenanzeige, -n", "job advert"],
+    ["der Praktikumsplatz, -plätze", "internship place"],
+    ["zuverlässig / zielorientiert", "reliable / goal-oriented"],
+    ["flexibel / motiviert", "flexible / motivated"],
+    ["der Bereich, -e (Grafikdesign)", "field (graphic design)"],
+    ["Verstärkung suchen", "to look for reinforcement"],
+    ["Erfahrungen sammeln", "to gain experience"],
+    ["Interesse an + Dat. haben", "to be interested in"],
+    ["das Architekturbüro", "architect’s office"],
+    ["sich bewerben (bei / um)", "to apply (to / for)"],
+    ["das Bewerbungsgespräch", "job interview"],
+    ["Ich muss Schluss machen.", "I have to end the call."]
+  ],
+  "grammar": {
+    "title": "Understanding job adverts",
+    "text": "Typical structure of a **Stellenanzeige**:\n\n- **Wir suchen …** (Position, Bereich): Praktikanten im Bereich Grafikdesign.\n- **Aufgaben / Ihre Aufgaben:** was Sie tun.\n- **Sie bringen mit / Wir erwarten:** zuverlässig, kreativ, flexibel, Interesse an Design.\n- **Wir bieten:** ein junges, motiviertes Team, Erfahrungen sammeln, Teilzeit/Vollzeit, befristet/unbefristet.\n- **Bewerbung an:** Schicken Sie uns Ihre Bewerbung an …\n\nAdjectives in adverts often have the ending **-e / -en** because they describe a noun: **zuverlässige, kreative Praktikanten**; **ein junges, motiviertes Team** (after ein: -es).",
+    "ex": [
+      ["Junges, motiviertes Team sucht Verstärkung.", "Young, motivated team seeks reinforcement."],
+      ["Du willst Erfahrungen sammeln und hast Interesse an Design?", "Do you want to gain experience and are you interested in design?"],
+      ["Dann schick uns deine Bewerbung an …", "Then send us your application at …"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Worum geht es in der ersten Anzeige?","o":["Ein Praktikum im Grafikdesign","Ein Job als Koch","Ein Studienplatz"],"a":0,"why":"“… Praktikanten im Bereich Grafikdesign.”","src":"video"},
+    {"t":"mc","q":"Welche Eigenschaften werden verlangt?","o":["Zuverlässig, zielorientiert, flexibel","Laut, schnell, jung","Alt, ruhig, ordentlich"],"a":0,"why":"“Zuverlässige, zielorientierte und flexible Praktikanten.”","src":"video"},
+    {"t":"mc","q":"Was sagt Selma zur zweiten Anzeige?","o":["Ein Architekturbüro sucht Praktikanten","Ein Krankenhaus sucht Ärzte","Ein Kino sucht Popcorn-Verkäufer"],"a":0,"why":"“Eine Stellenanzeige von einem Architekturbüro.”","src":"video"},
+    {"t":"mc","q":"Was schlägt Selma Nico vor?","o":["Er soll die Bewerbung für die Schauspielschule schreiben","Er soll Selma heiraten","Er soll nach Spanien fliegen"],"a":0,"why":"“Du schreibst die Bewerbung für die Schauspielschule!”","src":"video"},
+    {"t":"fill","q":"Wir suchen zuverlässig___ Praktikanten. (plural, ending)","a":["e"],"why":"zuverlässige Praktikanten.","src":"grammar"},
+    {"t":"mc","q":"Was gehört zu “Wir bieten”?","o":["Ein junges, motiviertes Team","Kenntnisse in Excel","Erfahrung mit Kunden"],"a":0,"why":"bieten = offer, erwarten = require.","src":"grammar"},
+    {"t":"mc","q":"“Verstärkung suchen” bedeutet:","o":["to look for extra staff","to look for a stronger team leader","to strengthen a bridge"],"a":0,"why":"Team sucht Verstärkung.","src":"vocab"},
+    {"t":"mc","q":"“Erfahrungen sammeln” bedeutet:","o":["to gain experience","to collect stamps","to share experiences"],"a":0,"why":"Praktikum: Erfahrungen sammeln.","src":"vocab"}
+  ]
+},
+"b1-19": {
+  "goal": "Write and check an application: CV and cover letter (Motivationsschreiben), give feedback and use polite formal phrases.",
+  "words": [
+    ["das Motivationsschreiben", "cover letter"],
+    ["der Lebenslauf", "CV"],
+    ["die Rechtschreibfehler (pl.)", "spelling mistakes"],
+    ["die Formulierung, -en", "wording"],
+    ["überzeugend / persönlich", "convincing / personal"],
+    ["der Entwurf, Entwürfe", "draft"],
+    ["die Nationalität / der Geburtsort", "nationality / place of birth"],
+    ["die Schulausbildung", "school education"],
+    ["korrekt", "correct"],
+    ["Ich würde vorschlagen, …", "I would suggest …"],
+    ["Das ist soweit in Ordnung.", "That’s fine so far."],
+    ["reinschauen", "to have a look"]
+  ],
+  "grammar": {
+    "title": "Writing an application: formal phrases",
+    "text": "A cover letter is **formal**:\n\n- **Anrede:** Sehr geehrte Damen und Herren, / Sehr geehrte Frau Müller,\n- **Einleitung:** **Hiermit bewerbe ich mich um** einen Praktikumsplatz. **Ich interessiere mich für …**\n- **Begründung:** **Ich möchte …, weil …** – **Ich bringe … mit.** – **Warum bin ich der Richtige dafür?**\n- **Schluss:** **Über eine Einladung zu einem Vorstellungsgespräch freue ich mich.** **Mit freundlichen Grüßen**\n\nGiving feedback with the **Konjunktiv II**: **Ich würde vorschlagen**, wir ändern die Formulierung. Du **könntest** es persönlicher machen. Adjective + noun: Dein Motivationsschreiben **muss überzeugender sein** (comparative).",
+    "ex": [
+      ["Dein Motivationsschreiben muss überzeugender sein.", "Your cover letter has to be more convincing."],
+      ["Ich würde vorschlagen, wir schauen uns dein Motivationsschreiben an.", "I would suggest we look at your cover letter."],
+      ["Es ist wichtig, dass alles korrekt ist.", "It’s important that everything is correct."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was hat Pepe verkauft?","o":["Sein Auto","Sein Haus","Seine Firma"],"a":0,"why":"“Ich hab mein Auto verkauft.”","src":"video"},
+    {"t":"mc","q":"Wobei soll Pepe Nico helfen?","o":["Bei der Bewerbung für die Schauspielschule","Bei den Hausaufgaben","Beim Umzug"],"a":0,"why":"“Du kannst mal Nicos Bewerbung für die Schauspielschule lesen.”","src":"video"},
+    {"t":"mc","q":"Wie findet Pepe den Lebenslauf?","o":["In Ordnung, bis auf ein paar Rechtschreibfehler","Schlecht","Zu kurz"],"a":0,"why":"“… bis auf ein paar kleine Rechtschreibfehler so schon in Ordnung.”","src":"video"},
+    {"t":"mc","q":"Was sagt Pepe zum Motivationsschreiben?","o":["Es muss überzeugender und persönlicher werden","Es ist perfekt","Es ist zu lang"],"a":0,"why":"“Dein Motivationsschreiben muss überzeugender sein. Mach es persönlich.”","src":"video"},
+    {"t":"fill","q":"Sehr ___ Damen und Herren, … (formal salutation)","a":["geehrte"],"why":"Sehr geehrte Damen und Herren.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz passt in ein Motivationsschreiben?","o":["Hiermit bewerbe ich mich um einen Praktikumsplatz.","Hallo, ich will euren Job.","Ich bin neu hier, hilf mir."],"a":0,"why":"formell.","src":"grammar"},
+    {"t":"mc","q":"“der Entwurf” bedeutet:","o":["draft","design flaw","expenditure"],"a":0,"why":"ein erster Entwurf.","src":"vocab"},
+    {"t":"mc","q":"“die Rechtschreibfehler” sind:","o":["spelling mistakes","legal mistakes","right-side errors"],"a":0,"why":"Rechtschreibung = spelling.","src":"vocab"}
+  ]
+},
+"b1-20": {
+  "goal": "Prepare for a job interview and explain your reasons with final clauses (um … zu, damit).",
+  "words": [
+    ["der erste Eindruck", "first impression"],
+    ["das Bewerbungsgespräch", "job interview"],
+    ["die Zusage / die Absage", "acceptance / rejection"],
+    ["sich vorbereiten auf", "to prepare for"],
+    ["sich informieren über", "to find out about"],
+    ["überzeugen", "to convince"],
+    ["aufgeregt sein", "to be nervous, excited"],
+    ["die Dokumente schicken", "to send the documents"],
+    ["rechtzeitig", "in time"],
+    ["kontrollieren", "to control, to check up on"],
+    ["angenehm", "pleasant"],
+    ["Das müssen wir feiern!", "We have to celebrate!"]
+  ],
+  "grammar": {
+    "title": "Final clauses: um … zu and damit",
+    "text": "**um … zu + Infinitiv** – purpose, **same subject** in both parts:\n- **Um** bei Bewerbungsgesprächen **zu überzeugen**, muss man auf ein paar Sachen achten.\n- Ich muss ihnen ein paar Dokumente schicken, **um** schnell anfangen **zu können**.\n\n**damit + Nebensatz** – purpose, **different subjects** (or a passive/possibility):\n- Ich hab ein paar Tipps für dich, **damit** du gut auf dein Bewerbungsgespräch vorbereitet **bist**.\n- Ich muss jetzt gehen, **damit** ich rechtzeitig zu Hause **bin**.\n\nQuestion: **Wozu?** – **Um … zu / damit …** (For what purpose?). Placement: **Um … zu** can start the sentence: **Um zu überzeugen, sollte man …**.",
+    "ex": [
+      ["Um bei Bewerbungsgesprächen zu überzeugen, muss man auf ein paar Sachen achten.", "To convince in job interviews you have to watch a few things."],
+      ["Ich hab ein paar gute Tipps für dich, damit du gut vorbereitet bist.", "I have a few good tips for you so that you’re well prepared."],
+      ["Ich muss jetzt gehen, damit ich rechtzeitig zu Hause bin.", "I have to go now so that I’m home in time."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Welche Neuigkeit hat Selma?","o":["Sie hat eine Zusage für das Praktikum","Sie zieht aus","Sie hat den Führerschein"],"a":0,"why":"“Ich hab eine Zusage für das Praktikum!”","src":"video"},
+    {"t":"mc","q":"Welchen Tipp gibt Selma für das Bewerbungsgespräch?","o":["Sich vorher über die Ausbildung und die Schule informieren","Nichts sagen","Sehr früh kommen"],"a":0,"why":"“Du solltest dich vorher über die Ausbildung und die Schule informieren.”","src":"video"},
+    {"t":"mc","q":"Wie war Selmas Bewerbungsgespräch?","o":["Angenehm – sie war gut vorbereitet","Schrecklich","Sehr kurz und schlecht"],"a":0,"why":"“… ziemlich angenehm. Mit Lisas Hilfe war ich wirklich gut vorbereitet.”","src":"video"},
+    {"t":"mc","q":"Warum muss Selma gehen?","o":["Damit sie rechtzeitig zu Hause ist","Weil sie krank ist","Weil ihr Handy leer ist"],"a":0,"why":"“… damit ich rechtzeitig zu Hause bin.”","src":"video"},
+    {"t":"fill","q":"Ich lerne viel, ___ die Prüfung zu bestehen. (in order)","a":["um"],"why":"gleiches Subjekt: um … zu.","src":"grammar"},
+    {"t":"fill","q":"Ich erkläre es dir, ___ du es verstehst. (so that)","a":["damit"],"why":"anderes Subjekt: damit.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Er spart Geld, um ein Auto zu kaufen.","Er spart Geld, damit ein Auto zu kaufen.","Er spart Geld, um er ein Auto kauft."],"a":0,"why":"gleiches Subjekt → um … zu.","src":"grammar"},
+    {"t":"mc","q":"“die Zusage” ist das Gegenteil von:","o":["die Absage","die Ansage","die Auskunft"],"a":0,"why":"Zusage – Absage.","src":"vocab"}
+  ]
+}
+}

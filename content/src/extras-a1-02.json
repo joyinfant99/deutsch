@@ -1,0 +1,82 @@
+{
+"19": {"kind":"video","title":"GERMAN LESSON 14: German professions – Deutsche Berufe: Was sind Sie von Beruf?","source":"YouTube · Learn German with Anja","url":"https://www.youtube.com/watch?v=XTrsVMe6_mI","minutes":5,"focus":"Note the male and female forms of each job and say the jobs aloud. Then say what you do: “Ich bin …”.","questions":[
+ {"t":"mc","q":"How do you formally ask someone’s profession?","o":["Was sind Sie von Beruf?","Wo ist Ihr Beruf?","Wie alt sind Sie?"],"a":0,"why":"der Beruf = profession."},
+ {"t":"mc","q":"What is the female form of “der Lehrer”?","o":["die Lehrerin","die Lehrer","das Lehrerin"],"a":0,"why":"Add -in for women: die Lehrerin."},
+ {"t":"mc","q":"How do you say “I am a teacher” (female)?","o":["Ich bin Lehrerin.","Ich bin eine Lehrerin Beruf.","Ich habe Lehrerin."],"a":0,"why":"Professions normally have no article after sein."}]},
+"20": {"kind":"video","title":"Learn German | German Grammar | Dative case | Dativ | A1","source":"YouTube · Learn German","url":"https://www.youtube.com/watch?v=jjsrDcw6kfU","minutes":11,"focus":"Watch how the articles change in the dative and which question word finds the dative object. Pause and repeat each example sentence.","questions":[
+ {"t":"mc","q":"Which question word asks for the dative object?","o":["Wem?","Wen?","Wessen?"],"a":0,"why":"Wem gebe ich das Buch? – dem Mann."},
+ {"t":"fill","q":"Ich gebe ___ Mann das Buch. (der Mann, dative)","a":["dem"],"why":"Masculine dative: dem."},
+ {"t":"mc","q":"Which preposition always takes the dative?","o":["mit","für","durch"],"a":0,"why":"mit dem Bus, mit der Bahn."}]},
+"21": {"kind":"video","title":"How to Give Directions in German | Super Easy German 185","source":"YouTube · Easy German","url":"https://www.youtube.com/watch?v=OV-YbBgwaj8","minutes":9,"focus":"Follow the route on the map while you listen. Collect every direction word: geradeaus, links, rechts, die Straße, die Ampel.","questions":[
+ {"t":"mc","q":"What does “Gehen Sie geradeaus” mean?","o":["Go straight ahead.","Turn left.","Stop here."],"a":0,"why":"geradeaus = straight ahead."},
+ {"t":"mc","q":"“An der Ampel links.” means:","o":["At the traffic light, left.","At the bank, right.","In the station, straight."],"a":0,"why":"die Ampel = traffic light."},
+ {"t":"mc","q":"“Wie komme ich zum Bahnhof?” asks:","o":["How do I get to the station?","Where is the airport?","When does the train leave?"],"a":0,"why":"zum = zu + dem."}]},
+"22": {"kind":"video","title":"An EASY explanation of the 9 Two-Way PREPOSITIONS (Wechselpräpositionen)","source":"YouTube · Learn German with Anja","url":"https://www.youtube.com/watch?v=Dmv2BzXv_7U","minutes":5,"focus":"Learn the nine prepositions, then the one trick: wo? = dative (position), wohin? = accusative (movement).","questions":[
+ {"t":"mc","q":"How many two-way prepositions does German have?","o":["Nine","Five","Twelve"],"a":0,"why":"an, auf, hinter, in, neben, über, unter, vor, zwischen."},
+ {"t":"mc","q":"Which case follows a two-way preposition when you answer “Wohin?” (movement)?","o":["Accusative","Dative","Genitive"],"a":0,"why":"Ich gehe in die Küche."},
+ {"t":"fill","q":"Das Buch liegt auf ___ Tisch. (der Tisch, wo?)","a":["dem"],"why":"Position (wo?) → dative: auf dem Tisch."}]},
+"23": {"kind":"video","title":"GERMAN LESSON 27: Learn German Vocabulary of FOOD (Das Essen)","source":"YouTube · Learn German with Anja","url":"https://www.youtube.com/watch?v=JYwKuzZidzQ","minutes":5,"focus":"Write each food word with its article. Repeat aloud and say which foods you like.","questions":[
+ {"t":"mc","q":"What is “das Brot”?","o":["bread","butter","cheese"],"a":0,"why":"das Brot = bread."},
+ {"t":"mc","q":"Which one is a fruit?","o":["der Apfel","das Brötchen","die Wurst"],"a":0,"why":"der Apfel = apple."},
+ {"t":"mc","q":"When do you say “Guten Appetit!”?","o":["Before eating","After paying","When you arrive at a hotel"],"a":0,"why":"It is the wish for a good meal."}]},
+"24": {"kind":"video","title":"Hoch, höher am höchsten! (German Comparative)","source":"YouTube · Easy German","url":"https://www.youtube.com/watch?v=8QTb4is_fKw","minutes":4,"focus":"Note how the comparative ends in -er and the superlative in am … -sten, and which vowels get an umlaut.","questions":[
+ {"t":"fill","q":"hoch – ___ – am höchsten","a":["höher","hoeher"],"why":"hoch → höher → am höchsten."},
+ {"t":"mc","q":"“Der Berg ist höher ___ das Haus.”","o":["als","wie","dass"],"a":0,"why":"After a comparative use als."},
+ {"t":"mc","q":"What is the comparative of “gern” (gladly)?","o":["lieber","gerner","besser"],"a":0,"why":"gern – lieber – am liebsten."}]},
+"25": {"kind":"video","title":"Grocery shopping in German | Super Easy German (33)","source":"YouTube · Easy German","url":"https://www.youtube.com/watch?v=yCV4h5kDwbM","minutes":3,"focus":"Listen to real shop conversations. Notice how people ask for quantities and how the shop assistant asks “Sonst noch etwas?”.","questions":[
+ {"t":"mc","q":"Who usually says “Was darf es sein?”","o":["The shop assistant","The customer","The taxi driver"],"a":0,"why":"It means: What can I get you?"},
+ {"t":"mc","q":"“Ich hätte gern ein Kilo Äpfel.” means:","o":["I would like a kilo of apples.","I have a kilo of apples.","I am eating apples."],"a":0,"why":"Ich hätte gern = I would like."},
+ {"t":"fill","q":"Sonst ___ etwas? (Anything else?)","a":["noch"],"why":"Sonst noch etwas?"}]},
+"26": {"kind":"video","title":"Imperatives: How to Phrase Orders and Requests in German","source":"YouTube · Easy German","url":"https://www.youtube.com/watch?v=hunvSsyEeBU","minutes":10,"focus":"Compare the three imperative forms (du, ihr, Sie) and the politeness words bitte and mal.","questions":[
+ {"t":"mc","q":"What is the du-imperative of “kommen”?","o":["Komm!","Kommst!","Kommen!"],"a":0,"why":"Remove -st from the du-form: du kommst → Komm!"},
+ {"t":"mc","q":"What is the formal imperative of “kommen”?","o":["Kommen Sie!","Komm Sie!","Kommt Sie!"],"a":0,"why":"Verb + Sie: Kommen Sie!"},
+ {"t":"fill","q":"___ bitte leise! (sein, du)","a":["Sei"],"why":"sein is irregular: Sei leise!"}]},
+"27": {"kind":"video","title":"Understand the German Perfect! (Only in German) – Das deutsche Perfekt","source":"YouTube · Learn German with Anja","url":"https://www.youtube.com/watch?v=sC1kWsL_Azo","minutes":6,"focus":"Anja explains the Perfekt in German only. Listen for haben/sein and the Partizip II at the end of the sentence.","questions":[
+ {"t":"mc","q":"How is the Perfekt built?","o":["haben or sein + Partizip II","werden + infinitive","only the Partizip II"],"a":0,"why":"Ich habe gegessen. Ich bin gefahren."},
+ {"t":"fill","q":"Ich habe Pizza ___. (essen)","a":["gegessen"],"why":"essen → gegessen."},
+ {"t":"mc","q":"Where does the Partizip II stand in a main clause?","o":["At the end","In position 2","At the start"],"a":0,"why":"Ich habe gestern Pizza gegessen."}]},
+"28": {"kind":"video","title":"Perfekt mit SEIN: When to use the German PERFECT Tense with “to Be”","source":"YouTube · Learn German with Anja","url":"https://www.youtube.com/watch?v=50istPWib_g","minutes":6,"focus":"List the two groups of verbs that take sein: movement (gehen, fahren, fliegen) and change of state (aufwachen, werden), plus sein and bleiben.","questions":[
+ {"t":"mc","q":"Which verbs typically form the Perfekt with sein?","o":["Verbs of movement and change of state","All verbs with an object","Only modal verbs"],"a":0,"why":"Ich bin gefahren, ich bin aufgewacht."},
+ {"t":"fill","q":"Ich ___ nach Berlin gefahren.","a":["bin"],"why":"fahren (movement) + sein."},
+ {"t":"mc","q":"What is the Partizip II of “gehen”?","o":["gegangen","gegeht","gegehen"],"a":0,"why":"gehen – ging – ist gegangen."}]},
+"29": {"kind":"video","title":"Learn German Vocabulary – Weather in German (Wetter)","source":"YouTube · Learn German","url":"https://www.youtube.com/watch?v=7ukOaQvBHZU","minutes":9,"focus":"Repeat each weather expression aloud, then say what the weather is like where you are today.","questions":[
+ {"t":"mc","q":"What does “Es regnet.” mean?","o":["It is raining.","It is snowing.","It is windy."],"a":0,"why":"regnen = to rain."},
+ {"t":"mc","q":"“Die Sonne scheint.” means:","o":["The sun is shining.","The sun is hot.","The sun is setting."],"a":0,"why":"scheinen = to shine."},
+ {"t":"fill","q":"Im Winter ist es ___. (cold)","a":["kalt"],"why":"kalt = cold."}]},
+"30": {"kind":"video","title":"German Clothing Vocabulary","source":"YouTube · Easy German","url":"https://www.youtube.com/watch?v=5LsSHezUUKQ","minutes":7,"focus":"Note the gender of every item of clothing, and which items are always plural (die Schuhe, die Socken, die Jeans).","questions":[
+ {"t":"mc","q":"What is “die Hose”?","o":["trousers","skirt","jacket"],"a":0,"why":"die Hose = trousers."},
+ {"t":"mc","q":"What is “das Hemd”?","o":["shirt","hat","sock"],"a":0,"why":"das Hemd = (men’s) shirt."},
+ {"t":"mc","q":"Which article goes with the plural “Schuhe”?","o":["die","der","das"],"a":0,"why":"All plurals take die."}]},
+"31": {"kind":"video","title":"A1 – Lesson 25 | the family in German | die Familie | Meine Familie","source":"YouTube · Learn German","url":"https://www.youtube.com/watch?v=npzGh2GorGQ","minutes":7,"focus":"Build the family tree with the German words and say sentences: Das ist mein Bruder. Meine Mutter heißt …","questions":[
+ {"t":"mc","q":"What is “die Schwester”?","o":["sister","aunt","daughter"],"a":0,"why":"die Schwester = sister."},
+ {"t":"mc","q":"What does “die Großeltern” mean?","o":["grandparents","parents","cousins"],"a":0,"why":"die Großmutter + der Großvater."},
+ {"t":"fill","q":"Meine Mutter und mein Vater sind meine ___. (parents)","a":["Eltern"],"why":"die Eltern = parents."}]},
+"32": {"kind":"video","title":"The ACCUSATIVE Part 4: German MICH, DICH, EUCH, … Personal Pronouns of the accusative","source":"YouTube · Learn German with Anja","url":"https://www.youtube.com/watch?v=vPl0M_31_aU","minutes":9,"focus":"Write the full table: mich, dich, ihn, sie, es, uns, euch, sie/Sie. Then make one sentence for each.","questions":[
+ {"t":"fill","q":"ich → mich, du → ___, er → ihn","a":["dich"],"why":"Accusative of du is dich."},
+ {"t":"mc","q":"“Ich sehe ___.” (er)","o":["ihn","er","ihm"],"a":0,"why":"Ich sehe ihn."},
+ {"t":"mc","q":"Which case are mich, dich, ihn, sie, es in?","o":["Accusative","Dative","Nominative"],"a":0,"why":"They replace the accusative object."}]},
+"33": {"kind":"video","title":"Sports in Slow German","source":"YouTube · Easy German","url":"https://www.youtube.com/watch?v=hxGSArgzNN8","minutes":6,"focus":"Listen to the slow German and note the sports, the verbs (spielen, machen, gehen) and how often people exercise.","questions":[
+ {"t":"mc","q":"How do you say “I play tennis”?","o":["Ich spiele Tennis.","Ich mache Tennis spielen.","Ich gehe Tennis."],"a":0,"why":"Ball sports use spielen."},
+ {"t":"mc","q":"“Fußball spielen” means:","o":["to play football (soccer)","to watch television","to run marathons"],"a":0,"why":"der Fußball = football."},
+ {"t":"fill","q":"Ich ___ jeden Tag Sport. (machen)","a":["mache"],"why":"ich mache, du machst."}]},
+"34": {"kind":"video","title":"How Do Germans Stay in Shape? | Easy German 424","source":"YouTube · Easy German","url":"https://www.youtube.com/watch?v=nN63KkZwWn0","minutes":12,"focus":"Street interviews about sport and fitness. Turn on the German subtitles, and note how people answer “Machst du Sport?”.","questions":[
+ {"t":"mc","q":"What is “das Fitnessstudio”?","o":["gym","swimming pool","football pitch"],"a":0,"why":"das Fitnessstudio = gym."},
+ {"t":"mc","q":"“Sport treiben” means:","o":["to do sports","to buy sports clothes","to watch sports"],"a":0,"why":"Ich treibe gern Sport."},
+ {"t":"mc","q":"“Wie oft machst du Sport?” asks about:","o":["how often","how long","how much money"],"a":0,"why":"wie oft = how often."}]},
+"35": {"kind":"video","title":"A1 – Lesson 59 | Beim Arzt | At the Doctor’s | Arzttermin vereinbaren","source":"YouTube · Learn German","url":"https://www.youtube.com/watch?v=JybuldB6q5M","minutes":12,"focus":"Follow the dialogues: making an appointment, describing pain, and the doctor’s advice. Repeat the key sentences.","questions":[
+ {"t":"mc","q":"“Ich habe Kopfschmerzen.” means:","o":["I have a headache.","I have a cold.","I have a fever."],"a":0,"why":"der Kopf + die Schmerzen."},
+ {"t":"mc","q":"“Ich möchte einen Termin vereinbaren.” means:","o":["I would like to make an appointment.","I would like to cancel my visit.","I am the doctor."],"a":0,"why":"der Termin = appointment."},
+ {"t":"fill","q":"Sie ___ viel Wasser trinken. (must)","a":["müssen","muessen"],"why":"Sie müssen …"}]},
+"36": {"kind":"video","title":"Don’t Mix Up “seit”, “für” & “vor”! (German Temporal Prepositions)","source":"YouTube · Easy German","url":"https://www.youtube.com/watch?v=-nrXMp8ECZI","minutes":10,"focus":"Compare the three prepositions: seit (since, still going on), für (for a planned length), vor (ago).","questions":[
+ {"t":"mc","q":"“Ich wohne seit zwei Jahren in Berlin.” means:","o":["I have been living in Berlin for two years (and still do).","I lived in Berlin two years ago.","I will live in Berlin for two years."],"a":0,"why":"seit + dative + present tense = since/for until now."},
+ {"t":"mc","q":"“Vor einer Woche” means:","o":["a week ago","in a week","for a week"],"a":0,"why":"vor + dative = ago."},
+ {"t":"fill","q":"Ich lerne ___ einem Jahr Deutsch. (since)","a":["seit"],"why":"seit einem Jahr = for a year now."}]},
+"37": {"kind":"video","title":"THE DATIVE part 3: Mir, dir, Ihnen in GERMAN – Personal Pronouns in the DATIVE","source":"YouTube · Learn German with Anja","url":"https://www.youtube.com/watch?v=uoEwlH9XgZ0","minutes":8,"focus":"Write the table mir, dir, ihm, ihr, ihm, uns, euch, ihnen, Ihnen and make a sentence with each.","questions":[
+ {"t":"fill","q":"ich → mir, du → ___, er → ihm","a":["dir"],"why":"Dative of du is dir."},
+ {"t":"mc","q":"“Ich gebe ___ das Buch.” (to him)","o":["ihm","ihn","er"],"a":0,"why":"geben takes the dative for the person."},
+ {"t":"mc","q":"What is the formal dative of “you”?","o":["Ihnen","Dir","Euch"],"a":0,"why":"Ich helfe Ihnen."}]},
+"38": {"kind":"video","title":"Subjunctive 2 with “hätten” & “wären” – 3 Minuten Deutsch #68","source":"YouTube · Learn German with Herr Antrim","url":"https://www.youtube.com/watch?v=lLupHt5IBdk","minutes":4,"focus":"Note how hätte and wäre express wishes and polite requests. Use them to finish the sentences: Ich hätte gern … Ich wäre gern …","questions":[
+ {"t":"mc","q":"“Ich hätte gern einen Kaffee.” is:","o":["a polite wish or request","a question","a command"],"a":0,"why":"hätte gern = would like to have."},
+ {"t":"mc","q":"“Ich wäre gern reich.” means:","o":["I would like to be rich.","I was rich.","I am rich."],"a":0,"why":"wäre = would be."},
+ {"t":"fill","q":"Ich ___ gern ein Haus. (haben, polite wish)","a":["hätte","haette"],"why":"ich hätte."}]}
+}

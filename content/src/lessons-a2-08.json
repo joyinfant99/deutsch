@@ -1,0 +1,146 @@
+{
+"a2-33": {
+  "goal": "Talk about eating habits and food preferences, and describe people and things with relative clauses in the nominative (Menschen, die innovativ sind).",
+  "words": [
+    ["die Mahlzeit, -en", "meal"],
+    ["das Gericht, -e", "dish"],
+    ["der Feinschmecker / die Feinschmeckerin", "gourmet"],
+    ["der Geschmack", "taste"],
+    ["raffiniert", "sophisticated"],
+    ["innovativ", "innovative"],
+    ["die Kneipe, -n", "pub"],
+    ["besitzen / eröffnen", "to own / to open"],
+    ["testen", "to test"],
+    ["auf der Durchreise sein", "to be passing through"],
+    ["die Bratwurst / die Currywurst", "grilled sausage / curry sausage"],
+    ["Da stimm ich Ihnen zu.", "I agree with you."]
+  ],
+  "grammar": {
+    "title": "Relative clauses in the nominative",
+    "text": "A **relative clause** describes a noun. It begins with a **relative pronoun** that agrees with the noun in **gender and number**; the verb goes to the **end**, and a comma separates the clause.\n\nWhen the relative pronoun is the **subject** (nominative):\n\n| masc. | fem. | neut. | pl. |\n|---|---|---|---|\n| **der** | **die** | **das** | **die** |\n\n- Köche sollten Menschen sein, **die** innovativ **sind**. (plural)\n- Ein gutes Essen ist ein Essen, **das** wirklich lecker **ist**. (neuter)\n- Ein Koch, **der** kreativ **ist** … (masculine)",
+    "ex": [
+      ["Köche sollten Menschen sein, die innovativ sind.", "Chefs should be people who are innovative."],
+      ["Für mich ist ein gutes Essen ein Essen, das wirklich lecker ist.", "For me a good meal is a meal that is really tasty."],
+      ["Das ist ein Restaurant, das ich gut finde.", "That is a restaurant that I like."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Jacques do for work in Germany at the moment?","o":["He tests German restaurants","He works as a waiter","He is a tour guide"],"a":0,"why":"“Ich teste deutsche Gaststätten.”","src":"video"},
+    {"t":"mc","q":"How many restaurants does Jacques own in France?","o":["Three","One","Ten"],"a":0,"why":"“… ich besitze drei Restaurants in Frankreich.”","src":"video"},
+    {"t":"mc","q":"What does Jacques think of typical German dishes?","o":["Always the same – everything with sausage","Perfect","Too spicy"],"a":0,"why":"“Bratwurst, Currywurst, alles immer mit Wurst.”","src":"video"},
+    {"t":"mc","q":"How does Inge respond?","o":["It is not true that Germans only eat sausage","She agrees completely","She leaves the table"],"a":0,"why":"“Es stimmt nicht, dass wir hier in Deutschland immer nur Wurst essen.”","src":"video"},
+    {"t":"fill","q":"Das ist ein Mann, ___ gern kocht. (relative pronoun, masculine)","a":["der"],"why":"masc. nominative: der.","src":"grammar"},
+    {"t":"fill","q":"Das ist ein Essen, ___ lecker ist. (relative pronoun, neuter)","a":["das"],"why":"neuter nominative: das.","src":"grammar"},
+    {"t":"mc","q":"Where does the verb stand in a relative clause?","o":["At the end","In second position","At the beginning"],"a":0,"why":"…, die innovativ sind.","src":"grammar"},
+    {"t":"mc","q":"“der Feinschmecker” is:","o":["a gourmet","a food critic only","a cook"],"a":0,"why":"fein + schmecken.","src":"vocab"}
+  ]
+},
+"a2-34": {
+  "goal": "Order a meal, describe what other people eat, and use relative clauses in the middle of a sentence (interruptive).",
+  "words": [
+    ["die Speisekarte, -n", "menu"],
+    ["wählen", "to choose"],
+    ["wetten", "to bet"],
+    ["die Wette, -n", "bet"],
+    ["die Vorspeise, -n / die Hauptspeise", "starter / main course"],
+    ["das Wiener Schnitzel", "Wiener schnitzel"],
+    ["die Schweineleber", "pork liver"],
+    ["das Sauerkraut / der Rotkohl", "sauerkraut / red cabbage"],
+    ["das Kartoffelpüree", "mashed potatoes"],
+    ["die Wurstplatte", "sausage platter"],
+    ["Ich nehme … / Ich hätte gern …", "I’ll have … / I’d like …"],
+    ["Einverstanden!", "Agreed!"]
+  ],
+  "grammar": {
+    "title": "Interruptive relative clauses",
+    "text": "A relative clause can **interrupt** the main clause right after the noun it describes. Put commas on **both** sides:\n\n- Der Mann, **der** gestern das Schnitzel **hatte**, bestellt es heute wieder.\n- Die Frau, **die** Tomatensuppe **mag**, nimmt einen Salat.\n- Das Restaurant, **das** wir gestern **besucht haben**, war teuer.\n\nAfter the relative clause the main verb follows immediately: … **bestellt** … (verb in position 2 of the main clause continues).",
+    "ex": [
+      ["Der Mann, der gestern das Schnitzel hatte, bestellt es heute wieder.", "The man who had the schnitzel yesterday will order it again today."],
+      ["Die Frau, die Tomatensuppe mag, nimmt einen gemischten Salat.", "The woman who likes tomato soup will have a mixed salad."],
+      ["Ich nehme die Schweineleber mit Sauerkraut und Kartoffelpüree.", "I’ll have the pork liver with sauerkraut and mashed potatoes."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Why does Jacques have a French name although he speaks perfect German?","o":["His parents come from France","He lived in Paris","He is French"],"a":0,"why":"“Meine Eltern kommen aus Frankreich.”","src":"video"},
+    {"t":"mc","q":"What does Jacques bet about the man at the next table?","o":["He will order the same as yesterday","He will order fish","He will not eat at all"],"a":0,"why":"“Das bestellt er heute sicher wieder.”","src":"video"},
+    {"t":"mc","q":"What is the stake of the bet?","o":["If Inge loses, she must meet Jacques again","The loser pays the bill","The loser washes the dishes"],"a":0,"why":"“Wenn Sie verlieren, müssen Sie sich noch einmal mit mir treffen.”","src":"video"},
+    {"t":"mc","q":"What does Inge order?","o":["Pork liver with sauerkraut and mashed potatoes, small portion","Roulade with red cabbage","A sausage platter"],"a":0,"why":"“Ich nehme die Schweineleber mit Sauerkraut und Kartoffelpüree. Bitte eine kleine Portion.”","src":"video"},
+    {"t":"mc","q":"Who wins the bet?","o":["Inge – the woman orders roulade instead","Jacques","Nobody"],"a":0,"why":"The waitress brings “die Roulade mit Salzkartoffeln und Rotkraut”.","src":"video"},
+    {"t":"fill","q":"Die Frau, ___ Suppe mag, nimmt einen Salat. (relative pronoun)","a":["die"],"why":"feminine nominative: die.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is punctuated correctly?","o":["Der Mann, der dort sitzt, ist mein Lehrer.","Der Mann der dort sitzt ist mein Lehrer.","Der Mann, der dort sitzt ist mein Lehrer."],"a":0,"why":"Commas on both sides of the interrupting clause.","src":"grammar"},
+    {"t":"mc","q":"“die Vorspeise” is:","o":["the starter","the dessert","the main course"],"a":0,"why":"vor + Speise.","src":"vocab"}
+  ]
+},
+"a2-35": {
+  "goal": "Say what you liked and disliked about a meal, and use relative clauses in the accusative (den, die, das) for things you cook, eat and recommend.",
+  "words": [
+    ["köstlich / lecker", "delicious / tasty"],
+    ["scharf / langweilig", "spicy / boring"],
+    ["das Gewürz, -e / die Soße, -n", "spice / sauce"],
+    ["der Nörgler, -", "grumbler"],
+    ["der Konditor / die Konditorei", "pastry chef / pastry shop"],
+    ["der Teig", "dough"],
+    ["der Marmorkuchen", "marble cake"],
+    ["das Dessert / der Zitronenkuchen", "dessert / lemon cake"],
+    ["empfehlen", "to recommend"],
+    ["Hat es Ihnen geschmeckt?", "Did you enjoy it?"],
+    ["Es geht.", "It’s so-so."],
+    ["Suchen Sie etwas aus!", "You choose!"]
+  ],
+  "grammar": {
+    "title": "Relative clauses in the accusative",
+    "text": "When the relative pronoun is the **direct object** (accusative), only the **masculine** changes:\n\n| masc. | fem. | neut. | pl. |\n|---|---|---|---|\n| **den** | **die** | **das** | **die** |\n\n- Marmorkuchen ist der Kuchen, **den** ich als Kind gern gegessen **habe**. (masculine)\n- Der Teig, **den** ich gemacht habe, war perfekt.\n- Der Champagner, **den** Sie mir empfohlen **haben** …\n- Eine Soße, **die** man bei so einem Gericht braucht. (feminine)\n\nThe **subject** of the relative clause stands after the pronoun (ich, Sie, man).",
+    "ex": [
+      ["Marmorkuchen ist der Kuchen, den ich schon als Kind gern gegessen habe.", "Marble cake is the cake that I liked eating even as a child."],
+      ["Der Teig, den ich gemacht habe, war immer perfekt.", "The dough that I made was always perfect."],
+      ["Zwei Gläser von dem Champagner, den Sie mir gestern empfohlen haben.", "Two glasses of the champagne that you recommended to me yesterday."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What did Jacques like most about the meal?","o":["The goat cheese – wonderfully intense","The spicy sausage","The mashed potatoes"],"a":0,"why":"“Der Ziegenkäse war köstlich. Wunderbar intensiv.”","src":"video"},
+    {"t":"mc","q":"What did he criticise about the sausage?","o":["It was boring – the right spices were missing","It was too salty","It was cold"],"a":0,"why":"“Ziemlich langweilig. Da fehlen die richtigen Gewürze.”","src":"video"},
+    {"t":"mc","q":"What is Jacques’ real profession?","o":["Pastry chef (Konditor)","Head chef","Restaurant critic only"],"a":0,"why":"“Um ehrlich zu sein, ich bin Konditor.”","src":"video"},
+    {"t":"mc","q":"Which cake can Inge bake best?","o":["Marble cake","Apple cake","Cheesecake"],"a":0,"why":"“Marmorkuchen.”","src":"video"},
+    {"t":"mc","q":"What does Jacques order for dessert?","o":["Two pieces of lemon cake and two glasses of champagne","Ice cream","Only coffee"],"a":0,"why":"“… zwei Stückchen Zitronenkuchen. Und zwei Gläser … Champagner.”","src":"video"},
+    {"t":"fill","q":"Das ist der Kuchen, ___ ich gern esse. (relative pronoun, masculine accusative)","a":["den"],"why":"masc. accusative: den.","src":"grammar"},
+    {"t":"fill","q":"Das ist die Soße, ___ ich gemacht habe. (relative pronoun, feminine)","a":["die"],"why":"feminine accusative: die.","src":"grammar"},
+    {"t":"mc","q":"“der Nörgler” is a person who:","o":["always complains","always laughs","always cooks"],"a":0,"why":"nörgeln = to grumble.","src":"vocab"}
+  ]
+},
+"a2-36": {
+  "goal": "Talk about professions in food service (Koch, Konditor, Kellner, Kritiker) and describe careers with relative clauses; pay a bill and invite someone.",
+  "words": [
+    ["der Koch, Köche / die Köchin", "cook, chef (m/f)"],
+    ["der Konditor / der Bäcker", "pastry chef / baker"],
+    ["der Kellner / die Kellnerin", "waiter / waitress"],
+    ["der Restaurantkritiker", "restaurant critic"],
+    ["der Restaurantbesitzer", "restaurant owner"],
+    ["das Bistro, -s", "bistro"],
+    ["die Ausbildung zum Konditor", "training as a pastry chef"],
+    ["die Gesellschaft", "company"],
+    ["schätzen", "to value"],
+    ["Zahlen, bitte!", "The bill, please!"],
+    ["Keine Widerrede!", "No arguments!"],
+    ["Das ist mir peinlich.", "I’m embarrassed."]
+  ],
+  "grammar": {
+    "title": "Linked relative clauses: choosing den / die / das / der",
+    "text": "Decide the pronoun with **two questions**: (1) gender and number of the noun; (2) the case the pronoun has **in its own clause**.\n\n- Konditor ist der Beruf, **den** Sie gelernt haben. (den = object of gelernt)\n- Frankreich ist ein Land, **das** ich liebe. (das = object)\n- Mein Vater war ein Mann, **der** Essen liebte. (der = subject)\n- Gute Gesellschaft ist eine Sache, **die** ich sehr schätze. (die = object)\n- Sie sind eine Frau, **die** man einladen muss. (die = object of einladen)\n\nProfessions: **ein Mann, der …**, **eine Frau, die …** – **der Beruf, den …**",
+    "ex": [
+      ["Konditor ist der Beruf, den Sie gelernt haben.", "Pastry chef is the profession you trained in."],
+      ["Mein Vater war ein Mann, der Essen liebte.", "My father was a man who loved food."],
+      ["Frankreich ist ein Land, das ich liebe.", "France is a country that I love."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Where did Jacques’ parents have a small bistro?","o":["In Hamburg","In Paris","In Köln"],"a":0,"why":"“… ein kleines Bistro in Hamburg.”","src":"video"},
+    {"t":"mc","q":"What did Jacques do before he opened his first restaurant?","o":["Worked as a pastry chef and restaurant critic","Studied law","Worked as a waiter only"],"a":0,"why":"“… als Konditor … auch noch als Restaurantkritiker gearbeitet.”","src":"video"},
+    {"t":"mc","q":"Why did he want to open a restaurant?","o":["He wanted to do it better instead of criticising","He was rich","His father asked him"],"a":0,"why":"“Ich wollte es besser machen.”","src":"video"},
+    {"t":"mc","q":"What is Jacques’ problem when the bill comes?","o":["He left his wallet at the hotel","His card is blocked","He has no cash"],"a":0,"why":"“Mein Portemonnaie … habe ich im Hotel vergessen.”","src":"video"},
+    {"t":"mc","q":"How does Inge react?","o":["She pays and says goodbye – he lost the bet","She calls the police","She leaves without paying"],"a":0,"why":"“Kein Problem, ich übernehme das … Sie haben die Wette verloren.”","src":"video"},
+    {"t":"fill","q":"Konditor ist der Beruf, ___ er gelernt hat. (masculine object)","a":["den"],"why":"der Beruf → den.","src":"grammar"},
+    {"t":"fill","q":"Frankreich ist ein Land, ___ ich liebe. (neuter)","a":["das"],"why":"das Land → das.","src":"grammar"},
+    {"t":"mc","q":"“Keine Widerrede!” means:","o":["No arguments!","No problem!","No thanks!"],"a":0,"why":"die Widerrede = back-talk.","src":"vocab"}
+  ]
+}
+}

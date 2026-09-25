@@ -1,0 +1,3846 @@
+[
+{
+"title": "Exam overview: four modules, 60% to pass",
+"goal": "Learn how the Goethe-Zertifikat B1 is built, how it is scored, and how you will use the next 25 days.",
+"notes": [
+{
+"heading": "The exam in one table",
+"text": "**Lesen** 65 min, 5 parts, 30 items. **Hören** 40 min, 4 parts, 30 items. **Schreiben** 60 min, 3 tasks (two e-mails and a forum/discussion post). **Sprechen** 15 min for two candidates (3 parts, 15 min preparation).\nEach module is worth **100 points**; you pass a module with **60 points (60%)**. You can take modules separately."
+},
+{
+"heading": "What B1 means",
+"text": "You can understand the main points of clear standard language on familiar topics (work, school, leisure), deal with most situations while travelling, produce simple connected text, describe experiences, dreams and goals, and give short reasons and explanations."
+},
+{
+"heading": "Your 25-day plan",
+"text": "Days 1–5 Lesen · 6–10 Hören · 11–15 Schreiben · 16–19 Sprechen · 20–22 Grammar and vocabulary review · 23–24 full mocks · 25 final mock exam. **Important:** this course follows the **Goethe-Zertifikat B1**. If you sit telc B1 or DTZ, the skills are the same but formats differ slightly – check your provider’s model test."
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "Goethe-Zertifikat B1: Überblick und Module erklärt",
+"source": "YouTube · Dr Popkins German",
+"url": "https://www.youtube.com/watch?v=y-5mkHkKGkM",
+"minutes": 7,
+"focus": "Compare the four modules with the table above and note the timings."
+},
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Modellsatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/b1_modellsatz_erwachsene.pdf",
+"minutes": 20,
+"focus": "Read the Vorwort and the overview table (pages 5–7) and note any difference to what you expected."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "How many points do you need to pass a module?",
+"o": [
+"60 of 100",
+"70 of 100",
+"50 of 100"
+],
+"a": 0,
+"why": "Bestehensgrenze 60%."
+},
+{
+"t": "mc",
+"q": "How long is the Lesen module?",
+"o": [
+"65 minutes",
+"40 minutes",
+"60 minutes"
+],
+"a": 0,
+"why": "Lesen 65, Hören 40, Schreiben 60."
+},
+{
+"t": "mc",
+"q": "How long is the Hören module?",
+"o": [
+"40 minutes",
+"65 minutes",
+"15 minutes"
+],
+"a": 0,
+"why": "Hören: 40 Minuten."
+},
+{
+"t": "mc",
+"q": "How many tasks does Schreiben have?",
+"o": [
+"3",
+"5",
+"4"
+],
+"a": 0,
+"why": "2 E-Mails + 1 Diskussionsbeitrag."
+},
+{
+"t": "mc",
+"q": "How many parts does Sprechen have?",
+"o": [
+"3",
+"2",
+"5"
+],
+"a": 0,
+"why": "Planen, Präsentieren, Reagieren."
+},
+{
+"t": "mc",
+"q": "Can you take the modules separately?",
+"o": [
+"Yes, modules can be taken individually",
+"No, only all together",
+"Only Lesen and Hören"
+],
+"a": 0,
+"why": "Modular möglich."
+},
+{
+"t": "mc",
+"q": "How many items does Lesen have?",
+"o": [
+"30",
+"20",
+"50"
+],
+"a": 0,
+"why": "6+6+7+7+4 = 30."
+},
+{
+"t": "mc",
+"q": "How much preparation time do you get for Sprechen?",
+"o": [
+"15 minutes",
+"5 minutes",
+"30 minutes"
+],
+"a": 0,
+"why": "Vorbereitungszeit 15 Minuten."
+},
+{
+"t": "mc",
+"q": "The B1 level is called …",
+"o": [
+"selbstständige Sprachverwendung (independent user)",
+"elementare Sprachverwendung",
+"kompetente Sprachverwendung"
+],
+"a": 0,
+"why": "Stufe B."
+},
+{
+"t": "mc",
+"q": "Which skill is NOT tested?",
+"o": [
+"Grammar as a separate module",
+"Reading",
+"Speaking"
+],
+"a": 0,
+"why": "Grammatik wird in den vier Modulen mitgeprüft."
+}
+]
+},
+{
+"title": "Lesen Teil 1: Richtig oder Falsch",
+"goal": "Read a personal text (blog, e-mail) and decide for six statements whether they are richtig or falsch.",
+"notes": [
+{
+"heading": "Task",
+"text": "**10 minutes**, 6 items. You read one longer text (often a blog entry or letter) and decide whether each statement is **richtig** or **falsch**. The statements follow the order of the text."
+},
+{
+"heading": "Strategy",
+"text": "1. Skim the title and first sentences.\n2. Read statement 1 and find the passage – then move on in order.\n3. Watch for **synonyms**: the statement rarely uses the same words as the text.\n4. **Negation and quantities** (nie, immer, alle, nur, mehr als) are typical traps."
+},
+{
+"heading": "Useful words",
+"text": "**der Alltag** everyday life · **sich entscheiden für** decide on · **das Vorhaben** plan · **erleben** experience · **behaupten** claim · **im Gegenteil** on the contrary"
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "So lösen Sie Abschnitt 1 des Lesens superschnell! | B1 Deutsch-Vorbereitung",
+"source": "YouTube · StudySmart",
+"url": "https://www.youtube.com/watch?v=Lju3xdEzRhM",
+"minutes": 13,
+"focus": "Note the strategy; pause before each solution and decide yourself."
+},
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Modellsatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/b1_modellsatz_erwachsene.pdf",
+"minutes": 15,
+"focus": "Do Lesen Teil 1 (10 minutes, timed) from the Modellsatz and check the key at the end."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "How much time do you have for Lesen Teil 1?",
+"o": [
+"10 minutes",
+"20 minutes",
+"5 minutes"
+],
+"a": 0,
+"why": "Teil 1: Arbeitszeit 10 Minuten."
+},
+{
+"t": "mc",
+"q": "How many items are in Lesen Teil 1?",
+"o": [
+"6",
+"10",
+"4"
+],
+"a": 0,
+"why": "6 R/F items."
+},
+{
+"t": "mc",
+"q": "What do the statements often use instead of the words in the text?",
+"o": [
+"synonyms and paraphrases",
+"exactly the same words",
+"only numbers"
+],
+"a": 0,
+"why": "Deshalb: Bedeutung vergleichen."
+},
+{
+"t": "mc",
+"q": "The statements usually follow …",
+"o": [
+"the order of the text",
+"a random order",
+"the last paragraph first"
+],
+"a": 0,
+"why": "Reihenfolge im Text."
+},
+{
+"t": "mc",
+"q": "“Er geht nie ins Kino.” In the text: “Er geht selten ins Kino.” The statement is …",
+"o": [
+"falsch",
+"richtig",
+"not decidable"
+],
+"a": 0,
+"why": "nie ≠ selten."
+},
+{
+"t": "mc",
+"q": "“der Alltag” means:",
+"o": [
+"everyday life",
+"all day",
+"allotment"
+],
+"a": 0,
+"why": "Alltagsleben."
+},
+{
+"t": "mc",
+"q": "“behaupten” means:",
+"o": [
+"to claim",
+"to keep",
+"to attend"
+],
+"a": 0,
+"why": "Er behauptet, dass …"
+},
+{
+"t": "mc",
+"q": "“im Gegenteil” means:",
+"o": [
+"on the contrary",
+"in parts",
+"in the middle"
+],
+"a": 0,
+"why": "Gegensatz."
+},
+{
+"t": "mc",
+"q": "If you do not find the answer, you should …",
+"o": [
+"guess – there is no penalty for wrong answers",
+"leave it empty",
+"leave the exam"
+],
+"a": 0,
+"why": "Immer eine Antwort geben."
+},
+{
+"t": "mc",
+"q": "Which word is a typical trap?",
+"o": [
+"nur",
+"und",
+"auch"
+],
+"a": 0,
+"why": "nur/immer/nie ändern die Aussage."
+}
+]
+},
+{
+"title": "Lesen Teil 2: Pressetext, Mehrfachauswahl",
+"goal": "Understand a newspaper-style text and choose the right answer a, b or c.",
+"notes": [
+{
+"heading": "Task",
+"text": "**20 minutes**, 6 items (two short texts, three questions each). Choose a, b or c. Texts are from newspapers or magazines on topics like energy, work or society."
+},
+{
+"heading": "Strategy",
+"text": "1. Read the questions first, then the text.\n2. Mark the key words in each question.\n3. The wrong answers often contain words from the text but say something different.\n4. Answers follow the order of the text."
+},
+{
+"heading": "Useful words",
+"text": "**der Bericht** report · **die Entwicklung** development · **nach Angaben von** according to · **erneuerbare Energien** renewable energy · **vor allem** above all"
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "Solve Lesen Teil 2 in 10 Minutes | German B1 Prep",
+"source": "YouTube · StudySmart",
+"url": "https://www.youtube.com/watch?v=dPs_5QOR0WI",
+"minutes": 21,
+"focus": "Watch the method, then solve a Teil 2 yourself in 20 minutes."
+},
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Modellsatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/b1_modellsatz_erwachsene.pdf",
+"minutes": 25,
+"focus": "Do Lesen Teil 2 (20 minutes, timed) from the Modellsatz and correct it."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "How many items are in Lesen Teil 2?",
+"o": [
+"6",
+"10",
+"7"
+],
+"a": 0,
+"why": "6 Mehrfachauswahl-Items."
+},
+{
+"t": "mc",
+"q": "How much time does Lesen Teil 2 take?",
+"o": [
+"20 minutes",
+"10 minutes",
+"15 minutes"
+],
+"a": 0,
+"why": "20 Minuten."
+},
+{
+"t": "mc",
+"q": "What is a good first step?",
+"o": [
+"Read the questions before the text",
+"Translate every word",
+"Read only the last line"
+],
+"a": 0,
+"why": "Fragen zuerst lesen."
+},
+{
+"t": "mc",
+"q": "Wrong answers often …",
+"o": [
+"use words from the text with a different meaning",
+"are obviously silly",
+"are always the longest"
+],
+"a": 0,
+"why": "Ablenker."
+},
+{
+"t": "mc",
+"q": "“die Entwicklung” means:",
+"o": [
+"development",
+"envelope",
+"entrance"
+],
+"a": 0,
+"why": "technische Entwicklung."
+},
+{
+"t": "mc",
+"q": "“nach Angaben von” means:",
+"o": [
+"according to",
+"after the details of",
+"without information"
+],
+"a": 0,
+"why": "nach Angaben der Polizei."
+},
+{
+"t": "mc",
+"q": "“vor allem” means:",
+"o": [
+"above all",
+"in front of everyone",
+"before everything"
+],
+"a": 0,
+"why": "vor allem Jugendliche."
+},
+{
+"t": "mc",
+"q": "In the Modellsatz, the text of Teil 2 is about …",
+"o": [
+"a village that uses renewable energy",
+"football",
+"a bank crisis"
+],
+"a": 0,
+"why": "Feldheim in Brandenburg."
+},
+{
+"t": "mc",
+"q": "Which type of answer is typical?",
+"o": [
+"a, b or c",
+"richtig/falsch",
+"Ja/Nein"
+],
+"a": 0,
+"why": "Mehrfachauswahl."
+},
+{
+"t": "mc",
+"q": "Should you read every word?",
+"o": [
+"No – focus on the parts that answer the questions",
+"Yes, every word",
+"Only headings"
+],
+"a": 0,
+"why": "Selektives Lesen."
+}
+]
+},
+{
+"title": "Lesen Teil 3: Anzeigen zuordnen",
+"goal": "Match seven situations with the right advertisement (A–J); one situation has no matching ad.",
+"notes": [
+{
+"heading": "Task",
+"text": "**10 minutes**, 7 situations and 10 ads (A–J). Each ad can be used **once**; for **one situation there is no ad – write 0**. Ads come from newspapers, websites, notice boards."
+},
+{
+"heading": "Strategy",
+"text": "1. Read each situation and underline what the person **needs**.\n2. Skim all ads and label each with 2–3 keywords.\n3. Match the sure ones first.\n4. Check **all details** (time, price, age, place) – ads are designed with small differences."
+},
+{
+"heading": "Useful words",
+"text": "**das Angebot** offer · **die Anmeldung** registration · **die Öffnungszeiten** opening hours · **kostenlos** free · **geeignet für** suitable for · **ab sofort** from now on"
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "Lesen Teil 3 leicht lösen | Deutsch B1 Vorbereitung",
+"source": "YouTube · StudySmart",
+"url": "https://www.youtube.com/watch?v=zN3jTw87Vrs",
+"minutes": 18,
+"focus": "Note how the presenter eliminates ads and handles the 0 situation."
+},
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Modellsatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/b1_modellsatz_erwachsene.pdf",
+"minutes": 15,
+"focus": "Do Lesen Teil 3 (10 minutes, timed) from the Modellsatz."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "How many ads are there in Teil 3?",
+"o": [
+"10 (A–J)",
+"7",
+"5"
+],
+"a": 0,
+"why": "7 Situationen, 10 Anzeigen."
+},
+{
+"t": "mc",
+"q": "What do you write if no ad fits?",
+"o": [
+"0",
+"X",
+"–"
+],
+"a": 0,
+"why": "Für eine Situation gibt es keine Anzeige: 0."
+},
+{
+"t": "mc",
+"q": "Can you use an ad twice?",
+"o": [
+"No, only once",
+"Yes, always",
+"Only two ads"
+],
+"a": 0,
+"why": "Jede Anzeige nur einmal."
+},
+{
+"t": "mc",
+"q": "What is a good first step?",
+"o": [
+"Underline what each person needs",
+"Read all ads word by word first",
+"Translate the ads"
+],
+"a": 0,
+"why": "Bedürfnisse markieren."
+},
+{
+"t": "mc",
+"q": "“kostenlos” means:",
+"o": [
+"free of charge",
+"expensive",
+"cost-effective"
+],
+"a": 0,
+"why": "gratis."
+},
+{
+"t": "mc",
+"q": "“die Anmeldung” means:",
+"o": [
+"registration",
+"announcement",
+"login"
+],
+"a": 0,
+"why": "sich anmelden."
+},
+{
+"t": "mc",
+"q": "“geeignet für” means:",
+"o": [
+"suitable for",
+"equal to",
+"suited to nothing"
+],
+"a": 0,
+"why": "für Anfänger geeignet."
+},
+{
+"t": "mc",
+"q": "“ab sofort” means:",
+"o": [
+"from now on",
+"after a while",
+"as soon as possible only"
+],
+"a": 0,
+"why": "ab sofort geöffnet."
+},
+{
+"t": "mc",
+"q": "Two ads seem right. What do you check?",
+"o": [
+"Small details such as time, price, age",
+"Which ad is longer",
+"Which ad has an image"
+],
+"a": 0,
+"why": "Details entscheiden."
+},
+{
+"t": "mc",
+"q": "How many minutes is Lesen Teil 3?",
+"o": [
+"10",
+"20",
+"15"
+],
+"a": 0,
+"why": "10 Minuten."
+}
+]
+},
+{
+"title": "Lesen Teil 4: Meinungen – Ja oder Nein",
+"goal": "Read seven short opinions and decide for each person: Ja (for) or Nein (against).",
+"notes": [
+{
+"heading": "Task",
+"text": "**15 minutes**, 7 items. Several readers comment on a question (e.g. “Sollen gewalttätige Videospiele verboten werden?”). For each person decide **Ja** or **Nein** regarding the question."
+},
+{
+"heading": "Strategy",
+"text": "1. Formulate the question in your own words: *Ist die Person dafür?*\n2. Look for **contrast markers**: aber, allerdings, zwar … aber – the real opinion often comes after them.\n3. Beware of irony and of people who describe a problem but support the rule anyway."
+},
+{
+"heading": "Opinion words",
+"text": "**dafür / dagegen sein** to be for / against · **befürworten** support · **ablehnen** reject · **meiner Meinung nach** in my opinion · **zustimmen** agree · **verbieten** ban"
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "Lesen Sie Teil 4: Geheimnisse enthüllt | Deutsch B1 Vorbereitung",
+"source": "YouTube · StudySmart",
+"url": "https://www.youtube.com/watch?v=H4iwo1rZ2vk",
+"minutes": 13,
+"focus": "Note how to find the real opinion behind ‘zwar … aber’."
+},
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Modellsatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/b1_modellsatz_erwachsene.pdf",
+"minutes": 20,
+"focus": "Do Lesen Teil 4 (15 minutes, timed) from the Modellsatz."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "How many items are in Lesen Teil 4?",
+"o": [
+"7",
+"6",
+"4"
+],
+"a": 0,
+"why": "7 Ja/Nein-Items."
+},
+{
+"t": "mc",
+"q": "What are you asked to decide?",
+"o": [
+"whether the person is for or against",
+"whether the statement is true",
+"which ad fits"
+],
+"a": 0,
+"why": "Ist die Person dafür?"
+},
+{
+"t": "mc",
+"q": "“Zwar finde ich es interessant, aber …” The real opinion is …",
+"o": [
+"after ‘aber’",
+"before ‘zwar’",
+"not clear"
+],
+"a": 0,
+"why": "aber leitet das Hauptargument ein."
+},
+{
+"t": "mc",
+"q": "“dafür sein” means:",
+"o": [
+"to be in favour",
+"to be there",
+"to be for sale"
+],
+"a": 0,
+"why": "Ich bin dafür."
+},
+{
+"t": "mc",
+"q": "“ablehnen” means:",
+"o": [
+"to reject",
+"to lean on",
+"to relieve"
+],
+"a": 0,
+"why": "Er lehnt den Vorschlag ab."
+},
+{
+"t": "mc",
+"q": "“befürworten” means:",
+"o": [
+"to support",
+"to fear",
+"to warn"
+],
+"a": 0,
+"why": "Ich befürworte das Verbot."
+},
+{
+"t": "mc",
+"q": "“verbieten” means:",
+"o": [
+"to ban",
+"to forbid to offer",
+"to connect"
+],
+"a": 0,
+"why": "Rauchen ist verboten."
+},
+{
+"t": "mc",
+"q": "A writer says: “Ich verstehe die Sorgen, aber ein Verbot hilft nicht.” He is …",
+"o": [
+"against a ban",
+"for a ban",
+"neutral"
+],
+"a": 0,
+"why": "Nein."
+},
+{
+"t": "mc",
+"q": "Which word shows contrast?",
+"o": [
+"allerdings",
+"deshalb",
+"außerdem"
+],
+"a": 0,
+"why": "allerdings = however."
+},
+{
+"t": "mc",
+"q": "How much time does Lesen Teil 4 have?",
+"o": [
+"15 minutes",
+"10 minutes",
+"20 minutes"
+],
+"a": 0,
+"why": "15 Minuten."
+}
+]
+},
+{
+"title": "Lesen Teil 5 and full Lesen practice",
+"goal": "Understand written instructions (rules, house regulations) and then test yourself with a full Lesen module in 65 minutes.",
+"notes": [
+{
+"heading": "Teil 5",
+"text": "**10 minutes**, 4 items. A text with rules (Hausordnung, Nutzungsbedingungen, Teilnahmebedingungen). Choose a, b or c. Focus: **what is allowed, what is required, what is forbidden**."
+},
+{
+"heading": "Rule language",
+"text": "**man darf nicht / man muss / es ist verboten / es ist erlaubt zu** · **bitte beachten Sie** · **auf eigene Verantwortung** · **haften für** be liable for · **rechtzeitig** on time"
+},
+{
+"heading": "Time plan for the whole module",
+"text": "65 minutes = Teil 1: 10 · Teil 2: 20 · Teil 3: 10 · Teil 4: 15 · Teil 5: 10. Do **not** spend more than the plan, and write all answers on the answer sheet before time is up."
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "Deutsch B1 Lesen Teil 5 gelöst | Geheimnisse & Hacks",
+"source": "YouTube · StudySmart",
+"url": "https://www.youtube.com/watch?v=itFw0oeLFXM",
+"minutes": 18,
+"focus": "Note how rules are paraphrased in the answers."
+},
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Modellsatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/b1_modellsatz_erwachsene.pdf",
+"minutes": 65,
+"focus": "Full Lesen module (all 5 parts) in 65 minutes. Score it with the key: 60% = 18 of 30."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "How many items are in Lesen Teil 5?",
+"o": [
+"4",
+"6",
+"7"
+],
+"a": 0,
+"why": "Teil 5: 4 Items."
+},
+{
+"t": "mc",
+"q": "What text type is Teil 5?",
+"o": [
+"instructions or rules",
+"a novel",
+"a poem"
+],
+"a": 0,
+"why": "Hausordnung etc."
+},
+{
+"t": "mc",
+"q": "“es ist verboten” means:",
+"o": [
+"it is forbidden",
+"it is allowed",
+"it is required"
+],
+"a": 0,
+"why": "Verbot."
+},
+{
+"t": "mc",
+"q": "“haften für” means:",
+"o": [
+"to be liable for",
+"to stick to",
+"to arrest"
+],
+"a": 0,
+"why": "Wir haften nicht für Schäden."
+},
+{
+"t": "mc",
+"q": "“rechtzeitig” means:",
+"o": [
+"on time, in good time",
+"rightly",
+"on the right side"
+],
+"a": 0,
+"why": "rechtzeitig kommen."
+},
+{
+"t": "mc",
+"q": "“bitte beachten Sie” means:",
+"o": [
+"please note",
+"please avoid",
+"please pay"
+],
+"a": 0,
+"why": "Hinweis."
+},
+{
+"t": "mc",
+"q": "How many points is 60% of 30 items?",
+"o": [
+"18",
+"20",
+"15"
+],
+"a": 0,
+"why": "0,6 × 30 = 18."
+},
+{
+"t": "mc",
+"q": "What do you do at the end of the module?",
+"o": [
+"Copy answers to the answer sheet",
+"Correct spelling",
+"Read again all texts"
+],
+"a": 0,
+"why": "Antworten übertragen."
+},
+{
+"t": "mc",
+"q": "Time plan: how many minutes total?",
+"o": [
+"65",
+"60",
+"70"
+],
+"a": 0,
+"why": "10+20+10+15+10."
+},
+{
+"t": "mc",
+"q": "A rule says: “Fahrräder dürfen nur im Hof abgestellt werden.” Bikes may be parked …",
+"o": [
+"only in the yard",
+"everywhere",
+"in the hallway"
+],
+"a": 0,
+"why": "nur im Hof."
+}
+]
+},
+{
+"title": "Hören Teil 1: short texts, twice",
+"goal": "Understand five short announcements and messages; each is heard twice and has two tasks.",
+"notes": [
+{
+"heading": "Task",
+"text": "**10 items** (5 texts × 2). You hear each text **twice**. Tasks: **Richtig/Falsch** and **a/b/c**. Texts: voicemail, announcements at a station, radio short news, instructions."
+},
+{
+"heading": "Strategy",
+"text": "1. In the reading pause, mark the key words in both tasks.\n2. First listening: answer the first task. Second listening: check and answer the second.\n3. Numbers, times, places, and days are typical traps (“nicht am Montag, sondern am Dienstag”)."
+},
+{
+"heading": "Useful words",
+"text": "**die Durchsage** announcement · **die Ansage** message · **verschieben** postpone · **ausfallen** be cancelled · **Verspätung haben** be late · **abholen** pick up"
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "Hören B1 | Telc DTZ | Tipps + Beispiele",
+"source": "YouTube · Benjamin - Der Deutschlehrer",
+"url": "https://www.youtube.com/watch?v=L16sNOrm9Io",
+"minutes": 11,
+"focus": "Note the tips for the short texts."
+},
+{
+"kind": "exercise",
+"title": "Goethe-Zertifikat B1 – practice tests with audio",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/ins/de/de/spr/prf/gzb1/ueb.html",
+"minutes": 20,
+"focus": "Do Hören Teil 1 of the Modellsatz with the audio, listen twice, then check."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "How many times do you hear each text in Teil 1?",
+"o": [
+"twice",
+"once",
+"three times"
+],
+"a": 0,
+"why": "Teil 1: zweimal."
+},
+{
+"t": "mc",
+"q": "How many items are in Hören Teil 1?",
+"o": [
+"10",
+"5",
+"7"
+],
+"a": 0,
+"why": "5 Texte × 2 Aufgaben."
+},
+{
+"t": "mc",
+"q": "“die Durchsage” means:",
+"o": [
+"announcement",
+"broadcast tower",
+"passage"
+],
+"a": 0,
+"why": "Durchsage am Bahnhof."
+},
+{
+"t": "mc",
+"q": "“ausfallen” (Zug/Kurs) means:",
+"o": [
+"to be cancelled",
+"to fall out",
+"to stand out"
+],
+"a": 0,
+"why": "Der Kurs fällt aus."
+},
+{
+"t": "mc",
+"q": "“verschieben” means:",
+"o": [
+"to postpone",
+"to shift a gear",
+"to sell"
+],
+"a": 0,
+"why": "Der Termin wird verschoben."
+},
+{
+"t": "mc",
+"q": "“abholen” means:",
+"o": [
+"to pick up",
+"to fetch water",
+"to hold off"
+],
+"a": 0,
+"why": "Ich hole dich ab."
+},
+{
+"t": "mc",
+"q": "In the pause before the text you should …",
+"o": [
+"mark key words in the tasks",
+"close your eyes",
+"write your name"
+],
+"a": 0,
+"why": "Aufgaben lesen!"
+},
+{
+"t": "mc",
+"q": "A message: “Nicht am Montag, sondern am Dienstag.” The date is …",
+"o": [
+"Tuesday",
+"Monday",
+"Wednesday"
+],
+"a": 0,
+"why": "sondern korrigiert."
+},
+{
+"t": "mc",
+"q": "Why is the second listening useful?",
+"o": [
+"to check your answers",
+"to translate",
+"to memorise"
+],
+"a": 0,
+"why": "Kontrolle."
+},
+{
+"t": "mc",
+"q": "“Verspätung haben” means:",
+"o": [
+"to be late",
+"to have a special hat",
+"to be early"
+],
+"a": 0,
+"why": "Der Zug hat Verspätung."
+}
+]
+},
+{
+"title": "Hören Teil 2: a longer text, heard once",
+"goal": "Follow a longer text (tour, lecture, museum guide) and answer five multiple-choice tasks.",
+"notes": [
+{
+"heading": "Task",
+"text": "**5 items**, a/b/c. You hear **one** text **once**. In the Modellsatz it is a guided tour of a museum. You have **60 seconds** to read the tasks first."
+},
+{
+"heading": "Strategy",
+"text": "1. Use the 60 seconds to mark key words in all 5 questions.\n2. Tasks follow the **order of the text**.\n3. If you miss one, **move on** – do not lose the next one.\n4. Answers are often paraphrased."
+},
+{
+"heading": "Useful words",
+"text": "**die Führung** guided tour · **die Ausstellung** exhibition · **der Eintritt** admission · **geöffnet / geschlossen** open / closed · **Ermäßigung** discount"
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "Part 2 B1 Listening SOLVED!! | Tricks, Hacks & Audio",
+"source": "YouTube · StudySmart",
+"url": "https://www.youtube.com/watch?v=6Bfucxf4LkM",
+"minutes": 16,
+"focus": "Note the trick for keeping up with the order of the questions."
+},
+{
+"kind": "exercise",
+"title": "Goethe-Zertifikat B1 – practice tests with audio",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/ins/de/de/spr/prf/gzb1/ueb.html",
+"minutes": 15,
+"focus": "Do Hören Teil 2 of the Modellsatz once, then check."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "How many times do you hear the text in Teil 2?",
+"o": [
+"once",
+"twice",
+"three times"
+],
+"a": 0,
+"why": "Nur einmal."
+},
+{
+"t": "mc",
+"q": "How many items are in Teil 2?",
+"o": [
+"5",
+"7",
+"8"
+],
+"a": 0,
+"why": "5 Aufgaben."
+},
+{
+"t": "mc",
+"q": "How long is the reading time before the text?",
+"o": [
+"60 seconds",
+"10 seconds",
+"5 minutes"
+],
+"a": 0,
+"why": "60 Sekunden."
+},
+{
+"t": "mc",
+"q": "What if you miss one answer?",
+"o": [
+"Move on to the next question",
+"Stop listening",
+"Ask the examiner"
+],
+"a": 0,
+"why": "Weiter."
+},
+{
+"t": "mc",
+"q": "“die Führung” means:",
+"o": [
+"guided tour",
+"leadership",
+"management"
+],
+"a": 0,
+"why": "Führung durch das Museum."
+},
+{
+"t": "mc",
+"q": "“der Eintritt” means:",
+"o": [
+"admission",
+"entering",
+"step in"
+],
+"a": 0,
+"why": "Eintritt frei."
+},
+{
+"t": "mc",
+"q": "“die Ermäßigung” means:",
+"o": [
+"discount",
+"moderation",
+"reduction of pain"
+],
+"a": 0,
+"why": "Studenten erhalten Ermäßigung."
+},
+{
+"t": "mc",
+"q": "“geschlossen” means:",
+"o": [
+"closed",
+"included",
+"concluded only"
+],
+"a": 0,
+"why": "Das Museum ist geschlossen."
+},
+{
+"t": "mc",
+"q": "Questions in Teil 2 follow …",
+"o": [
+"the order of the text",
+"random order",
+"reverse order"
+],
+"a": 0,
+"why": "Reihenfolge."
+},
+{
+"t": "mc",
+"q": "In the Modellsatz Teil 2 is about …",
+"o": [
+"a tour of a city museum",
+"the weather",
+"a job interview"
+],
+"a": 0,
+"why": "Münchner Stadtmuseum."
+}
+]
+},
+{
+"title": "Hören Teil 3: a conversation, richtig/falsch",
+"goal": "Understand a conversation between two native speakers and mark seven statements as richtig or falsch.",
+"notes": [
+{
+"heading": "Task",
+"text": "**7 items**, R/F. You hear **one** conversation **once** (e.g. two people at a bus stop talking about a festival). Reading time: **60 seconds**."
+},
+{
+"heading": "Strategy",
+"text": "1. Mark subjects and key words in each statement.\n2. Watch for **who** says what and for **changes of mind** (“Ich wollte …, aber …”).\n3. Statements follow the conversation order."
+},
+{
+"heading": "Conversation phrases",
+"text": "**Weißt du was?** · **Das kann ich mir nicht vorstellen.** · **Da hast du recht.** · **Ich bin mir nicht sicher.** · **Übrigens …** · **Na ja …** · **Genau!**"
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "German Exam Prep: How to Solve Part 3 B1 Listening | Tricks, Hacks & Audio",
+"source": "YouTube · StudySmart",
+"url": "https://www.youtube.com/watch?v=l38A0sXMgA0",
+"minutes": 20,
+"focus": "Note how to track two speakers."
+},
+{
+"kind": "exercise",
+"title": "Goethe-Zertifikat B1 – practice tests with audio",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/ins/de/de/spr/prf/gzb1/ueb.html",
+"minutes": 15,
+"focus": "Do Hören Teil 3 of the Modellsatz once, then check."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "How many items are in Hören Teil 3?",
+"o": [
+"7",
+"5",
+"8"
+],
+"a": 0,
+"why": "7 R/F-Items."
+},
+{
+"t": "mc",
+"q": "How often do you hear the conversation?",
+"o": [
+"once",
+"twice",
+"three times"
+],
+"a": 0,
+"why": "einmal."
+},
+{
+"t": "mc",
+"q": "Task type of Teil 3:",
+"o": [
+"richtig/falsch",
+"matching",
+"a/b/c"
+],
+"a": 0,
+"why": "Richtig oder Falsch."
+},
+{
+"t": "mc",
+"q": "“Da hast du recht.” means:",
+"o": [
+"You are right.",
+"You have the right.",
+"You have there."
+],
+"a": 0,
+"why": "Zustimmung."
+},
+{
+"t": "mc",
+"q": "“Ich bin mir nicht sicher.” means:",
+"o": [
+"I am not sure.",
+"I am not safe.",
+"I am not himself."
+],
+"a": 0,
+"why": "Unsicherheit."
+},
+{
+"t": "mc",
+"q": "“Übrigens …” introduces …",
+"o": [
+"an additional remark",
+"a farewell",
+"a question about the time"
+],
+"a": 0,
+"why": "by the way."
+},
+{
+"t": "mc",
+"q": "If a speaker changes his mind, you should …",
+"o": [
+"follow the final statement",
+"use the first statement",
+"ignore both"
+],
+"a": 0,
+"why": "Endgültige Meinung."
+},
+{
+"t": "mc",
+"q": "How long is the reading time?",
+"o": [
+"60 seconds",
+"2 minutes",
+"10 seconds"
+],
+"a": 0,
+"why": "60 Sekunden."
+},
+{
+"t": "mc",
+"q": "“Das kann ich mir nicht vorstellen.” expresses …",
+"o": [
+"doubt",
+"agreement",
+"a request"
+],
+"a": 0,
+"why": "Zweifel."
+},
+{
+"t": "mc",
+"q": "It is important to …",
+"o": [
+"note who says what",
+"write full sentences",
+"translate"
+],
+"a": 0,
+"why": "Wer sagt was?"
+}
+]
+},
+{
+"title": "Hören Teil 4: a discussion – who says what?",
+"goal": "Follow a radio discussion and match eight statements to the presenter or one of two guests.",
+"notes": [
+{
+"heading": "Task",
+"text": "**8 items.** A moderator discusses with two guests (e.g. “Sollen kleine Kinder in die Kinderkrippe gehen?”). For each statement decide: **Moderator, Guest 1, Guest 2**. You hear the discussion **twice**."
+},
+{
+"heading": "Strategy",
+"text": "1. Note the three names and their **roles/positions** in the introduction.\n2. Listen for **opinion signals**: “Ich finde …”, “Meiner Meinung nach …”.\n3. On the second listening, check every item once more."
+},
+{
+"heading": "Discussion language",
+"text": "**Das sehe ich anders.** · **Da stimme ich Ihnen zu.** · **Einerseits … andererseits …** · **Dafür spricht, dass …** · **Ein wichtiger Punkt ist …** · **Ich möchte noch ergänzen …**"
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "Goethe Certificate B1 Model Set for Adults | Listening Part 4",
+"source": "YouTube · E Language Studio Jaipur",
+"url": "https://www.youtube.com/watch?v=cHcq6AtcZjM",
+"minutes": 17,
+"focus": "Listen to the example; note how opinions are signalled."
+},
+{
+"kind": "exercise",
+"title": "Goethe-Zertifikat B1 – practice tests with audio",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/ins/de/de/spr/prf/gzb1/ueb.html",
+"minutes": 20,
+"focus": "Do Hören Teil 4 of the Modellsatz twice, then check."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "How many items are in Teil 4?",
+"o": [
+"8",
+"7",
+"5"
+],
+"a": 0,
+"why": "8 Zuordnungen."
+},
+{
+"t": "mc",
+"q": "How often do you hear the discussion?",
+"o": [
+"twice",
+"once",
+"three times"
+],
+"a": 0,
+"why": "zweimal."
+},
+{
+"t": "mc",
+"q": "Which people speak?",
+"o": [
+"a moderator and two guests",
+"two moderators",
+"a teacher and students"
+],
+"a": 0,
+"why": "Moderator + 2 Gäste."
+},
+{
+"t": "mc",
+"q": "“Das sehe ich anders.” means:",
+"o": [
+"I see it differently.",
+"I see it another time.",
+"I see him."
+],
+"a": 0,
+"why": "Widerspruch."
+},
+{
+"t": "mc",
+"q": "“Da stimme ich Ihnen zu.” means:",
+"o": [
+"I agree with you.",
+"I vote for you.",
+"I tune you."
+],
+"a": 0,
+"why": "Zustimmung."
+},
+{
+"t": "mc",
+"q": "“Einerseits … andererseits …” means:",
+"o": [
+"on the one hand … on the other hand …",
+"in one part … in another part …",
+"one side … no side"
+],
+"a": 0,
+"why": "Abwägen."
+},
+{
+"t": "mc",
+"q": "“Dafür spricht, dass …” means:",
+"o": [
+"One argument in favour is that …",
+"It is spoken for that …",
+"That speaks for itself."
+],
+"a": 0,
+"why": "Argument dafür."
+},
+{
+"t": "mc",
+"q": "“Ich möchte noch ergänzen …” means:",
+"o": [
+"I want to add …",
+"I want to complete …",
+"I want to complement …"
+],
+"a": 0,
+"why": "Ergänzung."
+},
+{
+"t": "mc",
+"q": "At the start, you should note …",
+"o": [
+"the names and roles",
+"the time",
+"the title only"
+],
+"a": 0,
+"why": "Sprecher zuordnen."
+},
+{
+"t": "mc",
+"q": "Task type of Teil 4:",
+"o": [
+"matching (who says what)",
+"true/false",
+"multiple choice"
+],
+"a": 0,
+"why": "Zuordnung."
+}
+]
+},
+{
+"title": "Hören: full module practice (40 minutes)",
+"goal": "Take a full Hören module under exam conditions and score it.",
+"notes": [
+{
+"heading": "How to do it",
+"text": "Use a quiet room, no pause. Read the tasks in the reading time, listen (1× or 2× as in the real exam), and after all four parts transfer your answers to the answer sheet (**5 minutes** are given for that).\nScore: **60% = 18 of 30**."
+},
+{
+"heading": "After the test",
+"text": "1. Count your points per part.\n2. Re-listen to every wrong item **with the transcript**.\n3. Write down the phrase or word you missed – that becomes tomorrow’s review list."
+},
+{
+"heading": "Listening habits (every day)",
+"text": "Slow German, DW Top-Thema, Easy German – 10 minutes a day, no subtitles first, then with."
+}
+],
+"materials": [
+{
+"kind": "exercise",
+"title": "Goethe-Zertifikat B1 – practice tests with audio",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/ins/de/de/spr/prf/gzb1/ueb.html",
+"minutes": 45,
+"focus": "Full Hören module with audio (Modellsatz or Übungssatz). Score it: 18 of 30 to pass."
+},
+{
+"kind": "audio",
+"title": "Slow German – podcast for learners",
+"source": "Slow German (Annik Rubens)",
+"url": "https://slowgerman.com/",
+"minutes": 15,
+"focus": "Listen to one episode and write three new words you heard."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "How many minutes does the full Hören module take?",
+"o": [
+"40",
+"65",
+"60"
+],
+"a": 0,
+"why": "Hören 40 Minuten."
+},
+{
+"t": "mc",
+"q": "How many points do you need out of 30 items?",
+"o": [
+"18",
+"20",
+"15"
+],
+"a": 0,
+"why": "60%."
+},
+{
+"t": "mc",
+"q": "How much time is given to transfer answers to the answer sheet?",
+"o": [
+"5 minutes",
+"1 minute",
+"10 minutes"
+],
+"a": 0,
+"why": "Fünf Minuten."
+},
+{
+"t": "mc",
+"q": "Which parts are heard once?",
+"o": [
+"Teil 2 and Teil 3",
+"Teil 1 and Teil 4",
+"all parts"
+],
+"a": 0,
+"why": "Teil 2 und 3 einmal."
+},
+{
+"t": "mc",
+"q": "Which parts are heard twice?",
+"o": [
+"Teil 1 and Teil 4",
+"Teil 2 and Teil 3",
+"none"
+],
+"a": 0,
+"why": "Teil 1 und 4 zweimal."
+},
+{
+"t": "mc",
+"q": "What do you do with wrong answers?",
+"o": [
+"Re-listen with the transcript",
+"Ignore them",
+"Memorise the key"
+],
+"a": 0,
+"why": "Analysieren."
+},
+{
+"t": "mc",
+"q": "Total items of Hören:",
+"o": [
+"30",
+"20",
+"40"
+],
+"a": 0,
+"why": "10+5+7+8."
+},
+{
+"t": "mc",
+"q": "A listening habit that helps:",
+"o": [
+"10 minutes daily",
+"only on exam day",
+"only reading"
+],
+"a": 0,
+"why": "täglich."
+},
+{
+"t": "mc",
+"q": "A good rule when unsure:",
+"o": [
+"give an answer anyway",
+"leave blank",
+"write a comment"
+],
+"a": 0,
+"why": "Immer antworten."
+},
+{
+"t": "mc",
+"q": "Which part is a discussion?",
+"o": [
+"Teil 4",
+"Teil 1",
+"Teil 2"
+],
+"a": 0,
+"why": "Radiosendung."
+}
+]
+},
+{
+"title": "Schreiben Aufgabe 1: a personal e-mail",
+"goal": "Write a personal e-mail of about 80 words covering three points: describe, give reasons, and suggest a meeting.",
+"notes": [
+{
+"heading": "Task",
+"text": "**20 minutes**, about **80 words**. You write to a friend (e.g. who missed your birthday party): **1. Beschreiben** (how was it?), **2. Begründen** (what present do you like and why?), **3. Vorschlag** (suggest a meeting). You must cover **all three points**."
+},
+{
+"heading": "Structure and phrases",
+"text": "**Anrede:** Liebe Anna, / Lieber Tom,\n**Einleitung:** Wie geht es dir? Ich hoffe, du bist wieder gesund.\n**Hauptteil:** Die Feier war super, weil … · Das schönste Geschenk war …, denn …\n**Vorschlag:** Wie wäre es, wenn wir uns am Samstag treffen? · Hast du Lust, mit mir …?\n**Schluss:** Ich freue mich auf dich! Viele Grüße, Joy"
+},
+{
+"heading": "Scoring",
+"text": "Four criteria: **Erfüllung** (all points), **Kohärenz** (structure, connectors), **Wortschatz**, **Strukturen**. If you miss the task (0 points for Erfüllung), the whole task gets 0."
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "SCHREIBEN B1: eine E-Mail schreiben",
+"source": "YouTube · Karina Multilingual",
+"url": "https://www.youtube.com/watch?v=GUiFLne10BE",
+"minutes": 12,
+"focus": "Note the structure and connectors; then write your own version."
+},
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Modellsatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/b1_modellsatz_erwachsene.pdf",
+"minutes": 25,
+"focus": "Do Schreiben Aufgabe 1 (20 minutes), then compare with the sample answers at the back of the Modellsatz."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "About how many words for Aufgabe 1?",
+"o": [
+"80",
+"40",
+"150"
+],
+"a": 0,
+"why": "circa 80 Wörter."
+},
+{
+"t": "mc",
+"q": "How long do you have for Aufgabe 1?",
+"o": [
+"20 minutes",
+"25 minutes",
+"15 minutes"
+],
+"a": 0,
+"why": "20 Minuten."
+},
+{
+"t": "mc",
+"q": "How many points must you cover?",
+"o": [
+"all three",
+"two of three",
+"only the first"
+],
+"a": 0,
+"why": "alle drei Leitpunkte."
+},
+{
+"t": "mc",
+"q": "A good greeting to a friend:",
+"o": [
+"Liebe Anna,",
+"Sehr geehrte Frau Anna,",
+"Hallo Damen und Herren,"
+],
+"a": 0,
+"why": "informell."
+},
+{
+"t": "mc",
+"q": "A good ending for a friend:",
+"o": [
+"Viele Grüße",
+"Mit freundlichen Grüßen",
+"Hochachtungsvoll"
+],
+"a": 0,
+"why": "informell."
+},
+{
+"t": "mc",
+"q": "“Wie wäre es, wenn wir uns am Samstag treffen?” is …",
+"o": [
+"a suggestion",
+"a complaint",
+"an excuse"
+],
+"a": 0,
+"why": "Vorschlag."
+},
+{
+"t": "mc",
+"q": "What is the main criterion?",
+"o": [
+"Erfüllung (covering all points)",
+"only spelling",
+"only length"
+],
+"a": 0,
+"why": "Erfüllung."
+},
+{
+"t": "fill",
+"q": "Ich hoffe, du bist wieder ___. (gesund)",
+"a": [
+"gesund"
+],
+"why": "Ich hoffe, du bist gesund."
+},
+{
+"t": "fill",
+"q": "Die Feier war super, ___ alle Freunde da waren. (because)",
+"a": [
+"weil"
+],
+"why": "weil + Nebensatz."
+},
+{
+"t": "fill",
+"q": "Hast du Lust, mit mir ins Kino ___ gehen? (zu)",
+"a": [
+"zu"
+],
+"why": "Lust haben, … zu + Infinitiv."
+}
+]
+},
+{
+"title": "Schreiben Aufgabe 2: an opinion post",
+"goal": "Write a discussion/forum post of about 80 words giving your opinion with reasons and an example.",
+"notes": [
+{
+"heading": "Task",
+"text": "**25 minutes**, about **80 words**. You read a forum comment (e.g. “Persönliche Kontakte und Internet”) and write **your own opinion**."
+},
+{
+"heading": "Structure",
+"text": "1. **Reaction:** Ich stimme … (nicht) zu. / Wie Tanja finde ich …\n2. **Opinion + reason:** Meiner Meinung nach …, weil …\n3. **Example:** Zum Beispiel …\n4. **Counter-argument or balance:** Einerseits …, andererseits …\n5. **Conclusion:** Deshalb denke ich, dass …"
+},
+{
+"heading": "Connectors",
+"text": "**weil, denn, deshalb, außerdem, trotzdem, obwohl, zum Beispiel, einerseits … andererseits, zwar … aber, deshalb, daher**"
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "Goethe Prüfung B1: Kommentar / Forumsbeitrag schreiben",
+"source": "YouTube · Lingster Academy",
+"url": "https://www.youtube.com/watch?v=O_Q9MpxjsrI",
+"minutes": 9,
+"focus": "Note the structure and connectors; write one post yourself."
+},
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Modellsatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/b1_modellsatz_erwachsene.pdf",
+"minutes": 30,
+"focus": "Do Schreiben Aufgabe 2 (25 minutes) and compare with the sample answers."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "About how many words for Aufgabe 2?",
+"o": [
+"80",
+"40",
+"120"
+],
+"a": 0,
+"why": "circa 80."
+},
+{
+"t": "mc",
+"q": "How long do you have?",
+"o": [
+"25 minutes",
+"15 minutes",
+"10 minutes"
+],
+"a": 0,
+"why": "25 Minuten."
+},
+{
+"t": "mc",
+"q": "What is expected?",
+"o": [
+"your own opinion with reasons",
+"a summary of the comment",
+"a letter to the editor"
+],
+"a": 0,
+"why": "persönliche Meinung."
+},
+{
+"t": "mc",
+"q": "A good opener for your opinion:",
+"o": [
+"Meiner Meinung nach …",
+"Sehr geehrte Damen und Herren",
+"Liebe Anna"
+],
+"a": 0,
+"why": "Meinungsäußerung."
+},
+{
+"t": "mc",
+"q": "“Zum Beispiel …” introduces …",
+"o": [
+"an example",
+"a conclusion",
+"a greeting"
+],
+"a": 0,
+"why": "Beispiel."
+},
+{
+"t": "fill",
+"q": "___ finde ich, dass persönliche Treffen wichtig sind. (In my opinion → Meiner Meinung ___)",
+"a": [
+"nach",
+"Meiner Meinung nach"
+],
+"why": "Meiner Meinung nach."
+},
+{
+"t": "fill",
+"q": "Das Internet ist praktisch, ___ es kann persönliche Treffen nicht ersetzen. (but)",
+"a": [
+"aber"
+],
+"why": "aber."
+},
+{
+"t": "fill",
+"q": "___ ... andererseits (on the one hand)",
+"a": [
+"Einerseits"
+],
+"why": "einerseits … andererseits."
+},
+{
+"t": "mc",
+"q": "Which connector shows contrast?",
+"o": [
+"trotzdem",
+"deshalb",
+"außerdem"
+],
+"a": 0,
+"why": "Gegensatz."
+},
+{
+"t": "mc",
+"q": "What do you do at the end?",
+"o": [
+"Conclude briefly",
+"Add a new topic",
+"Write a greeting"
+],
+"a": 0,
+"why": "Schluss."
+}
+]
+},
+{
+"title": "Schreiben Aufgabe 3: a formal e-mail",
+"goal": "Write a polite formal e-mail of about 40 words: apologise or ask for something and give a reason.",
+"notes": [
+{
+"heading": "Task",
+"text": "**15 minutes**, about **40 words**. You write to a teacher, landlord or company (e.g. to Frau Müller: you cannot come to a meeting). Use **Sie**, a formal greeting and a formal closing."
+},
+{
+"heading": "Structure and phrases",
+"text": "**Anrede:** Sehr geehrte Frau Müller, / Sehr geehrter Herr Schmidt, / Sehr geehrte Damen und Herren,\n**Bitte/Entschuldigung:** leider kann ich … nicht kommen, weil … · Ich bitte Sie um Verständnis. · Könnten Sie mir bitte …?\n**Vorschlag:** Könnten wir einen neuen Termin vereinbaren?\n**Schluss:** Vielen Dank für Ihr Verständnis. Mit freundlichen Grüßen, Joy Infant"
+},
+{
+"heading": "Tip",
+"text": "Do not forget **Anrede** and **Gruß** – the exam asks for them. Count ~40 words; stay short."
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "B1 Goethe | Writing 3) formal email | asking for information | internship",
+"source": "YouTube · Deutsch mit Christiane",
+"url": "https://www.youtube.com/watch?v=kxchc-JAwR8",
+"minutes": 11,
+"focus": "Note the formal phrases; write your own e-mail."
+},
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Modellsatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/b1_modellsatz_erwachsene.pdf",
+"minutes": 20,
+"focus": "Do Schreiben Aufgabe 3 (15 minutes), compare with the sample answer."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "About how many words for Aufgabe 3?",
+"o": [
+"40",
+"80",
+"120"
+],
+"a": 0,
+"why": "circa 40."
+},
+{
+"t": "mc",
+"q": "How long do you have?",
+"o": [
+"15 minutes",
+"20 minutes",
+"25 minutes"
+],
+"a": 0,
+"why": "15 Minuten."
+},
+{
+"t": "mc",
+"q": "A formal greeting:",
+"o": [
+"Sehr geehrte Frau Müller,",
+"Liebe Frau Müller,",
+"Hallo Frau Müller,"
+],
+"a": 0,
+"why": "formell."
+},
+{
+"t": "mc",
+"q": "A formal closing:",
+"o": [
+"Mit freundlichen Grüßen",
+"Bis bald",
+"Tschüss"
+],
+"a": 0,
+"why": "formell."
+},
+{
+"t": "mc",
+"q": "Which phrase apologises politely?",
+"o": [
+"Ich bitte um Verständnis.",
+"Das ist mir egal.",
+"Ich komme nicht."
+],
+"a": 0,
+"why": "höflich."
+},
+{
+"t": "fill",
+"q": "Leider ___ ich am Dienstag nicht kommen. (können)",
+"a": [
+"kann"
+],
+"why": "ich kann."
+},
+{
+"t": "fill",
+"q": "Könnten Sie mir bitte einen neuen ___ nennen? (Termin)",
+"a": [
+"Termin"
+],
+"why": "einen Termin nennen."
+},
+{
+"t": "fill",
+"q": "Ich bitte Sie um ___. (Verständnis)",
+"a": [
+"Verständnis",
+"Verstaendnis"
+],
+"why": "um Verständnis bitten."
+},
+{
+"t": "mc",
+"q": "Which is too informal for this task?",
+"o": [
+"Hi Frau Müller, ich komm nicht, sorry!",
+"Sehr geehrte Frau Müller",
+"Vielen Dank für Ihr Verständnis"
+],
+"a": 0,
+"why": "Register."
+},
+{
+"t": "mc",
+"q": "Which must be included?",
+"o": [
+"Anrede and Gruß",
+"a PS",
+"your address"
+],
+"a": 0,
+"why": "Anrede + Gruß."
+}
+]
+},
+{
+"title": "Schreiben: full module practice (60 minutes)",
+"goal": "Write all three tasks in one hour and self-check with the scoring criteria.",
+"notes": [
+{
+"heading": "Time plan",
+"text": "**Aufgabe 1: 20 min · Aufgabe 2: 25 min · Aufgabe 3: 15 min.** Write **legibly** in pen; no dictionary or phone."
+},
+{
+"heading": "Self-check list",
+"text": "☐ All points covered? ☐ Greeting and closing? ☐ Words near 80 / 80 / 40? ☐ Connectors (weil, deshalb, obwohl, außerdem)? ☐ Verb in 2nd position and at end of subordinate clauses? ☐ Capital letters on nouns? ☐ Sie vs du correct?"
+},
+{
+"heading": "Scoring criteria",
+"text": "**Erfüllung, Kohärenz, Wortschatz, Strukturen** for each task; 60% needed to pass. If you can, let a teacher or a language partner correct your text."
+}
+],
+"materials": [
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Übungssatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/B1_Uebungssatz_Erwachsene.pdf",
+"minutes": 65,
+"focus": "Do the Schreiben module of the Übungssatz under time pressure and use the self-check list."
+},
+{
+"kind": "video",
+"title": "GERMAN B1 Exam WRITING GUIDE – Deutsch Goethe B1 Schreiben",
+"source": "YouTube · Learn German Relaxed",
+"url": "https://www.youtube.com/watch?v=iTDnapgGo9A",
+"minutes": 5,
+"focus": "Check your texts against this quick guide."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "Total time for Schreiben:",
+"o": [
+"60 minutes",
+"40 minutes",
+"90 minutes"
+],
+"a": 0,
+"why": "60 Minuten."
+},
+{
+"t": "mc",
+"q": "Time for Aufgabe 2:",
+"o": [
+"25 minutes",
+"20 minutes",
+"15 minutes"
+],
+"a": 0,
+"why": "25 Minuten."
+},
+{
+"t": "mc",
+"q": "Which criterion is NOT one of the four?",
+"o": [
+"Handwriting beauty",
+"Erfüllung",
+"Kohärenz"
+],
+"a": 0,
+"why": "Erfüllung, Kohärenz, Wortschatz, Strukturen."
+},
+{
+"t": "mc",
+"q": "What must you write in Aufgabe 3?",
+"o": [
+"Anrede and Gruß",
+"only the reason",
+"a poem"
+],
+"a": 0,
+"why": "Formell."
+},
+{
+"t": "mc",
+"q": "Is a dictionary allowed?",
+"o": [
+"No",
+"Yes",
+"Only online"
+],
+"a": 0,
+"why": "Keine Hilfsmittel."
+},
+{
+"t": "mc",
+"q": "You should write in …",
+"o": [
+"pen (not pencil)",
+"pencil",
+"any"
+],
+"a": 0,
+"why": "kein Bleistift."
+},
+{
+"t": "fill",
+"q": "Ich schreibe ___ meinen Freund. (to, an + Akk.)",
+"a": [
+"an"
+],
+"why": "schreiben an + Akk."
+},
+{
+"t": "fill",
+"q": "Ich habe mich sehr ___ deine E-Mail gefreut. (über)",
+"a": [
+"über",
+"ueber"
+],
+"why": "sich freuen über."
+},
+{
+"t": "fill",
+"q": "Ich würde mich freuen, ___ du kommst. (wenn)",
+"a": [
+"wenn"
+],
+"why": "Ich würde mich freuen, wenn …"
+},
+{
+"t": "mc",
+"q": "What is the best use of the last minutes?",
+"o": [
+"Check greeting, closing and verb positions",
+"Start a new text",
+"Count letters"
+],
+"a": 0,
+"why": "Kontrolle."
+}
+]
+},
+{
+"title": "Sprechen Teil 1: planning something together",
+"goal": "Plan an event with a partner: make suggestions, react, and agree (about 3 minutes).",
+"notes": [
+{
+"heading": "Task",
+"text": "You and your partner get a situation with four bullet points (e.g. visit a course friend in hospital: when? how to get there? what to bring? how to help?). **Both** must make suggestions, react to the other, and agree on a plan."
+},
+{
+"heading": "Redemittel",
+"text": "**Vorschlag:** Wie wäre es, wenn wir …? · Ich schlage vor, dass wir … · Wollen wir …? · Was hältst du davon, wenn …?\n**Zustimmung:** Das ist eine gute Idee. · Einverstanden! · Genau, so machen wir es.\n**Ablehnung mit Alternative:** Das finde ich schwierig, denn … Wie wäre es stattdessen mit …?\n**Abschluss:** Dann machen wir es so."
+},
+{
+"heading": "Tips",
+"text": "Cover all four bullet points. Ask your partner questions (Was meinst du?). Silence and reading aloud from notes cost points."
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "B1 Prüfung: Gemeinsam etwas planen – Tipps & Redemittel für die Prüfung",
+"source": "YouTube · Deutsch mit Tina",
+"url": "https://www.youtube.com/watch?v=I7JwVznZrlI",
+"minutes": 7,
+"focus": "Watch the model dialogue and note the phrases."
+},
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Modellsatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/b1_modellsatz_erwachsene.pdf",
+"minutes": 20,
+"focus": "Read the Sprechen Teil 1 tasks in the Modellsatz; practise one aloud with a partner or by recording yourself."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "How long is Sprechen Teil 1?",
+"o": [
+"about 3 minutes",
+"about 10 minutes",
+"about 30 seconds"
+],
+"a": 0,
+"why": "circa drei Minuten."
+},
+{
+"t": "mc",
+"q": "What must you do in Teil 1?",
+"o": [
+"plan together and reach a decision",
+"give a monologue",
+"answer questions"
+],
+"a": 0,
+"why": "Gemeinsam planen."
+},
+{
+"t": "mc",
+"q": "A suggestion:",
+"o": [
+"Wie wäre es, wenn wir am Freitag gehen?",
+"Ich weiß nicht.",
+"Das ist mir egal."
+],
+"a": 0,
+"why": "Vorschlag."
+},
+{
+"t": "mc",
+"q": "Which phrase agrees?",
+"o": [
+"Einverstanden!",
+"Auf keinen Fall.",
+"Vielleicht nie."
+],
+"a": 0,
+"why": "Zustimmung."
+},
+{
+"t": "mc",
+"q": "Which phrase rejects politely?",
+"o": [
+"Das finde ich schwierig, denn …",
+"Nein.",
+"Quatsch."
+],
+"a": 0,
+"why": "höflich ablehnen."
+},
+{
+"t": "fill",
+"q": "Wie ___ es, wenn wir Blumen mitbringen? (wäre)",
+"a": [
+"wäre",
+"waere"
+],
+"why": "Wie wäre es, wenn …"
+},
+{
+"t": "fill",
+"q": "Was ___ du davon, wenn wir ihn abholen? (halten)",
+"a": [
+"hältst",
+"haeltst"
+],
+"why": "Was hältst du davon?"
+},
+{
+"t": "fill",
+"q": "Ich ___ vor, dass wir zusammen fahren. (vorschlagen)",
+"a": [
+"schlage"
+],
+"why": "Ich schlage vor, dass …"
+},
+{
+"t": "mc",
+"q": "Should you cover all four bullet points?",
+"o": [
+"Yes",
+"No",
+"Only two"
+],
+"a": 0,
+"why": "Alle Punkte."
+},
+{
+"t": "mc",
+"q": "Should you ask your partner questions?",
+"o": [
+"Yes, it shows interaction",
+"No",
+"Only at the end"
+],
+"a": 0,
+"why": "Interaktion."
+}
+]
+},
+{
+"title": "Sprechen Teil 2: a presentation",
+"goal": "Give a structured monologue of about 3 minutes on a topic with five prompts.",
+"notes": [
+{
+"heading": "Task",
+"text": "You choose **one of two topics** and present with **5 slides/prompts** (~3 minutes): 1. Introduction (topic + why you chose it), 2. Your own experience, 3. Situation in your country, 4. Pros and cons, 5. Conclusion + thanks. Preparation: 15 minutes together for all parts."
+},
+{
+"heading": "Structure and phrases",
+"text": "**Einleitung:** Ich möchte über das Thema … sprechen. · Ich habe dieses Thema gewählt, weil …\n**Erfahrung:** Ich habe schon mal … · Bei mir war das so: …\n**Land:** In meinem Heimatland ist es üblich, dass …\n**Vor-/Nachteile:** Ein Vorteil ist … Ein Nachteil ist … · Einerseits …, andererseits …\n**Schluss:** Zum Schluss möchte ich sagen … · Vielen Dank für Ihre Aufmerksamkeit."
+},
+{
+"heading": "Tips",
+"text": "Do not memorise a text. Speak in **short sentences** and use connectors. Look at the audience, not at your paper. Stay ~3 minutes."
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "B1 - Lesson 30 | eine Präsentation halten | Goethe Zertifikat Teil 2 Sprechen",
+"source": "YouTube · Learn German",
+"url": "https://www.youtube.com/watch?v=jVGnSYo_aMQ",
+"minutes": 10,
+"focus": "Note the structure and the phrases; record your own 3-minute talk."
+},
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Modellsatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/b1_modellsatz_erwachsene.pdf",
+"minutes": 20,
+"focus": "Choose a topic from the Modellsatz Sprechen Teil 2, prepare in 15 minutes, and present to a phone recording."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "How long is the presentation?",
+"o": [
+"about 3 minutes",
+"about 10 minutes",
+"about 30 seconds"
+],
+"a": 0,
+"why": "circa drei Minuten."
+},
+{
+"t": "mc",
+"q": "How many prompts/slides are there?",
+"o": [
+"5",
+"3",
+"8"
+],
+"a": 0,
+"why": "fünf Folien."
+},
+{
+"t": "mc",
+"q": "A good introduction:",
+"o": [
+"Ich möchte über das Thema … sprechen.",
+"Also …",
+"Ich habe keine Ahnung."
+],
+"a": 0,
+"why": "Einleitung."
+},
+{
+"t": "mc",
+"q": "A phrase for pros and cons:",
+"o": [
+"Ein Vorteil ist … / Ein Nachteil ist …",
+"Ich mag es nicht.",
+"Vielleicht."
+],
+"a": 0,
+"why": "Vor- und Nachteile."
+},
+{
+"t": "mc",
+"q": "A good conclusion:",
+"o": [
+"Vielen Dank für Ihre Aufmerksamkeit.",
+"Tschüss!",
+"Das war es."
+],
+"a": 0,
+"why": "Schluss."
+},
+{
+"t": "fill",
+"q": "Ich habe dieses Thema gewählt, ___ es mich interessiert. (weil)",
+"a": [
+"weil"
+],
+"why": "weil."
+},
+{
+"t": "fill",
+"q": "In meinem Heimatland ist es üblich, ___ man früh heiratet. (dass)",
+"a": [
+"dass"
+],
+"why": "üblich, dass …"
+},
+{
+"t": "mc",
+"q": "Should you read from a script?",
+"o": [
+"No, speak freely with keywords",
+"Yes, word by word",
+"Only the first slide"
+],
+"a": 0,
+"why": "Frei sprechen."
+},
+{
+"t": "mc",
+"q": "How many topics can you choose from?",
+"o": [
+"two",
+"three",
+"one"
+],
+"a": 0,
+"why": "Thema 1 oder 2."
+},
+{
+"t": "mc",
+"q": "What helps most?",
+"o": [
+"short sentences and connectors",
+"long complex sentences",
+"memorised poem"
+],
+"a": 0,
+"why": "Klarheit."
+}
+]
+},
+{
+"title": "Sprechen Teil 3: feedback and questions",
+"goal": "Respond to feedback on your presentation and give feedback plus one question to your partner.",
+"notes": [
+{
+"heading": "Task",
+"text": "**About 2 minutes.** After your partner’s presentation you (a) give **feedback** (what you liked, what was new) and (b) ask **one question**. After your own presentation you answer their feedback and question."
+},
+{
+"heading": "Redemittel",
+"text": "**Feedback:** Deine Präsentation hat mir gut gefallen, weil … · Besonders interessant fand ich … · Neu für mich war, dass …\n**Frage:** Wie ist das in deinem Land? · Was denkst du über …? · Hast du schon mal …?\n**Antwort:** Das ist eine gute Frage. Ich glaube, … · Danke für die Rückmeldung!"
+},
+{
+"heading": "Tips",
+"text": "Stay friendly and concrete. Do not only say “gut”; add a **reason**. Answer in full sentences."
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "Deutsch B1-Prüfung: Feedback auf einen kurzen Vortrag geben & auf Feedback reagieren",
+"source": "YouTube · Schneereima",
+"url": "https://www.youtube.com/watch?v=Su4LC93w86I",
+"minutes": 4,
+"focus": "Note phrases for giving and receiving feedback."
+},
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Modellsatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/b1_modellsatz_erwachsene.pdf",
+"minutes": 15,
+"focus": "Read Sprechen Teil 3 in the Modellsatz; practise feedback + question aloud."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "How long is Teil 3?",
+"o": [
+"about 2 minutes",
+"about 10 minutes",
+"5 minutes"
+],
+"a": 0,
+"why": "circa 2 Minuten."
+},
+{
+"t": "mc",
+"q": "What must you do after your partner’s talk?",
+"o": [
+"give feedback and ask a question",
+"give a speech",
+"end the exam"
+],
+"a": 0,
+"why": "Rückmeldung + Frage."
+},
+{
+"t": "mc",
+"q": "A good feedback sentence:",
+"o": [
+"Besonders interessant fand ich …",
+"Es war okay.",
+"Keine Ahnung."
+],
+"a": 0,
+"why": "konkret."
+},
+{
+"t": "mc",
+"q": "A good question:",
+"o": [
+"Wie ist das in deinem Land?",
+"Wie spät ist es?",
+"Bist du fertig?"
+],
+"a": 0,
+"why": "zum Thema."
+},
+{
+"t": "mc",
+"q": "Your answer to feedback:",
+"o": [
+"Danke für die Rückmeldung!",
+"Hm.",
+"Nein."
+],
+"a": 0,
+"why": "höflich."
+},
+{
+"t": "fill",
+"q": "Deine Präsentation hat mir gut ___. (gefallen)",
+"a": [
+"gefallen"
+],
+"why": "gefallen."
+},
+{
+"t": "fill",
+"q": "Neu für mich war, ___ es dort so viele Radwege gibt. (dass)",
+"a": [
+"dass"
+],
+"why": "dass-Satz."
+},
+{
+"t": "fill",
+"q": "Was ___ du über dieses Thema? (denken)",
+"a": [
+"denkst"
+],
+"why": "denken über + Akk."
+},
+{
+"t": "mc",
+"q": "Adding a reason is …",
+"o": [
+"important",
+"forbidden",
+"only for C1"
+],
+"a": 0,
+"why": "weil …"
+},
+{
+"t": "mc",
+"q": "Short answers like “ja/nein” only are …",
+"o": [
+"not enough",
+"enough",
+"required"
+],
+"a": 0,
+"why": "ganze Sätze."
+}
+]
+},
+{
+"title": "Sprechen: full mock exam (record yourself)",
+"goal": "Do the whole Sprechen module with a partner or alone and listen back.",
+"notes": [
+{
+"heading": "How to do it",
+"text": "**15 minutes preparation, 15 minutes exam** (two candidates). If you have no partner, play both roles by recording: Teil 1 as a dialogue, Teil 2 as a solo talk, Teil 3 as feedback to your recording."
+},
+{
+"heading": "Self-check",
+"text": "Did I cover all bullet points? Did I use connectors? Was my pronunciation clear? Did I ask a real question? Did I stay within ~3 minutes per part?"
+},
+{
+"heading": "Assessment",
+"text": "Sprechen is assessed on **task fulfilment, interaction, vocabulary, structures and pronunciation**. Aim for clear, connected speech rather than perfection."
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "Goethe-Zertifikat B1 – Deutschprüfung Modul Sprechen | German B1 Oral Exam",
+"source": "YouTube · 24h Deutsch",
+"url": "https://www.youtube.com/watch?v=YggtVH9BoSE",
+"minutes": 13,
+"focus": "Watch a sample oral exam, then do yours."
+},
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Übungssatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/B1_Uebungssatz_Erwachsene.pdf",
+"minutes": 30,
+"focus": "Do all three Sprechen parts from the Übungssatz and record."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "Total time for Sprechen (two candidates):",
+"o": [
+"15 minutes",
+"40 minutes",
+"5 minutes"
+],
+"a": 0,
+"why": "15 Min."
+},
+{
+"t": "mc",
+"q": "Preparation time:",
+"o": [
+"15 minutes",
+"5 minutes",
+"1 minute"
+],
+"a": 0,
+"why": "15 Minuten."
+},
+{
+"t": "mc",
+"q": "Which part is a monologue?",
+"o": [
+"Teil 2",
+"Teil 1",
+"Teil 3"
+],
+"a": 0,
+"why": "Präsentation."
+},
+{
+"t": "mc",
+"q": "Which part is planning?",
+"o": [
+"Teil 1",
+"Teil 2",
+"Teil 3"
+],
+"a": 0,
+"why": "Gemeinsam planen."
+},
+{
+"t": "mc",
+"q": "Which part needs a question to your partner?",
+"o": [
+"Teil 3",
+"Teil 1",
+"Teil 2"
+],
+"a": 0,
+"why": "Feedback + Frage."
+},
+{
+"t": "mc",
+"q": "If you do not know a word, you should …",
+"o": [
+"paraphrase",
+"stay silent",
+"switch language"
+],
+"a": 0,
+"why": "Umschreiben."
+},
+{
+"t": "fill",
+"q": "Ich meine, ___ wir am Samstag fahren sollten. (dass)",
+"a": [
+"dass"
+],
+"why": "dass-Satz."
+},
+{
+"t": "fill",
+"q": "Ich würde vorschlagen, ___ wir uns um 10 Uhr treffen. (dass)",
+"a": [
+"dass"
+],
+"why": "dass."
+},
+{
+"t": "mc",
+"q": "Which is best?",
+"o": [
+"Speak in short clear sentences",
+"Speak fast",
+"Speak only English words"
+],
+"a": 0,
+"why": "Klarheit."
+},
+{
+"t": "mc",
+"q": "What do you do after the mock?",
+"o": [
+"Listen back and note mistakes",
+"Delete it",
+"Post it"
+],
+"a": 0,
+"why": "Auswerten."
+}
+]
+},
+{
+"title": "Grammar review I: verbs and tenses",
+"goal": "Review the verb forms tested at B1: tenses, passive, Konjunktiv II, modals, separable and reflexive verbs.",
+"notes": [
+{
+"heading": "Tenses",
+"text": "**Perfekt** (spoken): Ich habe gegessen. Ich bin gegangen. **Präteritum** (written/story): ging, kam, war, hatte, sagte. **Plusquamperfekt:** hatte/war + Partizip II. **Futur I:** werden + Infinitiv."
+},
+{
+"heading": "Passive and Konjunktiv II",
+"text": "**Passiv:** wird gebaut / wurde gebaut / ist gebaut worden / kann gebaut werden. **Konjunktiv II:** wäre, hätte, würde + Infinitiv, könnte, sollte. Wishes, advice, polite requests, unreal conditions (wenn ich Zeit hätte, …)."
+},
+{
+"heading": "Verbs",
+"text": "**Modal verbs:** können, müssen, dürfen, wollen, sollen, mögen. **Reflexive:** sich freuen auf/über, sich interessieren für, sich ärgern über. **Separable:** aufstehen – ich stehe auf – aufgestanden – aufzustehen. **lassen + Infinitiv:** Ich lasse mein Auto reparieren."
+}
+],
+"materials": [
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Übungssatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/B1_Uebungssatz_Erwachsene.pdf",
+"minutes": 20,
+"focus": "Do the Lesen and Schreiben tasks of the Übungssatz that test verbs and underline every verb form you meet."
+},
+{
+"kind": "video",
+"title": "PASSIV: alle Zeitformen + Geheimnis",
+"source": "YouTube · Karina Multilingual",
+"url": "https://www.youtube.com/watch?v=JgvyIFFS4Ps",
+"minutes": 12,
+"focus": "Review the passive in all tenses."
+}
+],
+"quiz": [
+{
+"t": "fill",
+"q": "Gestern ___ ich lange im Büro. (sein, Präteritum)",
+"a": [
+"war"
+],
+"why": "war."
+},
+{
+"t": "fill",
+"q": "Er ist nach Berlin ___. (fahren, Partizip II)",
+"a": [
+"gefahren"
+],
+"why": "gefahren."
+},
+{
+"t": "fill",
+"q": "Nachdem sie gegessen ___, gingen sie spazieren. (haben, Plusquamperfekt)",
+"a": [
+"hatten"
+],
+"why": "hatten gegessen."
+},
+{
+"t": "fill",
+"q": "Das Haus ___ 1950 gebaut. (werden, Präteritum Passiv)",
+"a": [
+"wurde"
+],
+"why": "wurde gebaut."
+},
+{
+"t": "fill",
+"q": "Das Haus ist 1950 gebaut ___. (Perfekt Passiv)",
+"a": [
+"worden"
+],
+"why": "worden."
+},
+{
+"t": "fill",
+"q": "Wenn ich reich ___, würde ich reisen. (sein, Konjunktiv II)",
+"a": [
+"wäre",
+"waere"
+],
+"why": "wäre."
+},
+{
+"t": "fill",
+"q": "Du ___ mehr schlafen. (sollen, Konjunktiv II)",
+"a": [
+"solltest"
+],
+"why": "du solltest."
+},
+{
+"t": "fill",
+"q": "Ich ___ gern einen Kaffee. (haben, Konjunktiv II – polite)",
+"a": [
+"hätte",
+"haette"
+],
+"why": "Ich hätte gern …"
+},
+{
+"t": "fill",
+"q": "Ich freue mich ___ das Wochenende. (auf)",
+"a": [
+"auf"
+],
+"why": "sich freuen auf + Akk."
+},
+{
+"t": "fill",
+"q": "Ich ärgere mich ___ den Lärm. (über)",
+"a": [
+"über",
+"ueber"
+],
+"why": "sich ärgern über."
+},
+{
+"t": "fill",
+"q": "Er hat vergessen, mich anzu___. (rufen)",
+"a": [
+"rufen"
+],
+"why": "anzurufen."
+},
+{
+"t": "fill",
+"q": "Ich lasse mein Fahrrad ___. (reparieren)",
+"a": [
+"reparieren"
+],
+"why": "lassen + Infinitiv."
+},
+{
+"t": "mc",
+"q": "Which sentence is correct?",
+"o": [
+"Er hat gestern lange geschlafen.",
+"Er ist gestern lange geschlafen.",
+"Er hat gestern lange schlafen."
+],
+"a": 0,
+"why": "schlafen + haben."
+},
+{
+"t": "mc",
+"q": "Which is the correct Plusquamperfekt?",
+"o": [
+"Ich hatte das Buch gelesen.",
+"Ich habe das Buch gelesen gehabt.",
+"Ich bin das Buch gelesen."
+],
+"a": 0,
+"why": "hatte + Partizip II."
+}
+]
+},
+{
+"title": "Grammar review II: sentences, cases and nouns",
+"goal": "Review connectors, subordinate clauses, relative clauses, cases and noun formation.",
+"notes": [
+{
+"heading": "Connectors",
+"text": "**Position 0:** und, oder, aber, denn, sondern. **Adverbs (verb 2nd):** deshalb, trotzdem, deswegen, dagegen, jedoch. **Subordinate (verb at end):** weil, dass, ob, obwohl, wenn, als, damit, bevor, nachdem, während, seit. **Double:** entweder … oder, weder … noch, sowohl … als auch, nicht nur … sondern auch."
+},
+{
+"heading": "Relative clauses and cases",
+"text": "**Relativpronomen:** der/die/das, den (Akk. mask.), dem, denen; **dessen/deren** (Genitiv); **wo** for places. **Genitiv prepositions:** wegen, trotz, während, statt. **n-Deklination:** der Student, den/dem/des Studenten. **Adjective endings:** ein großer Tisch, eine große Stadt, ein großes Haus."
+},
+{
+"heading": "Nouns",
+"text": "**-heit/-keit/-ung** → die · **-chen/-lein** → das · Nominalisation: das Lernen, die Arbeit. **wo-compounds:** worauf, womit, wofür, worüber. **Comparison:** so … wie / -er als / am -sten."
+}
+],
+"materials": [
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Übungssatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/B1_Uebungssatz_Erwachsene.pdf",
+"minutes": 20,
+"focus": "Do the Lesen part of the Übungssatz and mark every connector and relative clause."
+},
+{
+"kind": "video",
+"title": "DER GENITIV - Einfach erklärt für Deutschlerner A2-C1",
+"source": "YouTube · Lingster Academy",
+"url": "https://www.youtube.com/watch?v=K0SGXxkB5ZM",
+"minutes": 13,
+"focus": "Review the genitive endings and prepositions."
+}
+],
+"quiz": [
+{
+"t": "fill",
+"q": "Ich bleibe zu Hause, ___ ich krank bin. (weil)",
+"a": [
+"weil"
+],
+"why": "weil."
+},
+{
+"t": "fill",
+"q": "Es regnet, ___ gehen wir spazieren. (trotzdem)",
+"a": [
+"trotzdem"
+],
+"why": "trotzdem."
+},
+{
+"t": "fill",
+"q": "Ich weiß nicht, ___ er kommt. (ob)",
+"a": [
+"ob"
+],
+"why": "ob."
+},
+{
+"t": "fill",
+"q": "Ich lerne, ___ ich die Prüfung bestehe. (damit)",
+"a": [
+"damit"
+],
+"why": "damit."
+},
+{
+"t": "fill",
+"q": "Er ist nicht dumm, ___ faul. (sondern)",
+"a": [
+"sondern"
+],
+"why": "sondern."
+},
+{
+"t": "fill",
+"q": "Das ist der Mann, ___ ich gestern gesehen habe. (den)",
+"a": [
+"den"
+],
+"why": "den."
+},
+{
+"t": "fill",
+"q": "Das ist die Frau, ___ Tochter Ärztin ist. (deren)",
+"a": [
+"deren"
+],
+"why": "deren."
+},
+{
+"t": "fill",
+"q": "___ des Regens gehen wir spazieren. (trotz)",
+"a": [
+"Trotz"
+],
+"why": "trotz + Genitiv."
+},
+{
+"t": "fill",
+"q": "Ich helfe dem Kollege___. (n-Deklination)",
+"a": [
+"n",
+"Kollegen"
+],
+"why": "dem Kollegen."
+},
+{
+"t": "fill",
+"q": "Ich habe ein neu___ Auto. (Nominativ neutrum, mit ein)",
+"a": [
+"es"
+],
+"why": "ein neues Auto."
+},
+{
+"t": "fill",
+"q": "Er hat weder Zeit ___ Geld. (noch)",
+"a": [
+"noch"
+],
+"why": "weder … noch."
+},
+{
+"t": "mc",
+"q": "Which noun is correct?",
+"o": [
+"die Möglichkeit",
+"der Möglichkeit",
+"das Möglichkeit"
+],
+"a": 0,
+"why": "-keit = die."
+},
+{
+"t": "mc",
+"q": "Which is correct?",
+"o": [
+"Er ist größer als ich.",
+"Er ist größer wie ich.",
+"Er ist so größer als ich."
+],
+"a": 0,
+"why": "als nach Komparativ."
+},
+{
+"t": "mc",
+"q": "Which sentence is correct?",
+"o": [
+"Ich glaube, dass er heute kommt.",
+"Ich glaube, dass er kommt heute.",
+"Ich glaube, dass kommt er heute."
+],
+"a": 0,
+"why": "Verb am Ende."
+}
+]
+},
+{
+"title": "Vocabulary and Redemittel review",
+"goal": "Review the big topics of the exam and the phrases you will use in writing and speaking.",
+"notes": [
+{
+"heading": "Topics",
+"text": "Arbeit und Beruf · Wohnen · Gesundheit · Reisen · Freizeit und Hobbys · Schule und Ausbildung · Umwelt · Medien und Internet · Freundschaft und Familie · Feste und Feiertage · Einkaufen · Gesellschaft (Wahlen, Migration)."
+},
+{
+"heading": "Redemittel – opinion and reasoning",
+"text": "**Meiner Meinung nach …** · **Ich finde, dass …** · **Ich bin der Ansicht, dass …** · **Ich stimme zu / nicht zu** · **Einerseits … andererseits …** · **Ein Vorteil/Nachteil ist …** · **Ich habe die Erfahrung gemacht, dass …**"
+},
+{
+"heading": "Redemittel – speaking help",
+"text": "**Was meinst du?** · **Könnten Sie das bitte wiederholen?** · **Ich meine …** · **Das hängt davon ab …** · **Mit anderen Worten …** · **Wie sagt man …?**"
+}
+],
+"materials": [
+{
+"kind": "video",
+"title": "MEINUNG ÄUßERN / REDEMITTEL (mündliche und schriftliche Prüfung)",
+"source": "YouTube · Dein Sprachcoach",
+"url": "https://www.youtube.com/watch?v=m9N-q74a5iE",
+"minutes": 11,
+"focus": "Collect ten opinion phrases into your notebook."
+},
+{
+"kind": "video",
+"title": "B-Level-Wortschatz | B1 / B2 | Learn German",
+"source": "YouTube · Benjamin - Der Deutschlehrer",
+"url": "https://www.youtube.com/watch?v=Mhs00ZotMZc",
+"minutes": 8,
+"focus": "Note new words for your topics."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "“Meiner Meinung nach …” is used to …",
+"o": [
+"give your opinion",
+"ask a question",
+"greet"
+],
+"a": 0,
+"why": "Meinungsäußerung."
+},
+{
+"t": "mc",
+"q": "“Ich habe die Erfahrung gemacht, dass …” means:",
+"o": [
+"I have experienced that …",
+"I made an experiment that …",
+"I did research that …"
+],
+"a": 0,
+"why": "Erfahrung."
+},
+{
+"t": "mc",
+"q": "“Das hängt davon ab, …” means:",
+"o": [
+"That depends on …",
+"That hangs from …",
+"That depends less"
+],
+"a": 0,
+"why": "kommt darauf an."
+},
+{
+"t": "mc",
+"q": "“Mit anderen Worten …” means:",
+"o": [
+"in other words",
+"with other words in mind",
+"with different worlds"
+],
+"a": 0,
+"why": "Umschreibung."
+},
+{
+"t": "mc",
+"q": "“Könnten Sie das bitte wiederholen?” is …",
+"o": [
+"a polite request to repeat",
+"a complaint",
+"an apology"
+],
+"a": 0,
+"why": "höflich."
+},
+{
+"t": "mc",
+"q": "“Vorteil” is the opposite of …",
+"o": [
+"Nachteil",
+"Nachbar",
+"Nachweis"
+],
+"a": 0,
+"why": "Vorteil – Nachteil."
+},
+{
+"t": "mc",
+"q": "“die Gesellschaft” means:",
+"o": [
+"society",
+"company (business)",
+"fellowship of a club"
+],
+"a": 0,
+"why": "Gesellschaft."
+},
+{
+"t": "mc",
+"q": "“die Umwelt” means:",
+"o": [
+"environment",
+"surroundings only",
+"world map"
+],
+"a": 0,
+"why": "Umwelt."
+},
+{
+"t": "mc",
+"q": "“die Ausbildung” means:",
+"o": [
+"apprenticeship, training",
+"education in general",
+"exercise"
+],
+"a": 0,
+"why": "Ausbildung."
+},
+{
+"t": "mc",
+"q": "“sich bewerben um” means:",
+"o": [
+"to apply for",
+"to review",
+"to praise"
+],
+"a": 0,
+"why": "Bewerbung."
+},
+{
+"t": "fill",
+"q": "Ich bin der ___, dass Sport wichtig ist. (Ansicht)",
+"a": [
+"Ansicht"
+],
+"why": "der Ansicht sein."
+},
+{
+"t": "fill",
+"q": "Wie ___ man das auf Deutsch? (sagt)",
+"a": [
+"sagt"
+],
+"why": "Wie sagt man …?"
+}
+]
+},
+{
+"title": "Full mock I: Lesen and Hören",
+"goal": "Take a complete Lesen and Hören together (105 minutes) and analyse mistakes.",
+"notes": [
+{
+"heading": "Plan",
+"text": "Lesen 65 min → 10 min break → Hören 40 min. Use pen, no dictionary, timer running."
+},
+{
+"heading": "Analysis",
+"text": "For each wrong item: (1) which part, (2) why (vocabulary, trap, time), (3) write the correct answer with the sentence from the text or transcript."
+},
+{
+"heading": "Targets",
+"text": "Lesen ≥ 18/30 and Hören ≥ 18/30 = pass. Aim for 22+ for a safe margin."
+}
+],
+"materials": [
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Übungssatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/B1_Uebungssatz_Erwachsene.pdf",
+"minutes": 65,
+"focus": "Full Lesen module of the Übungssatz, timed."
+},
+{
+"kind": "exercise",
+"title": "Goethe-Zertifikat B1 – practice tests with audio",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/ins/de/de/spr/prf/gzb1/ueb.html",
+"minutes": 45,
+"focus": "Full Hören module with audio, exam conditions."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "How long is Lesen?",
+"o": [
+"65 minutes",
+"40 minutes",
+"60 minutes"
+],
+"a": 0,
+"why": "Lesen 65."
+},
+{
+"t": "mc",
+"q": "How long is Hören?",
+"o": [
+"40 minutes",
+"65 minutes",
+"60 minutes"
+],
+"a": 0,
+"why": "Hören 40."
+},
+{
+"t": "mc",
+"q": "How many points to pass a module?",
+"o": [
+"60%",
+"70%",
+"50%"
+],
+"a": 0,
+"why": "60 %."
+},
+{
+"t": "mc",
+"q": "How many items in Lesen?",
+"o": [
+"30",
+"20",
+"40"
+],
+"a": 0,
+"why": "30."
+},
+{
+"t": "mc",
+"q": "How many items in Hören?",
+"o": [
+"30",
+"20",
+"40"
+],
+"a": 0,
+"why": "30."
+},
+{
+"t": "mc",
+"q": "Wrong answer analysis should include …",
+"o": [
+"cause and correct answer",
+"just the score",
+"nothing"
+],
+"a": 0,
+"why": "Analyse."
+},
+{
+"t": "mc",
+"q": "How many correct items give 60% of 30?",
+"o": [
+"18",
+"15",
+"20"
+],
+"a": 0,
+"why": "18."
+},
+{
+"t": "mc",
+"q": "A safe target is …",
+"o": [
+"22 or more",
+"18 exactly",
+"10"
+],
+"a": 0,
+"why": "Sicherheitsabstand."
+},
+{
+"t": "mc",
+"q": "A dictionary is …",
+"o": [
+"not allowed",
+"allowed",
+"only for Lesen"
+],
+"a": 0,
+"why": "Keine Hilfsmittel."
+},
+{
+"t": "mc",
+"q": "Answers are written …",
+"o": [
+"in pen",
+"in pencil",
+"on the question sheet only"
+],
+"a": 0,
+"why": "kein Bleistift."
+}
+]
+},
+{
+"title": "Full mock II: Schreiben and Sprechen",
+"goal": "Take a complete Schreiben (60 min) and Sprechen (15 min + 15 min preparation) mock and analyse them.",
+"notes": [
+{
+"heading": "Plan",
+"text": "Schreiben 60 min → break → Sprechen (record). Correct writing with the four criteria; ask a teacher or partner for feedback if possible."
+},
+{
+"heading": "Checklist",
+"text": "Writing: all points covered, greeting/closing, connectors, ~80/80/40 words. Speaking: 4 bullet points, 5 slides, feedback + question, pronunciation."
+},
+{
+"heading": "Reminder",
+"text": "This course follows the **Goethe-Zertifikat B1**. If you sit **telc B1** or **DTZ**, use their official model tests for the same skills too."
+}
+],
+"materials": [
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Übungssatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/B1_Uebungssatz_Erwachsene.pdf",
+"minutes": 60,
+"focus": "Full Schreiben module of the Übungssatz, timed."
+},
+{
+"kind": "video",
+"title": "Die B1 Mündliche Prüfung bestehen: Goethe und telc",
+"source": "YouTube · Lingster Academy",
+"url": "https://www.youtube.com/watch?v=JhyQ0hj1ck0",
+"minutes": 13,
+"focus": "Compare Goethe and telc oral exam formats."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "How long is Schreiben?",
+"o": [
+"60 minutes",
+"40 minutes",
+"75 minutes"
+],
+"a": 0,
+"why": "60."
+},
+{
+"t": "mc",
+"q": "How long is Sprechen (two candidates)?",
+"o": [
+"15 minutes",
+"60 minutes",
+"5 minutes"
+],
+"a": 0,
+"why": "15."
+},
+{
+"t": "mc",
+"q": "How many Schreiben tasks?",
+"o": [
+"3",
+"2",
+"5"
+],
+"a": 0,
+"why": "3."
+},
+{
+"t": "mc",
+"q": "How many Sprechen parts?",
+"o": [
+"3",
+"2",
+"4"
+],
+"a": 0,
+"why": "3."
+},
+{
+"t": "mc",
+"q": "Aufgabe 1 length:",
+"o": [
+"about 80 words",
+"about 40 words",
+"about 200 words"
+],
+"a": 0,
+"why": "80."
+},
+{
+"t": "mc",
+"q": "Aufgabe 3 length:",
+"o": [
+"about 40 words",
+"about 80 words",
+"about 120 words"
+],
+"a": 0,
+"why": "40."
+},
+{
+"t": "mc",
+"q": "Which exam formats differ slightly?",
+"o": [
+"telc and DTZ vs Goethe",
+"none",
+"only Lesen"
+],
+"a": 0,
+"why": "Prüfungsform prüfen."
+},
+{
+"t": "fill",
+"q": "Ich schreibe Ihnen ___ meines Termins. (because of)",
+"a": [
+"wegen",
+"Wegen"
+],
+"why": "wegen + Genitiv."
+},
+{
+"t": "fill",
+"q": "Ich würde ___ freuen, wenn du kommst. (mich)",
+"a": [
+"mich"
+],
+"why": "sich freuen."
+},
+{
+"t": "mc",
+"q": "What do you do after the mock?",
+"o": [
+"Correct and note repeated mistakes",
+"Nothing",
+"Repeat immediately"
+],
+"a": 0,
+"why": "Fehleranalyse."
+}
+]
+},
+{
+"title": "Final mock exam and exam-day plan",
+"goal": "A last 30-question mock, a checklist for the day before the exam, and a plan for the exam morning.",
+"notes": [
+{
+"heading": "Checklist for the day before",
+"text": "☐ ID/passport ☐ Registration confirmation and exam room/time ☐ Pen(s), no pencil ☐ Route to the test centre ☐ Sleep – no cramming ☐ Light review of Redemittel (30 minutes)"
+},
+{
+"heading": "On the exam day",
+"text": "Arrive 30 minutes early. Answer every item (no penalty for guessing). In Lesen and Hören transfer answers on time. In Schreiben stay near the word counts and always write greeting/closing. In Sprechen speak in short clear sentences and ask real questions."
+},
+{
+"heading": "After this course",
+"text": "You have completed A1 → B1 study: 228 lessons, tests and exam training. Keep listening and speaking daily; book your exam and, if possible, sit a model test at your test centre."
+}
+],
+"materials": [
+{
+"kind": "pdf",
+"title": "Goethe-Zertifikat B1 – Modellsatz (adults)",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/pro/relaunch/prf/materialien/B1/b1_modellsatz_erwachsene.pdf",
+"minutes": 180,
+"focus": "Optional: a complete Modellsatz (all four modules) as a last rehearsal, only if you have time."
+},
+{
+"kind": "exercise",
+"title": "Goethe-Zertifikat B1 – practice tests with audio",
+"source": "Goethe-Institut",
+"url": "https://www.goethe.de/ins/de/de/spr/prf/gzb1/ueb.html",
+"minutes": 60,
+"focus": "Use the online practice tests with audio for a last listening run."
+}
+],
+"quiz": [
+{
+"t": "mc",
+"q": "How many points do you need to pass a module?",
+"o": [
+"60 of 100",
+"70 of 100",
+"50 of 100"
+],
+"a": 0,
+"why": "60 %."
+},
+{
+"t": "mc",
+"q": "How long is the Hören module?",
+"o": [
+"40 minutes",
+"65 minutes",
+"60 minutes"
+],
+"a": 0,
+"why": "40."
+},
+{
+"t": "mc",
+"q": "Lesen Teil 3: what do you write if no ad matches?",
+"o": [
+"0",
+"X",
+"–"
+],
+"a": 0,
+"why": "0."
+},
+{
+"t": "mc",
+"q": "Hören Teil 4 has …",
+"o": [
+"8 items",
+"5 items",
+"10 items"
+],
+"a": 0,
+"why": "8."
+},
+{
+"t": "mc",
+"q": "Schreiben Aufgabe 1 has about …",
+"o": [
+"80 words",
+"40 words",
+"120 words"
+],
+"a": 0,
+"why": "80."
+},
+{
+"t": "mc",
+"q": "Sprechen Teil 2 is …",
+"o": [
+"a presentation",
+"a planning dialogue",
+"a written text"
+],
+"a": 0,
+"why": "Präsentation."
+},
+{
+"t": "fill",
+"q": "Ich weiß nicht, ___ er heute kommt.",
+"a": [
+"ob"
+],
+"why": "ob."
+},
+{
+"t": "fill",
+"q": "Es regnet. ___ gehe ich spazieren.",
+"a": [
+"Trotzdem"
+],
+"why": "trotzdem."
+},
+{
+"t": "fill",
+"q": "Er kommt nicht, ___ er krank ist. (because)",
+"a": [
+"weil"
+],
+"why": "weil."
+},
+{
+"t": "fill",
+"q": "Er ist nicht müde, ___ hungrig.",
+"a": [
+"sondern"
+],
+"why": "sondern."
+},
+{
+"t": "fill",
+"q": "Ich lerne, ___ ich die Prüfung bestehe.",
+"a": [
+"damit"
+],
+"why": "damit."
+},
+{
+"t": "fill",
+"q": "Ich habe keine Lust, heute ___ arbeiten.",
+"a": [
+"zu"
+],
+"why": "zu + Infinitiv."
+},
+{
+"t": "fill",
+"q": "___ ich ins Bett gehe, putze ich die Zähne.",
+"a": [
+"Bevor"
+],
+"why": "bevor."
+},
+{
+"t": "fill",
+"q": "Nachdem er gegessen ___, ging er.",
+"a": [
+"hatte"
+],
+"why": "Plusquamperfekt."
+},
+{
+"t": "fill",
+"q": "Der Landtag ___ gewählt.",
+"a": [
+"wird"
+],
+"why": "Passiv."
+},
+{
+"t": "fill",
+"q": "Wenn ich Zeit ___, würde ich reisen.",
+"a": [
+"hätte",
+"haette"
+],
+"why": "Konjunktiv II."
+},
+{
+"t": "fill",
+"q": "Du ___ mehr schlafen. (sollen, Konjunktiv II)",
+"a": [
+"solltest"
+],
+"why": "solltest."
+},
+{
+"t": "fill",
+"q": "___ des Wetters bleiben wir zu Hause. (wegen)",
+"a": [
+"Wegen"
+],
+"why": "wegen."
+},
+{
+"t": "fill",
+"q": "Der Mann, ___ Tochter Ärztin ist, wohnt hier.",
+"a": [
+"dessen"
+],
+"why": "dessen."
+},
+{
+"t": "fill",
+"q": "Die Stadt, ___ ich wohne, ist klein.",
+"a": [
+"wo",
+"in der"
+],
+"why": "wo."
+},
+{
+"t": "fill",
+"q": "Ich kenne den Student___.",
+"a": [
+"en",
+"Studenten"
+],
+"why": "n-Deklination."
+},
+{
+"t": "fill",
+"q": "Er lässt sich die Haare ___. (schneiden)",
+"a": [
+"schneiden"
+],
+"why": "lassen."
+},
+{
+"t": "fill",
+"q": "___ interessierst du dich? (wofür)",
+"a": [
+"Wofür",
+"Wofuer"
+],
+"why": "wo-Kompositum."
+},
+{
+"t": "fill",
+"q": "Sehr geehrte Frau Müller, ... Mit freundlichen ___ (Grüßen)",
+"a": [
+"Grüßen",
+"Gruessen"
+],
+"why": "Mit freundlichen Grüßen."
+},
+{
+"t": "mc",
+"q": "Which suggestion is polite?",
+"o": [
+"Wie wäre es, wenn wir uns am Samstag treffen?",
+"Du musst Samstag kommen.",
+"Samstag, basta!"
+],
+"a": 0,
+"why": "Vorschlag."
+},
+{
+"t": "mc",
+"q": "Which phrase gives your opinion?",
+"o": [
+"Meiner Meinung nach ist das wichtig.",
+"Es ist Samstag.",
+"Guten Tag."
+],
+"a": 0,
+"why": "Meinung."
+},
+{
+"t": "mc",
+"q": "“ausfallen” (course) means:",
+"o": [
+"to be cancelled",
+"to fall out",
+"to stand out"
+],
+"a": 0,
+"why": "ausfallen."
+},
+{
+"t": "mc",
+"q": "“die Ermäßigung” means:",
+"o": [
+"discount",
+"moderation",
+"reduction of pain"
+],
+"a": 0,
+"why": "Ermäßigung."
+},
+{
+"t": "mc",
+"q": "“bewerben um” means:",
+"o": [
+"to apply for",
+"to praise",
+"to review"
+],
+"a": 0,
+"why": "Bewerbung."
+},
+{
+"t": "mc",
+"q": "“die Gesellschaft” means:",
+"o": [
+"society",
+"shop",
+"assembly"
+],
+"a": 0,
+"why": "Gesellschaft."
+}
+]
+}
+]

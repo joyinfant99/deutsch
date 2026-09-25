@@ -1,0 +1,142 @@
+{
+"a1-45": {
+  "goal": "Name common foods and say where they belong in the fridge; choose between kein and nicht to negate.",
+  "words": [
+    ["das Obst", "fruit"],
+    ["der Apfel, Äpfel / die Birne, -n", "apple / pear"],
+    ["die Orange, -n", "orange"],
+    ["das Fleisch", "meat"],
+    ["der Käse", "cheese"],
+    ["die Butter / der Quark", "butter / quark (fresh cheese)"],
+    ["die Marmelade, -n", "jam"],
+    ["der Schinken", "ham"],
+    ["das Gemüse", "vegetables"],
+    ["der Kühlschrank, -schränke", "fridge"],
+    ["der Teller, -", "plate"],
+    ["das Frühstück", "breakfast"]
+  ],
+  "grammar": {
+    "title": "Negation: nicht or kein?",
+    "text": "**kein / keine** negates a **noun** that has no article or an indefinite article:\n- Ich habe **keine** Butter. (Ich habe Butter → no article)\n- Er hat **keinen** Hunger.\n\n**nicht** negates **everything else**: verbs, adjectives, nouns with a definite article, places, times:\n- Der Kühlschrank ist **nicht** groß.\n- Das ist **nicht** der Käse.\n- Ich kaufe heute **nicht** ein.\n\nQuick test: if you could say “ein/eine” or nothing, use **kein**.",
+    "ex": [
+      ["Ich glaube, der Kühlschrank ist zu klein für all das.", "I think the fridge is too small for all of that."],
+      ["Ich habe keine Beutel mehr.", "I don’t have any bags left."],
+      ["Der Kühlschrank ist nicht groß.", "The fridge is not big."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Inge say about her fridge?","o":["It is too small for all the shopping","It is broken","It is empty"],"a":0,"why":"“Der Kühlschrank ist zu klein für all das.”","src":"video"},
+    {"t":"mc","q":"Which items does Inge list as things for breakfast?","o":["Jam, butter, quark and ham","Cereal, milk and fruit","Soup and bread"],"a":0,"why":"“die Marmelade, die Butter, der Quark und der Schinken.”","src":"video"},
+    {"t":"mc","q":"Why is Inge preparing so many groceries?","o":["A young man is coming to stay for a few days","She is having a party","She is going on holiday"],"a":0,"why":"“Ich bekomme heute nämlich Besuch … von einem jungen Mann.”","src":"video"},
+    {"t":"fill","q":"Ich habe ___ Butter. (I have no butter)","a":["keine"],"why":"die Butter (no article): keine.","src":"grammar"},
+    {"t":"fill","q":"Der Kühlschrank ist ___ groß. (not big)","a":["nicht"],"why":"adjective → nicht.","src":"grammar"},
+    {"t":"mc","q":"“das Obst” includes:","o":["Äpfel, Birnen, Orangen","Käse und Butter","Schinken und Fleisch"],"a":0,"why":"Obst = fruit.","src":"vocab"},
+    {"t":"mc","q":"Which article goes with “Käse”?","o":["der","die","das"],"a":0,"why":"der Käse.","src":"vocab"}
+  ]
+},
+"a1-46": {
+  "goal": "Say what you like, like more and like best (mögen, gern, lieber, am liebsten) and order a drink politely.",
+  "words": [
+    ["mögen: ich mag, du magst", "to like"],
+    ["gern / lieber / am liebsten", "gladly / rather / most of all"],
+    ["die Apfelschorle", "apple juice with sparkling water"],
+    ["das Mineralwasser", "mineral water"],
+    ["die Karotte, -n", "carrot"],
+    ["die Tomate, -n", "tomato"],
+    ["der Kohlrabi", "kohlrabi"],
+    ["lecker", "tasty"],
+    ["Was möchtest du trinken?", "What would you like to drink?"],
+    ["Komm rein!", "Come in!"],
+    ["Ach herrje!", "Oh dear!"],
+    ["Ich finde … nicht so lecker.", "I don’t find … so tasty."]
+  ],
+  "grammar": {
+    "title": "Comparative: gern – lieber – am liebsten",
+    "text": "To rank your preferences use the three steps of **gern**:\n\n- **gern** (like): Ich esse **gern** Karotten.\n- **lieber** (prefer): Ich esse **lieber** Tomaten.\n- **am liebsten** (like most): Ich esse **am liebsten** Pizza.\n\nWith **mögen**: Ich **mag** Karotten. Ich **mag** Kohlrabi **nicht** so gern. For a comparison of two things use **lieber … als**: Ich trinke lieber Tee **als** Kaffee.",
+    "ex": [
+      ["Ich esse auch gern Karotten, aber Tomaten …", "I also like carrots, but tomatoes …"],
+      ["Ja, ich esse lieber Tomaten.", "Yes, I prefer eating tomatoes."],
+      ["Ich finde Kohlrabi nicht so lecker.", "I don’t find kohlrabi so tasty."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Inge offer Nico to drink?","o":["Apple juice or an apple spritzer (Apfelschorle)","Coffee or tea","Beer or wine"],"a":0,"why":"“Apfelsaft oder lieber eine Apfelsaftschorle?”","src":"video"},
+    {"t":"mc","q":"What is a “Schorle”?","o":["Juice mixed with mineral water","Juice with ice","A kind of milkshake"],"a":0,"why":"“Das ist Saft mit Mineralwasser.”","src":"video"},
+    {"t":"mc","q":"What does Nico prefer: carrots or tomatoes?","o":["Tomatoes","Carrots","Kohlrabi"],"a":0,"why":"“Ich esse lieber Tomaten.”","src":"video"},
+    {"t":"mc","q":"What does Nico think of kohlrabi?","o":["He doesn’t find it very tasty","It is his favourite","He has never tried it"],"a":0,"why":"“Ich finde Kohlrabi nicht so lecker.”","src":"video"},
+    {"t":"fill","q":"Ich esse gern Pizza, aber ___ esse ich Pasta. (prefer)","a":["lieber"],"why":"gern – lieber – am liebsten.","src":"grammar"},
+    {"t":"fill","q":"Am ___ trinke ich Tee. (like best)","a":["liebsten"],"why":"am liebsten.","src":"grammar"},
+    {"t":"mc","q":"“Ich mag Karotten.” means:","o":["I like carrots.","I need carrots.","I have carrots."],"a":0,"why":"mögen = to like.","src":"vocab"}
+  ]
+},
+"a1-47": {
+  "goal": "Talk about housework and preferences, and compare with so … wie and lieber … als.",
+  "words": [
+    ["die Hausarbeit", "housework"],
+    ["abwaschen / spülen", "to wash up"],
+    ["abtrocknen", "to dry (dishes)"],
+    ["staubsaugen", "to vacuum"],
+    ["putzen", "to clean"],
+    ["waschen", "to wash"],
+    ["der Staubsauger, -", "vacuum cleaner"],
+    ["der Besen, - / das Kehrblech", "broom / dustpan"],
+    ["das Geschirr", "dishes"],
+    ["Alles in Ordnung?", "Is everything OK?"],
+    ["furchtbar", "terrible"],
+    ["Ich hasse …", "I hate …"]
+  ],
+  "grammar": {
+    "title": "Comparison: wie and als",
+    "text": "**so … wie** compares two things that are **equal**: Nico saugt **so** oft **wie** Inge (= equally often). With **nicht so … wie**: Ich sauge **nicht so** oft **wie** du.\n\n**-er … als** compares things that are **different**: Abwaschen ist einfacher **als** Staubsaugen. Nico spült **lieber als** er staubsaugt.\n\nRemember: **als** after a comparative, **wie** after **so**.",
+    "ex": [
+      ["Ich sauge nicht so oft.", "I don’t vacuum that often."],
+      ["Ich möchte lieber abwaschen.", "I’d rather wash up."],
+      ["Abwaschen ist einfacher als Staubsaugen.", "Washing up is easier than vacuuming."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What housework does Nico prefer?","o":["Washing up","Vacuuming","Cooking"],"a":0,"why":"“Ja, ich möchte lieber abwaschen.”","src":"video"},
+    {"t":"mc","q":"What does Inge say about housework?","o":["She hates it","She loves it","She does it every hour"],"a":0,"why":"“Ich hasse Hausarbeit.”","src":"video"},
+    {"t":"mc","q":"What does Inge need for the floor?","o":["A broom and a dustpan","A mop only","A hose"],"a":0,"why":"“Hier: der Besen und das Kehrblech.”","src":"video"},
+    {"t":"mc","q":"What goes wrong at the end?","o":["The meat burns","The window breaks","The fridge stops working"],"a":0,"why":"“Oh nein, das Fleisch!”","src":"video"},
+    {"t":"fill","q":"Tee ist gesünder ___ Cola. (than)","a":["als"],"why":"comparative + als.","src":"grammar"},
+    {"t":"mc","q":"Which is correct?","o":["Nico saugt nicht so oft wie Inge.","Nico saugt nicht so oft als Inge.","Nico saugt nicht oft wie Inge."],"a":0,"why":"so … wie.","src":"grammar"},
+    {"t":"mc","q":"“staubsaugen” means:","o":["to vacuum","to dust","to sweep"],"a":0,"why":"der Staubsauger = vacuum cleaner.","src":"vocab"}
+  ]
+},
+"a1-48": {
+  "goal": "Talk about hobbies and free time with gern / am liebsten and “gehen + infinitive” (angeln gehen, schwimmen gehen).",
+  "words": [
+    ["die Freizeit", "free time"],
+    ["Was macht dir Spaß?", "What do you enjoy?"],
+    ["angeln gehen", "to go fishing"],
+    ["joggen / schwimmen gehen", "to go jogging / swimming"],
+    ["Fahrrad fahren", "to cycle"],
+    ["Musik hören", "to listen to music"],
+    ["ins Theater / ins Kino gehen", "to go to the theatre / cinema"],
+    ["das Schnitzel, -", "schnitzel"],
+    ["Lasst es euch schmecken!", "Enjoy your meal!"],
+    ["der Hecht, -e", "pike"],
+    ["das Foto, -s", "photo"],
+    ["Du kennst Yara?", "You know Yara?"]
+  ],
+  "grammar": {
+    "title": "gehen + infinitive for activities",
+    "text": "For many activities German uses **gehen** + infinitive at the end:\n\n- **Ich gehe gern angeln.** (I like going fishing.)\n- **Wir gehen schwimmen.** (We’re going swimming.)\n- **Er geht joggen.**\n\nAdd **gern** to say you like it and **am liebsten** for your favourite: Am liebsten gehe ich angeln. Negative: Ich jogge **nicht gern.**",
+    "ex": [
+      ["Ich gehe gern angeln.", "I like going fishing."],
+      ["Aber am liebsten angeln wir.", "But we like fishing best."],
+      ["Nein, ich jogge nicht gern.", "No, I don’t like jogging."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Nico do NOT like doing?","o":["Jogging","Swimming","Cycling"],"a":0,"why":"“Nein, ich jogge nicht gern.”","src":"video"},
+    {"t":"mc","q":"What is Nico’s favourite free-time activity?","o":["Fishing (Angeln)","Football","Music"],"a":0,"why":"“Am liebsten mache ich … angeln.”","src":"video"},
+    {"t":"mc","q":"What does Max’s photo from last year show?","o":["A huge pike he caught","A football match","A birthday cake"],"a":0,"why":"“… heraus kam ein riesiger Hecht.”","src":"video"},
+    {"t":"mc","q":"What surprising discovery does Nico make at the end?","o":["Yara is in Max’s photo – she is his aunt","Max is his uncle","Tarek knows his parents"],"a":0,"why":"“Das ist Yara! … Das ist meine Tante!”","src":"video"},
+    {"t":"fill","q":"Ich ___ gern angeln. (gehen)","a":["gehe"],"why":"ich gehe + infinitive.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Wir gehen am Sonntag schwimmen.","Wir gehen schwimmen am Sonntag nicht.","Wir schwimmen gehen am Sonntag."],"a":0,"why":"gehen second, infinitive at the end.","src":"grammar"},
+    {"t":"mc","q":"“Lasst es euch schmecken!” is said:","o":["before a meal","when leaving","when paying"],"a":0,"why":"Enjoy your meal!","src":"vocab"}
+  ]
+}
+}

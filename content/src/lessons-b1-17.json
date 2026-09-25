@@ -1,0 +1,146 @@
+{
+"b1-69": {
+  "goal": "Talk about arriving and starting a new life in Germany, and use temporal prepositions (seit, bis, ab, vor, nach, in, um, gegen, zwischen).",
+  "words": [
+    ["die Sprachprüfung, -en", "language exam"],
+    ["fertig werden", "to finish"],
+    ["sich entscheiden zwischen + Dat.", "to decide between"],
+    ["bereuen", "to regret"],
+    ["das Chaos", "chaos"],
+    ["kaputtgehen", "to break (down)"],
+    ["Schluss machen", "to break up"],
+    ["der Grund, Gründe", "reason"],
+    ["in diese Situation bringen", "to put in this situation"],
+    ["Ich würde alles dafür geben.", "I’d give anything for it."],
+    ["niemals / nie", "never"],
+    ["Wie ist dein Gefühl?", "How does it feel / what’s your feeling?"]
+  ],
+  "grammar": {
+    "title": "Temporal prepositions",
+    "text": "**When?** (point in time)\n- **um** + Uhrzeit: um 8 Uhr · **gegen** (approx.): gegen 8 Uhr\n- **an** + Dat. (day): am Montag · **in** + Dat. (month, season, year): im Juni, in zwei Wochen (= from now)\n- **vor** + Dat. (ago): vor einem Jahr · **nach** + Dat.: nach der Prüfung\n\n**How long / from when?**\n- **seit** + Dat. (since; still going on): seit einem Jahr\n- **ab** + Dat. (from … on; future): ab nächstem Monat\n- **bis** + Akk.: bis Freitag · **von … bis**: von 9 bis 17 Uhr\n- **zwischen** + Dat.: zwischen 8 und 9 Uhr\n- **während** + Gen.: während der Prüfung · **innerhalb** + Gen.: innerhalb einer Woche\n\n**Tenses:** seit + present = still going: Ich lerne seit einem Jahr Deutsch.\n\n**Konjunktiv II Perfekt (regret):** Ich **hätte** dich niemals in diese Situation bringen **dürfen**.",
+    "ex": [
+      ["Ich lerne seit einem Jahr Deutsch, bis nächsten Sommer will ich B1 schaffen.", "I’ve been learning German for a year; by next summer I want to reach B1."],
+      ["Ab dem 1. Oktober beginnt Nicos Ausbildung.", "Nico’s apprenticeship starts on 1 October."],
+      ["Die Prüfung war gegen zehn Uhr vorbei.", "The exam was over around ten o’clock."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was hat Nico gerade gemacht?","o":["Seine Sprachprüfung beendet","Seine Ausbildung begonnen","Eine Wohnung gekauft"],"a":0,"why":"“Ich bin gerade fertig geworden.”","src":"video"},
+    {"t":"mc","q":"Warum meint Nico, dass er und Selma nicht zusammen sein können?","o":["Er will sich nicht zwischen sie und ihre Eltern stellen","Er liebt sie nicht","Er zieht weg"],"a":0,"why":"“Du solltest dich niemals zwischen mir und deinen Eltern entscheiden müssen.”","src":"video"},
+    {"t":"mc","q":"Wovor hat Nico Angst?","o":["Dass Selma es bereuen würde","Dass er durchfällt","Dass Pepe böse ist"],"a":0,"why":"“… ich hab Angst, dass du es bereuen würdest …”","src":"video"},
+    {"t":"mc","q":"Was sagt Nico über sich und Selma?","o":["Sie waren nie zusammen","Sie sind verlobt","Sie haben sich getrennt"],"a":0,"why":"“Wir waren nie zusammen, Selma. Nie.”","src":"video"},
+    {"t":"fill","q":"Ich wohne ___ drei Jahren hier. (since)","a":["seit"],"why":"seit + Dativ.","src":"grammar"},
+    {"t":"fill","q":"Die Prüfung war ___ zwei Stunden zu Ende. (ago)","a":["vor"],"why":"vor + Dativ = ago.","src":"grammar"},
+    {"t":"mc","q":"Was passt? “Das Büro ist ___ 9 ___ 17 Uhr geöffnet.”","o":["von … bis","seit … um","ab … nach"],"a":0,"why":"von … bis.","src":"grammar"},
+    {"t":"mc","q":"“bereuen” bedeutet:","o":["to regret","to prepare","to repair"],"a":0,"why":"Ich habe es nie bereut.","src":"vocab"}
+  ]
+},
+"b1-70": {
+  "goal": "Understand why people migrate, express worry and hope about exam results, and use dass and ob clauses (Ich habe Angst, dass … / Ich weiß nicht, ob …).",
+  "words": [
+    ["das Ergebnis, -se", "result"],
+    ["bestehen – bestand – bestanden", "to pass"],
+    ["durchfallen – ist durchgefallen", "to fail"],
+    ["schriftlich / mündlich", "written / oral"],
+    ["die Ausbildung, -en", "apprenticeship, training"],
+    ["überzeugt sein, dass", "to be convinced that"],
+    ["hoffentlich", "hopefully"],
+    ["sich Sorgen machen (um + Akk.)", "to worry"],
+    ["gespannt sein auf + Akk.", "to look forward to (with curiosity)"],
+    ["der Schritt, -e", "step"],
+    ["die Flucht / der Krieg", "flight / war"],
+    ["die Arbeitsmigration", "labour migration"]
+  ],
+  "grammar": {
+    "title": "dass and ob clauses; reasons for migration",
+    "text": "**dass** introduces a fact/opinion/feeling; **ob** introduces a yes/no question. Verb at the **end**:\n\n- Ich bin **überzeugt, dass** du bestanden **hast**.\n- Ich habe **Angst, dass** ich zu viele Fehler gemacht **habe**.\n- Ich weiß **nicht, ob** ich die Prüfung bestanden **habe**.\n- Ich bin gespannt, **ob** es klappt / **auf** alles, **was** jetzt kommt.\n\n**Worry structures:** sich Sorgen machen (um) · Angst haben (vor + Dat. / dass) · Hoffentlich reicht’s.\n\n**Why do people migrate?**\n- **Push:** Krieg, Verfolgung, Armut, Arbeitslosigkeit, Klimawandel.\n- **Pull:** Arbeit, Ausbildung, Studium, Familienzusammenführung, Sicherheit.\n\n**Toast:** **Auf Nicos Weg!** (auf + Akk.) – **Prost!**",
+    "ex": [
+      ["Ich bin überzeugt, dass du bestanden hast.", "I’m convinced that you passed."],
+      ["Ich weiß nicht, ob ich die Prüfung bestanden habe.", "I don’t know whether I passed the exam."],
+      ["Diese Prüfung ist der erste Schritt auf deinem neuen Weg.", "This exam is the first step on your new path."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was weiß Nico noch nicht?","o":["Ob er die Prüfung bestanden hat","Wann seine Ausbildung beginnt","Wo er wohnt"],"a":0,"why":"“Ich weiß doch noch gar nicht, ob ich die Prüfung bestanden habe.”","src":"video"},
+    {"t":"mc","q":"Wovor hat Nico Angst?","o":["Zu viele Fehler im schriftlichen Teil","Zu spät zu kommen","Vor dem Gespräch mit Selma"],"a":0,"why":"“… im schriftlichen Teil meines Tests zu viele Fehler gemacht habe.”","src":"video"},
+    {"t":"mc","q":"Was beginnt bald für Nico?","o":["Seine Ausbildung","Sein Studium","Eine Weltreise"],"a":0,"why":"“Und bald beginnt dann deine Ausbildung.”","src":"video"},
+    {"t":"mc","q":"Worauf trinken sie?","o":["Auf Nicos Weg","Auf Selma","Auf die Prüfung von Max"],"a":0,"why":"“Auf Nicos Weg!”","src":"video"},
+    {"t":"fill","q":"Ich hoffe, ___ ich bestanden habe. (that)","a":["dass"],"why":"dass-Satz nach hoffen.","src":"grammar"},
+    {"t":"fill","q":"Ich weiß nicht, ___ er kommt. (whether)","a":["ob"],"why":"ob bei Ja/Nein-Frage.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Ich habe Angst, dass ich durchfalle.","Ich habe Angst, dass ich falle durch.","Ich habe Angst, dass falle ich durch."],"a":0,"why":"Verb am Ende.","src":"grammar"},
+    {"t":"mc","q":"“durchfallen” bedeutet bei einer Prüfung:","o":["to fail","to fall through the floor","to pass with distinction"],"a":0,"why":"Gegenteil: bestehen.","src":"vocab"}
+  ]
+},
+"b1-71": {
+  "goal": "Explain reasons for staying or returning, talk about professional recognition, and use relative clauses in the genitive (dessen / deren).",
+  "words": [
+    ["der Abschluss, -¨e", "degree, qualification"],
+    ["anerkennen (lassen)", "to recognise (have recognised)"],
+    ["die Praxis, Praxen", "doctor’s practice"],
+    ["der Hausarzt / der Mediziner", "GP / doctor"],
+    ["der Bedarf (an + Dat.)", "need, demand"],
+    ["die Überstunden (Pl.) / die Nachtschicht, -en", "overtime / night shift"],
+    ["zugelassen werden", "to be licensed"],
+    ["eine Prüfung ablegen", "to take an exam"],
+    ["sich kümmern um + Akk.", "to take care of"],
+    ["die Zukunft planen / aufbauen", "to plan / build a future"],
+    ["kämpfen für", "to fight for"],
+    ["der Kredit, -e", "loan"]
+  ],
+  "grammar": {
+    "title": "Relative clauses in the genitive: dessen / deren",
+    "text": "**dessen / deren** = “whose”. It replaces the article of the **possessed noun**, so the following noun has **no article** and no case ending change:\n\n- **masc./neuter:** **dessen** → der Arzt, **dessen** Abschluss anerkannt wird\n- **feminine/plural:** **deren** → die Frau, **deren** Mann Arzt ist; die Familie, **deren** Heimat im Krieg ist\n\n**With a preposition:** Der Mann, **mit dessen** Tochter Nico spricht, …\n\n**Comparison with the normal relative pronoun:** Der Arzt, **der** aus Syrien kommt. (nominative) – Der Arzt, **den** ich kenne. (accusative) – Der Arzt, **dem** ich helfe. (dative)\n\n**Recognition in Germany:** Foreign degrees in medicine must be **anerkannt** before you may work; language exams and a **Approbation** are usually required.",
+    "ex": [
+      ["Ibrahim ist ein Arzt, dessen Abschluss in Deutschland noch nicht anerkannt ist.", "Ibrahim is a doctor whose degree is not yet recognised in Germany."],
+      ["Meine Familie, deren Heimat im Krieg ist, verdient eine Zukunft.", "My family, whose home country is at war, deserves a future."],
+      ["Es gibt in Deutschland viel zu wenige Hausärzte.", "There are far too few GPs in Germany."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Seit wann leben Ibrahim und seine Familie in Deutschland?","o":["Seit mehr als einem Jahr","Seit einem Monat","Seit zehn Jahren"],"a":0,"why":"“Wir leben hier seit mehr als einem Jahr.”","src":"video"},
+    {"t":"mc","q":"Was plant Ibrahim?","o":["Eine eigene Praxis zu eröffnen","Nach Syrien zurückzugehen","Ein Restaurant zu eröffnen"],"a":0,"why":"“… hier eine eigene Praxis eröffnen?”","src":"video"},
+    {"t":"mc","q":"Was muss Ibrahim für einen Job im Krankenhaus tun?","o":["Seinen Abschluss anerkennen lassen und Sprachprüfungen ablegen","Nur einen Sprachkurs besuchen","Nichts"],"a":0,"why":"“Auch dafür muss ich meinen Abschluss anerkennen lassen …”","src":"video"},
+    {"t":"mc","q":"Warum ist eine Hausarztpraxis für ihn attraktiv?","o":["Es gibt zu wenige Hausärzte und er hätte mehr Zeit für die Familie","Sie bringt sofort viel Geld","Es gibt keine Prüfungen"],"a":0,"why":"“Es gibt Bedarf … Und ich hätte Zeit für meine Familie.”","src":"video"},
+    {"t":"fill","q":"Das ist der Arzt, ___ Abschluss anerkannt wird. (whose, masc.)","a":["dessen"],"why":"dessen bei maskulin/neutrum.","src":"grammar"},
+    {"t":"fill","q":"Das ist die Frau, ___ Mann Arzt ist. (whose, fem.)","a":["deren"],"why":"deren bei feminin.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Das Kind, dessen Mutter Ärztin ist, spielt hier.","Das Kind, deren Mutter Ärztin ist, spielt hier.","Das Kind, das Mutter Ärztin ist, spielt hier."],"a":0,"why":"Kind = neutrum → dessen.","src":"grammar"},
+    {"t":"mc","q":"“der Abschluss” bedeutet hier:","o":["degree, qualification","conclusion of a speech","lock"],"a":0,"why":"Hochschulabschluss.","src":"vocab"}
+  ]
+},
+"b1-72": {
+  "goal": "Discuss business ideas and loans, and express contrasts with adversative connectors (aber, jedoch, dagegen, allerdings, trotzdem, (an)statt dass).",
+  "words": [
+    ["die Existenzgründung", "starting a business"],
+    ["der Kredit, -e / einen Kredit aufnehmen", "loan / to take out a loan"],
+    ["die Bank, -en / die Versicherung", "bank / insurance, guarantee"],
+    ["die Voraussetzung, -en", "requirement"],
+    ["die Kondition, -en", "terms, conditions"],
+    ["die Unterlagen (Pl.)", "documents"],
+    ["der Einkommensnachweis, -e", "proof of income"],
+    ["bürgen für + Akk.", "to vouch for, guarantee"],
+    ["die Verantwortung tragen", "to bear responsibility"],
+    ["einverstanden sein mit + Dat.", "to agree with"],
+    ["die Bürokratie", "bureaucracy"],
+    ["die Lösung, -en", "solution"]
+  ],
+  "grammar": {
+    "title": "Adversative connectors (contrast)",
+    "text": "**Contrast** shows a difference or opposition:\n\n**Main-clause connectors (position 0):** **aber**, **sondern**, **doch**: Ich bin kein reicher Mann, **aber** es muss eine Möglichkeit geben.\n\n**Adverbs (position 1, verb 2nd):** **jedoch**, **allerdings**, **dagegen**, **hingegen**, **trotzdem**:\n- Das ist gut, **jedoch** muss die Bank einverstanden sein.\n- Er ist arm, **trotzdem** will er eine Praxis eröffnen.\n- Die Stadt ist teuer. Auf dem Land **dagegen** ist es billig.\n\n**Subordinate:** **während**, **obwohl**, **(an)statt dass**: Ibrahim will hier bleiben, **während** seine Kinder noch überlegen. – **Anstatt dass** er aufgibt, kämpft er.\n\n**bürgen** = if you don’t pay, I am responsible. A **Bürge** guarantees a loan for another person.",
+    "ex": [
+      ["Die Konditionen sind mir bekannt und damit bin ich einverstanden.", "I know the terms and I agree with them."],
+      ["Das ist gut, jedoch muss vor allem die Bank mit dir einverstanden sein.", "That’s good, but above all the bank must agree with you."],
+      ["Ich bürge für dich – wenn du nicht zahlst, trage ich die Verantwortung.", "I’ll vouch for you – if you don’t pay, I bear the responsibility."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Warum ist es schwer für Ibrahim, einen Kredit zu bekommen?","o":["Er kann Einkommen und Liquidität nicht belegen","Er ist zu alt","Er hat schon einen Kredit"],"a":0,"why":"“Du kannst deine Liquidität nicht belegen. Außerdem fehlen einkommensnachweisende Unterlagen …”","src":"video"},
+    {"t":"mc","q":"Warum hat er keine Unterlagen?","o":["Sie sind in Syrien geblieben","Er hat sie verloren","Die Bank hat sie"],"a":0,"why":"“Die Unterlagen haben wir nicht mitgenommen.”","src":"video"},
+    {"t":"mc","q":"Was braucht die Bank?","o":["Eine Versicherung, dass er lange genug in Deutschland bleibt","Ein Auto","Eine Wohnung in Berlin"],"a":0,"why":"“Die Bank braucht eine Versicherung, dass du lange genug in Deutschland bleibst …”","src":"video"},
+    {"t":"mc","q":"Was bedeutet “Ich bürge für dich”?","o":["Wenn du nicht zahlst, trage ich die Verantwortung","Ich gebe dir das Geld","Ich schreibe dir einen Brief"],"a":0,"why":"Pepe erklärt das Wort.","src":"video"},
+    {"t":"fill","q":"Er ist arm, ___ eröffnet er eine Praxis. (nevertheless)","a":["trotzdem"],"why":"trotzdem + Verb an Position 2.","src":"grammar"},
+    {"t":"mc","q":"Welches Wort drückt einen Gegensatz aus?","o":["dagegen","deshalb","danach"],"a":0,"why":"dagegen = on the other hand.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Es ist teuer, jedoch lohnt es sich.","Es ist teuer, jedoch es lohnt sich.","Es ist teuer, jedoch sich lohnt es."],"a":0,"why":"jedoch + Verb an Position 2.","src":"grammar"},
+    {"t":"mc","q":"“die Existenzgründung” bedeutet:","o":["starting a business","founding a state","proof of existence"],"a":0,"why":"Startup / Selbstständigkeit.","src":"vocab"}
+  ]
+}
+}

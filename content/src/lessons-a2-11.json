@@ -1,0 +1,146 @@
+{
+"a2-45": {
+  "goal": "Compare life today with life in the past, using the Präteritum of müssen, dürfen and the common verbs sein, haben, geben, können.",
+  "words": [
+    ["früher / damals", "in the past / back then"],
+    ["heute", "today"],
+    ["die Jugend", "youth"],
+    ["der Brief, -e", "letter"],
+    ["das Telefon, -e / das Handy", "telephone / mobile"],
+    ["teuer / viel teurer als heute", "expensive / much dearer than today"],
+    ["erreichbar", "reachable"],
+    ["das Wiedersehen", "reunion"],
+    ["Das waren Zeiten!", "Those were the days!"],
+    ["Es gab kein Internet.", "There was no internet."],
+    ["Ich wünsche mir die alten Zeiten zurück.", "I wish the old days back."],
+    ["schade", "a pity"]
+  ],
+  "grammar": {
+    "title": "Simple past: müssen, dürfen (and können, wollen)",
+    "text": "In the past, modal verbs use the **Präteritum** (not the Perfekt): the stem loses its umlaut and adds **-te**:\n\n| Infinitive | ich / er | du | wir |\n|---|---|---|---|\n| müssen | **musste** | musstest | mussten |\n| dürfen | **durfte** | durftest | durften |\n| können | **konnte** | konntest | konnten |\n| wollen | **wollte** | wolltest | wollten |\n\nMy father **durfte** nicht anrufen. Er **musste** Briefe schreiben. Wir **konnten** das Telefon benutzen. Also: **sein → war**, **haben → hatte**, **es gibt → es gab**.",
+    "ex": [
+      ["Mein Vater durfte von dem Apparat nicht zu Hause anrufen.", "My father was not allowed to phone home from that device."],
+      ["Er musste immer Briefe an seine Familie schreiben.", "He always had to write letters to his family."],
+      ["Es gab noch nicht so viele Autos.", "There weren’t that many cars yet."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Why does Jacques say he is happy that Inge called?","o":["He got his phone back","He got a job","He lost his keys"],"a":0,"why":"“… dass ich mein Handy jetzt zurückbekommen habe.”","src":"video"},
+    {"t":"mc","q":"Why was Jacques’ father not allowed to phone France?","o":["It was too expensive","There was no line","The neighbours refused"],"a":0,"why":"“Das war viel zu teuer.”","src":"video"},
+    {"t":"mc","q":"What did Jacques’ father have to do instead?","o":["Write letters","Send telegrams","Travel"],"a":0,"why":"“Er musste immer Briefe … schreiben.”","src":"video"},
+    {"t":"mc","q":"How did Jacques’ family travel on holiday when he was a child?","o":["By train","By plane","By bus"],"a":0,"why":"“… sind wir noch mit dem Zug in den Urlaub gefahren.”","src":"video"},
+    {"t":"fill","q":"Mein Vater ___ nicht anrufen. (dürfen, Präteritum)","a":["durfte"],"why":"er durfte.","src":"grammar"},
+    {"t":"fill","q":"Er ___ Briefe schreiben. (müssen, Präteritum)","a":["musste"],"why":"er musste.","src":"grammar"},
+    {"t":"mc","q":"“Früher war das nicht so einfach.” means:","o":["In the past that wasn’t so easy.","Earlier today it wasn’t easy.","It was never easy."],"a":0,"why":"früher = in the past.","src":"vocab"},
+    {"t":"mc","q":"Which is the Präteritum of “es gibt”?","o":["es gab","es gibte","es gäbe"],"a":0,"why":"geben – gab.","src":"grammar"}
+  ]
+},
+"a2-46": {
+  "goal": "Describe how a place has changed, and use impersonal expressions with es (es gibt / gab, es sieht aus, es hat sich verändert).",
+  "words": [
+    ["die Kutsche, -n / die Kutschfahrt", "carriage / carriage ride"],
+    ["das Rathaus, -häuser", "town hall"],
+    ["das Zentrum / die Einkaufsstraße", "centre / shopping street"],
+    ["das Gebäude, -", "building"],
+    ["renoviert", "renovated"],
+    ["sich verändern", "to change"],
+    ["hässlich / schön", "ugly / beautiful"],
+    ["komplett anders", "completely different"],
+    ["Ich schau mich mal um.", "I’ll have a look around."],
+    ["Was für eine tolle Idee!", "What a great idea!"],
+    ["Ich weiß, was du meinst.", "I know what you mean."],
+    ["Ach was!", "Oh come on!"]
+  ],
+  "grammar": {
+    "title": "Impersonal verbs and expressions with es",
+    "text": "The pronoun **es** is used without a real subject:\n\n- **es gibt / es gab** (there is / there was): Gab es das neue Rathaus schon?\n- **es geht**, **es sieht … aus**: Es sieht alles komplett anders aus.\n- **es hat sich … verändert**: Es hat sich wirklich viel verändert.\n- weather and time: es regnet, es ist spät.\n- with dative: **es gefällt mir**, **es fehlt mir**, **es tut mir leid**.\n\nPräteritum: **Früher sahen** die Geschäfte nicht alle gleich **aus**. **Die Stadt war** kleiner **als** heute. Compare with **als**.",
+    "ex": [
+      ["Es hat sich wirklich viel verändert.", "A lot has really changed."],
+      ["Die war früher viel kleiner als heute.", "It used to be much smaller than today."],
+      ["Es sieht alles komplett anders aus.", "Everything looks completely different."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How do Inge and Jacques tour the city?","o":["A carriage ride","A bus tour","A walk by the river"],"a":0,"why":"“… fahren die Kutschen …”","src":"video"},
+    {"t":"mc","q":"When was Jacques last here?","o":["40 years ago","10 years ago","Last year"],"a":0,"why":"“Ich war vor 40 Jahren das letzte Mal hier.”","src":"video"},
+    {"t":"mc","q":"What has changed most, according to Jacques?","o":["The shopping street looks completely different","The river","The station"],"a":0,"why":"“Die Einkaufsstraße … es sieht alles komplett anders aus.”","src":"video"},
+    {"t":"mc","q":"What does Jacques plan to do in Germany?","o":["Open a restaurant","Retire","Study German"],"a":0,"why":"“Ich will aber in Deutschland ein Restaurant eröffnen.”","src":"video"},
+    {"t":"fill","q":"Gab ___ das neue Rathaus schon? (there)","a":["es"],"why":"es gab.","src":"grammar"},
+    {"t":"fill","q":"Das Zentrum war damals viel kleiner ___ heute. (than)","a":["als"],"why":"comparative + als.","src":"grammar"},
+    {"t":"mc","q":"“Es hat sich viel verändert.” means:","o":["A lot has changed.","It has been changed by me.","It has become old."],"a":0,"why":"sich verändern.","src":"vocab"},
+    {"t":"mc","q":"“hässlich” is the opposite of:","o":["schön","laut","neu"],"a":0,"why":"hässlich = ugly.","src":"vocab"}
+  ]
+},
+"a2-47": {
+  "goal": "Talk about traditions, gender roles and what people could, wanted or were allowed to do, using the Präteritum of können and wollen.",
+  "words": [
+    ["die Tradition, -en", "tradition"],
+    ["traditionell", "traditional"],
+    ["die Pflicht, -en", "duty"],
+    ["der Haushalt", "household"],
+    ["das Naturtalent", "natural talent"],
+    ["respektieren", "to respect"],
+    ["erwarten von", "to expect from"],
+    ["zurechtkommen mit", "to get along with"],
+    ["die Wahrheit sagen", "to tell the truth"],
+    ["erwachsen", "grown-up"],
+    ["Das geht nicht.", "That’s not possible / not done."],
+    ["Los, noch mal!", "Come on, again!"]
+  ],
+  "grammar": {
+    "title": "Simple past: können and wollen",
+    "text": "**können → konnte** (ich/er), **konntest**, **konnten**, **konntet**. **wollen → wollte**, **wolltest**, **wollten**, **wolltet**. No umlaut in the past.\n\n- Letzte Woche **konntest** du noch gar nicht Fahrrad fahren.\n- Warum **wollten** deine Eltern nicht, dass wir uns sehen?\n- Als meine Eltern jung waren, **durften** sie sich nicht sehen.\n\n**wollen** + dass-clause: Sie **wollen**, **dass** ich mich nicht alleine mit Männern treffe.",
+    "ex": [
+      ["Letzte Woche konntest du noch gar nicht Fahrrad fahren.", "Last week you couldn’t ride a bike at all."],
+      ["Sie wollen nicht, dass ich mich alleine mit Männern treffe.", "They don’t want me to meet men alone."],
+      ["Meine Familie erwartet von mir, dass ich unsere Tradition respektiere.", "My family expects me to respect our tradition."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What do Nico and Selma do together?","o":["Practise cycling","Cook","Study"],"a":0,"why":"“Du kannst es.” – “Du bist ein Naturtalent!”","src":"video"},
+    {"t":"mc","q":"How was Selma’s cycling a week ago?","o":["She could not ride at all","She was already good","She fell every time"],"a":0,"why":"“Letzte Woche konntest du noch gar nicht Fahrrad fahren.”","src":"video"},
+    {"t":"mc","q":"Why do Selma’s parents not want her to meet men alone?","o":["Tradition in some families","She is too young","They dislike Nico"],"a":0,"why":"“… in einigen traditionellen Familien …”","src":"video"},
+    {"t":"mc","q":"How does Selma feel about her parents?","o":["She loves them","She hates them","She ignores them"],"a":0,"why":"“Ich liebe meine Eltern.”","src":"video"},
+    {"t":"fill","q":"Letzte Woche ___ du noch nicht Fahrrad fahren. (können, du)","a":["konntest"],"why":"du konntest.","src":"grammar"},
+    {"t":"fill","q":"Sie ___ nicht, dass wir uns sehen. (wollen, Präteritum, sie plural)","a":["wollten"],"why":"sie wollten.","src":"grammar"},
+    {"t":"mc","q":"“die Pflicht” is:","o":["duty","permission","price"],"a":0,"why":"Pflichten im Haushalt.","src":"vocab"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Sie wollen, dass ich unsere Tradition respektiere.","Sie wollen, dass ich respektiere unsere Tradition.","Sie wollen, ich dass respektiere die Tradition."],"a":0,"why":"dass-clause: verb at the end.","src":"grammar"}
+  ]
+},
+"a2-48": {
+  "goal": "Talk about hobbies in the past and your life earlier, and form the Präteritum of regular verbs (machte, spielte, tanzte, lernte).",
+  "words": [
+    ["früher", "in the past"],
+    ["bremsen / die Bremse", "to brake / brake"],
+    ["ziehen", "to pull"],
+    ["tanzen – tanzte", "to dance"],
+    ["Basketball spielen – spielte", "to play basketball"],
+    ["Sport machen – machte", "to do sport"],
+    ["üblich / nicht üblich", "usual / not usual"],
+    ["verboten", "forbidden"],
+    ["die Freundin, -nen", "girlfriend (friend)"],
+    ["sich melden bei", "to get in touch with"],
+    ["Ich muss los.", "I have to go."],
+    ["sowieso", "anyway"]
+  ],
+  "grammar": {
+    "title": "Simple past of regular verbs",
+    "text": "Regular verbs form the Präteritum with **stem + -te**:\n\n| ich | du | er/sie/es | wir | ihr | sie |\n|---|---|---|---|---|---|\n| mach**te** | mach**test** | mach**te** | mach**ten** | mach**tet** | mach**ten** |\n\nStems ending in **-t / -d** add **-e-**: arbeiten → arbeit**e**te, baden → bad**e**te.\n\nIn speaking you often hear the Perfekt (Ich habe getanzt), in writing and narrative the Präteritum (Ich tanzte viele Jahre). Sample: Ich **spielte** Basketball. Ich **lernte** schnell. Sie **lebte** in Syrien.",
+    "ex": [
+      ["Ich habe mit meinen Freundinnen ein bisschen Basketball gespielt.", "I played a little basketball with my friends."],
+      ["Ich habe viele Jahre getanzt.", "I danced for many years."],
+      ["Er lernte schnell. / Sie lebte in Syrien.", "He learned quickly. / She lived in Syria."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Nico shout when Selma cannot stop the bike?","o":["“Bremsen! Ziehen!”","“Links!”","“Stopp!”"],"a":0,"why":"He tells her to brake and pull the lever.","src":"video"},
+    {"t":"mc","q":"What sport did Selma play with her friends in Syria?","o":["Basketball","Tennis","Swimming"],"a":0,"why":"“… ein bisschen Basketball gespielt.”","src":"video"},
+    {"t":"mc","q":"What did Selma do for many years?","o":["Dance","Sing","Paint"],"a":0,"why":"“Ich habe viele Jahre getanzt.”","src":"video"},
+    {"t":"mc","q":"What does Nico want her to do?","o":["Show him a dance","Play basketball","Sing"],"a":0,"why":"“Los, zeig mir einen Tanz!”","src":"video"},
+    {"t":"fill","q":"Er ___ schnell Deutsch. (lernen, Präteritum)","a":["lernte"],"why":"lernen – lernte.","src":"grammar"},
+    {"t":"fill","q":"Wir ___ viel Sport. (machen, Präteritum)","a":["machten"],"why":"wir machten.","src":"grammar"},
+    {"t":"mc","q":"“Ich melde mich bei dir.” means:","o":["I’ll get in touch.","I’m reporting you.","I’m checking in."],"a":0,"why":"sich melden.","src":"vocab"},
+    {"t":"mc","q":"“verboten” means:","o":["forbidden","common","boring"],"a":0,"why":"verbieten = to forbid.","src":"vocab"}
+  ]
+}
+}

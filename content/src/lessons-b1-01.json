@@ -1,0 +1,146 @@
+{
+"b1-05": {
+  "goal": "Talk about time pressure and planning, and turn verbs into nouns with zum / beim (Zeit zum Planen, beim Ausbauen).",
+  "words": [
+    ["die Neuigkeit, -en", "piece of news"],
+    ["der Investor, -en", "investor"],
+    ["umsetzen", "to implement"],
+    ["den Termin verschieben", "to postpone the date"],
+    ["die Küche ausbauen", "to extend the kitchen"],
+    ["Personal einstellen", "to hire staff"],
+    ["einarbeiten", "to train (a new employee)"],
+    ["der Businessplan", "business plan"],
+    ["die Bedingung, -en", "condition"],
+    ["stressig", "stressful"],
+    ["es ernst meinen", "to be serious about it"],
+    ["nie im Leben", "not in a million years"]
+  ],
+  "grammar": {
+    "title": "Nominalisation: verbs as nouns",
+    "text": "The infinitive of a verb can become a **neuter noun** (capital letter). It is very common after **zum** (zu + dem) and **beim** (bei + dem):\n\n- Zeit **zum Planen** (time for planning) – Zeit **zum Lernen**\n- **zum Ausbauen** der Küche brauchen wir Wochen.\n- **beim Kochen** (while cooking) – **beim Arbeiten**.\n\nAlternative with **um … zu**: ein paar Wochen, **um** neues Personal **einzustellen**. Rule: **zum + Infinitiv-Nomen** = purpose, **beim** = at the same time.",
+    "ex": [
+      ["Wir brauchen mehr Zeit zum Planen.", "We need more time for planning."],
+      ["Wir brauchen viel Zeit zum Ausbauen der Küche.", "We need a lot of time to extend the kitchen."],
+      ["Wir brauchen ein paar Wochen, um neues Personal einzustellen.", "We need a few weeks to hire new staff."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Wie viel Zeit gibt der Investor?","o":["Vier Wochen","Ein Jahr","Zwei Tage"],"a":0,"why":"“Er gibt uns vier Wochen Zeit.”","src":"video"},
+    {"t":"mc","q":"Was muss in einem Monat starten?","o":["Der Lieferservice","Das Oktoberfest","Die neue Speisekarte"],"a":0,"why":"“… den Lieferservice in einem Monat starten.”","src":"video"},
+    {"t":"mc","q":"Wofür brauchen Max und Tarek viel Zeit?","o":["Zum Ausbauen der Küche und um Personal einzustellen","Zum Kochen für die Gäste","Für Urlaub"],"a":0,"why":"Küche 3–4 Wochen, Personal einstellen.","src":"video"},
+    {"t":"mc","q":"Was übernimmt Pepe?","o":["App, Webseite und Businessplan","Die Küche","Das Personal"],"a":0,"why":"“Ich erstelle die App und die Webseite und überarbeite den Businessplan.”","src":"video"},
+    {"t":"fill","q":"Wir brauchen Zeit ___ Planen. (zu + dem)","a":["zum"],"why":"zum + Infinitiv-Nomen.","src":"grammar"},
+    {"t":"fill","q":"___ Kochen höre ich Musik. (while cooking: bei + dem)","a":["Beim"],"why":"beim Kochen.","src":"grammar"},
+    {"t":"mc","q":"“den Termin verschieben” bedeutet:","o":["to postpone the date","to fix the date","to cancel the date"],"a":0,"why":"verschieben = postpone.","src":"vocab"},
+    {"t":"mc","q":"“einarbeiten” bedeutet:","o":["to train a new employee","to work overtime","to sew in"],"a":0,"why":"neues Personal einarbeiten.","src":"vocab"}
+  ]
+},
+"b1-06": {
+  "goal": "Talk about time management and doing two things at once with während (subordinate clause) and während + Genitiv.",
+  "words": [
+    ["der Terminplan, -pläne", "schedule"],
+    ["verlegen", "to misplace"],
+    ["gleichzeitig", "at the same time"],
+    ["der Stressfaktor, -en", "stress factor"],
+    ["sich vertragen", "to make up, to get along"],
+    ["sich entspannen", "to relax"],
+    ["frisch gewischt", "freshly mopped"],
+    ["Das kommt nicht in Frage.", "That is out of the question."],
+    ["auf jemandes Seite sein", "to be on someone’s side"],
+    ["den Termin beim Frauenarzt", "the gynaecologist appointment"],
+    ["Es stört mich (nicht).", "It (doesn’t) bother me."],
+    ["Egal!", "Never mind!"]
+  ],
+  "grammar": {
+    "title": "Subordinate clauses with während",
+    "text": "**während** (while) links two actions that happen **at the same time**. The verb goes to the **end**:\n\n- Ich kann weitersuchen, **während** ich **telefoniere**.\n- Sie telefoniert, **während** sie die Sachen **zusammenpackt**.\n- **Während** wir beim Arzt **sind**, kann ich arbeiten.\n\nAs a **preposition** with the **Genitiv**: **während des** Unterrichts, **während der** Arbeit (during). The two clauses can have the same or different subjects.",
+    "ex": [
+      ["Ich kann weitersuchen, während ich telefoniere.", "I can keep looking while I’m on the phone."],
+      ["Die telefoniert, während sie die Sachen zusammenpackt.", "She’s on the phone while packing her things."],
+      ["Während des Unterrichts telefoniert man nicht.", "You don’t phone during class."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was hat Lisa verlegt?","o":["Ihren Terminplan","Ihr Handy","Ihre Schlüssel"],"a":0,"why":"“Ich habe meinen Terminplan verlegt.”","src":"video"},
+    {"t":"mc","q":"Was stört Sebastian (ironisch)?","o":["Lisa rennt durch das frisch gewischte Wohnzimmer","Nina kocht","Lisa singt"],"a":0,"why":"“… ständig durch das frisch gewischte Wohnzimmer rennt.”","src":"video"},
+    {"t":"mc","q":"Wohin will Lisa Nina begleiten?","o":["Zum Frauenarzt","Zum Sprachkurs","Zum Bahnhof"],"a":0,"why":"“Dein Termin beim Frauenarzt … Das kommt gar nicht in Frage.”","src":"video"},
+    {"t":"mc","q":"Was macht Lisa während des Arztbesuchs?","o":["Auf dem Laptop arbeiten","Kaffee trinken","Schlafen"],"a":0,"why":"“… kann ich auch noch ’n bisschen auf meinem Laptop arbeiten.”","src":"video"},
+    {"t":"fill","q":"Ich höre Musik, ___ ich koche. (while)","a":["während","waehrend"],"why":"während + Nebensatz.","src":"grammar"},
+    {"t":"fill","q":"Während ___ Unterrichts telefoniert man nicht. (genitive, masc.)","a":["des"],"why":"während + Genitiv.","src":"grammar"},
+    {"t":"mc","q":"“gleichzeitig” bedeutet:","o":["at the same time","one after the other","never"],"a":0,"why":"gleich + Zeit.","src":"vocab"},
+    {"t":"mc","q":"“Das kommt gar nicht in Frage.” bedeutet:","o":["That is out of the question.","That is not a question.","That comes later."],"a":0,"why":"in Frage kommen = be possible.","src":"vocab"}
+  ]
+},
+"b1-07": {
+  "goal": "Talk about punctuality and criticise behaviour politely but clearly, with sollte, wenn-clauses and um … zu.",
+  "words": [
+    ["die Pünktlichkeit / pünktlich", "punctuality / on time"],
+    ["unpünktlich / verspätet", "unpunctual / late"],
+    ["zu spät kommen", "to arrive late"],
+    ["sich entschuldigen (für)", "to apologise (for)"],
+    ["den Unterricht unterbrechen", "to interrupt the lesson"],
+    ["stören", "to disturb"],
+    ["inakzeptabel", "unacceptable"],
+    ["ständig", "constantly"],
+    ["die Flucht", "flight, fleeing"],
+    ["fliehen – floh – geflohen", "to flee"],
+    ["Mir reicht’s langsam.", "I’m getting fed up."],
+    ["grinsen", "to grin"]
+  ],
+  "grammar": {
+    "title": "Expressing expectations and criticism",
+    "text": "Formulate rules and criticism:\n\n- **man sollte …**: **Wenn man zu spät kommt, sollte man sich wenigstens entschuldigen.**\n- **wenn-clause** + main clause: **Wenn** ich zu spät **komme**, **entschuldige** ich mich.\n- **um … zu**: Ich musste rennen, **um** nicht zu spät **zu** kommen.\n- Criticise: **Findest du es in Ordnung, dass …?** – **Das stört alle.** – **Das ist inakzeptabel.** – **Mir reicht’s.**\n\nStrong wording only when you really need it; polite alternative: **Ich möchte Sie bitten, pünktlich zu sein.**",
+    "ex": [
+      ["Wenn man zu spät kommt, sollte man sich wenigstens entschuldigen.", "If you arrive late you should at least apologise."],
+      ["Ich musste rennen, um nicht zu spät zu kommen.", "I had to run so as not to be late."],
+      ["Findest du es in Ordnung, dass ich den Unterricht jedes Mal unterbrechen muss?", "Do you think it’s OK that I have to interrupt the lesson every time?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Worüber sprechen Inge und Selma im Unterricht?","o":["Über das Thema Flucht","Über Pünktlichkeit","Über Kochen"],"a":0,"why":"“… über das Thema Flucht sprechen werden.”","src":"video"},
+    {"t":"mc","q":"Warum ärgert sich Lisa?","o":["Schüler kommen ständig zu spät","Die Gäste sind unhöflich","Das Klassenzimmer ist zu kalt"],"a":0,"why":"“Diese ständige Unpünktlichkeit ist absolut inakzeptabel.”","src":"video"},
+    {"t":"mc","q":"Was sollte man tun, wenn man zu spät kommt?","o":["Sich wenigstens entschuldigen","Nichts sagen","Nach Hause gehen"],"a":0,"why":"“… dann sollte man sich wenigstens entschuldigen.”","src":"video"},
+    {"t":"mc","q":"Warum kam Lisa selbst fast zu spät?","o":["Sie musste rennen","Der Bus fuhr nicht","Sie hatte verschlafen"],"a":0,"why":"“… ich musste bloß rennen, um nicht zu spät zu kommen.”","src":"video"},
+    {"t":"fill","q":"Wenn man zu spät kommt, ___ man sich entschuldigen. (should)","a":["sollte"],"why":"man sollte …","src":"grammar"},
+    {"t":"fill","q":"Ich rannte, ___ nicht zu spät zu kommen. (in order)","a":["um"],"why":"um … zu.","src":"grammar"},
+    {"t":"mc","q":"“Mir reicht’s.” bedeutet:","o":["I’ve had enough.","It is enough for me to eat.","I can reach it."],"a":0,"why":"reichen = to be enough.","src":"vocab"},
+    {"t":"mc","q":"“inakzeptabel” bedeutet:","o":["unacceptable","invisible","incomprehensible"],"a":0,"why":"nicht akzeptabel.","src":"vocab"}
+  ]
+},
+"b1-08": {
+  "goal": "Report what someone said (indirect speech) and take decisions in a conflict, using dass / ob-clauses and changing pronouns and time words.",
+  "words": [
+    ["die indirekte Rede", "reported speech"],
+    ["fordern", "to demand"],
+    ["die Forderung, -en", "demand"],
+    ["der Deal, -s / das Geschäft", "deal / business"],
+    ["riskant / das Risiko", "risky / risk"],
+    ["der Geschäftspartner", "business partner"],
+    ["umsonst arbeiten", "to work for nothing"],
+    ["Prozent (50 %)", "percent"],
+    ["Recht haben", "to be right"],
+    ["jedenfalls", "at any rate"],
+    ["Das war doch klar.", "That was obvious."],
+    ["Was ist der Plan?", "What’s the plan?"]
+  ],
+  "grammar": {
+    "title": "Indirect speech (Indirekte Rede) with dass and ob",
+    "text": "To report what someone said, use **sagen / meinen / behaupten / fragen** + subordinate clause:\n\n- Direct: „Ich **will** 50 Prozent.“ → Indirect: Er sagt, **dass** er 50 Prozent **haben will**.\n- Direct: „Ist das eine gute Idee?“ → Er fragt, **ob** das eine gute Idee **ist**.\n- Change **pronouns** (ich → er) and **time words**: heute → an dem Tag / an diesem Tag, morgen → am nächsten Tag, gestern → am Tag davor.\n\nIn everyday German the **indicative** is enough; the subjunctive I (er wolle, es gebe) is used in writing / news.",
+    "ex": [
+      ["Er sagt, dass er 50 Prozent von unserem Geschäft haben will.", "He says that he wants 50 percent of our business."],
+      ["Tarek fragt, ob Pepe sie richtig verstanden hat.", "Tarek asks whether Pepe understood them correctly."],
+      ["Max sagt, dass Tarek recht hat.", "Max says that Tarek is right."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was verlangt der Investor für sein Geld?","o":["50 Prozent des Geschäfts","Ein neues Auto","Eine Küche"],"a":0,"why":"“Der will für sein Geld 50 Prozent von unserem Geschäft haben!”","src":"video"},
+    {"t":"mc","q":"Wie reagiert Tarek?","o":["Er will den Deal nicht – „Auf gar keinen Fall!“","Er nimmt sofort an","Er verhandelt nicht"],"a":0,"why":"“… es gibt kein Risiko mehr, weil es keinen Deal mehr gibt.”","src":"video"},
+    {"t":"mc","q":"Wie entscheidet Max am Ende?","o":["Er gibt Tarek recht: keinen Investor","Er nimmt den Investor","Er verkauft das Restaurant"],"a":0,"why":"“Tarek hat recht … Wir wollen keinen Investor.”","src":"video"},
+    {"t":"mc","q":"Was sagt Pepe zur Arbeit?","o":["Er arbeitet nicht umsonst","Er arbeitet gern ohne Geld","Er hört auf zu arbeiten"],"a":0,"why":"“Ich arbeite jedenfalls nicht umsonst.”","src":"video"},
+    {"t":"fill","q":"Er sagt, ___ er Zeit braucht. (that)","a":["dass"],"why":"dass-Satz.","src":"grammar"},
+    {"t":"fill","q":"Sie fragt, ___ das möglich ist. (whether)","a":["ob"],"why":"Ja/Nein-Frage → ob.","src":"grammar"},
+    {"t":"mc","q":"„Ich bin müde.“ → Er sagt, ...","o":["dass er müde ist.","dass ich müde bin.","dass er müde bin."],"a":0,"why":"Pronomen wechselt: ich → er.","src":"grammar"},
+    {"t":"mc","q":"“fordern” bedeutet:","o":["to demand","to promote","to fold"],"a":0,"why":"Der Investor fordert 50 %.","src":"vocab"}
+  ]
+}
+}

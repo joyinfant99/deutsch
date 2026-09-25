@@ -1,0 +1,67 @@
+{
+"a1": {
+  "title": "A1 Level Test",
+  "goal": "You have finished 76 Nicos Weg lessons. Today you prove that A1 is locked in before you move to A2.",
+  "notes": [
+    {
+      "heading": "How today works",
+      "text": "1. Skim the review sheet below (10 minutes).\n2. Optional but recommended: take the official **Final Test A1** on Deutsche Welle (material 1) and note your score.\n3. Take today’s 25-question exam. You need **70%** to complete the day. If you score less, read the explanations and retake it."
+    },
+    {
+      "heading": "Verbs you must know cold",
+      "text": "**sein:** ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind\n**haben:** ich habe, du hast, er hat, wir haben, ihr habt, sie haben\n**regular (kommen):** ich komme, du kommst, er kommt, wir kommen, ihr kommt, sie kommen\n**vowel change:** essen → du isst; nehmen → du nimmst; sprechen → du sprichst; fahren → du fährst",
+      "table": [
+        ["können: ich kann, du kannst", "can"],
+        ["müssen: ich muss, du musst", "must"],
+        ["wollen: ich will, du willst", "want"],
+        ["dürfen: ich darf, du darfst", "may"],
+        ["sollen: ich soll, du sollst", "should / supposed to"],
+        ["möchten: ich möchte, du möchtest", "would like"]
+      ]
+    },
+    {
+      "heading": "Cases and articles at a glance",
+      "text": "**Nominative** (subject): der Mann, die Frau, das Kind. **Accusative** (direct object): **den** Mann, die Frau, das Kind – only the masculine changes. **Dative** (after mit, bei, von, zu, nach, seit, aus; and verbs like helfen, gefallen): **dem** Mann, **der** Frau, **dem** Kind, **den** Kindern.\n\nTwo-way prepositions (an, auf, in, neben, unter, über, vor, hinter, zwischen): **Wo?** → dative, **Wohin?** → accusative.\n\n**kein** negates nouns; **nicht** negates everything else."
+    },
+    {
+      "heading": "Past tenses",
+      "text": "**Perfekt** = haben/sein + Partizip II at the end: Ich **habe** Pizza **gegessen**. Ich **bin** nach Berlin **gefahren**. **sein** for movement/change of state.\n\n**Präteritum** of sein and haben (spoken too): ich **war**, du **warst**, wir **waren**; ich **hatte**, du **hattest**, wir **hatten**."
+    },
+    {
+      "heading": "Time, numbers, comparison",
+      "text": "**Time:** um acht Uhr, von neun bis fünf, halb eins (12:30), Viertel nach/vor, am Montag, im Januar, morgens/abends.\n\n**Comparison:** schnell – schneller – am schnellsten; gut – besser – am besten; gern – lieber – am liebsten. Compare with **als** and **so … wie**.\n\n**Imperative (du):** Mach das! Iss mehr Obst! Sei leise! – (Sie): Nehmen Sie den Bus."
+    }
+  ],
+  "materials": [
+    {"kind":"exercise","title":"Final Test A1 – Nicos Weg","source":"Deutsche Welle","url":"https://learngerman.dw.com/en/final-test-a1/l-44875550","minutes":20,"focus":"Take the official course test. Write down your score; anything under 70% tells you which unit to review."},
+    {"kind":"pdf","title":"Grammar overview A1 (Nicos Weg)","source":"Deutsche Welle","url":"https://learngerman.dw.com/downloads/52650199/grammar-overview-nicos-weg-a1.pdf","minutes":10,"focus":"Skim the whole A1 grammar in one PDF and mark any table you cannot recite from memory."}
+  ],
+  "quiz": [
+    {"t":"mc","q":"You meet your new boss. Which question is correct?","o":["Wie geht es Ihnen?","Wie geht’s dir?","Wie bist du?"],"a":0,"why":"Formal you → Sie / Ihnen."},
+    {"t":"fill","q":"Ich ___ Nico und ich ___ aus Spanien. (heißen / kommen) – first verb only:","a":["heiße","heisse"],"why":"ich heiße."},
+    {"t":"mc","q":"How do you say 37 in German?","o":["siebenunddreißig","dreißigsieben","siebendreißig"],"a":0,"why":"Unit first, then ten."},
+    {"t":"mc","q":"What time is “halb drei”?","o":["2:30","3:30","3:00"],"a":0,"why":"halb drei = half an hour before three."},
+    {"t":"fill","q":"Du ___ sehr gut Deutsch. (sprechen)","a":["sprichst"],"why":"e → i in the du-form."},
+    {"t":"mc","q":"Which article goes with “Kaffee”?","o":["der","die","das"],"a":0,"why":"der Kaffee."},
+    {"t":"fill","q":"Ich habe ___ Auto. (no car)","a":["kein"],"why":"neuter noun: kein."},
+    {"t":"mc","q":"Which sentence is correct?","o":["Das Zimmer ist nicht groß.","Das Zimmer ist kein groß.","Das Zimmer nicht ist groß."],"a":0,"why":"nicht before the adjective."},
+    {"t":"fill","q":"Am Montag ___ ich um sieben Uhr auf. (aufstehen)","a":["stehe"],"why":"separable verb: ich stehe … auf."},
+    {"t":"mc","q":"Which sentence is correct?","o":["Ich kann heute nicht kommen.","Ich kann nicht heute kommen.","Ich kommen kann heute nicht."],"a":0,"why":"modal verb second, infinitive at the end."},
+    {"t":"fill","q":"Du ___ einen Termin beim Arzt. (müssen)","a":["musst"],"why":"du musst."},
+    {"t":"mc","q":"“Du darfst nicht so stark auftreten.” means:","o":["You must not step down so hard.","You do not have to step down.","You cannot step down."],"a":0,"why":"nicht dürfen = forbidden."},
+    {"t":"fill","q":"Ich fahre mit ___ Bus. (masculine, dative)","a":["dem"],"why":"mit + dative: dem Bus."},
+    {"t":"mc","q":"“Der Stift liegt ___ Tisch.” (on the table, position)","o":["auf dem","auf den","auf der"],"a":0,"why":"wo? → dative: auf dem Tisch."},
+    {"t":"fill","q":"Gestern ___ ich im Kino. (sein, Präteritum)","a":["war"],"why":"ich war."},
+    {"t":"fill","q":"Ich ___ gestern Pizza gegessen. (Perfekt of essen)","a":["habe"],"why":"essen + haben."},
+    {"t":"mc","q":"Which auxiliary verb: “Wir ___ nach Berlin gefahren.”","o":["sind","haben","waren"],"a":0,"why":"fahren = movement → sein."},
+    {"t":"mc","q":"gut – besser – ?","o":["am besten","am gutesten","am bestesten"],"a":0,"why":"irregular."},
+    {"t":"fill","q":"Tee ist gesünder ___ Cola.","a":["als"],"why":"comparative + als."},
+    {"t":"fill","q":"___ viel Wasser! (trinken, du-imperative)","a":["Trink"],"why":"stem of the du-form."},
+    {"t":"fill","q":"Das Hemd gefällt ___. (me)","a":["mir"],"why":"gefallen + dative."},
+    {"t":"fill","q":"Kennst du Yara? – Ja, ich kenne ___. (her)","a":["sie"],"why":"accusative of sie: sie."},
+    {"t":"mc","q":"“Ich hätte gern einen Kaffee.” is:","o":["a polite request","a question","an order to someone else"],"a":0,"why":"Konjunktiv II: hätte gern."},
+    {"t":"mc","q":"Which is correct?","o":["Ich möchte einen warmen Pullover.","Ich möchte ein warmen Pullover.","Ich möchte eine warmer Pullover."],"a":0,"why":"einen warmen Pullover (masc. acc.)."},
+    {"t":"fill","q":"Ich wohne ___ Frau Kohlhaas. (at her place)","a":["bei"],"why":"bei + dative."}
+  ]
+}
+}

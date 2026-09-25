@@ -1,0 +1,661 @@
+{
+"b1-13": {
+"goal": "Talk about everyday problems and small frustrations at work, and describe what bothers you (stören, sich beklagen, Probleme mit).",
+"words": [
+[
+"das Problem, -e / der Alltag",
+"problem / everyday life"
+],
+[
+"stören",
+"to disturb, to bother"
+],
+[
+"sich beklagen (über)",
+"to complain (about)"
+],
+[
+"eklig",
+"disgusting"
+],
+[
+"der Geruch, Gerüche / riechen",
+"smell / to smell"
+],
+[
+"das Fett",
+"fat, grease"
+],
+[
+"die Entscheidung, -en",
+"decision"
+],
+[
+"die Tafel (Lebensmittel-)",
+"food bank"
+],
+[
+"das Altenheim, -e",
+"retirement home"
+],
+[
+"Zutaten, die übrig bleiben",
+"ingredients that are left over"
+],
+[
+"Sie macht mir Sorgen.",
+"She worries me."
+],
+[
+"Mahlzeit!",
+"Enjoy your meal! (greeting at lunch)"
+]
+],
+"grammar": {
+"title": "Talking about problems and worries",
+"text": "Useful patterns to describe what bothers you:\n\n- **Es stört mich, dass …** – Das stört mich. (stören + Akk.)\n- **Ich habe Probleme mit** + Dat.: Ich habe Probleme **mit** der Sprache.\n- **Ich möchte mich nicht beklagen, aber …** (**sich beklagen über** + Akk.)\n- **… macht mir Sorgen.** (dative: **mir**) – Sie macht **mir** große Sorgen.\n- **Ich kann … nicht mehr riechen / sehen / hören.** (I’ve had enough of it)\n\n**nicht … sondern** for corrections: Wir sollten **nicht** an Privatpersonen liefern, **sondern** an Institutionen.",
+"ex": [
+[
+"Ich möchte mich auch nicht beklagen.",
+"I don’t want to complain either."
+],
+[
+"Hier hab ich noch Probleme mit der Sprache.",
+"Here I still have problems with the language."
+],
+[
+"Wir sollten nicht an Privatpersonen liefern, sondern an Institutionen.",
+"We shouldn’t deliver to private individuals but to institutions."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "Welche neue Idee für den Lieferservice hat Tarek?",
+"o": [
+"An Institutionen liefern (Tafel, Kindergärten, Altenheime)",
+"Nur Pizza liefern",
+"Das Restaurant vergrößern"
+],
+"a": 0,
+"why": "“… nicht an Privatpersonen liefern, sondern an Institutionen.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Was soll geliefert werden?",
+"o": [
+"Übrig gebliebene Zutaten, kostenlos",
+"Nur Nachtisch",
+"Getränke"
+],
+"a": 0,
+"why": "“… einen kostenlosen Service mit Zutaten, die übrig bleiben.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Was stört Ibrahim an seiner Arbeit?",
+"o": [
+"Der Geruch nach Fett",
+"Die Kollegen",
+"Die Arbeitszeit"
+],
+"a": 0,
+"why": "“Dieser Geruch nach Fett … ist ziemlich eklig.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Was macht Ibrahim Sorgen?",
+"o": [
+"Seine Tochter",
+"Sein Auto",
+"Seine Miete"
+],
+"a": 0,
+"why": "“Sie macht mir große Sorgen.”",
+"src": "video"
+},
+{
+"t": "fill",
+"q": "Das macht ___ Sorgen. (to me)",
+"a": [
+"mir"
+],
+"why": "Sorgen machen + Dativ.",
+"src": "grammar"
+},
+{
+"t": "fill",
+"q": "Ich habe Probleme ___ der Sprache. (with)",
+"a": [
+"mit"
+],
+"why": "Probleme mit + Dat.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“Wir liefern nicht an Privatpersonen, ___ an Institutionen.”",
+"o": [
+"sondern",
+"aber",
+"denn"
+],
+"a": 0,
+"why": "nicht … sondern.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“eklig” bedeutet:",
+"o": [
+"disgusting",
+"exciting",
+"empty"
+],
+"a": 0,
+"why": "ein ekliger Geruch.",
+"src": "vocab"
+}
+]
+},
+"b1-14": {
+"goal": "Give and understand reasons with causal adverbs (deshalb, deswegen, darum, daher, nämlich), and talk about money problems and honesty.",
+"words": [
+[
+"das Geld / die Schulden (pl.)",
+"money / debts"
+],
+[
+"finanzielle Probleme haben",
+"to have financial problems"
+],
+[
+"der Auftrag, Aufträge",
+"order, contract"
+],
+[
+"das Angebot, -e",
+"offer"
+],
+[
+"fair / günstig",
+"fair / cheap"
+],
+[
+"lügen – log – gelogen",
+"to lie"
+],
+[
+"die Wahrheit sagen",
+"to tell the truth"
+],
+[
+"erfolgreich",
+"successful"
+],
+[
+"ein Beispiel nehmen an + Dat.",
+"to take an example from"
+],
+[
+"das Geschäft platzt",
+"the deal falls through"
+],
+[
+"Mach was draus!",
+"Make something of it!"
+],
+[
+"Wie soll ich dich ernst nehmen?",
+"How am I supposed to take you seriously?"
+]
+],
+"grammar": {
+"title": "Adverbs of reason: deshalb, deswegen, darum, daher, nämlich",
+"text": "These **adverbs** give a **consequence** or a reason. After them the **verb** comes immediately (position 2):\n\n- Familie ist wichtig. **Deswegen** **möchte** ich dir helfen.\n- Meiner Firma geht es schlecht. **Darum** **brauche** ich die Aufträge.\n- **Deshalb / Daher** kommt er jetzt zu mir.\n\n**nämlich** (you see, because) stands **in the middle** of a sentence and gives a reason: Ich brauche den Auftrag, ich habe **nämlich** Schulden.\n\nCompare: **weil** (verb at the end) – **denn** (verb second) – **deshalb** (verb directly after it).",
+"ex": [
+[
+"Familie ist das Wichtigste. Deswegen möchte ich dir helfen.",
+"Family is the most important thing. That’s why I want to help you."
+],
+[
+"Ich hab Schulden. Darum brauche ich die Aufträge.",
+"I have debts. That’s why I need the jobs."
+],
+[
+"Ich brauche das Geld, ich habe nämlich Schulden.",
+"I need the money, I have debts, you see."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "Warum bietet Pepe Yara jetzt eine Website an?",
+"o": [
+"Er braucht Aufträge, weil seine Firma finanzielle Probleme hat",
+"Er ist ihr Neffe",
+"Er will sie nicht verärgern"
+],
+"a": 0,
+"why": "“Meiner Firma geht es schlecht … Ich hab Schulden.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Was hat Pepe seinen Eltern nicht gesagt?",
+"o": [
+"Dass er kein Geld mehr hat",
+"Dass er heiratet",
+"Dass er ausgezogen ist"
+],
+"a": 0,
+"why": "“Ich hab gelogen. Ich wollte, dass unsere Eltern stolz auf mich sind.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Was muss Pepe laut Yara jetzt tun?",
+"o": [
+"Die Wahrheit sagen und neu anfangen",
+"Noch mehr arbeiten",
+"Ein Auto kaufen"
+],
+"a": 0,
+"why": "“Du wirst die Wahrheit sagen … Du musst ganz neu anfangen.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Was bekommt Pepe von Yara?",
+"o": [
+"Den Auftrag für ihre Website",
+"Geld",
+"Nichts"
+],
+"a": 0,
+"why": "“Du bekommst meine Website. Mach was draus.”",
+"src": "video"
+},
+{
+"t": "fill",
+"q": "Ich habe Schulden. ___ brauche ich Aufträge. (that’s why)",
+"a": [
+"Deshalb",
+"Deswegen",
+"Darum",
+"Daher"
+],
+"why": "Konnektor + Verb an Position 2.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "Welcher Satz ist richtig?",
+"o": [
+"Ich bin müde. Deshalb gehe ich schlafen.",
+"Ich bin müde. Deshalb ich gehe schlafen.",
+"Ich bin müde. Deshalb schlafen gehe ich."
+],
+"a": 0,
+"why": "Verb direkt nach deshalb.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“die Schulden” bedeutet:",
+"o": [
+"debts",
+"school",
+"guilt (only)"
+],
+"a": 0,
+"why": "Schulden haben.",
+"src": "vocab"
+},
+{
+"t": "mc",
+"q": "“ein Beispiel nehmen an” bedeutet:",
+"o": [
+"to take someone as a model",
+"to take an example home",
+"to give an example"
+],
+"a": 0,
+"why": "Nimm dir ein Beispiel an Pepe!",
+"src": "vocab"
+}
+]
+},
+"b1-15": {
+"goal": "Give tips and advice with the Konjunktiv II (du solltest, du könntest, an deiner Stelle würde ich) and talk about stress.",
+"words": [
+[
+"gestresst sein",
+"to be stressed"
+],
+[
+"der Stress / der Stressfaktor",
+"stress / stress factor"
+],
+[
+"in letzter Zeit",
+"lately"
+],
+[
+"Nein sagen",
+"to say no"
+],
+[
+"sich entscheiden",
+"to decide"
+],
+[
+"die Beratung, -en",
+"counselling"
+],
+[
+"der Yoga-Kurs",
+"yoga class"
+],
+[
+"die Frauenarztpraxis",
+"gynaecologist’s practice"
+],
+[
+"untersuchen / die Untersuchung",
+"to examine / examination"
+],
+[
+"Apropos …",
+"By the way …"
+],
+[
+"Du bist auch nur ein Mensch.",
+"You’re only human too."
+],
+[
+"Lass uns reingehen.",
+"Let’s go in."
+]
+],
+"grammar": {
+"title": "Konjunktiv II for tips and advice",
+"text": "Give advice with the **Konjunktiv II** of modal verbs:\n\n- Du **solltest** weniger arbeiten. (you should)\n- Du **könntest** auch mal Nein sagen. (you could)\n- Du **müsstest** dich ausruhen. (you would have to)\n- **An deiner Stelle würde ich** eine Beratung machen. (if I were you)\n- Ich **würde** dir **raten**, einen Yoga-Kurs zu machen.\n\nForms: **würde + Infinitiv** (ich würde, du würdest, er würde …); **hätte, wäre, könnte, sollte, müsste, dürfte**. A condition with **nur, wenn**: Ich mache Yoga, **nur wenn** du mitkommst.",
+"ex": [
+[
+"Ich finde, du solltest einfach mal weniger arbeiten.",
+"I think you should just work less for once."
+],
+[
+"Du könntest auch mal Nein sagen.",
+"You could also say no for once."
+],
+[
+"Ich mache einen Yoga-Kurs, aber nur, wenn du mitkommst.",
+"I’ll do a yoga course, but only if you come along."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "Warum ist Lisa gestresst?",
+"o": [
+"Einige Kollegen sind krank",
+"Sie hat Prüfungen",
+"Sie hat Streit mit Sebastian"
+],
+"a": 0,
+"why": "“… weil einige Kollegen krank sind.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Welchen Rat gibt Nina Lisa?",
+"o": [
+"Weniger arbeiten und auch mal Nein sagen",
+"Mehr arbeiten",
+"Urlaub im Ausland machen"
+],
+"a": 0,
+"why": "“… du solltest einfach mal weniger arbeiten. Du könntest auch mal Nein sagen.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Was macht Nina Stress?",
+"o": [
+"Sie weiß nicht, ob sie das Kind will",
+"Ihr Studium",
+"Ihre Wohnung"
+],
+"a": 0,
+"why": "“Ich weiß immer noch nicht, ob ich das Kind überhaupt will.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Welchen Deal machen die beiden?",
+"o": [
+"Nina macht eine Beratung, wenn Lisa einen Yoga-Kurs macht",
+"Nina zieht aus, wenn Lisa zieht",
+"Lisa zahlt die Miete, wenn Nina arbeitet"
+],
+"a": 0,
+"why": "“Aber nur, wenn du einen Yoga-Kurs machst.” – “Nur, wenn du mitkommst.”",
+"src": "video"
+},
+{
+"t": "fill",
+"q": "Du ___ weniger arbeiten. (sollen, Konjunktiv II)",
+"a": [
+"solltest"
+],
+"why": "du solltest.",
+"src": "grammar"
+},
+{
+"t": "fill",
+"q": "An deiner Stelle ___ ich Nein sagen. (würde)",
+"a": [
+"würde",
+"wuerde"
+],
+"why": "würde + Infinitiv.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "Welcher Satz gibt einen Rat?",
+"o": [
+"Du könntest mal Urlaub machen.",
+"Du hast Urlaub gemacht.",
+"Du machst Urlaub."
+],
+"a": 0,
+"why": "könntest = Vorschlag.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“in letzter Zeit” bedeutet:",
+"o": [
+"lately",
+"at the last time",
+"at the end"
+],
+"a": 0,
+"why": "in letzter Zeit = recently.",
+"src": "vocab"
+}
+]
+},
+"b1-16": {
+"goal": "Give and accept advice among friends and family, make promises and apologise, and use irregular du-imperatives (vergiss, versprich).",
+"words": [
+[
+"ein guter Bruder sein",
+"to be a good brother"
+],
+[
+"für jemanden da sein",
+"to be there for someone"
+],
+[
+"Ich will nicht zurückschauen.",
+"I don’t want to look back."
+],
+[
+"Was passiert ist, ist passiert.",
+"What’s done is done."
+],
+[
+"einander unterstützen",
+"to support each other"
+],
+[
+"aufeinander aufpassen",
+"to look after each other"
+],
+[
+"nicht aufgeben",
+"not to give up"
+],
+[
+"Versprich mir das!",
+"Promise me that!"
+],
+[
+"Versprochen!",
+"Promise!"
+],
+[
+"der Fehler, -",
+"mistake"
+],
+[
+"Vergiss es!",
+"Forget it!"
+],
+[
+"Mach dir keine Sorgen.",
+"Don’t worry."
+]
+],
+"grammar": {
+"title": "Imperative with vowel change and einander",
+"text": "The **du-imperative** of irregular verbs keeps the vowel change (no -e, no umlaut):\n\n- vergessen → **Vergiss** es! – versprechen → **Versprich** mir das! – helfen → **Hilf** mir! – geben → **Gib** mir das! – nehmen → **Nimm** es! – sprechen → **Sprich** langsam! – lesen → **Lies**!\n- **sein**: **Sei** ehrlich! – Regular: **Mach** dir keine Sorgen! – **Geh** nicht weg!\n\n**einander** (each other) replaces reflexive **sich/uns**: Wir unterstützen **einander**. Wir helfen **einander**. With prepositions: **aufeinander** aufpassen, **miteinander** sprechen, **füreinander** da sein.",
+"ex": [
+[
+"Vergiss es! Ich will nicht mehr zurückschauen.",
+"Forget it! I don’t want to look back any more."
+],
+[
+"Versprich mir das! – Versprochen.",
+"Promise me that! – Promised."
+],
+[
+"Wir passen auf uns auf und unterstützen einander.",
+"We look after ourselves and support each other."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "Was gibt Pepe zu?",
+"o": [
+"Er war die letzten Jahre kein guter Bruder",
+"Er hat Nicos Geld genommen",
+"Er hat Nico angelogen (zum ersten Mal)"
+],
+"a": 0,
+"why": "“Ich war die letzten Jahre kein guter Bruder.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Was antwortet Nico?",
+"o": [
+"Er will nicht mehr zurückschauen – jetzt fangen sie neu an",
+"Er ist noch wütend",
+"Er geht weg"
+],
+"a": 0,
+"why": "“Vergiss es! Ich will nicht mehr zurückschauen.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Was versprechen sich die Brüder?",
+"o": [
+"Einander zu helfen und nicht aufzugeben",
+"Nichts zu sagen",
+"Zusammen nach Spanien zu fahren"
+],
+"a": 0,
+"why": "“Wir … unterstützen einander … Wir geben nicht auf, versprochen?”",
+"src": "video"
+},
+{
+"t": "fill",
+"q": "___ es! (vergessen, du-Imperativ)",
+"a": [
+"Vergiss"
+],
+"why": "vergessen → Vergiss!",
+"src": "grammar"
+},
+{
+"t": "fill",
+"q": "___ mir das! (versprechen, du-Imperativ)",
+"a": [
+"Versprich"
+],
+"why": "versprechen → Versprich!",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "Welche Form ist richtig?",
+"o": [
+"Hilf mir bitte!",
+"Helf mir bitte!",
+"Helfe mir bitte!"
+],
+"a": 0,
+"why": "helfen → Hilf!",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“einander” bedeutet:",
+"o": [
+"each other",
+"one another’s other",
+"another"
+],
+"a": 0,
+"why": "Wir helfen einander.",
+"src": "vocab"
+},
+{
+"t": "mc",
+"q": "“für jemanden da sein” bedeutet:",
+"o": [
+"to be there for someone",
+"to be there instead of someone",
+"to be in front of someone"
+],
+"a": 0,
+"why": "Ich war nicht für dich da.",
+"src": "vocab"
+}
+]
+}
+}

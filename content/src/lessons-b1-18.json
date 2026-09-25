@@ -1,0 +1,146 @@
+{
+"b1-73": {
+  "goal": "Discuss reasons for leaving one’s home, express assumptions (Vermutungen), and use the relative adverb wo.",
+  "words": [
+    ["die Heimat / das Zuhause", "homeland / home"],
+    ["die Regierung, -en", "government"],
+    ["verfolgen / verfolgt werden", "to persecute / to be persecuted"],
+    ["das Asyl / Asyl beantragen", "asylum / to apply for asylum"],
+    ["das Kriegsgebiet, -e", "war zone"],
+    ["der Frieden", "peace"],
+    ["fürchten (um)", "to fear (for)"],
+    ["der Papierkram", "paperwork"],
+    ["das Visum, Visa", "visa"],
+    ["der Migrationshintergrund", "migration background"],
+    ["unzufrieden mit + Dat.", "dissatisfied with"],
+    ["die Perspektive, -n", "prospect, outlook"]
+  ],
+  "grammar": {
+    "title": "Assumptions (Vermutungen) and the relative adverb wo",
+    "text": "**Expressing assumptions:**\n- **wahrscheinlich, vermutlich, wohl, vielleicht, bestimmt, sicher**: Das größte Problem ist **wahrscheinlich** die Sprache.\n- **Ich nehme an / Ich vermute, dass …**\n- **Es kann sein, dass …** · **Es könnte sein, dass …**\n- **müssen** (strong): Er **muss** zu Hause sein. **können/könnten** (weak): Er **könnte** krank sein.\n\n**Relative adverb wo:** instead of *in + Pronomen* for places and times:\n- Ein Zuhause, **in dem** man sich zu Hause fühlt = ein Zuhause, **wo** man sich zu Hause fühlt.\n- Die Stadt, **wo** ich geboren bin. · Das Land, **in dem** sie leben.\n- **Time:** Der Tag, **an dem** wir ankamen = **wo** is not used for time in formal writing.\n\n**Migration words:** der Flüchtling, der Asylbewerber, die Integration, die Aufenthaltserlaubnis (residence permit).",
+    "ex": [
+      ["Das größte Problem ist wahrscheinlich, dass man die Sprache nicht kann.", "The biggest problem is probably not knowing the language."],
+      ["Ein Zuhause zu finden, wo man sich zu Hause fühlt, ist nicht einfach.", "Finding a home where you feel at home isn’t easy."],
+      ["Manche Menschen werden politisch verfolgt und können Asyl beantragen.", "Some people are politically persecuted and can apply for asylum."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Worüber spricht Lisa mit ihren Schülern?","o":["Über Gründe für Migration","Über Steuern","Über Kochrezepte"],"a":0,"why":"“Also, welche Migrationsgründe kennt ihr?”","src":"video"},
+    {"t":"mc","q":"Was können verfolgte Menschen in anderen Ländern beantragen?","o":["Asyl","Ein Fahrrad","Eine Kreditkarte"],"a":0,"why":"“Diese Menschen können in anderen Ländern Asyl beantragen.”","src":"video"},
+    {"t":"mc","q":"Was ist wahrscheinlich das größte Problem für Migranten?","o":["Dass man die Sprache nicht kann","Das Wetter","Das Essen"],"a":0,"why":"“… das größte Problem ist wahrscheinlich, dass man die Sprache nicht kann.”","src":"video"},
+    {"t":"mc","q":"Welchen Papierkram nennt Lisa?","o":["Asyl, Visum, Pass und Ausweis beantragen","Nur den Führerschein","Nur das Zeugnis"],"a":0,"why":"“Asyl beantragen, Visum beantragen, Pass beantragen, Ausweis beantragen.”","src":"video"},
+    {"t":"fill","q":"Die Stadt, ___ ich geboren bin, ist klein. (where)","a":["wo","in der"],"why":"Relativadverb wo / in der.","src":"grammar"},
+    {"t":"mc","q":"Welches Wort drückt eine Vermutung aus?","o":["wahrscheinlich","gestern","leider"],"a":0,"why":"wahrscheinlich = probably.","src":"grammar"},
+    {"t":"mc","q":"Er ___ zu Hause sein – das Licht brennt. (starke Vermutung)","o":["muss","darf","soll"],"a":0,"why":"müssen = strong assumption.","src":"grammar"},
+    {"t":"mc","q":"“der Migrationshintergrund” bedeutet:","o":["migration background","migrating bird","migrant worker’s wage"],"a":0,"why":"Eigene oder familiäre Einwanderung.","src":"vocab"}
+  ]
+},
+"b1-74": {
+  "goal": "Describe a process step by step (recipe or how-to) and use lassen + Infinitiv (lass es uns wissen, sich etwas machen lassen).",
+  "words": [
+    ["das Rezept, -e / die Zutaten (Pl.)", "recipe / ingredients"],
+    ["schälen / waschen / schneiden", "to peel / to wash / to cut"],
+    ["kochen / braten / backen", "to boil, cook / to fry / to bake"],
+    ["die Kartoffel, -n", "potato"],
+    ["die Anregung, -en", "suggestion"],
+    ["der Ursprung", "origin"],
+    ["mittlerweile", "by now, meanwhile"],
+    ["zuerst – dann – danach – zum Schluss", "first – then – after that – finally"],
+    ["wiedergutmachen", "to make up for"],
+    ["stören / die Aufnahme", "to disturb / recording"],
+    ["anflehen", "to beg"],
+    ["Das ist Pech.", "That’s bad luck."]
+  ],
+  "grammar": {
+    "title": "lassen + Infinitiv; describing a process",
+    "text": "**lassen + Infinitiv** has three main meanings (without zu!):\n\n1. **allow / let**: **Lass mich** das erklären! – Lassen Sie es mich wiedergutmachen.\n2. **have something done (Veranlassung)**: Ich **lasse** mein Fahrrad **reparieren**. – Er **lässt** sich die Haare **schneiden**.\n3. **leave / let stay**: Wir **lassen** die Kamera **laufen**. – Ich **habe** mein Handy zu Hause **gelassen**.\n\n**Perfect:** Ersatzinfinitiv: Ich **habe** ihn **kommen lassen** (not gelassen).\n\n**Imperative:** **Lasst es uns wissen!** (ihr) · **Lass** es mich wissen! (du) · **Lassen Sie** es mich wissen! (Sie)\n\n**Describing a process (passive):** **Zuerst** werden die Kartoffeln **geschält**, **dann** gewaschen und **zum Schluss** klein geschnitten.\n\n**Himmel und Erde:** a dish from the Rhineland/Westphalia of **Kartoffeln (Erde)** and **Äpfel (Himmel)**, often with Blutwurst.",
+    "ex": [
+      ["Wenn ihr Ideen habt, lasst es uns wissen!", "If you have ideas, let us know!"],
+      ["Wir lassen die ganze Zeit die Kamera laufen.", "We’re letting the camera run all the time."],
+      ["Zuerst werden die Kartoffeln geschält, dann gewaschen und klein geschnitten.", "First the potatoes are peeled, then washed and cut small."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was machen Max und Tarek im Restaurant?","o":["Sie drehen ein Video über ein Gericht","Sie schließen","Sie streiten mit Gästen"],"a":0,"why":"Video über “Himmel und Erde”.","src":"video"},
+    {"t":"mc","q":"Woher kommt die Kartoffel ursprünglich?","o":["Aus Südamerika","Aus Deutschland","Aus Frankreich"],"a":0,"why":"“Ursprünglich kommt die Kartoffel aus Südamerika.”","src":"video"},
+    {"t":"mc","q":"Was will Jacques von Max und Tarek?","o":["Dass sie ihm helfen, mit Inge zu reden","Ein Rezept","Eine Arbeitsstelle"],"a":0,"why":"“Vielleicht wird sie Ihnen zuhören! Helfen Sie mir!”","src":"video"},
+    {"t":"mc","q":"Was sagt Jacques über Inge?","o":["Er liebt sie von ganzem Herzen","Er hat sie vergessen","Er hasst sie"],"a":0,"why":"“Ich liebe Inge – von ganzem Herzen.”","src":"video"},
+    {"t":"fill","q":"Ich lasse mein Fahrrad ___. (reparieren, Infinitiv)","a":["reparieren"],"why":"lassen + Infinitiv (ohne zu).","src":"grammar"},
+    {"t":"mc","q":"Was bedeutet “Er lässt sich die Haare schneiden”?","o":["Ein Friseur schneidet sie ihm","Er schneidet sie selbst","Er will sie nicht schneiden"],"a":0,"why":"Veranlassung: have something done.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig (Perfekt)?","o":["Ich habe ihn kommen lassen.","Ich habe ihn kommen gelassen.","Ich bin ihn kommen lassen."],"a":0,"why":"Ersatzinfinitiv.","src":"grammar"},
+    {"t":"mc","q":"“mittlerweile” bedeutet:","o":["by now, in the meantime","in the middle of a mile","meanwhile never"],"a":0,"why":"Mittlerweile ist die Kartoffel typisch deutsch.","src":"vocab"}
+  ]
+},
+"b1-75": {
+  "goal": "Talk about future plans, prizes and applications, and decline the n-declension (der Kollege → den Kollegen, dem Kollegen).",
+  "words": [
+    ["der Wettbewerb, -e", "competition"],
+    ["gewinnen – gewann – gewonnen", "to win"],
+    ["stolz sein auf + Akk.", "to be proud of"],
+    ["sich durchsetzen gegen + Akk.", "to prevail against"],
+    ["der Favorit, -en", "favourite"],
+    ["der Zulassungsbescheid, -e", "admission letter"],
+    ["studieren / die Universität", "to study / university"],
+    ["der Preis, -e", "prize; price"],
+    ["etwas aufbauen", "to build up"],
+    ["Das Leben geht weiter.", "Life goes on."],
+    ["besser als jemals zuvor", "better than ever before"],
+    ["Was immer ihr sagt.", "Whatever you say."]
+  ],
+  "grammar": {
+    "title": "n-declension (n-Deklination)",
+    "text": "A group of **masculine** nouns takes **-(e)n in all cases except the nominative singular**:\n\n| | Nominativ | Akkusativ | Dativ | Genitiv |\n|---|---|---|---|---|\n| der Student | der Student | den Student**en** | dem Student**en** | des Student**en** |\n| der Herr | der Herr | den Herr**n** | dem Herr**n** | des Herr**n** |\n\n**Typical n-nouns:**\n- **People with -e:** der Kollege, der Kunde, der Junge, der Name (also -ns: des Namens), der Neffe, der Experte\n- **Foreign nouns with -ent/-ant/-ist/-at/-ph:** der Student, der Praktikant, der Polizist, der Soldat, der Fotograf\n- **Others:** der Mensch, der Herr, der Nachbar, der Architekt, der Favorit\n\n**In the video:** Du hast dich **gegen den Favoriten** durchgesetzt (Akk.) · mit **diesem Herrn** (Dat.) · der Wettbewerb der jungen **Architekten** (Gen. Pl.).\n\n**Exception:** das Herz → des Herzens; der Käse does not follow the pattern.",
+    "ex": [
+      ["Du hast dich gegen den Favoriten durchgesetzt.", "You prevailed against the favourite."],
+      ["Ich habe mit diesem Herrn mit der tiefen Stimme gesprochen.", "I spoke to this gentleman with the deep voice."],
+      ["Ich kenne den Studenten und den Kollegen gut.", "I know the student and the colleague well."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was hat Selma gewonnen?","o":["Den Wettbewerb der jungen Architekten","Eine Reise","Ein Stipendium in Syrien"],"a":0,"why":"“Ich habe den Wettbewerb der jungen Architekten gewonnen!”","src":"video"},
+    {"t":"mc","q":"Was hat Ibrahim mit Selmas Chef besprochen?","o":["Den Zulassungsbescheid für die Universität","Ihr Gehalt","Ein Praktikum in Berlin"],"a":0,"why":"“… der Zulassungsbescheid für die Universität wäre mit diesem Preis kein Problem.”","src":"video"},
+    {"t":"mc","q":"Warum kann Ibrahim einen Kredit bekommen?","o":["Pepe bürgt für ihn","Selma zahlt ihn","Die Bank hat sich geirrt"],"a":0,"why":"“Ja. Pepe bürgt für mich.”","src":"video"},
+    {"t":"mc","q":"Wie reagiert Selma zuerst auf die Nachrichten?","o":["Skeptisch und spitz – sie erinnert an die Schande","Sehr glücklich","Gar nicht"],"a":0,"why":"“Ach, plötzlich ist die Familie González keine Schande mehr!”","src":"video"},
+    {"t":"fill","q":"Ich kenne den Student___. (Akk. n-Deklination; Endung)","a":["en","Studenten"],"why":"den Studenten.","src":"grammar"},
+    {"t":"fill","q":"Er spricht mit dem Herr___. (Endung)","a":["n","Herrn"],"why":"dem Herrn.","src":"grammar"},
+    {"t":"mc","q":"Welches Nomen gehört zur n-Deklination?","o":["der Kollege","der Tisch","der Apfel"],"a":0,"why":"Maskulin auf -e (Person).","src":"grammar"},
+    {"t":"mc","q":"“sich durchsetzen gegen” bedeutet:","o":["to prevail against","to sit through","to settle down"],"a":0,"why":"Du hast dich gegen den Favoriten durchgesetzt.","src":"vocab"}
+  ]
+},
+"b1-76": {
+  "goal": "Express wishes and dreams (Wünsche und Träume) with Konjunktiv II, wünschen, hoffen and wenn-clauses, and understand a proposal and a happy ending.",
+  "words": [
+    ["der Wunsch, Wünsche / sich wünschen", "wish / to wish for"],
+    ["der Traum, Träume", "dream"],
+    ["heimkehren", "to return home"],
+    ["der Heiratsantrag, -anträge", "marriage proposal"],
+    ["Willst du meine Frau werden?", "Will you marry me? (be my wife)"],
+    ["wehtun + Dat.", "to hurt"],
+    ["die Unwahrheit / die Lüge", "untruth / lie"],
+    ["die Begegnung, -en", "encounter"],
+    ["den Champagner bestellen", "to order champagne"],
+    ["Auf die Liebe!", "To love!"],
+    ["Es wäre schön, wenn …", "It would be nice if …"],
+    ["Ich wünsche mir nichts mehr, als …", "There’s nothing I wish for more than …"]
+  ],
+  "grammar": {
+    "title": "Expressing wishes",
+    "text": "**Wishes with Konjunktiv II:**\n- **Ich würde gern** ein Glas Champagner trinken.\n- **Es wäre schön, wenn** ich jetzt ein Glas trinken **könnte**.\n- **Ich hätte gern …** (polite): Ich hätte gern einen Kaffee.\n- **Wenn ich doch** mehr Zeit **hätte**! (unfulfilled wish)\n- **Hätte ich nur** mehr Zeit! (wenn is dropped, verb first)\n\n**Verbs of wishing:** **sich wünschen** (+ Akk.): Ich **wünsche mir**, deine Frau zu werden. · **wünschen**: Ich **wünsche** dir alles Gute. · **hoffen, dass …**: Ich **hoffe**, dass es klappt.\n\n**Regrets:** Ich **hätte nicht gedacht**, dass ich Jacques nicht mehr brauche. (Konjunktiv II Perfekt)\n\n**Superlative wish:** Ich wünsche mir **nichts mehr, als** mein Leben mit dir zu verbringen.\n\n**Toasts:** **Auf die Liebe!** · Prost! · Zum Wohl! · Alles Gute!",
+    "ex": [
+      ["Es wäre schön, wenn ich jetzt ein Glas trinken könnte.", "It would be nice if I could have a glass now."],
+      ["Ich wünsche mir nichts mehr, als mein Leben mit dir zu verbringen.", "I wish for nothing more than to spend my life with you."],
+      ["Ich glaube dir, Otto. Und ja, ich wünsche mir auch, deine Frau zu werden.", "I believe you, Otto. And yes, I also wish to become your wife."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was bestellt Inge bei Max?","o":["Einen Champagner","Ein Bier","Einen Kaffee"],"a":0,"why":"“Bring mir bitte einen Champagner.”","src":"video"},
+    {"t":"mc","q":"Was möchte Nina gern trinken?","o":["Champagner, aber sie trinkt Orangensaft","Wein","Tee"],"a":0,"why":"“Es wäre schön, wenn ich jetzt ein Glas trinken könnte.” – Lisa: “Du trinkst Orangensaft!”","src":"video"},
+    {"t":"mc","q":"Was fragt Jacques (Otto) Inge?","o":["Ob sie seine Frau werden will","Ob sie ihm Geld gibt","Ob sie mit ihm nach Frankreich zieht"],"a":0,"why":"“Willst du meine Frau werden?”","src":"video"},
+    {"t":"mc","q":"Wie antwortet Inge?","o":["Sie glaubt ihm und sagt ja","Sie sagt nein","Sie lacht und geht"],"a":0,"why":"“Ich glaube dir, Otto. Und ja …”","src":"video"},
+    {"t":"fill","q":"Ich ___ gern ein Glas Wasser. (hätte, polite)","a":["hätte","haette"],"why":"Ich hätte gern …","src":"grammar"},
+    {"t":"fill","q":"Es wäre schön, ___ ich mehr Zeit hätte. (if)","a":["wenn"],"why":"wenn + Konjunktiv II.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz drückt einen unerfüllten Wunsch aus?","o":["Hätte ich nur mehr Zeit!","Ich habe viel Zeit.","Ich hatte keine Zeit."],"a":0,"why":"Hätte ich nur … = if only.","src":"grammar"},
+    {"t":"mc","q":"“der Heiratsantrag” bedeutet:","o":["marriage proposal","tax application","marriage certificate"],"a":0,"why":"Willst du meine Frau werden?","src":"vocab"}
+  ]
+}
+}

@@ -1,0 +1,140 @@
+{
+"a1-57": {
+  "goal": "Describe clothes with adjectives and use the right ending after ein / kein and with no article.",
+  "words": [
+    ["der Pullover, -", "sweater"],
+    ["das Hemd, -en", "shirt"],
+    ["die Hose, -n", "trousers"],
+    ["die Sachen (pl.)", "things, clothes"],
+    ["neu / warm / schick", "new / warm / smart"],
+    ["die Farbe, -n", "colour"],
+    ["dunkel / hell", "dark / light"],
+    ["Ist das jetzt in?", "Is that in fashion now?"],
+    ["Ich finde … nicht so schön.", "I don’t think … is so nice."],
+    ["zum Anziehen", "to wear"],
+    ["die Brötchen (pl.)", "bread rolls"],
+    ["Das ist lieb von dir!", "That’s kind of you!"]
+  ],
+  "grammar": {
+    "title": "Adjective declension after ein / kein and without article",
+    "text": "An adjective in front of a noun takes an ending. After **ein / kein** (indefinite article):\n\n| | masculine | feminine | neuter | plural |\n|---|---|---|---|---|\n| **Nom.** | ein neu**er** Pullover | eine neu**e** Hose | ein neu**es** Hemd | (keine) neu**en** Sachen |\n| **Akk.** | einen neu**en** Pullover | eine neu**e** Hose | ein neu**es** Hemd | neu**e** Sachen |\n\nYou need: **einen warmen Pullover** (masc. acc.), **ein schickes Hemd** (neuter), **eine schöne Hose** (fem.). Without an article (plural): **dunkle** Brötchen.",
+    "ex": [
+      ["Das ist kein neuer Pullover.", "That is not a new sweater."],
+      ["Du brauchst ein schickes Hemd und einen warmen Pullover und eine schöne Hose.", "You need a smart shirt and a warm sweater and nice trousers."],
+      ["Kauf bitte dunkle Brötchen.", "Please buy dark rolls."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Why does Inge think Nico’s sweater looks odd?","o":["It is far too big and the colour is strange","It is dirty","It has a hole"],"a":0,"why":"“Der Pullover ist viel zu groß. Und die Farbe!”","src":"video"},
+    {"t":"mc","q":"Whose sweater is it?","o":["Sebastian’s","Inge’s","Nico’s own"],"a":0,"why":"“Der Pullover ist von Sebastian.”","src":"video"},
+    {"t":"mc","q":"What does Inge ask Nico to buy?","o":["Dark bread rolls","Wholemeal bread","Cake"],"a":0,"why":"“Kauf bitte dunkle Brötchen. Die schmecken am besten.”","src":"video"},
+    {"t":"mc","q":"Who suddenly appears with a bag at the end?","o":["Selma","Lisa","Max"],"a":0,"why":"“Nico! – Selma! Ist das …? – … deine Tasche?”","src":"video"},
+    {"t":"fill","q":"Du brauchst einen warm___ Pullover. (ending)","a":["en"],"why":"einen warmen Pullover (masc. acc.).","src":"grammar"},
+    {"t":"fill","q":"Ich möchte ein schick___ Hemd. (ending)","a":["es"],"why":"ein schickes Hemd (neuter).","src":"grammar"},
+    {"t":"mc","q":"Which is correct?","o":["eine schöne Hose","eine schönen Hose","eine schönes Hose"],"a":0,"why":"feminine: -e.","src":"grammar"}
+  ]
+},
+"a1-58": {
+  "goal": "Ask which one with welch- (welcher, welche, welches, welchen) and talk about favourite colours and missing clothes.",
+  "words": [
+    ["die Lieblingsfarbe, -n", "favourite colour"],
+    ["blau / grün / bunt", "blue / green / colourful"],
+    ["die Mütze, -n", "cap, hat"],
+    ["tragen", "to wear"],
+    ["das T-Shirt, -s", "T-shirt"],
+    ["das Lieblingshemd", "favourite shirt"],
+    ["Welche Farbe magst du am liebsten?", "Which colour do you like best?"],
+    ["Welchen Pullover meinst du?", "Which sweater do you mean?"],
+    ["der Pass / das Handy", "passport / mobile"],
+    ["weg sein", "to be gone"],
+    ["Hast du Lust?", "Do you fancy it?"],
+    ["günstig einkaufen", "to shop cheaply"]
+  ],
+  "grammar": {
+    "title": "Question words: welch-",
+    "text": "**welch-** asks “which one?”. It has the same endings as the definite article:\n\n| | masculine | feminine | neuter | plural |\n|---|---|---|---|---|\n| **Nom.** | welcher | welche | welches | welche |\n| **Akk.** | welchen | welche | welches | welche |\n\n**Welche** Farbe magst du? (fem.) – **Welchen** Pullover meinst du? (masc. acc.) – **Welches** Hemd gefällt dir? (neuter). The answer often uses **dieser / diesen**: **Diesen** Pullover hier?",
+    "ex": [
+      ["Welche Straße war das?", "Which street was that?"],
+      ["Welchen Pullover meinst du? Diesen Pullover hier?", "Which sweater do you mean? This one here?"],
+      ["Und welche Farbe magst du am liebsten? – Grün.", "And which colour do you like best? – Green."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Where was Nico’s bag found?","o":["On the street in front of a big house","In a taxi","At the station"],"a":0,"why":"“Die Tasche stand einfach so auf der Straße vor einem großen Haus.”","src":"video"},
+    {"t":"mc","q":"What is Nico’s favourite colour?","o":["Green","Blue","Red"],"a":0,"why":"“Grün, das ist meine Lieblingsfarbe.”","src":"video"},
+    {"t":"mc","q":"What is missing from the bag?","o":["His warm sweater and his colourful favourite shirt","His passport and phone","His shoes"],"a":0,"why":"Pass und Handy are there; Pullover and buntes Hemd are gone.","src":"video"},
+    {"t":"mc","q":"What idea does Selma have?","o":["Go into town and buy a shirt and a warm sweater","Call the police","Wait for Lisa"],"a":0,"why":"“Wir gehen in die Stadt und du kaufst dir ein neues Hemd und einen warmen Pullover.”","src":"video"},
+    {"t":"fill","q":"___ Farbe magst du? (which, feminine)","a":["Welche"],"why":"die Farbe → welche.","src":"grammar"},
+    {"t":"fill","q":"___ Pullover meinst du? (which, masculine accusative)","a":["Welchen"],"why":"masc. acc.: welchen.","src":"grammar"},
+    {"t":"mc","q":"“bunt” means:","o":["colourful","dark","new"],"a":0,"why":"ein buntes Hemd.","src":"vocab"}
+  ]
+},
+"a1-59": {
+  "goal": "Shop for clothes and comment on them with verbs that take the dative: gefallen, stehen, passen.",
+  "words": [
+    ["anprobieren: Probier mal an!", "to try on"],
+    ["die Größe, -n", "size"],
+    ["Das passt (gut).", "It fits (well)."],
+    ["Das steht dir gut.", "It suits you."],
+    ["Das gefällt mir.", "I like it."],
+    ["die Jacke, -n", "jacket"],
+    ["zu groß / zu klein", "too big / too small"],
+    ["Wie findest du das Hemd?", "What do you think of the shirt?"],
+    ["Wie viel kostet das?", "How much is it?"],
+    ["die Verkäuferin, -nen", "saleswoman"],
+    ["eigentlich", "actually"],
+    ["Das hat Spaß gemacht.", "That was fun."]
+  ],
+  "grammar": {
+    "title": "Verbs with a dative object: gefallen, stehen, passen",
+    "text": "Some verbs take the **dative** (the person is in the dative):\n\n- **gefallen**: Das Hemd **gefällt mir**. (I like the shirt.)\n- **stehen**: Die Jacke **steht dir** gut. (The jacket suits you.)\n- **passen**: Das Hemd **passt mir**. (It fits me.)\n\nDative pronouns: **mir, dir, ihm, ihr, uns, euch, ihnen**. Compare with **finden** (accusative): **Wie findest du** den Pullover? – Ich **finde ihn** schön.",
+    "ex": [
+      ["Das Hemd ist toll. – Ja, das gefällt mir.", "The shirt is great. – Yes, I like it."],
+      ["Die Jacke steht dir sehr gut.", "The jacket suits you very well."],
+      ["Das ist zu groß. Probier mal M an.", "That’s too big. Try size M."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How much does the shirt Nico likes cost?","o":["25 Euro","15 Euro","35 Euro"],"a":0,"why":"“25 Euro. Ist das okay?”","src":"video"},
+    {"t":"mc","q":"What does Selma say about size L?","o":["Try M, L is too big","L is perfect","L is too small"],"a":0,"why":"“L. Probier mal M an. Das ist zu groß.”","src":"video"},
+    {"t":"mc","q":"What does Selma end up buying for herself?","o":["A jacket","A hat","Trousers"],"a":0,"why":"“Eigentlich wollte ich gar nichts kaufen … die Jacke steht dir sehr gut.”","src":"video"},
+    {"t":"fill","q":"Das Hemd gefällt ___. (me)","a":["mir"],"why":"gefallen + dative: mir.","src":"grammar"},
+    {"t":"fill","q":"Die Jacke steht ___ gut. (you, informal)","a":["dir"],"why":"stehen + dative: dir.","src":"grammar"},
+    {"t":"mc","q":"“Probier mal an!” means:","o":["Try it on!","Buy it!","Take it off!"],"a":0,"why":"anprobieren = try on.","src":"vocab"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Das Kleid passt mir gut.","Das Kleid passt mich gut.","Das Kleid passt ich gut."],"a":0,"why":"passen + dative.","src":"grammar"}
+  ]
+},
+"a1-60": {
+  "goal": "Compliment and describe smart and casual clothes, and talk about a surprise gift of old clothes.",
+  "words": [
+    ["schick / elegant", "smart / elegant"],
+    ["bequem", "comfortable"],
+    ["gestreift", "striped"],
+    ["braun", "brown"],
+    ["die Schuhe (pl.)", "shoes"],
+    ["die Überraschung, -en", "surprise"],
+    ["anziehen / anprobieren", "to put on / to try on"],
+    ["so gut wie neu", "as good as new"],
+    ["der Mann (Ehemann)", "husband"],
+    ["Er lebt nicht mehr.", "He is no longer alive."],
+    ["hübsch", "handsome, pretty"],
+    ["Das steht dir toll!", "That looks great on you!"]
+  ],
+  "phrases": [
+    ["Schau mal, dieses schicke Hemd!", "Look, this smart shirt!"],
+    ["Die braune Hose steht dir sicher sehr gut.", "The brown trousers will surely suit you."],
+    ["Sieht bequem aus.", "Looks comfortable."],
+    ["Ein gestreiftes Hemd und ganz schicke Schuhe!", "A striped shirt and really smart shoes!"],
+    ["Na los, probier die Sachen an!", "Go on, try the things on!"]
+  ],
+  "quiz": [
+    {"t":"mc","q":"Who found Nico’s bag?","o":["Selma","The police","Inge"],"a":0,"why":"“Nein, Selma.”","src":"video"},
+    {"t":"mc","q":"Whose clothes does Inge give Nico?","o":["Her late husband Günther’s","Her brother’s","Her son’s"],"a":0,"why":"“Das sind Sachen von Günther. Günther war mein Mann. Er lebt nicht mehr.”","src":"video"},
+    {"t":"mc","q":"What kind of clothes did Günther wear?","o":["Elegant clothes","Sports clothes","Work clothes"],"a":0,"why":"“Er hat immer sehr elegante Kleidung getragen.”","src":"video"},
+    {"t":"mc","q":"Who rings the doorbell at the end?","o":["Selma","Lisa","Yara"],"a":0,"why":"“Hallo, ich bin die Selma. Ist Nico da?”","src":"video"},
+    {"t":"mc","q":"“gestreift” means:","o":["striped","spotted","plain"],"a":0,"why":"ein gestreiftes Hemd.","src":"vocab"},
+    {"t":"mc","q":"“Das steht dir toll!” is a:","o":["compliment","question","warning"],"a":0,"why":"It looks great on you.","src":"grammar"},
+    {"t":"fill","q":"Die braune Hose steht ___ sicher gut. (you, informal)","a":["dir"],"why":"stehen + dative.","src":"grammar"}
+  ]
+}
+}

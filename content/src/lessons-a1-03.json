@@ -1,0 +1,137 @@
+{
+"a1-13": {
+  "goal": "Chat with people you meet: say who you are, why you are here, how old you are, and accept or offer a welcome and a drink.",
+  "words": [
+    ["Was machst du hier?", "What are you doing here?"],
+    ["Wer ist denn das?", "Who is that, then?"],
+    ["Willkommen! / Herzlich willkommen!", "Welcome! / A warm welcome!"],
+    ["Klar. / Kein Problem.", "Sure. / No problem."],
+    ["die Party, -s", "party"],
+    ["das Getränk, -e", "drink"],
+    ["trinken", "to drink"],
+    ["kaputt", "broken"],
+    ["die Lampe, -n", "lamp"],
+    ["funktionieren", "to work, to function"],
+    ["das Flugzeug, -e", "airplane"],
+    ["Schön!", "Nice!"]
+  ],
+  "phrases": [
+    ["Ich bin 22 Jahre alt. Und du?", "I’m 22 years old. And you?"],
+    ["Ich komme aus Spanien. Ich wohne in Sevilla.", "I come from Spain. I live in Seville."],
+    ["Möchtest du etwas trinken?", "Would you like something to drink?"],
+    ["Kann Nico zwei Tage hier wohnen?", "Can Nico stay here for two days?"],
+    ["Danke schön!", "Thank you very much!"]
+  ],
+  "quiz": [
+    {"t":"mc","q":"Sebastian asks Nico “Was machst du hier?” What does Nico answer?","o":["He has a problem: his bag, phone, passport and Yara’s address are gone","He is on holiday","He works at the party"],"a":0,"why":"Nico explains what he lost.","src":"video"},
+    {"t":"mc","q":"How old is Nico?","o":["22","25","23"],"a":0,"why":"Nico 22, Sebastian 25, Nina 23.","src":"video"},
+    {"t":"mc","q":"What does Lisa ask Sebastian and Nina?","o":["Whether Nico can stay two days","Whether they can lend her a car","Whether they know Yara"],"a":0,"why":"“Kann Nico zwei Tage hier wohnen?” – “Klar.”","src":"video"},
+    {"t":"mc","q":"How does Nico impress the roommates?","o":["He fixes the broken lamp","He cooks dinner","He plays the guitar"],"a":0,"why":"“Die Lampe funktioniert wieder.”","src":"video"},
+    {"t":"fill","q":"Herzlich ___ in der Wagnergasse! (welcome)","a":["willkommen"],"why":"willkommen = welcome.","src":"vocab"},
+    {"t":"mc","q":"“Die Lampe ist kaputt.” means:","o":["The lamp is broken.","The lamp is new.","The lamp is lost."],"a":0,"why":"kaputt = broken.","src":"vocab"},
+    {"t":"mc","q":"Which answer fits “Möchtest du etwas trinken?”","o":["Ja, gern.","Ich bin 22.","Ich wohne in Berlin."],"a":0,"why":"A polite yes: Ja, gern.","src":"grammar"}
+  ]
+},
+"a1-14": {
+  "goal": "Name drinks with their articles, offer and order a drink politely, and say you are hungry or thirsty.",
+  "words": [
+    ["der Kaffee", "coffee"],
+    ["der Tee", "tea"],
+    ["der Wein / das Bier", "wine / beer"],
+    ["das Wasser", "water"],
+    ["der Apfelsaft", "apple juice"],
+    ["die Cola / die Limonade", "cola / lemonade"],
+    ["die Milch / der Zucker", "milk / sugar"],
+    ["Ich habe Durst. / Hunger.", "I’m thirsty. / hungry."],
+    ["Was möchtest du trinken?", "What would you like to drink?"],
+    ["Ich nehme … / Für mich bitte …", "I’ll have … / For me, please …"],
+    ["mit / ohne", "with / without"],
+    ["Prost!", "Cheers!"]
+  ],
+  "grammar": {
+    "title": "Nouns: the gender of drinks (der, die, das)",
+    "text": "Every noun has a gender, so learn the article with the word: **der** Kaffee, **der** Tee, **das** Wasser, **das** Bier, **die** Milch, **die** Cola.\n\nWhen you order, the masculine article changes: **ein** Bier, **eine** Cola, but **einen** Kaffee (masculine, as the thing you want). Lisa says: “Für mich bitte **einen** Kaffee.”\n\n**möchten** (would like) is the polite way to say what you want: ich möchte, du möchtest, wir möchten.",
+    "ex": [
+      ["Ich nehme ein Bier.", "I’ll have a beer."],
+      ["Für mich bitte einen Kaffee mit viel Milch, aber wenig Zucker.", "For me a coffee, please, with a lot of milk but little sugar."],
+      ["Was möchtest du trinken? – Cola, bitte.", "What would you like to drink? – Cola, please."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Sebastian suggest to find Yara’s shop?","o":["Post her photo online and ask who knows the shop","Call every bicycle shop","Go back to the airport"],"a":0,"why":"“Wir posten das Foto von Yara … und fragen: Wer kennt diesen Fahrradladen?”","src":"video"},
+    {"t":"mc","q":"How does Lisa want her coffee?","o":["With a lot of milk but little sugar","Black, no sugar","With ice"],"a":0,"why":"“Ja, mit viel Milch, aber wenig Zucker.”","src":"video"},
+    {"t":"mc","q":"What does Nico order to drink?","o":["Cola","Beer","Apple juice"],"a":0,"why":"“Cola bitte.”","src":"video"},
+    {"t":"mc","q":"Which article goes with “Wasser”?","o":["das","der","die"],"a":0,"why":"das Wasser.","src":"vocab"},
+    {"t":"mc","q":"“Habt ihr Hunger?” means:","o":["Are you (all) hungry?","Do you have a car?","Are you thirsty?"],"a":0,"why":"der Hunger = hunger.","src":"vocab"},
+    {"t":"fill","q":"Für mich bitte ___ Kaffee. (a coffee, masculine)","a":["einen"],"why":"masculine object: einen.","src":"grammar"},
+    {"t":"mc","q":"Which is the polite way to say what you want?","o":["Ich möchte ein Wasser.","Ich Wasser.","Wasser du haben."],"a":0,"why":"möchten = would like.","src":"grammar"}
+  ]
+},
+"a1-15": {
+  "goal": "Order food: ask what is available, say what you would like, and use the verbs essen, nehmen and geben with their vowel change.",
+  "words": [
+    ["die Pizza, Pizzen", "pizza"],
+    ["der Salat, -e", "salad"],
+    ["der Schinken", "ham"],
+    ["der Käse", "cheese"],
+    ["die Tomate, -n", "tomato"],
+    ["der Thunfisch", "tuna"],
+    ["die Ananas", "pineapple"],
+    ["der Vegetarier / die Vegetarierin", "vegetarian (m/f)"],
+    ["die Speisekarte, -n", "menu"],
+    ["bestellen", "to order"],
+    ["Was gibt es denn?", "What is there / what do you have?"],
+    ["Sonst noch etwas?", "Anything else?"]
+  ],
+  "grammar": {
+    "title": "Vowel change e → i: essen, nehmen, geben",
+    "text": "Some common verbs change **e → i** (or ie) in the du- and er/sie/es-forms:\n\n- **essen:** ich esse, du **isst**, er **isst**, wir essen\n- **nehmen:** ich nehme, du **nimmst**, er **nimmt**\n- **geben:** ich gebe, du **gibst**, es **gibt** (es gibt = there is)\n- **sprechen:** ich spreche, du **sprichst**\n\nThe ich, wir and sie-forms stay regular.",
+    "ex": [
+      ["Was nehmt ihr? – Ich nehme eine Pizza mit Salami.", "What are you having? – I’ll have a pizza with salami."],
+      ["Was gibt es denn? – Sushi, Pizza, Salat.", "What is there? – Sushi, pizza, salad."],
+      ["Nina isst die Pizza ohne Schinken.", "Nina eats the pizza without ham."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Nico order?","o":["A pizza with salami","A pizza with tuna","A pizza Hawaii"],"a":0,"why":"“Ich nehme eine Pizza mit Salami bitte.”","src":"video"},
+    {"t":"mc","q":"Why does Nina order her pizza Hawaii without ham?","o":["She is a vegetarian","She dislikes pineapple","The ham is too expensive"],"a":0,"why":"“Sie ist aber Vegetarierin.”","src":"video"},
+    {"t":"mc","q":"How does Nawin recognise Nico?","o":["He was on the radio","From a photo at the airport","They met at university"],"a":0,"why":"“Bist du der Nico aus dem Radio?”","src":"video"},
+    {"t":"mc","q":"Which two toppings are on a pizza Hawaii?","o":["Pineapple and ham","Tuna and onions","Cheese and salami"],"a":0,"why":"Ananas und Schinken.","src":"vocab"},
+    {"t":"fill","q":"Du ___ eine Pizza. (nehmen)","a":["nimmst"],"why":"nehmen → du nimmst.","src":"grammar"},
+    {"t":"fill","q":"Nina ___ gern Ananas. (essen, er/sie-form)","a":["isst"],"why":"essen → sie isst.","src":"grammar"},
+    {"t":"mc","q":"“Was gibt es denn?” means:","o":["What is there / what do you have?","Who gives it?","Where is it?"],"a":0,"why":"es gibt = there is/are.","src":"grammar"}
+  ]
+},
+"a1-16": {
+  "goal": "Pay a bill: ask for the price, choose cash or card, and say how much something costs.",
+  "words": [
+    ["Zahlen bitte! / Die Rechnung, bitte.", "The bill, please."],
+    ["Was kostet das?", "What does that cost?"],
+    ["Wie viel kostet die Pizza?", "How much is the pizza?"],
+    ["Das macht 40,50 Euro.", "That’s 40.50 euros."],
+    ["bar / mit Karte", "in cash / by card"],
+    ["zusammen / getrennt", "together / separately"],
+    ["Das stimmt so.", "Keep the change."],
+    ["das Trinkgeld", "tip"],
+    ["der Euro / der Cent", "euro / cent"],
+    ["Du bist eingeladen!", "It’s on me!"],
+    ["die Abschiedsparty", "farewell party"],
+    ["Guten Appetit!", "Enjoy your meal!"]
+  ],
+  "phrases": [
+    ["Zahlen Sie zusammen oder getrennt?", "Are you paying together or separately?"],
+    ["Zahlen Sie bar oder mit Karte?", "Cash or card?"],
+    ["Ich zahle bar. Hier sind 45 Euro.", "I’ll pay cash. Here are 45 euros."],
+    ["Das macht zusammen 40,50 Euro.", "That’s 40.50 euros altogether."]
+  ],
+  "quiz": [
+    {"t":"mc","q":"The delivery woman asks Lisa: “Zahlen Sie zusammen oder getrennt?” What does Lisa answer?","o":["Zusammen.","Getrennt.","Mit Karte."],"a":0,"why":"Lisa pays for everyone together.","src":"video"},
+    {"t":"mc","q":"How much is the total bill?","o":["40,50 Euro","45 Euro","22,50 Euro"],"a":0,"why":"“Das macht zusammen 40,50 Euro.”","src":"video"},
+    {"t":"mc","q":"Lisa gives 45 euros and says “Das stimmt so.” What does that mean?","o":["Keep the change.","Give me a receipt.","That is too expensive."],"a":0,"why":"The difference is a tip.","src":"video"},
+    {"t":"mc","q":"Why is there a party in the flat that evening?","o":["Nawin is leaving – it is a farewell party","It is Nico’s birthday","It is Emma’s party"],"a":0,"why":"“Nawin geht weg.” – “Eine Abschiedsparty.”","src":"video"},
+    {"t":"fill","q":"Wie viel ___ die Pizza? (kosten, 3rd person singular)","a":["kostet"],"why":"die Pizza kostet.","src":"grammar"},
+    {"t":"mc","q":"“Zahlen Sie bar oder mit Karte?” means:","o":["Do you pay cash or by card?","Where is the cash machine?","How much is the card?"],"a":0,"why":"bar = in cash.","src":"vocab"},
+    {"t":"mc","q":"“Du bist eingeladen!” means:","o":["It’s my treat – you are invited.","You are late.","You must pay."],"a":0,"why":"einladen = to invite.","src":"vocab"}
+  ]
+}
+}

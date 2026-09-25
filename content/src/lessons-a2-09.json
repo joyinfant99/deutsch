@@ -1,0 +1,146 @@
+{
+"a2-37": {
+  "goal": "Invite friends, accept and decline politely, and understand German idioms (Redewendungen).",
+  "words": [
+    ["vorbeikommen", "to drop by"],
+    ["Komm doch vorbei!", "Do drop by!"],
+    ["Hast du Lust …?", "Do you feel like …?"],
+    ["Seid ihr dabei?", "Are you in?"],
+    ["verabredet sein mit", "to have a date/appointment with"],
+    ["Ich hab ihm versprochen, dass …", "I promised him that …"],
+    ["das Model, -s / das Motiv, -e", "model / subject (photo)"],
+    ["die Redewendung, -en", "idiom"],
+    ["alles unter einen Hut bringen", "to reconcile everything"],
+    ["ein dickes Fell haben", "to be thick-skinned"],
+    ["jemanden über den Tisch ziehen", "to cheat someone"],
+    ["Könntest du …?", "Could you …?"]
+  ],
+  "grammar": {
+    "title": "Invitations: inviting, accepting, declining",
+    "text": "**Invite:** Komm doch vorbei! – Hast du Lust vorbeizukommen? – Seid ihr dabei? – Wir machen heute Fotos. Kommst du?\n\n**Accept:** Gern! – Klar, ich helf dir. – Ja, das wird Spaß machen. – Bin dabei!\n\n**Decline politely:** Ich habe leider keine Zeit. – Ich bin schon verabredet (mit …). – Ich hab nicht den ganzen Tag Zeit, aber ein paar Stunden. – Vielleicht ein anderes Mal.\n\n**Ask politely** with the Konjunktiv II: **Könntest du** den Hut hier hinhalten? **Würdest du** … ?",
+    "ex": [
+      ["Hast du Lust vorbeizukommen? Wir machen heute Fotos.", "Do you feel like dropping by? We’re taking photos today."],
+      ["Ich bin mit Dario verabredet.", "I have a date with Dario."],
+      ["Könntest du den Hut hier so hinhalten?", "Could you hold the hat like this?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What is Sebastian’s project about?","o":["Photographing German idioms","Photographing weddings","Photographing cars"],"a":0,"why":"“alles unter einen Hut bringen”, “ein dickes Fell haben” …","src":"video"},
+    {"t":"mc","q":"Why can’t Nina help?","o":["She has a date with Dario","She has to work","She is ill"],"a":0,"why":"“Ich bin mit Dario verabredet.”","src":"video"},
+    {"t":"mc","q":"How much time does Lisa say she has?","o":["Only a few hours","The whole day","None at all"],"a":0,"why":"“Ich hab nicht den ganzen Tag Zeit, aber ’n paar Stunden.”","src":"video"},
+    {"t":"mc","q":"How does Sebastian get models?","o":["He calls more friends and invites them","He hires actors","He uses mannequins"],"a":0,"why":"“Dann ruf ich eben noch ’n paar Freunde an.”","src":"video"},
+    {"t":"mc","q":"Which is a polite refusal?","o":["Ich habe leider keine Zeit.","Nein, das will ich nicht.","Das interessiert mich nicht."],"a":0,"why":"polite: leider + reason.","src":"grammar"},
+    {"t":"mc","q":"“Komm doch vorbei!” means:","o":["Do drop by!","Come past me!","Go away!"],"a":0,"why":"vorbeikommen = to drop in.","src":"grammar"},
+    {"t":"fill","q":"___ du den Hut so hinhalten? (Could you – polite)","a":["Könntest","Koenntest"],"why":"Könntest du …?","src":"grammar"},
+    {"t":"mc","q":"“ein dickes Fell haben” means:","o":["to be thick-skinned","to wear a fur coat","to be fat"],"a":0,"why":"idiom.","src":"vocab"}
+  ]
+},
+"a2-38": {
+  "goal": "Talk about a trip and other people’s company using gradable adverbs (sehr, ziemlich, ganz, total, nicht besonders, viel zu).",
+  "words": [
+    ["ziemlich / ganz / total", "rather / quite / totally"],
+    ["sehr / äußerst / extrem", "very / extremely"],
+    ["nicht besonders / nicht sehr", "not particularly / not very"],
+    ["viel zu / zu", "far too / too"],
+    ["unorganisiert", "disorganised"],
+    ["nervig", "annoying"],
+    ["der Rentner, - / der Club der Rentner", "pensioner / pensioners’ club"],
+    ["die Krankheit, -en", "illness"],
+    ["jemanden kennenlernen", "to get to know someone"],
+    ["Es hat mir trotzdem gut gefallen.", "I liked it nevertheless."],
+    ["Leute lernt man am besten auf Reisen kennen.", "You meet people best while travelling."],
+    ["Das ist von Jacques.", "That’s from Jacques."]
+  ],
+  "grammar": {
+    "title": "Gradable adverbs",
+    "text": "Gradable adverbs say **how much** an adjective applies. They stand **before the adjective** and do not change:\n\n- **sehr** interessant (very), **ziemlich** interessant (rather), **ganz** nett (quite), **total** langweilig (totally), **extrem** unzufrieden\n- **nicht besonders** interessant, **nicht sehr** interessant (weakening)\n- **zu / viel zu** groß (too / far too big)\n\nExample: Die Gruppe war **nicht sehr** interessant. Das Wetter war **ziemlich** schlecht. Das ist **total** nervig.",
+    "ex": [
+      ["Die anderen in der Gruppe waren wirklich nicht sehr interessant.", "The others in the group really weren’t very interesting."],
+      ["Es war unorganisiert und das Wetter war schlecht.", "It was disorganised and the weather was bad."],
+      ["Okay, das ist wirklich nervig.", "OK, that’s really annoying."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How does Inge describe her trip at first?","o":["“Na ja” – disorganised, bad weather","Wonderful","Terrible in every way"],"a":0,"why":"“Es war unorganisiert, das Wetter war schlecht.”","src":"video"},
+    {"t":"mc","q":"What did the group talk about?","o":["Illnesses","Football","Cooking"],"a":0,"why":"“… der Club der Rentner sich nur über Krankheiten unterhält.”","src":"video"},
+    {"t":"mc","q":"What did Inge still like?","o":["The trip in spite of everything","Nothing at all","The hotel only"],"a":0,"why":"“Es hat mir aber trotzdem gut gefallen.”","src":"video"},
+    {"t":"mc","q":"Whose smartphone does Inge have?","o":["Jacques’","Max’s","Tarek’s"],"a":0,"why":"“Das ist von Jacques.”","src":"video"},
+    {"t":"fill","q":"Das Wetter war ___ schlecht. (rather)","a":["ziemlich"],"why":"ziemlich + adjective.","src":"grammar"},
+    {"t":"mc","q":"Which is the strongest?","o":["extrem interessant","ziemlich interessant","nicht besonders interessant"],"a":0,"why":"extrem > ziemlich > nicht besonders.","src":"grammar"},
+    {"t":"mc","q":"“nervig” means:","o":["annoying","nervous","brave"],"a":0,"why":"nerven = to annoy.","src":"vocab"},
+    {"t":"mc","q":"“Ein Smartphone ist viel zu teuer.” – “viel zu” means:","o":["far too","very much","not at all"],"a":0,"why":"viel zu = way too.","src":"grammar"}
+  ]
+},
+"a2-39": {
+  "goal": "Talk about relationships, love, engagement and marriage, and tell someone’s story in the Perfekt.",
+  "words": [
+    ["der Ehemann / die Ehefrau", "husband / wife"],
+    ["der Ehering, -e", "wedding ring"],
+    ["heiraten – geheiratet", "to marry"],
+    ["sich verlieben in + Akk.", "to fall in love with"],
+    ["sich verloben / verlobt sein", "to get engaged / to be engaged"],
+    ["geschieden sein", "to be divorced"],
+    ["verlassen", "to leave"],
+    ["Freundschaft schließen", "to make friends"],
+    ["die gemeinsame Zeit", "time together"],
+    ["sich gewöhnen an + Akk.", "to get used to"],
+    ["erinnern an + Akk.", "to remind of"],
+    ["Das Leben geht weiter.", "Life goes on."]
+  ],
+  "grammar": {
+    "title": "Telling a life story with the Perfekt",
+    "text": "Use the Perfekt for life events told in conversation:\n\n- Zuerst **haben** wir Freundschaft **geschlossen** und dann **haben** wir uns **verliebt**.\n- Wir **haben** 1993 **geheiratet**.\n- Seine Frau **hat** ihn **verlassen**.\n- Ich **habe** mich an den Ring **gewöhnt**.\n\nVerbs of state (sein, haben) and modals often stay in the Präteritum: Wir **waren** sehr lange verlobt. Sie **hatten** viel Streit.\n\nUseful: **Jacques erinnert mich an Günther.** (erinnern an + Akk.)",
+    "ex": [
+      ["Zuerst haben wir Freundschaft geschlossen und dann haben wir uns verliebt.", "First we became friends and then we fell in love."],
+      ["Geheiratet haben wir 1993.", "We got married in 1993."],
+      ["Ich trage immer noch seinen Ehering.", "I still wear his wedding ring."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Why does Inge hesitate to answer Jacques?","o":["He reminds her of her late husband Günther","She dislikes him","She is angry at him"],"a":0,"why":"“Jacques erinnert mich so an Günther.”","src":"video"},
+    {"t":"mc","q":"How did Inge and Günther’s relationship start?","o":["They became friends first and then fell in love","They met at a wedding","They were neighbours"],"a":0,"why":"“Zuerst haben wir Freundschaft geschlossen und dann haben wir uns verliebt.”","src":"video"},
+    {"t":"mc","q":"When did they marry?","o":["1993, after a long engagement","1970","Last year"],"a":0,"why":"“Geheiratet haben wir 1993.”","src":"video"},
+    {"t":"mc","q":"What does Inge still wear?","o":["Günther’s wedding ring","A necklace","Nothing"],"a":0,"why":"“Ich trag immer noch seinen Ehering.”","src":"video"},
+    {"t":"mc","q":"What does Tarek tell Inge at the end?","o":["Life goes on","She should sell the ring","She should move away"],"a":0,"why":"“Das Leben geht weiter.”","src":"video"},
+    {"t":"fill","q":"Wir ___ 1993 geheiratet. (haben)","a":["haben"],"why":"heiraten + haben.","src":"grammar"},
+    {"t":"fill","q":"Er erinnert mich ___ meinen Mann. (of)","a":["an"],"why":"erinnern an + Akk.","src":"grammar"},
+    {"t":"mc","q":"“geschieden sein” means:","o":["to be divorced","to be engaged","to be widowed"],"a":0,"why":"die Scheidung = divorce.","src":"vocab"}
+  ]
+},
+"a2-40": {
+  "goal": "Talk about friends, anniversaries and wishes with reflexive pronouns in the accusative and dative (uns, euch, mir, dir).",
+  "words": [
+    ["das Jubiläum, Jubiläen", "anniversary"],
+    ["zehnjährig", "ten-year"],
+    ["das Fest, -e", "party, celebration"],
+    ["die Gäste (pl.) / die Musik", "guests / music"],
+    ["Was wünscht ihr euch?", "What do you wish for?"],
+    ["sich (Dat.) etwas wünschen", "to wish for something"],
+    ["erweitern", "to extend"],
+    ["der Held, -en", "hero"],
+    ["der Hochzeitstag", "wedding anniversary"],
+    ["in die Mitte kommen", "to come into the middle"],
+    ["ein Foto von uns machen", "to take a photo of us"],
+    ["Heiratet bloß nicht!", "Whatever you do, don’t marry!"]
+  ],
+  "grammar": {
+    "title": "Reflexive pronouns: accusative and dative",
+    "text": "| | ich | du | er/sie/es | wir | ihr | sie/Sie |\n|---|---|---|---|---|---|---|\n| **Akk.** | mich | dich | sich | **uns** | **euch** | sich |\n| **Dat.** | mir | dir | sich | **uns** | **euch** | sich |\n\nOnly **ich** and **du** differ. Examples:\n- Wir freuen **uns** auf das Fest. (Akk.)\n- Was wünscht ihr **euch** zum Jubiläum? (Dat.: sich etwas wünschen)\n- Ich wünsche **mir** ein Fest. (Dat.)\n- Wir haben **uns** auf einer Reise kennengelernt.\n\nReciprocal: **einander / sich gegenseitig**.",
+    "ex": [
+      ["Was wünscht ihr euch zum Jubiläum?", "What do you wish for your anniversary?"],
+      ["Ich wünsche mir ein Fest mit Gästen und Musik.", "I wish for a party with guests and music."],
+      ["Wir haben uns auf einer Reise kennengelernt.", "We met on a trip."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How long has the restaurant existed?","o":["About ten years","Two years","Twenty years"],"a":0,"why":"“… ziemlich genau zehn Jahre.”","src":"video"},
+    {"t":"mc","q":"What does Tarek wish for the anniversary?","o":["A party with guests and music","A new kitchen","A holiday"],"a":0,"why":"“Ich wünsche mir ein Fest mit Gästen und Musik.”","src":"video"},
+    {"t":"mc","q":"What have Max and Tarek nearly forgotten?","o":["The anniversary","Nico’s birthday","The rent"],"a":0,"why":"“Wir haben das Jubiläum beide fast vergessen!”","src":"video"},
+    {"t":"mc","q":"Who do they call their “Fußballheld”?","o":["Nico","Lisa","Yara"],"a":0,"why":"“Natürlich meinen wir dich.”","src":"video"},
+    {"t":"fill","q":"Was wünscht ihr ___ zum Jubiläum? (reflexive, ihr)","a":["euch"],"why":"ihr → euch.","src":"grammar"},
+    {"t":"fill","q":"Ich wünsche ___ ein Fest. (dative, ich)","a":["mir"],"why":"sich (Dat.) etwas wünschen.","src":"grammar"},
+    {"t":"fill","q":"Wir freuen ___ auf das Fest. (wir)","a":["uns"],"why":"wir → uns.","src":"grammar"},
+    {"t":"mc","q":"“das Jubiläum” is:","o":["an anniversary","a rehearsal","a jubilee bird"],"a":0,"why":"das zehnjährige Jubiläum.","src":"vocab"}
+  ]
+}
+}

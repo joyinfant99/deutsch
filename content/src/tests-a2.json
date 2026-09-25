@@ -1,0 +1,59 @@
+{
+"a2": {
+  "title": "A2 Level Test",
+  "goal": "You have worked through 76 A2 lessons. Today you prove A2 before you start B1.",
+  "notes": [
+    {
+      "heading": "How today works",
+      "text": "1. Skim the review sheet (10 minutes).\n2. Take the official **Final Test A2** on Deutsche Welle (material 1) and note the result.\n3. Take today’s 25-question exam. You need **70%** to complete the day. If you miss it, read the explanations and retake."
+    },
+    {
+      "heading": "Sentence structure",
+      "text": "**Main clause:** verb in position 2. **Subordinate clause** (weil, dass, wenn, ob, damit, als, obwohl): verb at the **end**: Ich bleibe hier, **weil** ich krank **bin**. Ich weiß, **dass** er **kommt**. Ich weiß nicht, **ob** er Zeit **hat**.\n\n**Conjunctions without word-order change (ADUSO):** aber, denn, und, sondern, oder.\n\n**Purpose:** **um … zu** (same subject) / **damit** (different subjects).\n**Time and place order (TeKaMoLo):** Temporal – Kausal – Modal – Lokal."
+    },
+    {
+      "heading": "Relative clauses and the passive",
+      "text": "**Relative pronoun** = gender/number of the noun, case from its clause: der Mann, **der** …; die Frau, **die** …; das Kind, **das** …; accusative masculine: der Mann, **den** ich kenne. With a preposition: die Stadt, **in der** ich wohne.\n\n**Passive:** werden + Partizip II: Das Essen **wird** geliefert. Past: Das System **wurde** geplant. Agent: **von** + Dativ."
+    },
+    {
+      "heading": "Verbs, cases and pronouns",
+      "text": "**Reflexive:** ich freue **mich**, du freust **dich**, er freut **sich** … Dative reflexive: Ich mache **mir** Sorgen.\n**Verbs + preposition:** warten **auf** + Akk., sich interessieren **für** + Akk., träumen **von** + Dat., denken **an** + Akk., sich ärgern **über** + Akk.\n**Dative verbs:** helfen, gehören, gefallen, schmecken, passen, danken.\n**Two objects:** Dativ before Akkusativ; pronouns before nouns; two pronouns: Akk. before Dat. (Ich gebe **es ihm**).\n**Two-way prepositions:** Wohin? → Akk., Wo? → Dat.\n**Genitive:** das Haus **des** Mannes, die Tasche **der** Frau."
+    },
+    {
+      "heading": "Past and polite forms",
+      "text": "**Präteritum:** war, hatte, konnte, musste, durfte, wollte, sollte; regular verbs stem + -te (machte, wohnte); irregular: ging, kam, schrieb, sah, fand.\n**Perfekt:** haben/sein + Partizip II (habe gearbeitet, bin gefahren).\n**Konjunktiv II for politeness and advice:** Könnten Sie …? Würden Sie …? Ich hätte gern … Du solltest …"
+    }
+  ],
+  "materials": [
+    {"kind":"exercise","title":"Final Test A2 – Nicos Weg","source":"Deutsche Welle","url":"https://learngerman.dw.com/en/final-test-a2/l-44877174","minutes":20,"focus":"Take the official course test and write down the score. Any unit where you hesitate is your review list."},
+    {"kind":"pdf","title":"Grammar overview A2 (Nicos Weg)","source":"Deutsche Welle","url":"https://learngerman.dw.com/downloads/52652742/grammar-overview-nicos-weg-a2.pdf","minutes":10,"focus":"Read through all A2 grammar tables and mark the ones you cannot recite from memory."}
+  ],
+  "quiz": [
+    {"t":"fill","q":"Ich bleibe zu Hause, ___ ich krank bin. (because)","a":["weil"],"why":"weil + verb at the end."},
+    {"t":"mc","q":"Which sentence is correct?","o":["Ich weiß, dass er morgen kommt.","Ich weiß, dass er kommt morgen.","Ich weiß, dass kommt er morgen."],"a":0,"why":"dass: verb at the end."},
+    {"t":"fill","q":"Ich möchte wissen, ___ du mir hilfst. (whether)","a":["ob"],"why":"yes/no indirect question: ob."},
+    {"t":"mc","q":"Which conjunction does not change the word order?","o":["denn","weil","dass"],"a":0,"why":"denn is a coordinating conjunction."},
+    {"t":"fill","q":"Ich lerne Deutsch, ___ in Deutschland zu arbeiten. (in order)","a":["um"],"why":"same subject: um … zu."},
+    {"t":"fill","q":"Ich putze, ___ ihr Zeit habt. (so that, different subjects)","a":["damit"],"why":"different subjects: damit."},
+    {"t":"fill","q":"Das ist der Mann, ___ mir geholfen hat. (relative pronoun)","a":["der"],"why":"masculine subject: der."},
+    {"t":"fill","q":"Das ist der Kuchen, ___ ich gebacken habe. (relative pronoun)","a":["den"],"why":"masculine accusative: den."},
+    {"t":"fill","q":"Das ist die Stadt, in ___ ich wohne. (relative pronoun)","a":["der"],"why":"in + Dativ, feminine: der."},
+    {"t":"fill","q":"Das Essen ___ über die App bestellt. (werden, singular)","a":["wird"],"why":"passive: wird + Partizip II."},
+    {"t":"mc","q":"Which sentence is passive?","o":["Das System wurde geplant.","Das System plante er.","Das System ist gut."],"a":0,"why":"wurde + Partizip II."},
+    {"t":"fill","q":"Ich freue ___ auf das Wochenende. (reflexive, ich)","a":["mich"],"why":"sich freuen."},
+    {"t":"fill","q":"Ich mache ___ Sorgen. (reflexive dative, ich)","a":["mir"],"why":"sich (Dat.) Sorgen machen."},
+    {"t":"fill","q":"Ich warte ___ den Bus. (for)","a":["auf"],"why":"warten auf + Akk."},
+    {"t":"fill","q":"Er träumt ___ einem eigenen Restaurant. (of)","a":["von"],"why":"träumen von + Dat."},
+    {"t":"mc","q":"Which order is correct?","o":["Ich schenke es ihr.","Ich schenke ihr es.","Ich es schenke ihr."],"a":0,"why":"Akkusativ pronoun before Dativ pronoun."},
+    {"t":"fill","q":"Ich stelle das Buch auf ___ Tisch. (Wohin? masculine)","a":["den"],"why":"Wohin → Akkusativ."},
+    {"t":"fill","q":"Das Buch liegt auf ___ Tisch. (Wo? masculine)","a":["dem"],"why":"Wo → Dativ."},
+    {"t":"fill","q":"das Drehbuch ___ Films (genitive, neuter)","a":["des"],"why":"des Films."},
+    {"t":"fill","q":"Früher ___ wir nicht so viel reisen. (können, Präteritum, wir)","a":["konnten"],"why":"wir konnten."},
+    {"t":"fill","q":"Er ___ viele Stücke für Geige. (schreiben, Präteritum)","a":["schrieb"],"why":"schreiben – schrieb."},
+    {"t":"mc","q":"Which is the most polite request?","o":["Könnten Sie mir bitte helfen?","Helfen Sie mir!","Sie helfen mir jetzt."],"a":0,"why":"Konjunktiv II + bitte."},
+    {"t":"fill","q":"Du ___ mehr schlafen. (advice – sollen, polite)","a":["solltest"],"why":"du solltest."},
+    {"t":"mc","q":"Which is correct?","o":["Sie ist so groß wie ich.","Sie ist so größer wie ich.","Sie ist so groß als ich."],"a":0,"why":"so … wie."},
+    {"t":"mc","q":"“Hast du Lust, ins Kino ___ gehen?”","o":["zu","um","–"],"a":0,"why":"Lust haben + zu + Infinitiv."}
+  ]
+}
+}

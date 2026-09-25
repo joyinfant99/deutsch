@@ -1,0 +1,146 @@
+{
+"a2-49": {
+  "goal": "Tell a professional biography (school, studies, career) and give reasons with denn.",
+  "words": [
+    ["der Beruf / die Berufswahl", "profession / career choice"],
+    ["studieren / das Studium", "to study / studies"],
+    ["das Studium abschließen", "to finish one’s studies"],
+    ["die Note, -n", "grade"],
+    ["der Akademiker / das Handwerk", "academic / craft, trade"],
+    ["die Firma gründen", "to found a company"],
+    ["stolz (auf)", "proud (of)"],
+    ["der Arzt / der Anwalt / der Geschäftsführer", "doctor / lawyer / managing director"],
+    ["unterstützen", "to support"],
+    ["das Vertrauen", "trust"],
+    ["wiedergutmachen", "to make up for"],
+    ["Das hat Zukunft.", "That has a future."]
+  ],
+  "grammar": {
+    "title": "The conjunction denn",
+    "text": "**denn** (because, for) gives a reason and connects **two main clauses**. The word order does **not** change (verb in position 2):\n\n- Unsere Eltern waren sehr stolz, **denn** sie **wollten** einen Arzt in der Familie haben.\n- Ich bin müde, **denn** ich **habe** nicht geschlafen.\n\nCompare **weil** (subordinate clause, verb at the end): … weil sie einen Arzt in der Familie haben **wollten**. **denn** never starts a sentence in conversation and is used mainly in writing or careful speech.\n\nAlso: **um … zu + infinitive** (in order to): Ich bin nach Deutschland gegangen, **um** hier eine Firma **zu gründen**.",
+    "ex": [
+      ["Unsere Eltern waren sehr stolz, denn sie wollten einen Arzt, Anwalt oder Geschäftsführer in der Familie haben.", "Our parents were very proud, because they wanted a doctor, lawyer or manager in the family."],
+      ["Ich bin nach Deutschland gegangen, um hier eine Firma zu gründen.", "I went to Germany in order to found a company here."],
+      ["Nico will anpacken – beruflich und privat.", "Nico wants to get stuck in – professionally and privately."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What was Pepe’s role in the family?","o":["The oldest and his parents’ favourite","The youngest","The black sheep"],"a":0,"why":"“Ich bin der Älteste … der Lieblingssohn meiner Eltern.”","src":"video"},
+    {"t":"mc","q":"What did Pepe’s father want his sons to study?","o":["Medicine, engineering or law","Art or music","Languages"],"a":0,"why":"“Medizin, Maschinenbau oder Jura.”","src":"video"},
+    {"t":"mc","q":"What did Nico always want to learn?","o":["A craft (Handwerk)","Law","Medicine"],"a":0,"why":"“Er wollte immer ’n Handwerk lernen.”","src":"video"},
+    {"t":"mc","q":"What is the real reason Nico doesn’t talk to Pepe?","o":["Pepe never supported him","Pepe stole money","Pepe lives too far away"],"a":0,"why":"“Der Grund ist, dass ich ihn nie unterstützt hab.”","src":"video"},
+    {"t":"fill","q":"Sie waren stolz, ___ sie wollten einen Arzt in der Familie. (because)","a":["denn"],"why":"denn + main clause.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Ich bin müde, denn ich habe schlecht geschlafen.","Ich bin müde, denn ich schlecht geschlafen habe.","Ich bin müde, denn habe ich schlecht geschlafen."],"a":0,"why":"denn does not change the word order.","src":"grammar"},
+    {"t":"fill","q":"Er ging nach Deutschland, ___ hier eine Firma zu gründen. (in order)","a":["um"],"why":"um … zu + Infinitiv.","src":"grammar"},
+    {"t":"mc","q":"“das Vertrauen” means:","o":["trust","confidence trick","exam"],"a":0,"why":"Vertrauen entsteht nicht von heute auf morgen.","src":"vocab"}
+  ]
+},
+"a2-50": {
+  "goal": "Write a CV (Lebenslauf): know what belongs in it and use nouns ending in -ung (Bewerbung, Ausbildung, Erfahrung).",
+  "words": [
+    ["der Lebenslauf", "CV, résumé"],
+    ["die Schulbildung", "school education"],
+    ["der Schulabschluss / das Abitur", "school-leaving qualification / A-levels"],
+    ["das Gymnasium / die Realschule", "grammar school / intermediate school"],
+    ["das Praktikum, Praktika", "internship, internships"],
+    ["die Berufserfahrung", "work experience"],
+    ["die Ausbildung", "vocational training"],
+    ["das Auslandssemester", "semester abroad"],
+    ["die Sprachkenntnisse / die Computerkenntnisse", "language skills / computer skills"],
+    ["die Bewerbung, -en", "application"],
+    ["sich bewerben (um / auf)", "to apply"],
+    ["Leg los!", "Get going!"]
+  ],
+  "grammar": {
+    "title": "Nouns ending in -ung (and -ung nouns for the CV)",
+    "text": "Nouns ending in **-ung** come from verbs and are **feminine**:\n\n- bewerben → die **Bewerbung**\n- ausbilden → die **Ausbildung**\n- erfahren → die **Erfahrung**\n- bilden → die **Bildung** (Schulbildung)\n- wohnen → die **Wohnung**, üben → die **Übung**\n\nCompound nouns are also feminine if the last part is: die **Berufserfahrung**, die **Sprachkenntnisse** (plural). Plural of Praktikum: **Praktika**.\n\nCV sections: **persönliche Daten – Schulbildung – Ausbildung – Berufserfahrung – Praktika – Sprachkenntnisse – Computerkenntnisse – Hobbys**.",
+    "ex": [
+      ["Schreibt bitte alle Sprachen in den Lebenslauf, die ihr gelernt habt.", "Please write all the languages you have learned in your CV."],
+      ["Die Mehrzahl von „Praktikum“ ist „Praktika“.", "The plural of ‘Praktikum’ is ‘Praktika’."],
+      ["Ihr könnt auch ein Auslandssemester in den Lebenslauf schreiben.", "You can also put a semester abroad in your CV."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Which information does Lisa list for a CV?","o":["Name, address, schooling, internships, work experience, languages","Only your hobbies","Your favourite food"],"a":0,"why":"She names all of these.","src":"video"},
+    {"t":"mc","q":"What is the plural of “Praktikum”?","o":["Praktika","Praktikums","Praktiken"],"a":0,"why":"Latin plural.","src":"video"},
+    {"t":"mc","q":"How important are hobbies in the CV?","o":["Not absolutely necessary","Most important","Forbidden"],"a":0,"why":"“… das ist nicht unbedingt nötig.”","src":"video"},
+    {"t":"mc","q":"What does Lisa want to see at the end of the lesson?","o":["Everyone’s CV","A German exam","A letter of motivation"],"a":0,"why":"“Ich möchte bis zum Ende der Stunde eure Lebensläufe sehen.”","src":"video"},
+    {"t":"mc","q":"Which article goes with “Bewerbung”?","o":["die","der","das"],"a":0,"why":"-ung nouns are feminine.","src":"grammar"},
+    {"t":"fill","q":"ausbilden → die ___ (noun)","a":["Ausbildung"],"why":"-ung.","src":"grammar"},
+    {"t":"mc","q":"“der Schulabschluss” is:","o":["school-leaving qualification","school holiday","school book"],"a":0,"why":"Abitur is one.","src":"vocab"},
+    {"t":"mc","q":"“sich bewerben” means:","o":["to apply","to describe","to advertise"],"a":0,"why":"die Bewerbung.","src":"vocab"}
+  ]
+},
+"a2-51": {
+  "goal": "Make a polite phone call about a job and ask polite questions with Konjunktiv II (Könnten Sie …? Würden Sie …?).",
+  "words": [
+    ["sich bewerben auf / bei", "to apply for / to"],
+    ["die Stelle, -n", "job, position"],
+    ["die Arbeitsstelle / die Sprachprüfung", "job / language exam"],
+    ["bestehen", "to pass"],
+    ["das Bewerbungsgespräch, -e", "job interview"],
+    ["ein Termin für ein Gespräch", "an appointment for an interview"],
+    ["die Qualifikation, -en", "qualification"],
+    ["höflich", "polite"],
+    ["Das geht niemanden etwas an.", "That’s nobody’s business."],
+    ["Hier spricht Ibrahim Al-Pascha.", "This is Ibrahim Al-Pascha speaking."],
+    ["Ich rufe an, weil …", "I’m calling because …"],
+    ["ablaufen", "to take place, to proceed"]
+  ],
+  "grammar": {
+    "title": "Subjunctive II: polite requests",
+    "text": "Use the **Konjunktiv II** to be polite:\n\n- **Könnten Sie** das bitte wiederholen? (Could you …?)\n- **Würden Sie** mir sagen, wie ich einen Termin bekomme? (Would you tell me …?)\n- **Ich möchte / Ich hätte gern …** (I would like …)\n- **Was würden Sie sagen?** (What would you say?)\n\nCompare: “Ich möchte wissen, ob ich einen Termin haben kann.” (direct, less polite) → **“Können Sie mir sagen, wie ich einen Termin für ein Bewerbungsgespräch bekomme?”** (more polite, indirect question).\n\nOn the phone: **Hier spricht …** – **Ich rufe an, weil …** – **Ich möchte mich auf die Stelle bewerben.**",
+    "ex": [
+      ["Können Sie mir sagen, wie ich einen Termin bekomme?", "Can you tell me how I can get an appointment?"],
+      ["Ich rufe an, weil ich mich bei Ihnen bewerben möchte.", "I’m calling because I would like to apply with you."],
+      ["Könnten Sie das bitte wiederholen?", "Could you please repeat that?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What was Ibrahim’s job in Syria?","o":["Doctor","Teacher","Taxi driver"],"a":0,"why":"“Papa ist eigentlich Arzt.”","src":"video"},
+    {"t":"mc","q":"Why can’t he work as a doctor in Germany yet?","o":["He has to pass a language exam first","He has no diploma","He is too old"],"a":0,"why":"“… eine Sprachprüfung bestehen, damit er in Deutschland arbeiten darf.”","src":"video"},
+    {"t":"mc","q":"What kind of job does he want to apply for?","o":["Restaurant employee in a fast-food restaurant","Hospital cleaner","Teacher"],"a":0,"why":"“In einem Fast-Food-Restaurant … Restaurant-Mitarbeiter.”","src":"video"},
+    {"t":"mc","q":"How does Lisa improve his phone question?","o":["“Können Sie mir sagen, wie ich einen Termin bekomme?” sounds more polite","She removes the question","She makes it shorter"],"a":0,"why":"Indirect and polite.","src":"video"},
+    {"t":"fill","q":"___ Sie das bitte wiederholen? (Could you – polite)","a":["Könnten","Koennten"],"why":"Könnten Sie …?","src":"grammar"},
+    {"t":"mc","q":"Which is the most polite?","o":["Könnten Sie mir bitte helfen?","Helfen Sie mir!","Sie müssen mir helfen."],"a":0,"why":"Konjunktiv II + bitte.","src":"grammar"},
+    {"t":"mc","q":"“Hier spricht Ibrahim.” is used to:","o":["introduce yourself on the phone","end a call","ask for the time"],"a":0,"why":"phone opening.","src":"vocab"},
+    {"t":"mc","q":"“die Stelle” means:","o":["job, position","place, spot","story"],"a":0,"why":"eine freie Stelle.","src":"vocab"}
+  ]
+},
+"a2-52": {
+  "goal": "Understand and answer typical job interview questions (Stärken, Erfahrung, Teilzeit/Vollzeit) and report questions with ob and W-words.",
+  "words": [
+    ["die Stärke, -n", "strength"],
+    ["zuverlässig", "reliable"],
+    ["teamfähig", "able to work in a team"],
+    ["das Unternehmen, -", "company"],
+    ["einstellen", "to hire"],
+    ["der Schichtdienst", "shift work"],
+    ["die Teilzeit / die Vollzeit", "part-time / full-time"],
+    ["befristet", "temporary, fixed-term"],
+    ["die Spezialisierung / der Urologe", "specialisation / urologist"],
+    ["der Arbeitsplatz", "workplace"],
+    ["Willkommen im Team!", "Welcome to the team!"],
+    ["Das wird schon.", "It’ll be fine."]
+  ],
+  "grammar": {
+    "title": "Indirect questions in interviews",
+    "text": "Interviewers often ask indirectly. The verb goes to the **end**:\n\n- **Ich möchte wissen, ob** Sie teamfähig **sind**.\n- **Können Sie mir sagen, warum** ich Sie einstellen **sollte**?\n- **Wissen Sie, wo** Sie in fünf Jahren **sein** **wollen**?\n- Sie fragen, **ob** ich Erfahrung im Schichtdienst **habe**.\n\nAnswer with a full sentence: **Ich bin zuverlässig.** **Ich habe in Syrien immer im Team gearbeitet.** **Ich möchte Vollzeit arbeiten.** Polite: **Könnten Sie das bitte wiederholen?**",
+    "ex": [
+      ["Warum sollte ich Sie einstellen? Was sind Ihre Stärken?", "Why should I hire you? What are your strengths?"],
+      ["Wollen Sie Teilzeit oder Vollzeit arbeiten? – Ich möchte Vollzeit arbeiten.", "Do you want to work part-time or full-time? – I’d like to work full-time."],
+      ["Erst einmal befristet auf drei Monate.", "For the time being limited to three months."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What is Ibrahim’s first answer about his strengths?","o":["He is reliable","He is fast","He is strong"],"a":0,"why":"“Ich bin zuverlässig.”","src":"video"},
+    {"t":"mc","q":"What does “teamfähig” mean, as Pepe explains?","o":["Being able to work well in a team","Being good at football","Being tall"],"a":0,"why":"“Können Sie gut im Team arbeiten?”","src":"video"},
+    {"t":"mc","q":"When does Ibrahim prefer to work, and why?","o":["Afternoons and evenings – he has a language course in the morning","Mornings only","Nights"],"a":0,"why":"“… weil ich vormittags noch einen Sprachkurs besuche.”","src":"video"},
+    {"t":"mc","q":"What is the result of the interview?","o":["He gets the job, for three months first","He is rejected","He must come again"],"a":0,"why":"“Sie haben den Job. Erst einmal befristet auf drei Monate.”","src":"video"},
+    {"t":"fill","q":"Ich möchte wissen, ___ Sie teamfähig sind. (whether)","a":["ob"],"why":"ob-clause.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Können Sie mir sagen, wo Sie früher gearbeitet haben?","Können Sie mir sagen, wo haben Sie früher gearbeitet?","Können Sie mir sagen, wo Sie haben früher gearbeitet?"],"a":0,"why":"verb at the end.","src":"grammar"},
+    {"t":"mc","q":"“befristet” means:","o":["limited in time","permanent","unpaid"],"a":0,"why":"die Frist = deadline.","src":"vocab"},
+    {"t":"mc","q":"“Vollzeit” is the opposite of:","o":["Teilzeit","Freizeit","Mittagszeit"],"a":0,"why":"Teilzeit = part-time.","src":"vocab"}
+  ]
+}
+}

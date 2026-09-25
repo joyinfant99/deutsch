@@ -1,0 +1,1517 @@
+{
+"40": {
+"kind": "video",
+"title": "Seit oder Vor? | Since, for and ago explained | German Time Prepositions",
+"source": "YouTube · YourGermanTeacher",
+"url": "https://www.youtube.com/watch?v=RP0qjvKaWZI",
+"minutes": 9,
+"focus": "Note which tense goes with seit (present) and which with vor (Perfekt/Präteritum). Make one sentence of your own with each.",
+"questions": [
+{
+"t": "mc",
+"q": "“Ich wohne seit zwei Jahren in Berlin.” The person:",
+"o": [
+"still lives in Berlin",
+"used to live in Berlin",
+"will live in Berlin"
+],
+"a": 0,
+"why": "seit + present = ongoing."
+},
+{
+"t": "mc",
+"q": "“vor zwei Jahren” means:",
+"o": [
+"two years ago",
+"for two years",
+"in two years"
+],
+"a": 0,
+"why": "vor + Dativ = ago."
+},
+{
+"t": "fill",
+"q": "Ich bin ___ einer Woche angekommen. (ago)",
+"a": [
+"vor"
+],
+"why": "vor einer Woche."
+}
+]
+},
+"41": {
+"kind": "video",
+"title": "German Two-Part Conjunctions | Super Easy German 199",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=UEYP6GCxr0k",
+"minutes": 8,
+"focus": "Collect the pairs: entweder … oder, sowohl … als auch, weder … noch, nicht nur … sondern auch, zwar … aber. Write one example for each.",
+"questions": [
+{
+"t": "mc",
+"q": "Which pair means “both … and”?",
+"o": [
+"sowohl … als auch",
+"weder … noch",
+"entweder … oder"
+],
+"a": 0,
+"why": "Er spricht sowohl Deutsch als auch Englisch."
+},
+{
+"t": "mc",
+"q": "“weder … noch” means:",
+"o": [
+"neither … nor",
+"either … or",
+"not only … but also"
+],
+"a": 0,
+"why": "Ich habe weder Zeit noch Geld."
+},
+{
+"t": "fill",
+"q": "Er ist ___ müde, aber er arbeitet weiter. (admittedly)",
+"a": [
+"zwar"
+],
+"why": "zwar … aber."
+}
+]
+},
+"42": {
+"kind": "video",
+"title": "A2 – Lesson 3 | Konjunktion “dass” | Nebensatz",
+"source": "YouTube · Learn German",
+"url": "https://www.youtube.com/watch?v=UB0jMgUDrNk",
+"minutes": 10,
+"focus": "Watch how the verb jumps to the end after dass, and practise turning two main clauses into one sentence with dass.",
+"questions": [
+{
+"t": "mc",
+"q": "Where does the conjugated verb stand in a dass-clause?",
+"o": [
+"At the end",
+"In second position",
+"At the beginning"
+],
+"a": 0,
+"why": "… dass er morgen kommt."
+},
+{
+"t": "fill",
+"q": "Ich weiß, ___ er morgen kommt. (that)",
+"a": [
+"dass"
+],
+"why": "dass + verb last."
+},
+{
+"t": "mc",
+"q": "Which sentence is correct?",
+"o": [
+"Sie sagt, dass sie müde ist.",
+"Sie sagt, dass sie ist müde.",
+"Sie sagt, dass ist sie müde."
+],
+"a": 0,
+"why": "verb at the end."
+}
+]
+},
+"43": {
+"kind": "video",
+"title": "A2 – Lesson 16 | Indirekte Fragesätze | ob",
+"source": "YouTube · Learn German",
+"url": "https://www.youtube.com/watch?v=Rl1f9qLfob4",
+"minutes": 11,
+"focus": "Turn each direct question into an indirect one (Ich weiß nicht, wo … / ob …). Notice the verb at the end.",
+"questions": [
+{
+"t": "mc",
+"q": "“Wo wohnt er?” → “Ich weiß nicht, ___.”",
+"o": [
+"wo er wohnt",
+"wo wohnt er",
+"wo er wohnen"
+],
+"a": 0,
+"why": "verb at the end."
+},
+{
+"t": "mc",
+"q": "A yes/no question becomes an indirect question with:",
+"o": [
+"ob",
+"dass",
+"weil"
+],
+"a": 0,
+"why": "Kommt er? → Ich weiß nicht, ob er kommt."
+},
+{
+"t": "fill",
+"q": "Ich möchte wissen, ___ du Zeit hast. (whether)",
+"a": [
+"ob"
+],
+"why": "ob-clause."
+}
+]
+},
+"44": {
+"kind": "video",
+"title": "How to use “weil” EXPLAINED | Konjunktion WEIL erklärt | A2",
+"source": "YouTube · YourGermanTeacher",
+"url": "https://www.youtube.com/watch?v=TyHnzQTka6Q",
+"minutes": 13,
+"focus": "Focus on the verb at the end and on what happens when the weil-clause comes first in the sentence.",
+"questions": [
+{
+"t": "mc",
+"q": "Which sentence is correct?",
+"o": [
+"Ich bleibe zu Hause, weil ich krank bin.",
+"Ich bleibe zu Hause, weil ich bin krank.",
+"Ich bleibe zu Hause, weil bin ich krank."
+],
+"a": 0,
+"why": "verb at the end."
+},
+{
+"t": "mc",
+"q": "If the weil-clause comes first, the main clause starts with:",
+"o": [
+"the verb",
+"the subject",
+"weil again"
+],
+"a": 0,
+"why": "Weil ich krank bin, bleibe ich zu Hause."
+},
+{
+"t": "fill",
+"q": "Ich komme nicht, ___ ich arbeiten muss. (because)",
+"a": [
+"weil"
+],
+"why": "weil + verb at the end."
+}
+]
+},
+"45": {
+"kind": "video",
+"title": "Deutsch lernen A2: Wortschatz für die Bank (Konto eröffnen, EC Karte beantragen …)",
+"source": "YouTube · Lernwas",
+"url": "https://www.youtube.com/watch?v=qXnqXLFl7eY",
+"minutes": 9,
+"focus": "Collect the bank words (Konto, Girokarte, Überweisung, Kontoauszug) and practise one dialogue: “Ich möchte ein Konto eröffnen.”",
+"questions": [
+{
+"t": "mc",
+"q": "“das Konto, Konten” means:",
+"o": [
+"bank account",
+"account of a story",
+"counter"
+],
+"a": 0,
+"why": "ein Konto eröffnen."
+},
+{
+"t": "mc",
+"q": "“die Überweisung” means:",
+"o": [
+"bank transfer",
+"overview",
+"crossing"
+],
+"a": 0,
+"why": "Ich mache eine Überweisung."
+},
+{
+"t": "fill",
+"q": "Ich möchte ein Konto ___. (eröffnen, Infinitiv)",
+"a": [
+"eröffnen",
+"eroeffnen"
+],
+"why": "ein Konto eröffnen."
+}
+]
+},
+"46": {
+"kind": "video",
+"title": "Genders of German Nouns: Tips, Tricks & Memory Tools",
+"source": "YouTube · Learn German with Herr Antrim",
+"url": "https://www.youtube.com/watch?v=TcsvktsHTC8",
+"minutes": 4,
+"focus": "Write down the endings that always signal the article: -ung, -heit, -keit, -schaft, -ion (die) and -chen, -lein (das).",
+"questions": [
+{
+"t": "mc",
+"q": "Nouns ending in -ung are always:",
+"o": [
+"feminine (die)",
+"masculine (der)",
+"neuter (das)"
+],
+"a": 0,
+"why": "die Bestellung, die Wohnung."
+},
+{
+"t": "mc",
+"q": "Nouns ending in -chen are:",
+"o": [
+"neuter (das)",
+"feminine (die)",
+"masculine (der)"
+],
+"a": 0,
+"why": "das Mädchen, das Brötchen."
+},
+{
+"t": "fill",
+"q": "___ Freundschaft ist wichtig. (the, -schaft noun)",
+"a": [
+"Die"
+],
+"why": "-schaft → die."
+}
+]
+},
+"47": {
+"kind": "video",
+"title": "Deutsch lernen - Geldautomat | Deutsch lernen mit Dialogen",
+"source": "YouTube · DeutschBlitz",
+"url": "https://www.youtube.com/watch?v=SbGSudeFXQU",
+"minutes": 12,
+"focus": "Listen to the dialogue and note the steps: Karte einstecken, PIN eingeben, Betrag wählen, Geld abheben. Then say the steps aloud.",
+"questions": [
+{
+"t": "mc",
+"q": "“der Geldautomat” means:",
+"o": [
+"cash machine (ATM)",
+"money maker",
+"bank clerk"
+],
+"a": 0,
+"why": "am Geldautomaten."
+},
+{
+"t": "mc",
+"q": "“abheben” (Geld) means:",
+"o": [
+"to withdraw",
+"to lift up a bank",
+"to hide"
+],
+"a": 0,
+"why": "Geld abheben."
+},
+{
+"t": "fill",
+"q": "Ich möchte 100 Euro ___. (abheben, Infinitiv)",
+"a": [
+"abheben"
+],
+"why": "Geld abheben."
+}
+]
+},
+"48": {
+"kind": "video",
+"title": "How to Remember Possessive Article Endings",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=ITjyfCAspco",
+"minutes": 12,
+"focus": "Learn the trick: possessives take the same endings as ein/kein. Practise with mein-, dein-, unser- in all three cases.",
+"questions": [
+{
+"t": "mc",
+"q": "Possessive articles (mein, dein …) take the endings of:",
+"o": [
+"ein / kein",
+"der / die / das",
+"adjectives"
+],
+"a": 0,
+"why": "mein Vater, meine Mutter, meinem Vater."
+},
+{
+"t": "fill",
+"q": "Ich helfe mein___ Mutter. (dative feminine)",
+"a": [
+"er"
+],
+"why": "meiner Mutter."
+},
+{
+"t": "mc",
+"q": "Which is the accusative of “mein Bruder”?",
+"o": [
+"meinen Bruder",
+"mein Bruder",
+"meinem Bruder"
+],
+"a": 0,
+"why": "masculine accusative: -en."
+}
+]
+},
+"49": {
+"kind": "video",
+"title": "Learn German: adjective endings explained logically! Grammar A2–B2",
+"source": "YouTube · Lingster Academy",
+"url": "https://www.youtube.com/watch?v=CpO9Wn4wTy4",
+"minutes": 8,
+"focus": "Notice the three tables (after der, after ein, without article). Decide the ending each time before the video shows it.",
+"questions": [
+{
+"t": "mc",
+"q": "After the definite article in the nominative masculine: “der ___ Mann”",
+"o": [
+"große",
+"großer",
+"großen"
+],
+"a": 0,
+"why": "der große Mann."
+},
+{
+"t": "mc",
+"q": "After ein in the nominative masculine: “ein ___ Mann”",
+"o": [
+"großer",
+"große",
+"großes"
+],
+"a": 0,
+"why": "ein großer Mann (er = the article’s missing ending)."
+},
+{
+"t": "fill",
+"q": "mit dem groß___ Mann (dative)",
+"a": [
+"en"
+],
+"why": "dative: -en."
+}
+]
+},
+"50": {
+"kind": "video",
+"title": "5 Meanings of the Verb “Sollen” | Super Easy German 198",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=dP27rNxH0H4",
+"minutes": 7,
+"focus": "Sort the five meanings: order from others, advice, offers, reported rumours, and questions of doubt.",
+"questions": [
+{
+"t": "mc",
+"q": "“Soll ich das Fenster öffnen?” is:",
+"o": [
+"an offer / question about what to do",
+"an order",
+"a rumour"
+],
+"a": 0,
+"why": "Shall I open the window?"
+},
+{
+"t": "mc",
+"q": "“Du sollst nicht lügen.” means:",
+"o": [
+"You are not supposed to lie.",
+"You cannot lie.",
+"You never lied."
+],
+"a": 0,
+"why": "sollen = supposed to."
+},
+{
+"t": "fill",
+"q": "Du ___ mehr schlafen. (advice, sollen: du)",
+"a": [
+"solltest",
+"sollst"
+],
+"why": "Du solltest … is the polite advice form."
+}
+]
+},
+"51": {
+"kind": "video",
+"title": "Deutsch A2 Pflege-Wortschatz: 30 wichtige Wörter für den Pflegeberuf",
+"source": "YouTube · IFU German Language School",
+"url": "https://www.youtube.com/watch?v=4GTgEGH0jlo",
+"minutes": 6,
+"focus": "Learn the key care words (pflegen, der Pfleger, das Pflegeheim, der Patient) and say what you would need to do in a care job.",
+"questions": [
+{
+"t": "mc",
+"q": "“das Pflegeheim” means:",
+"o": [
+"nursing home",
+"care package",
+"home nurse"
+],
+"a": 0,
+"why": "Alten- und Pflegeheim."
+},
+{
+"t": "mc",
+"q": "“pflegen” means:",
+"o": [
+"to care for",
+"to pay",
+"to plant"
+],
+"a": 0,
+"why": "Er pflegt seine Mutter."
+},
+{
+"t": "mc",
+"q": "“der Pfleger / die Pflegerin” is a:",
+"o": [
+"carer, nurse",
+"cleaner",
+"teacher"
+],
+"a": 0,
+"why": "Beruf in der Pflege."
+}
+]
+},
+"52": {
+"kind": "video",
+"title": "Deutsch lernen: Haushalt | Hausarbeit – Wortschatz",
+"source": "YouTube · Super Deutsch",
+"url": "https://www.youtube.com/watch?v=Dx5cB5F47jo",
+"minutes": 7,
+"focus": "Write down each chore verb with its noun (Wäsche waschen, Geschirr spülen, staubsaugen) and say which ones you do daily.",
+"questions": [
+{
+"t": "mc",
+"q": "“Wäsche waschen” means:",
+"o": [
+"to do the laundry",
+"to wash the car",
+"to wash the dishes"
+],
+"a": 0,
+"why": "die Wäsche = laundry."
+},
+{
+"t": "mc",
+"q": "“staubsaugen” means:",
+"o": [
+"to vacuum",
+"to dust with a cloth",
+"to sweep"
+],
+"a": 0,
+"why": "der Staubsauger."
+},
+{
+"t": "fill",
+"q": "Ich ___ jeden Tag das Geschirr. (spülen, ich)",
+"a": [
+"spüle",
+"spuele"
+],
+"why": "ich spüle."
+}
+]
+},
+"53": {
+"kind": "video",
+"title": "Verben + Präpositionen | A2 B1 B2",
+"source": "YouTube · Benjamin – Der Deutschlehrer",
+"url": "https://www.youtube.com/watch?v=IgpcecscR6M",
+"minutes": 10,
+"focus": "Copy the verb–preposition–case combinations into your notebook: warten auf + Akk., träumen von + Dat., denken an + Akk., sich interessieren für + Akk.",
+"questions": [
+{
+"t": "fill",
+"q": "Ich warte ___ den Bus. (for)",
+"a": [
+"auf"
+],
+"why": "warten auf + Akk."
+},
+{
+"t": "mc",
+"q": "“träumen von” takes:",
+"o": [
+"Dativ",
+"Akkusativ",
+"Genitiv"
+],
+"a": 0,
+"why": "Ich träume von einem Haus."
+},
+{
+"t": "fill",
+"q": "Ich denke oft ___ meine Familie. (of)",
+"a": [
+"an"
+],
+"why": "denken an + Akk."
+}
+]
+},
+"54": {
+"kind": "video",
+"title": "A2 – Lesson 42 | Ratschläge geben | sollte | Konjunktiv II",
+"source": "YouTube · Learn German",
+"url": "https://www.youtube.com/watch?v=Y9KJfcUYir8",
+"minutes": 10,
+"focus": "Collect the advice patterns: Du solltest …, An deiner Stelle würde ich …, Ich würde dir raten, … Write three pieces of advice for a friend.",
+"questions": [
+{
+"t": "mc",
+"q": "Which sentence gives advice?",
+"o": [
+"Du solltest mehr schlafen.",
+"Du schläfst mehr.",
+"Du hast mehr geschlafen."
+],
+"a": 0,
+"why": "sollte = should."
+},
+{
+"t": "mc",
+"q": "“An deiner Stelle würde ich …” means:",
+"o": [
+"If I were you, I would …",
+"At your place I am …",
+"In your job I …"
+],
+"a": 0,
+"why": "advice pattern."
+},
+{
+"t": "fill",
+"q": "Ich ___ dir raten, das nicht zu tun. (would)",
+"a": [
+"würde",
+"wuerde"
+],
+"why": "Ich würde dir raten …"
+}
+]
+},
+"55": {
+"kind": "video",
+"title": "Als vs Wie? | Comparison in German",
+"source": "YouTube · YourGermanTeacher",
+"url": "https://www.youtube.com/watch?v=bkPT2RYeIIs",
+"minutes": 10,
+"focus": "Sort the sentences: als after a comparative, wie after so / genauso. Write two of each.",
+"questions": [
+{
+"t": "mc",
+"q": "Er ist größer ___ ich.",
+"o": [
+"als",
+"wie",
+"denn"
+],
+"a": 0,
+"why": "comparative + als."
+},
+{
+"t": "mc",
+"q": "Sie ist so groß ___ ich.",
+"o": [
+"wie",
+"als",
+"dass"
+],
+"a": 0,
+"why": "so … wie."
+},
+{
+"t": "fill",
+"q": "Tee ist billiger ___ Kaffee. (than)",
+"a": [
+"als"
+],
+"why": "comparative + als."
+}
+]
+},
+"56": {
+"kind": "video",
+"title": "German for Beginners #39: und, oder, aber, denn, sondern",
+"source": "YouTube · Learn German with Herr Antrim",
+"url": "https://www.youtube.com/watch?v=xTt3KAITFrA",
+"minutes": 3,
+"focus": "Memorise the five conjunctions that do not change word order (ADUSO: aber, denn, und, sondern, oder).",
+"questions": [
+{
+"t": "mc",
+"q": "Which conjunction is used after a negation: “Ich bleibe nicht hier, … ich gehe.”",
+"o": [
+"sondern",
+"aber",
+"denn"
+],
+"a": 0,
+"why": "sondern = but rather."
+},
+{
+"t": "mc",
+"q": "After denn the verb stands:",
+"o": [
+"in second position",
+"at the end",
+"first"
+],
+"a": 0,
+"why": "denn does not change the word order."
+},
+{
+"t": "fill",
+"q": "Ich möchte Tee ___ Kaffee. (or)",
+"a": [
+"oder"
+],
+"why": "oder = or."
+}
+]
+},
+"57": {
+"kind": "video",
+"title": "German Hotel Vocabulary | Super Easy German 186",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=gll1m3Kp2tk",
+"minutes": 11,
+"focus": "List the reception phrases you would need: booking, key, breakfast, checking in and out, complaints.",
+"questions": [
+{
+"t": "mc",
+"q": "“das Einzelzimmer” is:",
+"o": [
+"a single room",
+"a double room",
+"a suite"
+],
+"a": 0,
+"why": "Einzel = single."
+},
+{
+"t": "mc",
+"q": "“Das Frühstück ist im Preis inbegriffen.” means:",
+"o": [
+"Breakfast is included in the price.",
+"Breakfast is extra.",
+"There is no breakfast."
+],
+"a": 0,
+"why": "inbegriffen = included."
+},
+{
+"t": "fill",
+"q": "Haben Sie noch ein Zimmer ___? (free)",
+"a": [
+"frei"
+],
+"why": "ein Zimmer frei."
+}
+]
+},
+"58": {
+"kind": "video",
+"title": "43 Words You Need for Traveling by Train in Germany | Super Easy German 224",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=8ZrbA_NplVc",
+"minutes": 9,
+"focus": "Note the essential words: Gleis, Abfahrt, Ankunft, Verspätung, umsteigen, Fahrkarte, Bahnsteig. Say each in a sentence.",
+"questions": [
+{
+"t": "mc",
+"q": "“das Gleis” is:",
+"o": [
+"the platform / track",
+"the ticket",
+"the delay"
+],
+"a": 0,
+"why": "Der Zug fährt auf Gleis 7 ab."
+},
+{
+"t": "mc",
+"q": "“die Verspätung” means:",
+"o": [
+"the delay",
+"the departure",
+"the connection"
+],
+"a": 0,
+"why": "Der Zug hat Verspätung."
+},
+{
+"t": "fill",
+"q": "Der Zug fährt um 9:45 Uhr ___. (abfahren)",
+"a": [
+"ab"
+],
+"why": "separable verb: fährt … ab."
+}
+]
+},
+"59": {
+"kind": "video",
+"title": "How to buy a metro ticket in Berlin | Super Easy German (106)",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=2uFBU_gQGxk",
+"minutes": 5,
+"focus": "Follow the machine steps and note the words for ticket types (Einzelfahrschein, Tageskarte) and validating (entwerten).",
+"questions": [
+{
+"t": "mc",
+"q": "“der Einzelfahrschein” is:",
+"o": [
+"a single ticket",
+"a day pass",
+"a monthly pass"
+],
+"a": 0,
+"why": "Einzel = single."
+},
+{
+"t": "mc",
+"q": "“einen Fahrschein entwerten” means:",
+"o": [
+"to validate a ticket",
+"to throw the ticket away",
+"to buy a ticket"
+],
+"a": 0,
+"why": "You stamp/validate it before the ride."
+},
+{
+"t": "fill",
+"q": "Ich brauche eine ___ für den ganzen Tag. (day pass)",
+"a": [
+"Tageskarte"
+],
+"why": "die Tageskarte."
+}
+]
+},
+"60": {
+"kind": "video",
+"title": "Reflexive Verben mit Akkusativ | German Reflexive Verbs Explained!",
+"source": "YouTube · YourGermanTeacher",
+"url": "https://www.youtube.com/watch?v=wuKLXCZHlmc",
+"minutes": 12,
+"focus": "Write the reflexive pronoun table and add five verbs you use daily (sich waschen, sich anziehen, sich freuen, sich treffen, sich setzen).",
+"questions": [
+{
+"t": "fill",
+"q": "Ich wasche ___. (reflexive, ich)",
+"a": [
+"mich"
+],
+"why": "ich → mich."
+},
+{
+"t": "fill",
+"q": "Wir treffen ___ um acht. (reflexive, wir)",
+"a": [
+"uns"
+],
+"why": "wir → uns."
+},
+{
+"t": "mc",
+"q": "The reflexive pronoun for “er” is:",
+"o": [
+"sich",
+"ihn",
+"ihm"
+],
+"a": 0,
+"why": "Er freut sich."
+}
+]
+},
+"61": {
+"kind": "video",
+"title": "German Da-Words | Super Easy German (80)",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=Rd5W-HwArvM",
+"minutes": 5,
+"focus": "See how da(r)- replaces preposition + thing (damit, darauf, dafür) and wo(r)- asks about it (womit, worauf).",
+"questions": [
+{
+"t": "mc",
+"q": "“Ich freue mich darauf.” – “darauf” stands for:",
+"o": [
+"auf + a thing already mentioned",
+"auf + a person",
+"auf + time"
+],
+"a": 0,
+"why": "da + auf."
+},
+{
+"t": "fill",
+"q": "Womit schreibst du? – ___ einem Stift. (with)",
+"a": [
+"Mit"
+],
+"why": "womit … – Mit …"
+},
+{
+"t": "mc",
+"q": "“Worauf wartest du?” asks about:",
+"o": [
+"a thing (waiting for what)",
+"a person",
+"a place"
+],
+"a": 0,
+"why": "wo(r) + auf."
+}
+]
+},
+"62": {
+"kind": "video",
+"title": "Adjektive mit Präpositionen – Welche Präposition ist richtig?",
+"source": "YouTube · Sprakuko",
+"url": "https://www.youtube.com/watch?v=TobWoyUGYwE",
+"minutes": 10,
+"focus": "Learn the pairs together: stolz auf, zufrieden mit, verliebt in, interessiert an, froh über. Test yourself covering the preposition.",
+"questions": [
+{
+"t": "fill",
+"q": "Ich bin stolz ___ meine Kinder. (of)",
+"a": [
+"auf"
+],
+"why": "stolz auf + Akk."
+},
+{
+"t": "fill",
+"q": "Er ist zufrieden ___ seiner Arbeit. (with)",
+"a": [
+"mit"
+],
+"why": "zufrieden mit + Dat."
+},
+{
+"t": "mc",
+"q": "“verliebt in” takes:",
+"o": [
+"Akkusativ",
+"Dativ",
+"Genitiv"
+],
+"a": 0,
+"why": "verliebt in + Akk."
+}
+]
+},
+"63": {
+"kind": "video",
+"title": "B1 – Lesson 27 | Meinung sagen | express opinion",
+"source": "YouTube · Learn German",
+"url": "https://www.youtube.com/watch?v=RvYpx7eFTlo",
+"minutes": 10,
+"focus": "Collect phrases for opinions, agreement and disagreement. You will need them for the speaking exam.",
+"questions": [
+{
+"t": "mc",
+"q": "“Meiner Meinung nach …” means:",
+"o": [
+"In my opinion …",
+"In my name …",
+"With my meaning …"
+],
+"a": 0,
+"why": "die Meinung."
+},
+{
+"t": "mc",
+"q": "A polite way to disagree:",
+"o": [
+"Das sehe ich anders.",
+"Das ist Quatsch.",
+"Sei still."
+],
+"a": 0,
+"why": "neutral disagreement."
+},
+{
+"t": "fill",
+"q": "Ich bin der Meinung, ___ das richtig ist. (that)",
+"a": [
+"dass"
+],
+"why": "dass-clause."
+}
+]
+},
+"64": {
+"kind": "video",
+"title": "German Dative Case: 15 Simple Verbs That Always Take the Dative",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=YWn2kAjbhrA",
+"minutes": 9,
+"focus": "Learn the list: helfen, danken, gehören, gefallen, schmecken, passen, gratulieren, zuhören, antworten, fehlen … and make one sentence for each.",
+"questions": [
+{
+"t": "fill",
+"q": "Das Buch gehört ___. (to me)",
+"a": [
+"mir"
+],
+"why": "gehören + Dativ."
+},
+{
+"t": "mc",
+"q": "Which verb takes the dative?",
+"o": [
+"helfen",
+"sehen",
+"kaufen"
+],
+"a": 0,
+"why": "Ich helfe dir."
+},
+{
+"t": "fill",
+"q": "Ich danke ___. (to you, informal)",
+"a": [
+"dir"
+],
+"why": "danken + Dativ."
+}
+]
+},
+"65": {
+"kind": "video",
+"title": "How to Use German Indefinite Pronouns | Super Easy German 221",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=iFIOL1rssNc",
+"minutes": 7,
+"focus": "Group the pronouns: persons (man, jemand, niemand, alle, jeder) and things (etwas, nichts, alles).",
+"questions": [
+{
+"t": "mc",
+"q": "“Niemand ist hier.” means:",
+"o": [
+"Nobody is here.",
+"Somebody is here.",
+"Everybody is here."
+],
+"a": 0,
+"why": "niemand = nobody."
+},
+{
+"t": "mc",
+"q": "“etwas” means:",
+"o": [
+"something",
+"nothing",
+"everything"
+],
+"a": 0,
+"why": "etwas – nichts – alles."
+},
+{
+"t": "fill",
+"q": "In Deutschland isst ___ viel Brot. (one / people)",
+"a": [
+"man"
+],
+"why": "man isst."
+}
+]
+},
+"66": {
+"kind": "video",
+"title": "Reflexive pronouns in German – Accusative or Dative?",
+"source": "YouTube · Learn German with Anja",
+"url": "https://www.youtube.com/watch?v=yu9irqGBvn8",
+"minutes": 8,
+"focus": "Only ich and du change: mich/mir, dich/dir. Find out when a body part forces the dative (Ich wasche mir die Hände).",
+"questions": [
+{
+"t": "mc",
+"q": "“Ich wasche ___ die Hände.”",
+"o": [
+"mir",
+"mich",
+"dir"
+],
+"a": 0,
+"why": "body part = accusative object → reflexive in the dative."
+},
+{
+"t": "mc",
+"q": "“Ich wasche ___.”",
+"o": [
+"mich",
+"mir",
+"sich"
+],
+"a": 0,
+"why": "no other object: accusative."
+},
+{
+"t": "fill",
+"q": "Du kaufst ___ ein neues Handy. (reflexive dative, du)",
+"a": [
+"dir"
+],
+"why": "sich (Dat.) etwas kaufen."
+}
+]
+},
+"67": {
+"kind": "video",
+"title": "Is Volunteering Popular in Germany? | Easy German 471",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=qh9g-cIRo2o",
+"minutes": 14,
+"focus": "Street interviews. Listen for words like ehrenamtlich, das Ehrenamt, der Verein, sich engagieren, and note who volunteers where.",
+"questions": [
+{
+"t": "mc",
+"q": "“ehrenamtlich arbeiten” means:",
+"o": [
+"to volunteer (unpaid)",
+"to work at night",
+"to work for a bank"
+],
+"a": 0,
+"why": "das Ehrenamt = voluntary post."
+},
+{
+"t": "mc",
+"q": "“sich engagieren” means:",
+"o": [
+"to get involved",
+"to get engaged (marry)",
+"to disagree"
+],
+"a": 0,
+"why": "Ich engagiere mich im Verein."
+},
+{
+"t": "mc",
+"q": "“der Verein” is a:",
+"o": [
+"club / association",
+"meeting room",
+"exam"
+],
+"a": 0,
+"why": "Sportverein."
+}
+]
+},
+"68": {
+"kind": "video",
+"title": "Important German temporal adverbs | nie, selten, manchmal, oft, immer & more",
+"source": "YouTube · YourGermanTeacher",
+"url": "https://www.youtube.com/watch?v=bgntEB5I5fI",
+"minutes": 8,
+"focus": "Order the words on a scale from nie to immer and say how often you do five things.",
+"questions": [
+{
+"t": "mc",
+"q": "“manchmal” means:",
+"o": [
+"sometimes",
+"every morning",
+"many times"
+],
+"a": 0,
+"why": "manchmal = sometimes."
+},
+{
+"t": "mc",
+"q": "Which word means the highest frequency?",
+"o": [
+"immer",
+"selten",
+"nie"
+],
+"a": 0,
+"why": "immer = always."
+},
+{
+"t": "fill",
+"q": "Ich gehe ___ ins Kino, nur einmal im Jahr. (rarely)",
+"a": [
+"selten"
+],
+"why": "selten = rarely."
+}
+]
+},
+"69": {
+"kind": "video",
+"title": "How to ask the perfect question in German",
+"source": "YouTube · YourGermanTeacher",
+"url": "https://www.youtube.com/watch?v=PYTgxJvsXAk",
+"minutes": 10,
+"focus": "Compare direct and polite indirect forms (Wo ist …? → Können Sie mir sagen, wo … ist?).",
+"questions": [
+{
+"t": "mc",
+"q": "“Können Sie mir sagen, wo der Bahnhof ___?”",
+"o": [
+"ist",
+"ist der",
+"der ist"
+],
+"a": 0,
+"why": "verb at the end."
+},
+{
+"t": "mc",
+"q": "Which is more polite?",
+"o": [
+"Können Sie mir sagen, wie spät es ist?",
+"Wie spät?",
+"Sag mir die Zeit!"
+],
+"a": 0,
+"why": "indirect question + Können Sie …"
+},
+{
+"t": "fill",
+"q": "Ich möchte wissen, ___ er kommt. (whether)",
+"a": [
+"ob"
+],
+"why": "ob-clause."
+}
+]
+},
+"70": {
+"kind": "video",
+"title": "Text like a German! (German Abbreviations)",
+"source": "YouTube · LerneDeutsch",
+"url": "https://www.youtube.com/watch?v=IE_8cBjv6Yo",
+"minutes": 8,
+"focus": "Note the abbreviations: LG, MfG, z. B., usw., ca., bzw., d. h. Say which ones you can use in an email to a friend and which in a formal email.",
+"questions": [
+{
+"t": "mc",
+"q": "“LG” stands for:",
+"o": [
+"Liebe Grüße",
+"Lange Geschichte",
+"Letzte Grüße"
+],
+"a": 0,
+"why": "informal sign-off."
+},
+{
+"t": "mc",
+"q": "“z. B.” means:",
+"o": [
+"zum Beispiel",
+"zurzeit Bahn",
+"zu Besuch"
+],
+"a": 0,
+"why": "for example."
+},
+{
+"t": "mc",
+"q": "“MfG” is used in:",
+"o": [
+"formal emails",
+"chats with friends",
+"children’s books"
+],
+"a": 0,
+"why": "Mit freundlichen Grüßen."
+}
+]
+},
+"71": {
+"kind": "video",
+"title": "Telefongespräch auf Deutsch | Telefonat mit Kundenservice + Beschwerde",
+"source": "YouTube · Learn German with Lengua",
+"url": "https://www.youtube.com/watch?v=Ldg5jyj1o9o",
+"minutes": 9,
+"focus": "Listen for the polite phrases: Ich möchte mich beschweren, Ich bin unzufrieden, Können Sie mir helfen? Repeat the dialogue aloud.",
+"questions": [
+{
+"t": "mc",
+"q": "“Ich möchte mich beschweren.” means:",
+"o": [
+"I would like to complain.",
+"I would like to order.",
+"I would like to pay."
+],
+"a": 0,
+"why": "sich beschweren."
+},
+{
+"t": "mc",
+"q": "“Das Gerät ist defekt.” means:",
+"o": [
+"The device is broken.",
+"The device is new.",
+"The device is expensive."
+],
+"a": 0,
+"why": "defekt = broken."
+},
+{
+"t": "fill",
+"q": "Ich möchte mein Geld ___. (back)",
+"a": [
+"zurück"
+],
+"why": "Ich möchte mein Geld zurück."
+}
+]
+},
+"72": {
+"kind": "video",
+"title": "How to Build Longer German Sentences with Relative Clauses",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=XchW3E0kTPk",
+"minutes": 11,
+"focus": "Build three sentences of your own: one for each gender. Underline the relative pronoun and circle the final verb.",
+"questions": [
+{
+"t": "fill",
+"q": "Das ist der Mann, ___ mir geholfen hat. (relative pronoun)",
+"a": [
+"der"
+],
+"why": "masc. nominative: der."
+},
+{
+"t": "fill",
+"q": "Das ist die Frau, ___ dort wohnt. (relative pronoun)",
+"a": [
+"die"
+],
+"why": "feminine: die."
+},
+{
+"t": "mc",
+"q": "In a relative clause the conjugated verb goes:",
+"o": [
+"to the end",
+"to position 2",
+"to the front"
+],
+"a": 0,
+"why": "…, die dort wohnt."
+}
+]
+},
+"73": {
+"kind": "video",
+"title": "Relative clauses: who, which, that explained simply!",
+"source": "YouTube · Studyflix",
+"url": "https://www.youtube.com/watch?v=4dGMqKIXAZ0",
+"minutes": 5,
+"focus": "Compare the English who / which / that with der / die / das, and check the gender of your noun first.",
+"questions": [
+{
+"t": "mc",
+"q": "The relative pronoun agrees with the noun in:",
+"o": [
+"gender and number",
+"only number",
+"only case"
+],
+"a": 0,
+"why": "Gender and number decide, the case comes from the clause."
+},
+{
+"t": "fill",
+"q": "Das Kind, ___ dort spielt, ist mein Neffe. (neuter)",
+"a": [
+"das"
+],
+"why": "neuter nominative: das."
+},
+{
+"t": "mc",
+"q": "Relative clauses are separated by:",
+"o": [
+"commas",
+"dashes",
+"nothing"
+],
+"a": 0,
+"why": "…, der …, …"
+}
+]
+},
+"74": {
+"kind": "video",
+"title": "Relativsatz German | Akkusativ | Relativpronomen im Akkusativ",
+"source": "YouTube · YourGermanTeacher",
+"url": "https://www.youtube.com/watch?v=Jz1nRBI9ylw",
+"minutes": 11,
+"focus": "See that only the masculine changes (der → den) in the accusative. Make five sentences with the verb at the end.",
+"questions": [
+{
+"t": "fill",
+"q": "Das ist der Kuchen, ___ ich gebacken habe. (masculine accusative)",
+"a": [
+"den"
+],
+"why": "masc. accusative: den."
+},
+{
+"t": "fill",
+"q": "Das ist die Frau, ___ ich kenne. (feminine accusative)",
+"a": [
+"die"
+],
+"why": "feminine: die."
+},
+{
+"t": "mc",
+"q": "Which relative pronoun changes in the accusative?",
+"o": [
+"the masculine",
+"the feminine",
+"the plural"
+],
+"a": 0,
+"why": "der → den."
+}
+]
+},
+"75": {
+"kind": "video",
+"title": "DW Deutsch lernen | Deutsch im Job | B1 | Gastronomie | Wissenscheck",
+"source": "YouTube · DW Learn German",
+"url": "https://www.youtube.com/watch?v=U2fNVmTrJTc",
+"minutes": 11,
+"focus": "Listen for typical vocabulary in restaurants and catering. Do the quiz along with the video.",
+"questions": [
+{
+"t": "mc",
+"q": "“Gäste bedienen” means:",
+"o": [
+"to serve guests",
+"to invite guests",
+"to greet guests only"
+],
+"a": 0,
+"why": "bedienen = serve."
+},
+{
+"t": "mc",
+"q": "“die Küche” in a restaurant job is:",
+"o": [
+"the kitchen",
+"the cooking style only",
+"the till"
+],
+"a": 0,
+"why": "Er arbeitet in der Küche."
+},
+{
+"t": "fill",
+"q": "Der Koch ___ das Essen zu. (zubereiten, er)",
+"a": [
+"bereitet"
+],
+"why": "er bereitet … zu."
+}
+]
+},
+"76": {
+"kind": "video",
+"title": "DTZ / Telc B1 Briefe schreiben | Einladung",
+"source": "YouTube · Benjamin – Der Deutschlehrer",
+"url": "https://www.youtube.com/watch?v=Y-s4SWMfy8o",
+"minutes": 13,
+"focus": "Note the structure of an invitation: Anrede, Anlass, Datum/Uhrzeit/Ort, Bitte um Antwort, Gruß. Write one invitation to a friend.",
+"questions": [
+{
+"t": "mc",
+"q": "Which greeting starts a letter to a friend?",
+"o": [
+"Liebe Anna,",
+"Sehr geehrte Frau Anna,",
+"Hallo Frau Anna"
+],
+"a": 0,
+"why": "informal: Liebe/Lieber + name."
+},
+{
+"t": "mc",
+"q": "An invitation should contain:",
+"o": [
+"date, time and place",
+"only the name",
+"the weather"
+],
+"a": 0,
+"why": "Wann? Wo? Warum?"
+},
+{
+"t": "fill",
+"q": "Ich lade dich ___ meinem Geburtstag ein. (to)",
+"a": [
+"zu"
+],
+"why": "einladen zu + Dat."
+}
+]
+},
+"77": {
+"kind": "video",
+"title": "Deutsch für B1/B2 #33: Gradpartikeln – Verstärkung",
+"source": "YouTube · Learn German with Herr Antrim",
+"url": "https://www.youtube.com/watch?v=w0jYl2kD5IY",
+"minutes": 4,
+"focus": "Rank the intensifiers from weak to strong: ziemlich, sehr, äußerst, unglaublich, total. Use three of them in sentences about your week.",
+"questions": [
+{
+"t": "mc",
+"q": "Which word is the strongest?",
+"o": [
+"äußerst",
+"ziemlich",
+"ein bisschen"
+],
+"a": 0,
+"why": "äußerst = extremely."
+},
+{
+"t": "mc",
+"q": "“ein bisschen müde” means:",
+"o": [
+"a little tired",
+"very tired",
+"not tired"
+],
+"a": 0,
+"why": "ein bisschen = a little."
+},
+{
+"t": "fill",
+"q": "Das Essen war ___ lecker. (totally)",
+"a": [
+"total"
+],
+"why": "total lecker."
+}
+]
+}
+}

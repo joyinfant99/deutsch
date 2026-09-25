@@ -1,0 +1,663 @@
+{
+"a2-01": {
+"goal": "Tell your own story in time: when you came, how long you have been somewhere, and what happened “vor” (ago) and “seit” (since).",
+"words": [
+[
+"die Geschichte, -n",
+"story"
+],
+[
+"von Anfang an",
+"from the beginning"
+],
+[
+"erzählen",
+"to tell"
+],
+[
+"manchmal im Restaurant helfen",
+"to help out in the restaurant sometimes"
+],
+[
+"der Audiokurs, -e",
+"audio course"
+],
+[
+"vor ein paar Wochen",
+"a few weeks ago"
+],
+[
+"Wie lange bist du schon hier?",
+"How long have you been here?"
+],
+[
+"ein bisschen",
+"a little"
+],
+[
+"suchen / gesucht",
+"to look for / looked for"
+],
+[
+"Pass auf!",
+"Listen up! / Watch out!"
+],
+[
+"Ihr kennt euch?",
+"You know each other?"
+],
+[
+"Das ist eine lange Geschichte.",
+"That’s a long story."
+]
+],
+"grammar": {
+"title": "Prepositions of time: vor and seit",
+"text": "Both take the **dative**, but they look in different directions:\n\n- **vor** + dative = **ago**: Ich bin **vor** ein paar Wochen gekommen. (a few weeks ago) – usually with the Perfekt or Präteritum.\n- **seit** + dative = **since / for** (still true now): Ich bin **seit** drei Wochen hier. – usually with the present tense.\n\nAsk with **Wie lange …?**: Wie lange bist du **schon** in Deutschland? – **Seit** einem Monat. Add **schon** to stress the duration.\n\nDative endings: vor **einem** Jahr, seit **einer** Woche, seit **zwei Monaten** (dative plural + n).",
+"ex": [
+[
+"Ich bin vor ein paar Wochen nach Deutschland gekommen.",
+"I came to Germany a few weeks ago."
+],
+[
+"Wie lange bist du denn schon in Deutschland?",
+"So how long have you been in Germany?"
+],
+[
+"Ich bin seit einem Monat hier.",
+"I’ve been here for a month."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "How does Nico explain that he can speak German?",
+"o": [
+"He is doing an audio course",
+"He learned it at school",
+"He grew up in Germany"
+],
+"a": 0,
+"why": "“Ich mache einen Audiokurs.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "When did Nico come to Germany?",
+"o": [
+"A few weeks ago",
+"Last year",
+"Yesterday"
+],
+"a": 0,
+"why": "“Ich bin vor ein paar Wochen nach Deutschland gekommen.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What is Tarek’s plan?",
+"o": [
+"Cook something, and tell Yara everything after dinner",
+"Call Nico’s parents",
+"Close the restaurant"
+],
+"a": 0,
+"why": "“… ich koche etwas und nach dem Essen erzählen wir dir alles.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "“Das ist eine lange Geschichte.” means:",
+"o": [
+"That’s a long story.",
+"That’s a short lesson.",
+"That’s an old house."
+],
+"a": 0,
+"why": "die Geschichte = story.",
+"src": "vocab"
+},
+{
+"t": "mc",
+"q": "“Von Anfang an” means:",
+"o": [
+"from the beginning",
+"until the end",
+"at the moment"
+],
+"a": 0,
+"why": "der Anfang = beginning.",
+"src": "vocab"
+},
+{
+"t": "fill",
+"q": "Ich bin ___ ein paar Wochen gekommen. (ago)",
+"a": [
+"vor"
+],
+"why": "vor + dative = ago.",
+"src": "grammar"
+},
+{
+"t": "fill",
+"q": "Ich wohne ___ einem Jahr in Berlin. (since / for)",
+"a": [
+"seit"
+],
+"why": "seit = still going on.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "Which sentence means the person is STILL here?",
+"o": [
+"Ich bin seit zwei Wochen hier.",
+"Ich bin vor zwei Wochen hier gewesen.",
+"Ich war vor zwei Wochen hier."
+],
+"a": 0,
+"why": "seit + present = ongoing.",
+"src": "grammar"
+}
+]
+},
+"a2-02": {
+"goal": "Talk about arriving in a new country and feeling at home, and link contrasts with zwar … aber and reasons with dass.",
+"words": [
+[
+"das Heimatland, -länder",
+"home country"
+],
+[
+"das Zuhause",
+"home"
+],
+[
+"das Heimweh",
+"homesickness"
+],
+[
+"fremd",
+"strange, foreign"
+],
+[
+"das Au-pair-Mädchen",
+"au pair"
+],
+[
+"verlassen",
+"to leave"
+],
+[
+"Ich hatte Glück.",
+"I was lucky."
+],
+[
+"Es war nicht immer leicht.",
+"It wasn’t always easy."
+],
+[
+"die Hilfe",
+"help"
+],
+[
+"bester Freund / beste Freundin",
+"best friend"
+],
+[
+"zwar … aber",
+"admittedly … but"
+],
+[
+"sterben – ist gestorben",
+"to die"
+]
+],
+"grammar": {
+"title": "Compound conjunctions: zwar … aber",
+"text": "**zwar … aber** admits one thing and then contrasts it:\n\n- Ich komme **zwar** aus der Türkei, **aber** ich wohne schon sehr lange hier.\n\n**zwar** sits inside the first clause (the verb stays in position 2); **aber** starts the second main clause at position 0, so its word order does not change.\n\nAlso useful: **Es freut mich, dass es euch geschmeckt hat.** After **dass** the verb goes to the **end** (more in the next lesson).",
+"ex": [
+[
+"Ich komme zwar aus Spanien, aber mein Zuhause ist Deutschland.",
+"I do come from Spain, but my home is Germany."
+],
+[
+"Das Land war fremd, die Sprache auch.",
+"The country was strange, and the language too."
+],
+[
+"Es ist wichtig, dass man Hilfe hat.",
+"It is important that you have help."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "Where does Yara feel at home?",
+"o": [
+"In Germany",
+"In Spain",
+"In Switzerland"
+],
+"a": 0,
+"why": "“Ich komme aus Spanien, aber mein Zuhause ist Deutschland.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "How did Yara first come to Germany?",
+"o": [
+"As an au pair, 15 years ago",
+"As a student with her parents",
+"On a business trip"
+],
+"a": 0,
+"why": "“Ich bin vor 15 Jahren als Au-pair-Mädchen nach Deutschland gekommen.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Why did Yara suddenly fly to Zürich?",
+"o": [
+"Her best friend Sarah needed help after her father died",
+"She had a job interview",
+"She wanted to visit her brother"
+],
+"a": 0,
+"why": "“Ihr Vater ist gestorben … Sie hat meine Hilfe gebraucht.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "How long ago did Tarek come to Germany with his parents?",
+"o": [
+"30 years",
+"15 years",
+"5 years"
+],
+"a": 0,
+"why": "“Ich bin vor 30 Jahren mit meinen Eltern hierhergekommen.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "“fremd” means:",
+"o": [
+"strange, foreign",
+"friendly",
+"fresh"
+],
+"a": 0,
+"why": "Das Land war fremd.",
+"src": "vocab"
+},
+{
+"t": "mc",
+"q": "“Heimatland” and “Zuhause”: which is true for Yara?",
+"o": [
+"Heimatland = Spain, Zuhause = Germany",
+"Heimatland = Germany, Zuhause = Spain",
+"Both are Spain"
+],
+"a": 0,
+"why": "She explains the difference.",
+"src": "vocab"
+},
+{
+"t": "mc",
+"q": "Which sentence uses zwar … aber correctly?",
+"o": [
+"Ich komme zwar aus Spanien, aber ich wohne in Deutschland.",
+"Ich komme zwar aus Spanien, ich aber wohne in Deutschland.",
+"Zwar ich komme aus Spanien aber wohne ich hier."
+],
+"a": 0,
+"why": "aber = position 0, then a normal main clause.",
+"src": "grammar"
+},
+{
+"t": "fill",
+"q": "Er ist zwar müde, ___ er arbeitet weiter.",
+"a": [
+"aber"
+],
+"why": "zwar … aber.",
+"src": "grammar"
+}
+]
+},
+"a2-03": {
+"goal": "Explain your plans and what you don’t want, and build subordinate clauses with dass (verb at the end).",
+"words": [
+[
+"der Plan, Pläne",
+"plan"
+],
+[
+"weiterstudieren",
+"to continue studying"
+],
+[
+"Jura (das Jurastudium)",
+"law (studies)"
+],
+[
+"mit den Händen arbeiten",
+"to work with one’s hands"
+],
+[
+"Geld verdienen",
+"to earn money"
+],
+[
+"auf keinen Fall",
+"under no circumstances"
+],
+[
+"zurück nach Spanien",
+"back to Spain"
+],
+[
+"perfekt",
+"perfect"
+],
+[
+"eben",
+"simply, after all"
+],
+[
+"hassen",
+"to hate"
+],
+[
+"Das verstehe ich.",
+"I understand that."
+],
+[
+"Wie möchtest du leben?",
+"How would you like to live?"
+]
+],
+"grammar": {
+"title": "Subordinate clauses with dass",
+"text": "**dass** (that) introduces a subordinate clause; the **conjugated verb goes to the end**:\n\n- Meine Eltern sagen, **dass** ich weiterstudieren **muss**.\n- Ich weiß, **dass** ich nicht zurück nach Spanien **will**.\n- Es ist wichtig, **dass** man Hilfe **hat**.\n\nIn speech you can also drop dass and keep normal order: Sie sagen, ich muss weiterstudieren. The subordinate clause is always separated by a **comma**.",
+"ex": [
+[
+"Meine Eltern sagen, dass ich weiterstudieren muss.",
+"My parents say that I have to keep studying."
+],
+[
+"Ich weiß, dass ich nicht zurück will.",
+"I know that I don’t want to go back."
+],
+[
+"Ich glaube, dass er recht hat.",
+"I think that he is right."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "What do Nico’s parents want him to do?",
+"o": [
+"Continue studying law",
+"Work in a restaurant",
+"Come home immediately"
+],
+"a": 0,
+"why": "“Sie sagen, ich muss weiterstudieren.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What kind of work does Nico want?",
+"o": [
+"Work with his hands",
+"Sit in an office",
+"Teach"
+],
+"a": 0,
+"why": "“Ich möchte mit den Händen arbeiten.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What does Nico definitely not want?",
+"o": [
+"To go back to Spain",
+"To learn German",
+"To work at all"
+],
+"a": 0,
+"why": "“Ich will auf keinen Fall zurück nach Spanien.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "How does Nico compare himself to his brother?",
+"o": [
+"He is not as perfect as his brother",
+"He is better than his brother",
+"They are twins"
+],
+"a": 0,
+"why": "“Ich bin eben nicht so perfekt wie mein Bruder.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "“auf keinen Fall” means:",
+"o": [
+"under no circumstances",
+"in any case",
+"at once"
+],
+"a": 0,
+"why": "keinen Fall = no case.",
+"src": "vocab"
+},
+{
+"t": "mc",
+"q": "Where does the verb stand? “Ich weiß, dass er morgen ___.”",
+"o": [
+"kommt (at the end)",
+"kommt (after dass)",
+"comes first"
+],
+"a": 0,
+"why": "After dass, the verb is last: dass er morgen kommt.",
+"src": "grammar"
+},
+{
+"t": "fill",
+"q": "Ich glaube, ___ er recht hat.",
+"a": [
+"dass"
+],
+"why": "dass-clause.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "Which is correct?",
+"o": [
+"Sie sagt, dass sie heute arbeiten muss.",
+"Sie sagt, dass sie muss heute arbeiten.",
+"Sie sagt, dass muss sie heute arbeiten."
+],
+"a": 0,
+"why": "Verb at the end: … arbeiten muss.",
+"src": "grammar"
+}
+]
+},
+"a2-04": {
+"goal": "Argue for your plans, set conditions, and report questions with indirect interrogative clauses (Ich weiß, was ich will).",
+"words": [
+[
+"der Neuanfang, -anfänge",
+"fresh start"
+],
+[
+"die Deutschkenntnisse (pl.)",
+"German language skills"
+],
+[
+"sich kümmern um + Akk.",
+"to take care of"
+],
+[
+"schaffen",
+"to manage, to make it"
+],
+[
+"sich Sorgen machen",
+"to worry"
+],
+[
+"belügen",
+"to lie to"
+],
+[
+"fürs Erste",
+"for the time being"
+],
+[
+"Das reicht nicht.",
+"That’s not enough."
+],
+[
+"ab jetzt",
+"from now on"
+],
+[
+"ein bisschen helfen",
+"to help a little"
+],
+[
+"Es wird nicht besser, wenn du länger wartest.",
+"It won’t get better if you wait longer."
+],
+[
+"Viel Erfolg!",
+"Good luck!"
+]
+],
+"grammar": {
+"title": "Indirect interrogatives (was, wo, wie … in subordinate clauses)",
+"text": "Question words can introduce a **subordinate clause** after verbs like **wissen, fragen, sagen**. The verb goes to the **end**:\n\n- Du weißt nicht, **was** du **willst**.\n- Ich weiß, **was** ich nicht **will**.\n- Sie fragt, **wo** er **wohnen will**.\n- Ich weiß nicht, **wie** ich das **schaffen soll**.\n\nDirect: Was willst du? → Indirect: Sie fragt, was du **willst**. (Order: question word, subject, …, verb at the end.)",
+"ex": [
+[
+"Du weißt nicht einmal, was du willst.",
+"You don’t even know what you want."
+],
+[
+"Ich weiß, was ich nicht will.",
+"I know what I don’t want."
+],
+[
+"Ich kann dir sagen, dass ein Neuanfang sehr schwer ist.",
+"I can tell you that a fresh start is very hard."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "What does Yara say about a fresh start without German?",
+"o": [
+"It is even harder",
+"It is easy",
+"It is impossible"
+],
+"a": 0,
+"why": "“Ohne Deutschkenntnisse ist es noch schwerer!”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Where can Nico stay for the time being?",
+"o": [
+"With Yara",
+"At Inge’s",
+"In a hostel"
+],
+"a": 0,
+"why": "“Du kannst fürs Erste einmal bei mir wohnen.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "What language must Nico speak from now on?",
+"o": [
+"Only German",
+"Spanish and German",
+"English"
+],
+"a": 0,
+"why": "“Ab jetzt sprichst du nur noch Deutsch.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Why must Nico call his parents immediately?",
+"o": [
+"Because they are worried",
+"Because they want money",
+"Because it is his birthday"
+],
+"a": 0,
+"why": "“Weil sie sich Sorgen machen.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "“sich Sorgen machen” means:",
+"o": [
+"to worry",
+"to make plans",
+"to be careful"
+],
+"a": 0,
+"why": "Sie machen sich Sorgen.",
+"src": "vocab"
+},
+{
+"t": "mc",
+"q": "“fürs Erste” means:",
+"o": [
+"for the time being",
+"for the first time in his life",
+"first of all"
+],
+"a": 0,
+"why": "fürs Erste = for now.",
+"src": "vocab"
+},
+{
+"t": "fill",
+"q": "Ich weiß nicht, was du ___. (wollen)",
+"a": [
+"willst"
+],
+"why": "Verb at the end: was du willst.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "Which is correct?",
+"o": [
+"Sie fragt, wo er wohnt.",
+"Sie fragt, wo wohnt er.",
+"Sie fragt, er wo wohnt."
+],
+"a": 0,
+"why": "Indirect question: verb at the end.",
+"src": "grammar"
+}
+]
+}
+}

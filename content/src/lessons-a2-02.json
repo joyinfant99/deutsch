@@ -1,0 +1,146 @@
+{
+"a2-09": {
+  "goal": "Talk about family relationships and use possessive determiners in different cases (mit deinem Vater, ihnen ist es egal).",
+  "words": [
+    ["die Familie, -n", "family"],
+    ["die Mutter / der Vater", "mother / father"],
+    ["die Eltern (pl.)", "parents"],
+    ["sich Sorgen machen", "to worry"],
+    ["zuhören + Dativ", "to listen to"],
+    ["Es ist mir egal.", "I don’t care."],
+    ["erwachsen", "grown-up"],
+    ["abhauen (ugs.)", "to run away, to clear off"],
+    ["verlassen", "to leave"],
+    ["zum hundertsten Mal", "for the hundredth time"],
+    ["telefonieren mit", "to phone with"],
+    ["Ich würde nie …", "I would never …"]
+  ],
+  "grammar": {
+    "title": "Possessive determiners in all cases",
+    "text": "Possessive determiners (mein, dein, sein, ihr, unser, euer, ihr/Ihr) take the endings of **ein / kein**:\n\n| | masc. | fem. | neut. | pl. |\n|---|---|---|---|---|\n| **Nom.** | mein Vater | meine Mutter | mein Kind | meine Eltern |\n| **Akk.** | meinen Vater | meine Mutter | mein Kind | meine Eltern |\n| **Dat.** | meinem Vater | meiner Mutter | meinem Kind | meinen Eltern |\n\nSo: Hast du mit **deinem** Vater telefoniert? Meine Eltern hören **mir** nie zu. Ich würde **meine** Familie nie verlassen. Dative plural: **ihnen** / **Ihnen**.",
+    "ex": [
+      ["Hast du mit deinem Vater telefoniert? – Nein, das war meine Mutter.", "Have you spoken to your father? – No, that was my mother."],
+      ["Es ist ihnen egal, was ich denke.", "They don’t care what I think."],
+      ["Ich würde meine Familie nie verlassen.", "I would never leave my family."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Who rang Selma?","o":["Her mother","Her father","Her brother"],"a":0,"why":"“Nein, das war meine Mutter.”","src":"video"},
+    {"t":"mc","q":"Why is Selma’s mother worried?","o":["Selma had not called","Selma was ill","Selma had lost her phone"],"a":0,"why":"“Sie macht sich Sorgen, weil ich nicht angerufen habe.”","src":"video"},
+    {"t":"mc","q":"What does Nico say about his parents?","o":["They never listen to him","They visit him often","They send him gifts"],"a":0,"why":"“Meine Eltern hören mir auch nie zu.”","src":"video"},
+    {"t":"mc","q":"What would Selma never do?","o":["Leave her family","Learn German","Work in a restaurant"],"a":0,"why":"“Ich würde meine Familie nie verlassen.”","src":"video"},
+    {"t":"fill","q":"Ich habe mit mein___ Vater gesprochen. (dative, masculine)","a":["em"],"why":"mit + dative: meinem Vater.","src":"grammar"},
+    {"t":"fill","q":"Er hört mein___ Eltern nie zu. (dative plural)","a":["en"],"why":"dative plural: meinen.","src":"grammar"},
+    {"t":"mc","q":"“Es ist mir egal.” means:","o":["I don’t care.","I don’t know.","I am afraid."],"a":0,"why":"egal = doesn’t matter.","src":"vocab"},
+    {"t":"mc","q":"“abhauen” (colloquial) means:","o":["to run away","to break","to visit"],"a":0,"why":"Nico: “Ich bin abgehauen.”","src":"vocab"}
+  ]
+},
+"a2-10": {
+  "goal": "Describe people (hair, clothes, age) with adjective endings, and talk about a big family.",
+  "words": [
+    ["der Mann, Männer / die Frau, -en", "man / woman"],
+    ["die Haare (pl.) / grau, dunkel, blond", "hair / grey, dark, blond"],
+    ["der Mantel, Mäntel", "coat"],
+    ["groß / klein / älter", "tall / short / older"],
+    ["traurig aussehen", "to look sad"],
+    ["das Porträt, -s", "portrait"],
+    ["die Großeltern / die Cousins", "grandparents / cousins"],
+    ["die Tante, -n / der Onkel, -", "aunt / uncle"],
+    ["der Bruder / der Sohn", "brother / son"],
+    ["Wie sieht dein Bruder aus?", "What does your brother look like?"],
+    ["Er sieht ganz normal aus.", "He looks quite normal."],
+    ["das Weihnachtslied", "Christmas carol"]
+  ],
+  "grammar": {
+    "title": "Adjective declension: describing people",
+    "text": "The ending depends on the article and case:\n\n- **after mit / dative**: always **-en**: mit **grauen** Haaren, mit **der braunen** Hose, mit **dem schwarzen** Mantel.\n- **plural without article (nominative)**: **-e**: zwei **ältere** Männer, **dunkle** Haare.\n- **after the definite article (nominative)**: **-e** (masc., fem., neut.), **-en** (plural): der **große** Mann, die **kleine** Frau, das **junge** Kind, die **alten** Männer.\n- **after ein/kein**: masc. nom. **-er**: ein groß**er** Mann; neut. **-es**: ein klein**es** Kind; fem. **-e**.\n\nShort recap: when in doubt after a dative preposition, use **-en**.",
+    "ex": [
+      ["Das sind zwei ältere Männer mit grauen Haaren.", "These are two older men with grey hair."],
+      ["Der Mann mit der braunen Hose ist groß.", "The man with the brown trousers is tall."],
+      ["Er hat dunkle Haare.", "He has dark hair."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Which song does Sebastian play?","o":["“Stille Nacht, heilige Nacht”","“Happy Birthday”","“Ode an die Freude”"],"a":0,"why":"“Das ist ein deutsches Weihnachtslied.”","src":"video"},
+    {"t":"mc","q":"What is the class exercise?","o":["Describing a portrait","Cooking a recipe","Reading a newspaper"],"a":0,"why":"“Selma, bitte beschreibe eines von Sebastians Porträts.”","src":"video"},
+    {"t":"mc","q":"How does Selma describe the man with the brown trousers?","o":["Tall and slightly sad","Small and happy","Old with a beard"],"a":0,"why":"“… ist groß und sieht ein bisschen traurig aus.”","src":"video"},
+    {"t":"mc","q":"How many aunts does Nico say he has?","o":["Three","One","Five"],"a":0,"why":"“Ich habe Eltern, einen Bruder und drei Tanten.”","src":"video"},
+    {"t":"mc","q":"How does Nico describe his brother?","o":["Dark hair, otherwise “quite normal”","Blond and tall","He refuses to say anything at all"],"a":0,"why":"He avoids the topic: “Er sieht ganz normal aus.”","src":"video"},
+    {"t":"fill","q":"Der Mann mit dem schwarz___ Mantel ist klein. (ending)","a":["en"],"why":"mit dem + -en.","src":"grammar"},
+    {"t":"fill","q":"Das sind zwei ält___ Männer. (plural, no article)","a":["ere","ere Männer"],"why":"plural without article: -e (ältere).","src":"grammar"},
+    {"t":"mc","q":"Which is correct?","o":["mit grauen Haaren","mit graue Haaren","mit grauer Haaren"],"a":0,"why":"Dative plural: -en.","src":"grammar"}
+  ]
+},
+"a2-11": {
+  "goal": "Talk about elderly relatives and their problems, and offer help with the modal verb sollen (Soll ich dich hinfahren?).",
+  "words": [
+    ["das Pflegeheim, -e", "nursing home"],
+    ["alt / sehr alt", "old / very old"],
+    ["viel Hilfe brauchen", "to need a lot of help"],
+    ["die Augen (pl.)", "eyes"],
+    ["Sie sieht nicht mehr gut.", "She can’t see well any more."],
+    ["nicht mehr alleine essen", "not to be able to eat alone any more"],
+    ["der Kreislauf", "circulation"],
+    ["der Zusammenbruch", "collapse"],
+    ["Ich muss los!", "I have to go!"],
+    ["hinbringen / hinfahren", "to take (someone) there"],
+    ["der Stress", "stress"],
+    ["anrufen – angerufen", "to phone"]
+  ],
+  "grammar": {
+    "title": "Modal verbs: sollen (offers and advice)",
+    "text": "**sollen** is used for:\n\n1. **offers**: **Soll ich** dich hinfahren? (Shall I drive you there?)\n2. **suggestions**: **Sollen wir** ein Taxi nehmen?\n3. **advice / instructions**: Er **soll** sich ausruhen. (He should rest / he was told to.)\n\nConjugation: ich **soll**, du **sollst**, er **soll**, wir **sollen**, ihr **sollt**, sie **sollen**. The infinitive goes to the end. Compare **müssen** (necessary) and **können** (able): Ich **kann** dich mit dem Auto hinbringen.",
+    "ex": [
+      ["Soll ich dich hinfahren?", "Shall I drive you there?"],
+      ["Er soll sich ausruhen.", "He is supposed to rest."],
+      ["Sollen wir dir helfen?", "Shall we help you?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Where do Selma’s other grandparents live?","o":["In a care home","With her parents","In Hamburg"],"a":0,"why":"“… wohnen in einem Pflegeheim.”","src":"video"},
+    {"t":"mc","q":"What problem does Selma’s grandmother have?","o":["She can’t see well","She can’t walk","She can’t hear"],"a":0,"why":"“Sie sieht nicht mehr gut.”","src":"video"},
+    {"t":"mc","q":"How often did Selma’s mother call?","o":["Five times","Twice","Ten times"],"a":0,"why":"“Meine Mutter hat fünfmal angerufen.”","src":"video"},
+    {"t":"mc","q":"Why did Selma’s mother call?","o":["Selma’s father is at the doctor – a circulatory collapse","Selma forgot her keys","Nico is lost"],"a":0,"why":"“Mein Vater ist beim Arzt … Kreislaufzusammenbruch.”","src":"video"},
+    {"t":"mc","q":"What does Lisa offer?","o":["To drive Selma there","To call a taxi","To phone Selma’s father"],"a":0,"why":"“Soll ich dich hinfahren?”","src":"video"},
+    {"t":"fill","q":"___ ich dich hinfahren? (shall I)","a":["Soll"],"why":"Soll ich …?","src":"grammar"},
+    {"t":"fill","q":"Er ___ sich ausruhen. (supposed to)","a":["soll"],"why":"er soll.","src":"grammar"},
+    {"t":"mc","q":"“das Pflegeheim” is a:","o":["nursing home","hospital","boarding school"],"a":0,"why":"pflegen = to care for.","src":"vocab"}
+  ]
+},
+"a2-12": {
+  "goal": "Ask politely how someone is and answer in detail, talk about health and age, and report opinions with dass.",
+  "words": [
+    ["Wie geht es Ihnen / dir?", "How are you?"],
+    ["blendend", "splendid"],
+    ["fit wie ein Turnschuh", "fit as a fiddle"],
+    ["Nicht so gut.", "Not so good."],
+    ["schrecklich", "terrible"],
+    ["hoffen, dass …", "to hope that …"],
+    ["der Sohn, Söhne", "son"],
+    ["das Altenheim, -e", "old people’s home"],
+    ["einsam", "lonely"],
+    ["So ein Quatsch!", "What nonsense!"],
+    ["Er meint es gut.", "He means well."],
+    ["Verzeihung / Entschuldigung", "Excuse me / Sorry"]
+  ],
+  "grammar": {
+    "title": "Reporting opinions with dass",
+    "text": "Use **dass**-clauses after verbs of thinking, hoping and saying: **denken, glauben, finden, hoffen, meinen, sagen**. The verb goes to the end:\n\n- Ich hoffe, **dass** es ihm bald wieder gut **geht**.\n- Ich finde, **dass** ich fit wie ein Turnschuh **bin**.\n- Er denkt, **dass** das gut für mich **ist**.\n- Er glaubt, **dass** ich einsam **bin**.\n\nCondition answers to “Wie geht’s?”: **blendend – sehr gut – gut – es geht – nicht so gut – schlecht – schrecklich**.",
+    "ex": [
+      ["Ich hoffe, dass es ihm bald wieder gut geht.", "I hope he gets well soon."],
+      ["Er glaubt, dass ich einsam bin.", "He thinks I’m lonely."],
+      ["Er macht das, weil er glaubt, dass ich einsam bin.", "He does it because he thinks I’m lonely."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Where does Selma bump into Inge?","o":["In the underground","At the doctor’s","At the market"],"a":0,"why":"“… runs straight into Inge in the subway.”","src":"video"},
+    {"t":"mc","q":"What happened to Selma’s father?","o":["He had a collapse from stress","He broke his leg","He lost his job"],"a":0,"why":"“Er hatte zu viel Stress. Er muss sich jetzt ausruhen.”","src":"video"},
+    {"t":"mc","q":"How does Inge say she is?","o":["Splendid – fit as a fiddle","Ill","Tired"],"a":0,"why":"“Blendend! … fit wie ein Turnschuh.”","src":"video"},
+    {"t":"mc","q":"What is Inge’s son doing?","o":["Looking for old people’s homes for her","Buying her a flat","Planning a holiday for her"],"a":0,"why":"“Er sucht nach Altenheimen.”","src":"video"},
+    {"t":"mc","q":"Why does Inge’s son do this, according to Inge?","o":["He thinks she is lonely","He needs money","He wants her flat"],"a":0,"why":"“… weil er glaubt, dass ich einsam bin.”","src":"video"},
+    {"t":"fill","q":"Ich hoffe, ___ es ihm bald besser geht. (that)","a":["dass"],"why":"hoffen, dass …","src":"grammar"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Er glaubt, dass ich einsam bin.","Er glaubt, dass ich bin einsam.","Er glaubt, ich einsam bin."],"a":0,"why":"Verb at the end of the dass-clause.","src":"grammar"},
+    {"t":"mc","q":"“So ein Quatsch!” means:","o":["What nonsense!","What a shame!","What a surprise!"],"a":0,"why":"Quatsch = nonsense.","src":"vocab"}
+  ]
+}
+}

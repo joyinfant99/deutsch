@@ -1,0 +1,142 @@
+{
+"a1-69": {
+  "goal": "Say you are in pain and where it hurts, name body parts, and tell müssen (necessity) from sollen (advice).",
+  "words": [
+    ["die Schmerzen (pl.)", "pain"],
+    ["Ich habe Schmerzen.", "I’m in pain."],
+    ["Es tut weh. / Wo tut es weh?", "It hurts. / Where does it hurt?"],
+    ["der Fuß / das Bein", "foot / leg"],
+    ["das Knie / der Arm", "knee / arm"],
+    ["der Kopf / der Rücken", "head / back"],
+    ["die Schmerztablette, -n", "painkiller"],
+    ["zum Arzt gehen", "to go to the doctor"],
+    ["kühlen", "to cool"],
+    ["sich verletzen", "to injure oneself"],
+    ["stark", "strong, severe"],
+    ["Autsch!", "Ouch!"]
+  ],
+  "grammar": {
+    "title": "müssen or sollen?",
+    "text": "Both are modal verbs, but the meaning differs:\n\n- **müssen** = it is necessary (no other option): Du **musst** zum Arzt gehen.\n- **sollen** = someone advises or requires it (a doctor, a friend): Der Arzt sagt, du **sollst** dich ausruhen.\n\nConjugation of sollen: ich soll, du sollst, er soll, wir sollen. Remember: modal verb second, infinitive at the end. Body pain: **Mein Fuß tut weh.** / **Ich habe Schmerzen am Fuß.**",
+    "ex": [
+      ["Wo tut es denn genau weh? Ist es das Knie oder das Bein?", "Where exactly does it hurt? Is it the knee or the leg?"],
+      ["Ich hatte sehr starke Schmerzen am Arm und bin zum Arzt gegangen.", "I had severe pain in my arm and went to the doctor."],
+      ["Wir bringen dich zum Arzt.", "We’ll take you to the doctor."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Where does Nico’s pain come from?","o":["His foot","His knee","His arm"],"a":0,"why":"“Ist es das Knie oder das Bein? – Der Fuß.”","src":"video"},
+    {"t":"mc","q":"What does Yanis say about his own injury a few weeks ago?","o":["He had severe pain in his arm and went to the doctor","He broke his leg","He had a headache"],"a":0,"why":"“Ich hatte sehr starke Schmerzen am Arm.”","src":"video"},
+    {"t":"mc","q":"What do the friends decide?","o":["To take Nico to the doctor","To send him home","To continue the game"],"a":0,"why":"“Wir bringen dich zum Arzt.”","src":"video"},
+    {"t":"mc","q":"Why does Max fetch something?","o":["To cool Nico’s foot","To bandage his arm","To call the police"],"a":0,"why":"“Haben wir etwas zum Kühlen? – Ja. Ich hole was.”","src":"video"},
+    {"t":"fill","q":"Mein Fuß tut ___. (hurts)","a":["weh"],"why":"wehtun = to hurt.","src":"grammar"},
+    {"t":"fill","q":"Der Arzt sagt, du ___ dich ausruhen. (advice)","a":["sollst"],"why":"du sollst.","src":"grammar"},
+    {"t":"mc","q":"“die Schmerztablette” is a:","o":["painkiller","plaster","bandage"],"a":0,"why":"der Schmerz + die Tablette.","src":"vocab"}
+  ]
+},
+"a1-70": {
+  "goal": "Register at a doctor’s office (appointment, insurance card) and understand what you may and may not do with dürfen.",
+  "words": [
+    ["die Arztpraxis, -praxen", "doctor’s practice"],
+    ["die Sprechstundenhilfe, -n", "medical receptionist"],
+    ["der Termin, -e", "appointment"],
+    ["die Versichertenkarte", "health insurance card"],
+    ["die Krankenversicherung", "health insurance"],
+    ["das Behandlungszimmer", "treatment room"],
+    ["röntgen", "to X-ray"],
+    ["gebrochen", "broken (bone)"],
+    ["Keine Sorge!", "Don’t worry!"],
+    ["Hoffentlich …", "Hopefully …"],
+    ["auftreten", "to step on (a foot)"],
+    ["Einmal hier lang.", "This way, please."]
+  ],
+  "grammar": {
+    "title": "Modal verbs: dürfen",
+    "text": "**dürfen** = to be allowed to; **nicht dürfen** = must not:\n\n- ich **darf**\n- du **darfst**\n- er / sie / es **darf**\n- wir **dürfen**\n- ihr **dürft**\n- sie / Sie **dürfen**\n\n**Du darfst nicht so stark auftreten.** (You mustn’t step down so hard.) **Darf ich mitkommen?** (May I come along?) A polite request: **Dürfen** wir hereinkommen?\n\n**nicht müssen** = don’t have to, but **nicht dürfen** = forbidden!",
+    "ex": [
+      ["Du darfst nicht so stark auftreten.", "You mustn’t put so much weight on it."],
+      ["Haben Sie einen Termin? – Ja, ich habe angerufen.", "Do you have an appointment? – Yes, I called."],
+      ["Dann hätte ich gern Ihre Versichertenkarte.", "Then I’d like your insurance card."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Max warn Nico about?","o":["Not to step down so hard","Not to speak German","Not to eat"],"a":0,"why":"“Du darfst nicht so stark auftreten.”","src":"video"},
+    {"t":"mc","q":"What does the receptionist say the doctor will probably do?","o":["X-ray the foot","Give him crutches at once","Send him home"],"a":0,"why":"“Er muss den Fuß sicher auch röntgen.”","src":"video"},
+    {"t":"mc","q":"What does Nico ask about the word “gebrochen”?","o":["What it means","How to spell it","How to pronounce it"],"a":0,"why":"“Was heißt ‘gebrochen’?”","src":"video"},
+    {"t":"mc","q":"What does the receptionist need from Nico?","o":["His insurance card","His passport","His address only"],"a":0,"why":"“Dann hätte ich gern Ihre Versichertenkarte.”","src":"video"},
+    {"t":"fill","q":"Du ___ nicht so stark auftreten. (must not)","a":["darfst"],"why":"du darfst.","src":"grammar"},
+    {"t":"fill","q":"___ ich mitkommen? (May I)","a":["Darf"],"why":"Darf ich …?","src":"grammar"},
+    {"t":"mc","q":"“Keine Sorge!” means:","o":["Don’t worry!","Be careful!","No problem!"],"a":0,"why":"die Sorge = worry.","src":"vocab"}
+  ]
+},
+"a1-71": {
+  "goal": "Ask about a patient, react when something goes wrong (Das tut mir leid! Gute Besserung!) and use the Perfekt for what happened.",
+  "words": [
+    ["der Patient / die Patientin", "patient (m/f)"],
+    ["Ich suche einen Patienten.", "I’m looking for a patient."],
+    ["Was ist passiert?", "What happened?"],
+    ["Das sieht schlimm aus.", "That looks bad."],
+    ["Das tut mir leid.", "I’m sorry."],
+    ["Gute Besserung!", "Get well soon!"],
+    ["das falsche Zimmer", "the wrong room"],
+    ["auf der rechten Seite", "on the right-hand side"],
+    ["den Flur lang", "along the corridor"],
+    ["Gern geschehen.", "You’re welcome."],
+    ["das Behandlungszimmer 2", "treatment room 2"],
+    ["der Unfall, Unfälle", "accident"]
+  ],
+  "grammar": {
+    "title": "Perfekt in health contexts",
+    "text": "To talk about what has happened use the **Perfekt**:\n\n- **sein** verbs (movement / change): Was **ist** passiert? Ich **bin** gestürzt. Er **ist** gegangen.\n- **haben** verbs: Ich **habe** mich verletzt. Sie **hat** angerufen. Wir **haben** gewartet.\n\nPartizip II of **separable verbs**: **an**gerufen, **aus**geruht, **auf**getreten. Compare: aufstehen → **aufgestanden**.\n\nSympathy phrases: **Das tut mir leid.** **Gute Besserung!** **Was ist passiert?**",
+    "ex": [
+      ["Was ist passiert?", "What happened?"],
+      ["Ich habe mich verletzt.", "I hurt myself."],
+      ["Das war das falsche Zimmer.", "That was the wrong room."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Which room is Nico in?","o":["Treatment room 2","Treatment room 1","Room 10"],"a":0,"why":"“Ja, im Behandlungszimmer 2.”","src":"video"},
+    {"t":"mc","q":"What happens when Lisa opens a door?","o":["It is the wrong room and she apologises","She finds Nico with the doctor","She finds nobody"],"a":0,"why":"“Das war das falsche Zimmer.”","src":"video"},
+    {"t":"mc","q":"What does Lisa say when she sees the other patient?","o":["“Gute Besserung!”","“Guten Appetit!”","“Auf Wiedersehen!”"],"a":0,"why":"She says sorry and wishes the patient well.","src":"video"},
+    {"t":"mc","q":"How does the receptionist describe the way?","o":["Along the corridor and then on the right","Upstairs and left","Through the garden"],"a":0,"why":"“Einmal da den Flur lang und dann auf der rechten Seite.”","src":"video"},
+    {"t":"fill","q":"Was ___ passiert? (sein)","a":["ist"],"why":"passieren + sein.","src":"grammar"},
+    {"t":"fill","q":"Ich ___ mich verletzt. (haben)","a":["habe"],"why":"sich verletzen + haben.","src":"grammar"},
+    {"t":"mc","q":"“Gute Besserung!” is said to someone who is:","o":["ill or injured","late","hungry"],"a":0,"why":"Get well soon.","src":"vocab"}
+  ]
+},
+"a1-72": {
+  "goal": "Understand medical advice: how often to take medicine, before or after meals, and use vor / nach with the dative.",
+  "words": [
+    ["das Rezept, -e", "prescription"],
+    ["die Apotheke, -n", "pharmacy"],
+    ["die Tablette, -n / die Salbe, -n", "tablet / ointment"],
+    ["verschreiben", "to prescribe"],
+    ["dreimal täglich", "three times a day"],
+    ["morgens, mittags, abends", "in the morning, at noon, in the evening"],
+    ["vor / nach dem Essen", "before / after the meal"],
+    ["vor dem Schlafengehen", "before going to bed"],
+    ["sich ausruhen", "to rest"],
+    ["das Bein bewegen", "to move the leg"],
+    ["der Unfall", "accident"],
+    ["nachher", "later, afterwards"]
+  ],
+  "grammar": {
+    "title": "Prepositions of time: vor and nach",
+    "text": "**vor** (before) and **nach** (after) take the **dative**:\n\n- **vor dem** Essen / **nach dem** Essen\n- **vor dem** Schlafengehen (before going to bed)\n- **nach der** Arbeit (after work)\n\nInstructions from the doctor use the **imperative** and **sollen / dürfen**: **Nimm** die Tabletten **dreimal täglich**. Du **darfst** dein Bein **nicht** bewegen. Du **sollst** dich ausruhen.\n\nDaily frequency: **täglich** (daily), **dreimal täglich**, **morgens, mittags, abends**.",
+    "ex": [
+      ["Nimm die Tabletten dreimal täglich.", "Take the tablets three times a day."],
+      ["Die Salbe sollst du abends vor dem Schlafengehen benutzen.", "You should use the ointment in the evening before going to bed."],
+      ["Nach dem Essen. Danke für Ihre Hilfe.", "After the meal. Thanks for your help."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does the doctor say about Nico’s foot?","o":["It is not broken","It is broken","It has to be operated on"],"a":0,"why":"“Der Arzt sagt, es ist nicht gebrochen.”","src":"video"},
+    {"t":"mc","q":"How often should Nico take the tablets?","o":["Three times a day","Once a week","Only when in pain"],"a":0,"why":"“Nimm die Tabletten dreimal täglich.”","src":"video"},
+    {"t":"mc","q":"When should he use the ointment?","o":["In the evening before going to sleep","In the morning after breakfast","Before every meal"],"a":0,"why":"“… abends vor dem Schlafengehen.”","src":"video"},
+    {"t":"mc","q":"Before or after the meal should he take the tablets?","o":["After the meal","Before the meal","Instead of a meal"],"a":0,"why":"Lisa: “Nach dem Essen.”","src":"video"},
+    {"t":"fill","q":"Nimm die Tablette ___ dem Essen. (after)","a":["nach"],"why":"nach + dative.","src":"grammar"},
+    {"t":"fill","q":"Die Salbe benutzt du ___ dem Schlafengehen. (before)","a":["vor"],"why":"vor + dative.","src":"grammar"},
+    {"t":"mc","q":"“die Apotheke” is where you:","o":["buy medicine","see the doctor","buy bread"],"a":0,"why":"Apotheke = pharmacy.","src":"vocab"}
+  ]
+}
+}

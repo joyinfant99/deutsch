@@ -1,0 +1,146 @@
+{
+"a2-17": {
+  "goal": "Talk about a journey and connect sentences with und, oder, aber, denn, sondern (main-clause conjunctions that do not change word order).",
+  "words": [
+    ["der Flug, Flüge", "flight"],
+    ["ausfallen (der Flug ist ausgefallen)", "to be cancelled"],
+    ["unterwegs", "on the way"],
+    ["extra", "specially"],
+    ["zurückholen", "to bring back"],
+    ["wahrscheinlich", "probably"],
+    ["ziemlich müde", "rather tired"],
+    ["Wie du willst!", "As you like!"],
+    ["Hör zu!", "Listen!"],
+    ["Ich bitte Sie, zu gehen.", "I ask you to leave."],
+    ["Wir klären das morgen.", "We’ll sort it out tomorrow."],
+    ["trotz allem", "in spite of everything"]
+  ],
+  "grammar": {
+    "title": "Coordinating conjunctions: und, oder, aber, denn, sondern",
+    "text": "These five conjunctions connect **two main clauses** without changing the word order (the conjunction is at position 0):\n\n- **aber** (but): Zuerst wollte ich fliegen, **aber** der Flug ist ausgefallen.\n- **und** (and), **oder** (or)\n- **denn** (because, main clause): Ich bin müde, **denn** ich konnte nicht schlafen.\n- **sondern** (but rather, after a negation): Ich fliege nicht, **sondern** ich fahre mit dem Bus.\n\nNote: after **weil** the verb goes to the end, but after **denn** it stays in position 2.",
+    "ex": [
+      ["Zuerst wollte ich fliegen, aber der Flug ist ausgefallen.", "First I wanted to fly, but the flight was cancelled."],
+      ["Du kannst gerne gehen. Ich habe schon mit Papa telefoniert.", "You’re welcome to go. I’ve already spoken to Dad."],
+      ["Ich bleibe nicht in Spanien, sondern ich bleibe hier.", "I’m not staying in Spain, I’m staying here."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Pepe want Nico to do?","o":["Come back to Spain with him","Study in Munich","Call their parents"],"a":0,"why":"“Wir fliegen zurück nach Spanien.”","src":"video"},
+    {"t":"mc","q":"How did Pepe get to the restaurant?","o":["By bus – his flight was cancelled","By plane","By car"],"a":0,"why":"“… der Flug ist ausgefallen. Dann musste ich mit dem Bus hierherfahren.”","src":"video"},
+    {"t":"mc","q":"What did their father tell Pepe?","o":["To bring Nico back","To call Yara","To stay in Munich"],"a":0,"why":"“Papa hat mir gesagt, dass ich dich zurückholen soll.”","src":"video"},
+    {"t":"mc","q":"What does Max do when the argument escalates?","o":["He asks Pepe to leave","He calls the police","He leaves himself"],"a":0,"why":"“Ich bitte Sie, jetzt zu gehen.”","src":"video"},
+    {"t":"fill","q":"Ich wollte fliegen, ___ der Flug ist ausgefallen. (but)","a":["aber"],"why":"aber at position 0.","src":"grammar"},
+    {"t":"fill","q":"Ich komme nicht mit, ___ ich bleibe hier. (but rather)","a":["sondern"],"why":"sondern after a negation.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Ich bin müde, denn ich habe nicht geschlafen.","Ich bin müde, denn ich nicht geschlafen habe.","Ich bin müde, denn habe ich nicht geschlafen."],"a":0,"why":"denn does not change the word order.","src":"grammar"},
+    {"t":"mc","q":"“ausfallen” (Flug) means:","o":["to be cancelled","to be delayed","to be full"],"a":0,"why":"Der Flug ist ausgefallen.","src":"vocab"}
+  ]
+},
+"a2-18": {
+  "goal": "Book a hotel room: ask for availability, choose single or double, with or without breakfast, and pay; use oder for alternatives.",
+  "words": [
+    ["das Einzelzimmer / das Doppelzimmer", "single room / double room"],
+    ["die Übernachtung, -en", "overnight stay"],
+    ["mit / ohne Frühstück", "with / without breakfast"],
+    ["im Preis inbegriffen", "included in the price"],
+    ["der Ausweis / der Reisepass", "ID card / passport"],
+    ["die Kreditkarte, -n", "credit card"],
+    ["bar oder mit Karte", "cash or card"],
+    ["der Aufenthalt", "stay"],
+    ["Haben Sie noch ein Zimmer frei?", "Do you still have a room free?"],
+    ["Ich nehme an, dass …", "I assume that …"],
+    ["Entschuldigen Sie die Umstände.", "Sorry for the inconvenience."],
+    ["Ich wünsche Ihnen einen angenehmen Aufenthalt.", "Enjoy your stay."]
+  ],
+  "grammar": {
+    "title": "The conjunction oder in questions of choice",
+    "text": "**oder** offers alternatives and does not change the word order. Reception questions use it all the time:\n\n- Für **eine Nacht oder** für **mehrere Nächte**?\n- Mit **oder** ohne Frühstück?\n- Ausweis **oder** Reisepass?\n- Zahlen Sie **bar oder** mit Karte?\n\nAnswer with one option: **Ein Einzelzimmer, ohne Frühstück, bitte.** Polite request: **Haben Sie noch ein Zimmer frei?**",
+    "ex": [
+      ["Nehmen Sie das Zimmer für eine Nacht oder für mehrere Nächte?", "Are you taking the room for one night or several nights?"],
+      ["Zahlen Sie bar oder mit Kreditkarte?", "Are you paying cash or by credit card?"],
+      ["Das macht 139 Euro für eine Übernachtung ohne Frühstück.", "That’s 139 euros for one night without breakfast."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What type of room does Pepe take?","o":["A single room","A double room","A suite"],"a":0,"why":"“Ja bitte. Ein Einzelzimmer.”","src":"video"},
+    {"t":"mc","q":"For how many nights does Pepe book first?","o":["One night","Three nights","A week"],"a":0,"why":"“Erst einmal für eine Nacht.”","src":"video"},
+    {"t":"mc","q":"How much does the room cost per night without breakfast?","o":["139 Euro","39 Euro","239 Euro"],"a":0,"why":"“Das macht dann 139 Euro.”","src":"video"},
+    {"t":"mc","q":"What goes wrong at the end?","o":["His credit card is not accepted","The room is already taken","The lift is broken"],"a":0,"why":"“Ihre Karte wird nicht akzeptiert.”","src":"video"},
+    {"t":"mc","q":"Which document does the receptionist need?","o":["An ID card or passport","A driving licence","A birth certificate"],"a":0,"why":"“Ihren Ausweis oder Reisepass.”","src":"video"},
+    {"t":"fill","q":"Zahlen Sie bar ___ mit Karte? (or)","a":["oder"],"why":"oder = or.","src":"grammar"},
+    {"t":"fill","q":"Ich möchte das Zimmer mit ___ Frühstück. (without)","a":["ohne"],"why":"ohne = without.","src":"grammar"},
+    {"t":"mc","q":"“im Preis inbegriffen” means:","o":["included in the price","not available","extra cost"],"a":0,"why":"Das Frühstück ist nicht im Preis inbegriffen.","src":"vocab"}
+  ]
+},
+"a2-19": {
+  "goal": "Plan a train trip: departure, platform, arrival, changing and return, using separable verbs in main clauses (abfahren, ankommen, umsteigen).",
+  "words": [
+    ["der Hauptbahnhof, -höfe", "main station"],
+    ["das Gleis, -e", "platform"],
+    ["die Abfahrt / die Ankunft", "departure / arrival"],
+    ["die Hin- und Rückfahrt", "return trip"],
+    ["umsteigen", "to change (trains)"],
+    ["abfahren – fährt ab", "to depart"],
+    ["ankommen – kommt an", "to arrive"],
+    ["die Verbindung, -en", "connection"],
+    ["ausdrucken", "to print out"],
+    ["buchen", "to book"],
+    ["anstrengend", "exhausting"],
+    ["aufgeregt", "excited"]
+  ],
+  "grammar": {
+    "title": "Separable verbs in travel",
+    "text": "In a main clause the prefix goes to the **end**:\n\n- Wo **fährt** der Zug **ab**?\n- Du **kommst** um Viertel vor zwölf in Bingen **an**.\n- Du **musst** nicht **umsteigen**. (with a modal: together)\n- Wir **drucken** die Verbindung **aus**.\n\nPerfekt: **abgefahren, angekommen, umgestiegen, ausgedruckt** (**-ge-** between prefix and stem; sein for abfahren/ankommen). Times: **um 9:45 Uhr**, **um Viertel vor zwölf**.",
+    "ex": [
+      ["Wo fährt der Zug ab? – Am Hauptbahnhof in Köln.", "Where does the train leave from? – At Cologne main station."],
+      ["Du kommst um Viertel vor zwölf in Bingen am Rhein an.", "You arrive in Bingen am Rhein at quarter to twelve."],
+      ["Jetzt drucken wir die Verbindung noch aus.", "Now we’ll print out the connection."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Why does Inge look sad?","o":["She sits at home all day and would like to travel","She lost her keys","She is ill"],"a":0,"why":"“Ich sitze den ganzen Tag nur zu Hause oder hier.”","src":"video"},
+    {"t":"mc","q":"Where does the trip go?","o":["Along the Rhine valley to Bingen am Rhein","To Berlin","To Munich"],"a":0,"why":"“Eine Zugfahrt durch das Rheintal nach Bingen am Rhein.”","src":"video"},
+    {"t":"mc","q":"When and from where does the train depart?","o":["9:45 from platform 7 at Cologne main station","8:00 from platform 1","10:30 from platform 12"],"a":0,"why":"“Die Abfahrt ist um 9:45 Uhr von Gleis 7.”","src":"video"},
+    {"t":"mc","q":"How much does the return ticket cost?","o":["50 Euro","150 Euro","15 Euro"],"a":0,"why":"“Hin- und Rückfahrt kosten 50 Euro.”","src":"video"},
+    {"t":"mc","q":"Why does Max suggest staying overnight?","o":["One day is too exhausting for Inge","The train stops running","The hotel is free"],"a":0,"why":"“Alles an einem Tag? Das ist mir zu anstrengend.”","src":"video"},
+    {"t":"fill","q":"Wo ___ der Zug ab? (abfahren)","a":["fährt","faehrt"],"why":"abfahren: er fährt … ab.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Du kommst um zwölf an.","Du ankommst um zwölf.","Du kommst an um zwölf früh."],"a":0,"why":"prefix to the end.","src":"grammar"},
+    {"t":"mc","q":"“umsteigen” means:","o":["to change (trains, buses)","to get in","to get off"],"a":0,"why":"Du musst nicht umsteigen.","src":"vocab"}
+  ]
+},
+"a2-20": {
+  "goal": "Ask about public transport: which line, which direction, how much a ticket costs, whether you have to change, and how long a trip takes.",
+  "words": [
+    ["die Linie, -n", "(bus/tram) line"],
+    ["der Fahrschein, -e / das Ticket", "ticket"],
+    ["die Richtung, -en", "direction"],
+    ["die Strecke, -n", "route, distance"],
+    ["die Haltestelle / halten", "stop / to stop"],
+    ["das Krankenhaus, -häuser", "hospital"],
+    ["der Flughafen", "airport"],
+    ["schneller / kürzer", "faster / shorter"],
+    ["Wie lange dauert die Fahrt?", "How long does the trip take?"],
+    ["ohne Umsteigen", "without changing"],
+    ["Das hilft Ihnen nicht weiter.", "That won’t help you."],
+    ["Ärgerlich!", "How annoying!"]
+  ],
+  "grammar": {
+    "title": "Asking for information and comparing options",
+    "text": "Useful question patterns:\n\n- **Welche Linie** hält am Krankenhaus? (welch- + fem. nominative: welche)\n- **Reicht** ein normaler Fahrschein?\n- **Wie lange dauert** die Fahrt? – 15 Minuten **länger**.\n\nCompare options with the **comparative**: schnell**er**, kürz**er** (kurz – kürzer), länger, billiger. **mit / ohne + Infinitiv-noun**: mit Umsteigen / **ohne Umsteigen** (without changing).\n\nGive advice: **Sie müssen einmal umsteigen.** / **Soll ich lieber ein Taxi rufen?**",
+    "ex": [
+      ["Welche Linie hält am Krankenhaus? – Die 66.", "Which line stops at the hospital? – The 66."],
+      ["Die Strecke ist kürzer, aber Sie müssen einmal umsteigen.", "The route is shorter, but you have to change once."],
+      ["Wie lange dauert die Fahrt ohne Umsteigen? – 15 Minuten länger.", "How long is the trip without changing? – 15 minutes longer."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Which line stops at the hospital?","o":["The 66","The 64","The 61"],"a":0,"why":"“Die 66, die hält am Krankenhaus.”","src":"video"},
+    {"t":"mc","q":"Where does the 64 go?","o":["To the airport","To the hospital","To the station"],"a":0,"why":"“Die 64 fährt in die andere Richtung, zum Flughafen.”","src":"video"},
+    {"t":"mc","q":"How much is the ticket to the hospital?","o":["3,80 Euro","1,80 Euro","5,80 Euro"],"a":0,"why":"“Ein Ticket für 3,80 Euro.”","src":"video"},
+    {"t":"mc","q":"What is the advantage of line 16?","o":["It is a shorter route but you have to change once","It is cheaper","It goes directly to the airport"],"a":0,"why":"“Die Strecke ist kürzer, aber Sie müssen einmal umsteigen.”","src":"video"},
+    {"t":"mc","q":"Why is the man going to the hospital?","o":["He forgot his ID card there","He is ill","He works there"],"a":0,"why":"“Ich habe dort nur meinen Ausweis vergessen.”","src":"video"},
+    {"t":"fill","q":"___ Linie hält am Krankenhaus? (which, feminine)","a":["Welche"],"why":"die Linie → welche.","src":"grammar"},
+    {"t":"fill","q":"Die Strecke ist ___, aber Sie müssen umsteigen. (shorter)","a":["kürzer","kuerzer"],"why":"kurz – kürzer.","src":"grammar"},
+    {"t":"mc","q":"“die Richtung” means:","o":["direction","distance","destination"],"a":0,"why":"in die andere Richtung.","src":"vocab"}
+  ]
+}
+}

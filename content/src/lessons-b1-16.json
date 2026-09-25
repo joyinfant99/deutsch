@@ -1,0 +1,146 @@
+{
+"b1-65": {
+  "goal": "Describe a region (the Ruhrgebiet) and its history, and form small/cute nouns with -chen (das Säckchen, das Städtchen).",
+  "words": [
+    ["das Ruhrgebiet / der Ruhrpott", "the Ruhr area (industrial region)"],
+    ["die Steinkohle / abbauen", "hard coal / to mine"],
+    ["die Industrialisierung", "industrialisation"],
+    ["das Kraftwerk, -e", "power plant"],
+    ["der Arbeiter, - / die Arbeiterstadt", "worker / working-class town"],
+    ["aufwachsen – wuchs auf – ist aufgewachsen", "to grow up"],
+    ["die Kindheit", "childhood"],
+    ["nach und nach", "little by little"],
+    ["der Charme", "charm"],
+    ["sich beklagen über + Akk.", "to complain about"],
+    ["zimperlich", "squeamish, delicate"],
+    ["einstecken", "to take a beating"]
+  ],
+  "grammar": {
+    "title": "Diminutives with -chen (and -lein)",
+    "text": "**-chen** turns a noun into a **small/cute** version. The new noun is always **neuter (das)**, and the vowel gets an **Umlaut** when possible (a → ä, o → ö, u → ü, au → äu):\n\n- der Sack → das **Säckchen** (small bag; Lisa’s boxing bag)\n- das Haus → das **Häuschen**, das Puppenhäuschen\n- die Stadt → das **Städtchen** (small town)\n- der Hund → das **Hündchen**, das Buch → das **Büchlein** (-lein, mostly in fairy tales / South Germany)\n\nPlural: no change (die Städtchen). Also used in **Mädchen** (girl) and **Brötchen** (bread roll).\n\n**je … desto:** Je **mehr** Arbeiter, **desto mehr** Arbeiterjungs. (The more …, the more …)\n\n**während + Genitiv:** **Während der Industrialisierung** hat es angefangen.",
+    "ex": [
+      ["Dafür muss das Säckchen aber ganz schön einstecken!", "That little bag really has to take a beating!"],
+      ["Die kleinen Städtchen verwandelten sich in Großstädte.", "The little towns turned into big cities."],
+      ["Je mehr Arbeiter, desto mehr Jungs, die frech werden konnten.", "The more workers, the more boys who could get cheeky."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was überrascht Pepe?","o":["Lisa boxt sehr gut","Lisa kommt zu spät","Lisa hat kein Auto"],"a":0,"why":"“Ich dachte, du boxt zum ersten Mal.”","src":"video"},
+    {"t":"mc","q":"Wo ist Lisa aufgewachsen?","o":["Im Ruhrpott","In München","In Hamburg"],"a":0,"why":"“Im Ruhrpott.”","src":"video"},
+    {"t":"mc","q":"Wofür ist das Ruhrgebiet bekannt?","o":["Steinkohle für die Industrie","Wein","Skifahren"],"a":0,"why":"“… viel Steinkohle für die Industrie abgebaut.”","src":"video"},
+    {"t":"mc","q":"Was findet Lisa an den Städten des Ruhrgebiets?","o":["Sie haben ihren Charme, sind aber nicht besonders schön","Sie sind die schönsten Deutschlands","Sie sind zu teuer"],"a":0,"why":"“Das Ruhrgebiet hat seinen Charme, aber … nicht besonders schön.”","src":"video"},
+    {"t":"fill","q":"die Stadt → das ___ (small town)","a":["Städtchen","Staedtchen"],"why":"Umlaut + -chen.","src":"grammar"},
+    {"t":"mc","q":"Welchen Artikel hat ein Nomen auf -chen?","o":["das","der","die"],"a":0,"why":"Immer neutrum.","src":"grammar"},
+    {"t":"fill","q":"Je mehr Arbeiter, ___ mehr Jungs. (the more … the …)","a":["desto","umso"],"why":"je … desto/umso.","src":"grammar"},
+    {"t":"mc","q":"“aufwachsen” bedeutet:","o":["to grow up","to wake up","to grow apart"],"a":0,"why":"Ich bin in Duisburg aufgewachsen.","src":"vocab"}
+  ]
+},
+"b1-66": {
+  "goal": "Talk about industry, mining and working conditions, and use the preposition während + Genitiv.",
+  "words": [
+    ["die Kohle / der Bergbau", "coal / mining"],
+    ["das Bergwerk, -e / der Tagebau", "mine / open-cast mine"],
+    ["die Arbeitsbedingungen (Pl.)", "working conditions"],
+    ["der Aufschwung", "economic upswing"],
+    ["die Nachfrage", "demand"],
+    ["sinken – sank – ist gesunken", "to fall, decrease"],
+    ["schließen", "to close"],
+    ["das Zeitalter", "era"],
+    ["der Einwohner, -", "inhabitant"],
+    ["ökologisch", "ecological"],
+    ["das Architekturbüro", "architecture firm"],
+    ["genervt", "annoyed"]
+  ],
+  "grammar": {
+    "title": "während + Genitiv (during / while)",
+    "text": "**während** can be a **preposition** (+ Genitiv) or a **conjunction** (+ Nebensatz):\n\n- **Während des industriellen Zeitalters** entdeckte man große Kohlevorkommen. (preposition)\n- **Während der Woche** arbeite ich. / **Während der Pause** essen wir.\n- **Während** sie recherchierte, kam ihre Mutter herein. (conjunction, verb at the end)\n\nOther genitive prepositions: **wegen** (because of), **trotz** (despite), **statt/anstatt** (instead of), **außerhalb / innerhalb** (outside / inside).\n\n**Talking about history:** um 1800, im 19. Jahrhundert, seitdem, heute, nach und nach.\n\n**Passive with mining:** Viele Bergwerke **werden geschlossen**. Kohle **wurde abgebaut**.",
+    "ex": [
+      ["Während des industriellen Zeitalters entdeckte man große Kohlevorkommen.", "During the industrial age big coal deposits were discovered."],
+      ["Die Region hatte während des Aufschwungs fast sechs Millionen Einwohner.", "During the boom the region had almost six million inhabitants."],
+      ["Heute ist die Nachfrage nach Kohle gesunken und viele Bergwerke werden geschlossen.", "Today demand for coal has fallen and many mines are being closed."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Woran arbeitet Selma im Architekturbüro?","o":["An einem Wohnungsbauprojekt auf einem ehemaligen Tagebau","An einem Hochhaus in Berlin","An einer Brücke"],"a":0,"why":"“Auf dem Gebiet eines ehemaligen Tagebaus … werden ökologische Wohnungen … gebaut.”","src":"video"},
+    {"t":"mc","q":"Wann entdeckte man im Ruhrgebiet große Kohlevorkommen?","o":["Um 1800, im industriellen Zeitalter","Im Mittelalter","Nach 2000"],"a":0,"why":"“Während des industriellen Zeitalters um 1800 …”","src":"video"},
+    {"t":"mc","q":"Warum werden viele Bergwerke geschlossen?","o":["Die Nachfrage nach Kohle ist gesunken","Es gibt zu viele Arbeiter","Die Kohle ist zu billig"],"a":0,"why":"“Heute ist die Nachfrage … gesunken und deshalb werden viele Bergwerke geschlossen.”","src":"video"},
+    {"t":"mc","q":"Wie reagiert Selma auf ihre Mutter?","o":["Genervt – sie fühlt sich kontrolliert","Begeistert","Ängstlich"],"a":0,"why":"“Selma, achte auf deinen Ton!”","src":"video"},
+    {"t":"fill","q":"___ der Pause essen wir. (during; + Genitiv)","a":["Während","Waehrend"],"why":"während + Genitiv.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Während des Unterrichts darf man nicht telefonieren.","Während dem Unterricht darf man nicht telefonieren.","Während der Unterricht darf man nicht telefonieren."],"a":0,"why":"Genitiv: des Unterrichts.","src":"grammar"},
+    {"t":"fill","q":"Viele Bergwerke ___ geschlossen. (werden / sind)","a":["werden"],"why":"Passiv Präsens.","src":"grammar"},
+    {"t":"mc","q":"“die Nachfrage” bedeutet:","o":["demand","following question","afterthought"],"a":0,"why":"Angebot und Nachfrage.","src":"vocab"}
+  ]
+},
+"b1-67": {
+  "goal": "Talk about change in a life story (Strukturwandel) and compare with wie / als: so … wie, genauso … wie, -er … als.",
+  "words": [
+    ["der Strukturwandel", "structural change"],
+    ["die Stahlindustrie", "steel industry"],
+    ["arbeitslos / die Arbeitslosigkeit", "unemployed / unemployment"],
+    ["der Gebrauchtwagenhandel", "used-car trading"],
+    ["rückgängig machen", "to undo"],
+    ["die Lügerei", "constant lying"],
+    ["verinnerlichen", "to internalise"],
+    ["ermöglichen", "to make possible"],
+    ["schuld sein", "to be to blame"],
+    ["sich ändern", "to change (oneself)"],
+    ["Es ist einfach passiert.", "It just happened."],
+    ["jemandem eine Chance geben", "to give someone a chance"]
+  ],
+  "grammar": {
+    "title": "Comparisons: wie and als",
+    "text": "**Equal:** **so + Adjektiv + wie** / **genauso … wie**: Der Job war **so** schwer **wie** früher. – Er ist **genauso** alt **wie** sie.\n\n**Unequal:** **Komparativ + als**: Das Ruhrgebiet ist **größer als** München. – Er war **fauler als** früher.\n\n**wie** without adjective (as, like): **Wie so viele** in den 60er-Jahren sind wir ins Ruhrgebiet gezogen. – **Wie** du weißt, …\n\n**Don’t mix them up:** Er ist größer **als** ich (not wie). Er ist so groß **wie** ich.\n\n**Strukturwandel** = when an economy changes from one dominant industry (coal, steel) to others (services, technology).",
+    "ex": [
+      ["Wir sind wie so viele in den 60er-Jahren ins Ruhrgebiet gezogen.", "Like so many we moved to the Ruhr area in the 60s."],
+      ["Mein Vater war Arbeiter in der Stahlindustrie – und ich später auch.", "My father was a worker in the steel industry – and later so was I."],
+      ["Ein schönes Leben bedeutet jetzt nur noch, mit dir zusammen zu sein.", "A good life now only means being together with you."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Woher kommt Jacques wirklich?","o":["Aus Duisburg","Aus Paris","Aus Wien"],"a":0,"why":"“Ich komme aus Duisburg, Inge.”","src":"video"},
+    {"t":"mc","q":"Was war sein Vater?","o":["Arbeiter in der Stahlindustrie","Koch","Lehrer"],"a":0,"why":"“Mein Vater war Arbeiter in der Stahlindustrie.”","src":"video"},
+    {"t":"mc","q":"Wovon zahlte er seine Miete?","o":["Gebrauchtwagen- und Fahrradhandel","Von seinem Gehalt","Von einer Erbschaft"],"a":0,"why":"“Meine Miete zahlte ich mit Gebrauchtwagenhandel, Fahrrädern …”","src":"video"},
+    {"t":"mc","q":"Was möchte Jacques jetzt?","o":["Mit Inge zusammen sein und sich ändern","Nach Frankreich zurück","Das Geld behalten"],"a":0,"why":"“Ein schönes Leben – das bedeutet jetzt nur noch, mit dir zusammen zu sein.”","src":"video"},
+    {"t":"fill","q":"Er ist genauso alt ___ sie. (as)","a":["wie"],"why":"genauso … wie.","src":"grammar"},
+    {"t":"fill","q":"Das Ruhrgebiet ist größer ___ das Saarland. (than)","a":["als"],"why":"Komparativ + als.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Er arbeitet härter als früher.","Er arbeitet härter wie früher.","Er arbeitet härter denn früher."],"a":0,"why":"Komparativ + als.","src":"grammar"},
+    {"t":"mc","q":"“der Strukturwandel” bedeutet:","o":["structural change of an economy","building work","change of clothes"],"a":0,"why":"z. B. von Kohle zu Dienstleistungen.","src":"vocab"}
+  ]
+},
+"b1-68": {
+  "goal": "Talk about culture (exhibitions, theatre, film), invite someone, and handle a white lie (Notlüge) in a family situation.",
+  "words": [
+    ["die Kultur / die Kulturveranstaltung", "culture / cultural event"],
+    ["die Ausstellung, -en", "exhibition"],
+    ["das Theaterstück, -e", "play"],
+    ["aufführen", "to perform"],
+    ["das Ticket, -s / die Karte, -n", "ticket"],
+    ["kurzfristig", "at short notice"],
+    ["begleiten", "to accompany"],
+    ["die Flucht / die Heimat", "flight, escape / homeland"],
+    ["die Notlüge, -n", "white lie"],
+    ["sich für jemanden einsetzen", "to stand up for someone"],
+    ["Entschuldigen Sie, dass ich Sie störe.", "Sorry to disturb you."],
+    ["Wir müssen uns beeilen!", "We have to hurry!"]
+  ],
+  "grammar": {
+    "title": "Inviting, asking permission, and wobei / woran",
+    "text": "**Polite asking:** Entschuldigen Sie, dass ich Sie störe. – Ich habe leider nicht viel Zeit. – Ich dachte, es wäre schön, wenn Selma mich **begleitet**.\n\n**Passive Futur (events):** Es **wird** eine interessante Ausstellung **geben**. Ein neues Stück **wird aufgeführt**.\n\n**wo-compounds in questions:** **Wobei** soll ich dir helfen? (bei) – **Woran** denkst du? (an) – **Womit** kann ich helfen?\n\n**Recommending:** Du **solltest** Selma gehen lassen. (Konjunktiv II of sollen; lassen + Infinitiv follows in another lesson)\n\n**Culture words:** die Ausstellung (exhibition), das Museum, das Theater, das Konzert, das Kino, der Film, die Veranstaltung (event), die Eintrittskarte (entry ticket).",
+    "ex": [
+      ["Ich habe zwei Tickets für eine spannende Kulturveranstaltung bekommen.", "I got two tickets for an exciting cultural event."],
+      ["Ein neues Theaterstück wird aufgeführt.", "A new play will be performed."],
+      ["Wobei soll ich dir helfen?", "What should I help you with?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was hat Lisa bekommen?","o":["Zwei Tickets für eine Kulturveranstaltung","Zwei Flugtickets","Zwei Konzertkarten für Nico"],"a":0,"why":"“Ich habe kurzfristig zwei Tickets für eine spannende Kulturveranstaltung … bekommen.”","src":"video"},
+    {"t":"mc","q":"Was gibt es bei der Veranstaltung?","o":["Eine Ausstellung, ein Theaterstück und einen Film","Nur ein Konzert","Ein Fußballspiel"],"a":0,"why":"Ausstellung – Theaterstück – Film im Kino.","src":"video"},
+    {"t":"mc","q":"Welches Thema haben die Ausstellungen?","o":["Flucht und Heimat","Sport und Fitness","Mode"],"a":0,"why":"“… das aktuelle Thema Flucht und Heimat.”","src":"video"},
+    {"t":"mc","q":"Was sagt Aya zu Ibrahim?","o":["Er sollte Selma gehen lassen","Selma darf nicht gehen","Lisa soll allein gehen"],"a":0,"why":"“Ibrahim, du solltest Selma gehen lassen.”","src":"video"},
+    {"t":"fill","q":"Ein neues Stück ___ aufgeführt. (will be)","a":["wird"],"why":"Passiv Präsens/Futur-Sinn.","src":"grammar"},
+    {"t":"fill","q":"___ soll ich dir helfen? (with what)","a":["Wobei"],"why":"helfen bei → wobei.","src":"grammar"},
+    {"t":"mc","q":"“die Notlüge” bedeutet:","o":["white lie","emergency exit","news story"],"a":0,"why":"Lisa musste die Eltern anlügen.","src":"vocab"},
+    {"t":"mc","q":"“die Ausstellung” bedeutet:","o":["exhibition","closing sale","positioning"],"a":0,"why":"Museum / Galerie.","src":"vocab"}
+  ]
+}
+}

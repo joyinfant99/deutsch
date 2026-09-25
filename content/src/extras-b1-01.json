@@ -1,0 +1,1529 @@
+{
+"117": {
+"kind": "video",
+"title": "Welcher Beruf passt zu mir? So findest du deinen Traumjob!",
+"source": "YouTube · Studyflix",
+"url": "https://www.youtube.com/watch?v=ruJTPQ8Whm4",
+"minutes": 4,
+"focus": "Note the questions the video suggests you ask yourself (interests, strengths, values). Then write three jobs that fit you.",
+"questions": [
+{
+"t": "mc",
+"q": "“Berufsberatung” means:",
+"o": [
+"career counselling",
+"job contract",
+"trade union"
+],
+"a": 0,
+"why": "die Beratung = advice."
+},
+{
+"t": "fill",
+"q": "Ich interessiere mich ___ Technik.",
+"a": [
+"für",
+"fuer"
+],
+"why": "sich interessieren für + Akk."
+},
+{
+"t": "mc",
+"q": "“die Fähigkeit, -en” means:",
+"o": [
+"ability, skill",
+"pension",
+"journey"
+],
+"a": 0,
+"why": "Welche Fähigkeiten hast du?"
+}
+]
+},
+"118": {
+"kind": "video",
+"title": "How Many Languages Do Germans Speak? | Easy German 473",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=cS_aH5wJGME",
+"minutes": 11,
+"focus": "Listen for the languages people name and how they describe their level. Then say which languages you speak and how well.",
+"questions": [
+{
+"t": "mc",
+"q": "“die Muttersprache” is …",
+"o": [
+"the language you grew up with",
+"the language of your job",
+"a dead language"
+],
+"a": 0,
+"why": "Meine Muttersprache ist Tamil."
+},
+{
+"t": "fill",
+"q": "Meine Kinder wachsen ___ auf, sie sprechen zwei Sprachen. (zweisprachig)",
+"a": [
+"zweisprachig"
+],
+"why": "zweisprachig aufwachsen."
+},
+{
+"t": "mc",
+"q": "“Ich spreche fließend Englisch” means:",
+"o": [
+"I speak English fluently",
+"I speak English slowly",
+"I don’t speak English"
+],
+"a": 0,
+"why": "fließend = fluent."
+}
+]
+},
+"119": {
+"kind": "video",
+"title": "So formulierst du INDIREKTE Fragen richtig (Deutsch B1)",
+"source": "YouTube · Rocking German Grammar",
+"url": "https://www.youtube.com/watch?v=DvFUkqh0hBs",
+"minutes": 10,
+"focus": "Watch for the two patterns: ob for yes/no questions and the W-word for content questions; the verb goes to the end.",
+"questions": [
+{
+"t": "mc",
+"q": "Which sentence contains an indirect question?",
+"o": [
+"Kannst du mir sagen, ob der Zug pünktlich ist?",
+"Ist der Zug pünktlich?",
+"Der Zug ist pünktlich."
+],
+"a": 0,
+"why": "Indirekte Frage = Nebensatz mit ob / W-Wort."
+},
+{
+"t": "fill",
+"q": "Ich weiß nicht, ___ er heute kommt.",
+"a": [
+"ob"
+],
+"why": "Ja/Nein-Frage → ob."
+},
+{
+"t": "mc",
+"q": "“Wann beginnt der Kurs?” → Ich möchte wissen, …",
+"o": [
+"wann der Kurs beginnt",
+"wann beginnt der Kurs",
+"ob wann der Kurs beginnt"
+],
+"a": 0,
+"why": "Verb am Ende."
+}
+]
+},
+"120": {
+"kind": "video",
+"title": "Alle MODALVERBEN | Learn German | Deutsch lernen",
+"source": "YouTube · Benjamin - Der Deutschlehrer",
+"url": "https://www.youtube.com/watch?v=x7VJy0UCqO8",
+"minutes": 12,
+"focus": "Collect the six modal verbs (können, müssen, dürfen, wollen, sollen, mögen) with their meanings; make one own sentence for each.",
+"questions": [
+{
+"t": "mc",
+"q": "Which modal verb expresses permission?",
+"o": [
+"dürfen",
+"müssen",
+"wollen"
+],
+"a": 0,
+"why": "Hier darf man nicht rauchen."
+},
+{
+"t": "fill",
+"q": "Ich ___ morgen früh aufstehen, sonst verpasse ich den Zug. (müssen)",
+"a": [
+"muss"
+],
+"why": "ich muss."
+},
+{
+"t": "mc",
+"q": "In a main clause with a modal verb the infinitive stands …",
+"o": [
+"at the end of the sentence",
+"right after the modal verb",
+"at the beginning"
+],
+"a": 0,
+"why": "Ich muss heute lernen."
+}
+]
+},
+"121": {
+"kind": "video",
+"title": "NOMINALISIERUNG: wenn aus einem VERB oder ADJEKTIV ein NOMEN wird",
+"source": "YouTube · Karina Multilingual",
+"url": "https://www.youtube.com/watch?v=8iF_dI7UsSM",
+"minutes": 9,
+"focus": "Note the three ways to nominalise: infinitive as noun (das Lernen), stem + -ung, adjective + -keit/-heit.",
+"questions": [
+{
+"t": "mc",
+"q": "Which nominalisation is correct?",
+"o": [
+"das Lernen",
+"die Lernen",
+"der Lernen"
+],
+"a": 0,
+"why": "Infinitiv als Nomen ist neutral."
+},
+{
+"t": "fill",
+"q": "üben → die ___",
+"a": [
+"Übung",
+"Uebung"
+],
+"why": "üben → die Übung."
+},
+{
+"t": "mc",
+"q": "schnell → …",
+"o": [
+"die Schnelligkeit",
+"das Schnell",
+"der Schnell"
+],
+"a": 0,
+"why": "-ig + -keit."
+}
+]
+},
+"122": {
+"kind": "video",
+"title": "bevor - während - nachdem (Deutsch B1)",
+"source": "YouTube · Rocking German Grammar",
+"url": "https://www.youtube.com/watch?v=BDrRF3k8nKA",
+"minutes": 12,
+"focus": "Compare the three conjunctions on a timeline and write one sentence with each about your day.",
+"questions": [
+{
+"t": "fill",
+"q": "___ ich frühstücke, lese ich die Zeitung.",
+"a": [
+"Während",
+"Waehrend"
+],
+"why": "während = at the same time."
+},
+{
+"t": "mc",
+"q": "Which sentence is correct?",
+"o": [
+"Bevor ich ins Bett gehe, putze ich die Zähne.",
+"Bevor ich gehe ins Bett, putze ich die Zähne.",
+"Bevor ich putze die Zähne, gehe ich ins Bett."
+],
+"a": 0,
+"why": "Nebensatz: Verb am Ende."
+},
+{
+"t": "mc",
+"q": "“Nachdem ich gegessen hatte, ging ich spazieren.” Which tense is in the subordinate clause?",
+"o": [
+"Plusquamperfekt",
+"Präsens",
+"Futur"
+],
+"a": 0,
+"why": "nachdem + Plusquamperfekt/Perfekt."
+}
+]
+},
+"123": {
+"kind": "video",
+"title": "How Punctual Are Germans? | Easy German 458",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=Yydu1FrTYT0",
+"minutes": 11,
+"focus": "Listen for words like pünktlich, zu spät, Verspätung. Then describe how punctual people are in your home country.",
+"questions": [
+{
+"t": "mc",
+"q": "“pünktlich” means:",
+"o": [
+"on time",
+"polite",
+"quiet"
+],
+"a": 0,
+"why": "Ich komme immer pünktlich."
+},
+{
+"t": "fill",
+"q": "Der Zug hat zehn Minuten ___.",
+"a": [
+"Verspätung",
+"Verspaetung"
+],
+"why": "eine Verspätung haben."
+},
+{
+"t": "mc",
+"q": "“Ich komme immer zu spät” means:",
+"o": [
+"I am always late",
+"I always come too early",
+"I never come"
+],
+"a": 0,
+"why": "zu spät = too late."
+}
+]
+},
+"124": {
+"kind": "video",
+"title": "Indirekte Rede einfach erklärt | Beispiele und Übung",
+"source": "YouTube · lernfoerderung",
+"url": "https://www.youtube.com/watch?v=4BPolFuzVrE",
+"minutes": 6,
+"focus": "Note how direct speech becomes indirect speech (pronouns change). In everyday B1 German a dass-clause is enough; the Konjunktiv I forms you may see only need to be recognised.",
+"questions": [
+{
+"t": "fill",
+"q": "“Ich bin müde.” → Er sagt, ___ er müde ist. (that)",
+"a": [
+"dass"
+],
+"why": "dass-Satz, Verb am Ende."
+},
+{
+"t": "mc",
+"q": "“Ich bin müde.” → Er sagt, dass … müde ist.",
+"o": [
+"er",
+"ich",
+"du"
+],
+"a": 0,
+"why": "Das Pronomen wechselt: ich → er."
+},
+{
+"t": "mc",
+"q": "“Kommst du morgen?” → Sie fragt, … ich morgen komme.",
+"o": [
+"ob",
+"dass",
+"weil"
+],
+"a": 0,
+"why": "Ja/Nein-Frage → ob."
+}
+]
+},
+"125": {
+"kind": "video",
+"title": "Was ist Heimat für dich? | Was bedeutet Heimat?",
+"source": "YouTube · Learn German",
+"url": "https://www.youtube.com/watch?v=5zshFtHh8WE",
+"minutes": 8,
+"focus": "Note the different meanings of Heimat people give (place, people, feeling). Then say what Heimat means to you.",
+"questions": [
+{
+"t": "mc",
+"q": "“die Heimat” means:",
+"o": [
+"homeland, the place you belong",
+"holiday",
+"housing"
+],
+"a": 0,
+"why": "Meine Heimat ist Indien."
+},
+{
+"t": "mc",
+"q": "“Heimweh haben” means:",
+"o": [
+"to be homesick",
+"to have a headache",
+"to be at home"
+],
+"a": 0,
+"why": "das Heimweh."
+},
+{
+"t": "fill",
+"q": "Ich vermisse meine ___. (Heimat)",
+"a": [
+"Heimat"
+],
+"why": "die Heimat vermissen."
+}
+]
+},
+"126": {
+"kind": "video",
+"title": "Unregelmäßige Verben Deutsch | Teste dein Deutsch | Präteritum",
+"source": "YouTube · Benjamin - Der Deutschlehrer",
+"url": "https://www.youtube.com/watch?v=7R282jceZWM",
+"minutes": 12,
+"focus": "Pause and answer each verb yourself before the answer appears; note verbs you got wrong.",
+"questions": [
+{
+"t": "fill",
+"q": "gehen → er ___ (Präteritum)",
+"a": [
+"ging"
+],
+"why": "gehen – ging – gegangen."
+},
+{
+"t": "mc",
+"q": "kommen → Präteritum:",
+"o": [
+"kam",
+"kommte",
+"gekommen"
+],
+"a": 0,
+"why": "kommen – kam – gekommen."
+},
+{
+"t": "fill",
+"q": "Wir ___ damals nach Deutschland. (fliegen, Präteritum)",
+"a": [
+"flogen"
+],
+"why": "fliegen – flog – geflogen."
+}
+]
+},
+"127": {
+"kind": "video",
+"title": "Die Berliner Mauer einfach erklärt (explainity® Erklärvideo)",
+"source": "YouTube · explainity",
+"url": "https://www.youtube.com/watch?v=XxWn75LSO48",
+"minutes": 4,
+"focus": "Note the years and the reasons for the Wall. Then retell it in five sentences using Präteritum.",
+"questions": [
+{
+"t": "mc",
+"q": "In which year did the Berlin Wall go up?",
+"o": [
+"1961",
+"1945",
+"1989"
+],
+"a": 0,
+"why": "Der Mauerbau war am 13. August 1961."
+},
+{
+"t": "mc",
+"q": "In which year did the Wall fall?",
+"o": [
+"1989",
+"1961",
+"1990"
+],
+"a": 0,
+"why": "Am 9. November 1989."
+},
+{
+"t": "fill",
+"q": "Die Mauer ___ 28 Jahre lang die Stadt. (teilen, Präteritum)",
+"a": [
+"teilte"
+],
+"why": "teilen – teilte – geteilt."
+}
+]
+},
+"128": {
+"kind": "video",
+"title": "Die deutsche Wiedervereinigung 1989/90 | STARK erklärt",
+"source": "YouTube · STARK Verlag",
+"url": "https://www.youtube.com/watch?v=VnRBUeD0Ars",
+"minutes": 7,
+"focus": "Note the sequence: Mauerfall, Verhandlungen, Einheit. Write the three key dates.",
+"questions": [
+{
+"t": "mc",
+"q": "When is the Day of German Unity celebrated?",
+"o": [
+"3 October",
+"9 November",
+"8 May"
+],
+"a": 0,
+"why": "Tag der Deutschen Einheit: 3. Oktober 1990."
+},
+{
+"t": "mc",
+"q": "How many federal states does Germany have today?",
+"o": [
+"16",
+"12",
+"20"
+],
+"a": 0,
+"why": "16 Bundesländer."
+},
+{
+"t": "fill",
+"q": "Am 9. November 1989 ___ die Mauer. (fallen, Präteritum)",
+"a": [
+"fiel"
+],
+"why": "fallen – fiel – gefallen."
+}
+]
+},
+"129": {
+"kind": "video",
+"title": "Deutsch lernen: Nebensätze einfach erklärt",
+"source": "YouTube · Lingster Academy",
+"url": "https://www.youtube.com/watch?v=wxACZCNAkS4",
+"minutes": 12,
+"focus": "Listen for the position of the verb in main clauses vs subordinate clauses; make sentences about problems in your day with weil and dass.",
+"questions": [
+{
+"t": "mc",
+"q": "In a subordinate clause the conjugated verb is …",
+"o": [
+"at the end",
+"in second position",
+"at the beginning"
+],
+"a": 0,
+"why": "Ich bleibe zu Hause, weil ich krank bin."
+},
+{
+"t": "fill",
+"q": "Ich bleibe zu Hause, ___ ich krank bin.",
+"a": [
+"weil"
+],
+"why": "weil + Nebensatz."
+},
+{
+"t": "mc",
+"q": "Which sentence is correct?",
+"o": [
+"Ich glaube, dass er heute kommt.",
+"Ich glaube, dass er kommt heute.",
+"Ich glaube, dass kommt er heute."
+],
+"a": 0,
+"why": "Verb am Ende."
+}
+]
+},
+"130": {
+"kind": "video",
+"title": "Do Germans Save Money and Invest? | Easy German 450",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=sTbqHypqM2M",
+"minutes": 13,
+"focus": "Collect money words (sparen, Schulden, anlegen, Miete) as you listen; say how you handle money in three sentences.",
+"questions": [
+{
+"t": "mc",
+"q": "“sparen” means:",
+"o": [
+"to save (money)",
+"to spend",
+"to earn"
+],
+"a": 0,
+"why": "Ich spare jeden Monat 100 Euro."
+},
+{
+"t": "mc",
+"q": "“die Schulden” are:",
+"o": [
+"debts",
+"savings",
+"taxes"
+],
+"a": 0,
+"why": "Er hat viele Schulden."
+},
+{
+"t": "fill",
+"q": "Ich habe kein Geld, ___ kann ich nicht in Urlaub fahren.",
+"a": [
+"deshalb",
+"deswegen"
+],
+"why": "deshalb + Verb an Position 2."
+}
+]
+},
+"131": {
+"kind": "video",
+"title": "Ratschläge mit \"sollten\" und \"würden\" - B1",
+"source": "YouTube · Goethe-Institut Ramallah",
+"url": "https://www.youtube.com/watch?v=lsfRr2hCOQk",
+"minutes": 3,
+"focus": "Note the ways to give advice: du solltest, an deiner Stelle würde ich, wie wäre es mit.",
+"questions": [
+{
+"t": "fill",
+"q": "Du ___ mehr schlafen. (sollen, Konjunktiv II)",
+"a": [
+"solltest"
+],
+"why": "du solltest."
+},
+{
+"t": "mc",
+"q": "Which sentence gives advice?",
+"o": [
+"An deiner Stelle würde ich zum Arzt gehen.",
+"Ich gehe zum Arzt.",
+"Er ist beim Arzt."
+],
+"a": 0,
+"why": "An deiner Stelle würde ich …"
+},
+{
+"t": "mc",
+"q": "“Wenn ich du wäre, …” introduces …",
+"o": [
+"advice",
+"a question",
+"an order"
+],
+"a": 0,
+"why": "Wenn ich du wäre, würde ich …"
+}
+]
+},
+"132": {
+"kind": "video",
+"title": "Konjunktiv II - 5 Situationen im Alltag mit Konjunktiv II (Deutsch B1-B2)",
+"source": "YouTube · Rocking German Grammar",
+"url": "https://www.youtube.com/watch?v=cjBzQ9jTZHU",
+"minutes": 11,
+"focus": "Note the five situations (wishes, advice, polite requests, hypotheses, comparisons). Give one example for each.",
+"questions": [
+{
+"t": "fill",
+"q": "Wenn ich mehr Geld hätte, ___ ich ein Auto kaufen.",
+"a": [
+"würde",
+"wuerde"
+],
+"why": "würde + Infinitiv."
+},
+{
+"t": "mc",
+"q": "Konjunktiv II of “sein” (ich):",
+"o": [
+"wäre",
+"würde",
+"war"
+],
+"a": 0,
+"why": "ich wäre."
+},
+{
+"t": "mc",
+"q": "“Ich hätte gern einen Kaffee.” is …",
+"o": [
+"a polite request",
+"a complaint",
+"a past event"
+],
+"a": 0,
+"why": "hätte gern = höfliche Bitte."
+}
+]
+},
+"133": {
+"kind": "video",
+"title": "German Two-Part Conjunctions Part 2 | Super Easy German 202",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=_NIjLMWmIuY",
+"minutes": 10,
+"focus": "Write down the pairs: entweder … oder, weder … noch, sowohl … als auch, nicht nur … sondern auch, zwar … aber.",
+"questions": [
+{
+"t": "fill",
+"q": "Ich mag weder Tee ___ Kaffee.",
+"a": [
+"noch"
+],
+"why": "weder … noch."
+},
+{
+"t": "mc",
+"q": "Complete: sowohl … ___",
+"o": [
+"als auch",
+"noch",
+"oder"
+],
+"a": 0,
+"why": "sowohl … als auch."
+},
+{
+"t": "mc",
+"q": "Which sentence is correct?",
+"o": [
+"Entweder gehen wir ins Kino, oder wir bleiben zu Hause.",
+"Entweder gehen wir ins Kino, noch wir bleiben zu Hause.",
+"Weder gehen wir ins Kino, oder wir bleiben zu Hause."
+],
+"a": 0,
+"why": "entweder … oder."
+}
+]
+},
+"134": {
+"kind": "video",
+"title": "B1 - Lesson 35 | Jobsuche - Stellenanzeigen - Teil 1",
+"source": "YouTube · Learn German",
+"url": "https://www.youtube.com/watch?v=Zfa3PAsUs1k",
+"minutes": 12,
+"focus": "Collect the typical sections of a job ad (Aufgaben, Anforderungen, Wir bieten).",
+"questions": [
+{
+"t": "mc",
+"q": "“die Stelle, -n” means:",
+"o": [
+"job position",
+"place",
+"point"
+],
+"a": 0,
+"why": "Ich suche eine Stelle."
+},
+{
+"t": "mc",
+"q": "In a job ad “Berufserfahrung” means:",
+"o": [
+"work experience",
+"career advice",
+"career fair"
+],
+"a": 0,
+"why": "Berufserfahrung erwünscht."
+},
+{
+"t": "mc",
+"q": "“Wir bieten …” introduces:",
+"o": [
+"what the employer offers",
+"what you must do",
+"the address"
+],
+"a": 0,
+"why": "Wir bieten: 30 Urlaubstage."
+}
+]
+},
+"135": {
+"kind": "video",
+"title": "Anschreiben Bewerbung Ausbildung - So geht's richtig!",
+"source": "YouTube · Studyflix",
+"url": "https://www.youtube.com/watch?v=jTkRk_ihYBw",
+"minutes": 4,
+"focus": "Note the structure: Einleitung, Hauptteil, Schluss. Then draft your own three-sentence opening.",
+"questions": [
+{
+"t": "mc",
+"q": "Another word for “Bewerbungsschreiben” is:",
+"o": [
+"Anschreiben",
+"Kündigung",
+"Zeugnis"
+],
+"a": 0,
+"why": "das Anschreiben."
+},
+{
+"t": "mc",
+"q": "“der Lebenslauf” is:",
+"o": [
+"CV",
+"life insurance",
+"birth certificate"
+],
+"a": 0,
+"why": "tabellarischer Lebenslauf."
+},
+{
+"t": "fill",
+"q": "Hiermit ___ ich mich um die Stelle. (sich bewerben, ich)",
+"a": [
+"bewerbe"
+],
+"why": "sich bewerben um."
+}
+]
+},
+"136": {
+"kind": "video",
+"title": "B1 - Lesson 14 | damit, um...zu | Finalsätze",
+"source": "YouTube · Learn German",
+"url": "https://www.youtube.com/watch?v=QeNzj72acE4",
+"minutes": 11,
+"focus": "Note when um … zu is possible (same subject) and when damit is needed (different subjects).",
+"questions": [
+{
+"t": "fill",
+"q": "Ich lerne Deutsch, ___ in Deutschland zu arbeiten.",
+"a": [
+"um"
+],
+"why": "um … zu = purpose."
+},
+{
+"t": "mc",
+"q": "Use damit instead of um … zu when …",
+"o": [
+"the subjects are different",
+"the sentence is negative",
+"the verb is separable"
+],
+"a": 0,
+"why": "Ich helfe dir, damit du früher fertig bist."
+},
+{
+"t": "mc",
+"q": "Which sentence is correct?",
+"o": [
+"Ich gehe zum Bäcker, um Brötchen zu kaufen.",
+"Ich gehe zum Bäcker, damit Brötchen zu kaufen.",
+"Ich gehe zum Bäcker, um Brötchen kaufen."
+],
+"a": 0,
+"why": "um + zu + Infinitiv."
+}
+]
+},
+"137": {
+"kind": "video",
+"title": "8 Things That Happen Only in Germany | Easy German 522",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=_bXX1IOo4Eg",
+"minutes": 12,
+"focus": "Notice which things Germans find normal. Ask yourself: which are true and which are clichés?",
+"questions": [
+{
+"t": "mc",
+"q": "“das Klischee, -s” means:",
+"o": [
+"stereotype, cliché",
+"reality",
+"tradition"
+],
+"a": 0,
+"why": "Klischees über Deutsche."
+},
+{
+"t": "mc",
+"q": "“typisch deutsch” means:",
+"o": [
+"typical of Germany",
+"totally German",
+"not German"
+],
+"a": 0,
+"why": "typisch = typical."
+},
+{
+"t": "fill",
+"q": "Alle Deutschen trinken nur Bier – das ist ein ___.",
+"a": [
+"Klischee"
+],
+"why": "Klischee."
+}
+]
+},
+"138": {
+"kind": "video",
+"title": "Asking Germans what's their best character trait | Easy German 323",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=wccudohysKY",
+"minutes": 10,
+"focus": "Collect adjectives for character (ehrlich, humorvoll, geduldig). Describe a friend with five adjectives.",
+"questions": [
+{
+"t": "mc",
+"q": "The ending -los means:",
+"o": [
+"without",
+"with",
+"full of"
+],
+"a": 0,
+"why": "arbeitslos = without work."
+},
+{
+"t": "fill",
+"q": "Ein Mensch ohne Hoffnung ist hoffnungs___.",
+"a": [
+"los"
+],
+"why": "-los."
+},
+{
+"t": "mc",
+"q": "freundlich → noun:",
+"o": [
+"die Freundlichkeit",
+"das Freund",
+"der Freundlich"
+],
+"a": 0,
+"why": "-lich + -keit."
+}
+]
+},
+"139": {
+"kind": "video",
+"title": "WEIL - DA - DENN - DESHALB | Learn German: Causal clauses",
+"source": "YouTube · Deutsch Insomnia",
+"url": "https://www.youtube.com/watch?v=ouU1A8I31eE",
+"minutes": 7,
+"focus": "Compare word order: weil/da → verb at the end; denn/deshalb → verb in second position.",
+"questions": [
+{
+"t": "fill",
+"q": "Er kommt nicht, denn er ___ krank.",
+"a": [
+"ist"
+],
+"why": "denn + Hauptsatz."
+},
+{
+"t": "mc",
+"q": "After “denn” the verb stands …",
+"o": [
+"in second position",
+"at the end",
+"at the beginning"
+],
+"a": 0,
+"why": "denn ist eine Konjunktion auf Position 0."
+},
+{
+"t": "fill",
+"q": "Es regnet. ___ bleibe ich zu Hause.",
+"a": [
+"Deshalb",
+"Deswegen"
+],
+"why": "deshalb + Verb an Position 2."
+}
+]
+},
+"140": {
+"kind": "video",
+"title": "OBWOHL vs. TROTZDEM | Super Easy German 200",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=X6XwtaL_4fE",
+"minutes": 9,
+"focus": "Note the different word order after obwohl and trotzdem.",
+"questions": [
+{
+"t": "fill",
+"q": "___ es regnet, gehe ich spazieren.",
+"a": [
+"Obwohl"
+],
+"why": "obwohl + Nebensatz."
+},
+{
+"t": "fill",
+"q": "Es regnet. ___ gehe ich spazieren.",
+"a": [
+"Trotzdem"
+],
+"why": "trotzdem + Verb an Position 2."
+},
+{
+"t": "mc",
+"q": "obwohl introduces …",
+"o": [
+"a subordinate clause",
+"a main clause",
+"a question"
+],
+"a": 0,
+"why": "Verb am Ende."
+}
+]
+},
+"141": {
+"kind": "video",
+"title": "We Asked Couples in Berlin How They Met | Easy German 426",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=Q7UcjxyjFO8",
+"minutes": 14,
+"focus": "Listen for how the couples met (kennenlernen, verabreden, verlieben). Then tell how you met a friend.",
+"questions": [
+{
+"t": "mc",
+"q": "“sich kennenlernen” means:",
+"o": [
+"to get to know each other",
+"to recognise",
+"to remember"
+],
+"a": 0,
+"why": "Wir haben uns kennengelernt."
+},
+{
+"t": "fill",
+"q": "Wir haben uns auf einer Party ___. (kennenlernen, Partizip II)",
+"a": [
+"kennengelernt"
+],
+"why": "kennengelernt."
+},
+{
+"t": "mc",
+"q": "“sich verabreden” means:",
+"o": [
+"to arrange to meet",
+"to break up",
+"to marry"
+],
+"a": 0,
+"why": "Wir verabreden uns morgen."
+}
+]
+},
+"142": {
+"kind": "video",
+"title": "Infinitiv mit zu | A2/B1/B2 | Learn German",
+"source": "YouTube · Benjamin - Der Deutschlehrer",
+"url": "https://www.youtube.com/watch?v=QQCBksqogHg",
+"minutes": 10,
+"focus": "Note the rule for separable verbs: aufzustehen, anzurufen.",
+"questions": [
+{
+"t": "fill",
+"q": "Ich habe keine Lust, heute ___ arbeiten.",
+"a": [
+"zu"
+],
+"why": "Lust haben + zu."
+},
+{
+"t": "mc",
+"q": "With separable verbs zu stands …",
+"o": [
+"between prefix and verb",
+"before the prefix",
+"after the verb"
+],
+"a": 0,
+"why": "aufzustehen."
+},
+{
+"t": "mc",
+"q": "Which sentence is correct?",
+"o": [
+"Es ist wichtig, pünktlich zu sein.",
+"Es ist wichtig, zu pünktlich sein.",
+"Es ist wichtig pünktlich sein zu."
+],
+"a": 0,
+"why": "zu + Infinitiv am Ende."
+}
+]
+},
+"143": {
+"kind": "video",
+"title": "Aber or Sondern | B1 | Terrible German",
+"source": "YouTube · Schrecklich Deutsch",
+"url": "https://www.youtube.com/watch?v=ovLYEkzb0sY",
+"minutes": 6,
+"focus": "Note the rule: sondern follows a negation and corrects it; aber adds a contrast.",
+"questions": [
+{
+"t": "fill",
+"q": "Er ist nicht müde, ___ hungrig.",
+"a": [
+"sondern"
+],
+"why": "nicht … sondern."
+},
+{
+"t": "mc",
+"q": "sondern is used after …",
+"o": [
+"a negation",
+"a question",
+"a command"
+],
+"a": 0,
+"why": "Nicht A, sondern B."
+},
+{
+"t": "mc",
+"q": "Which sentence is correct?",
+"o": [
+"Ich trinke keinen Kaffee, sondern Tee.",
+"Ich trinke keinen Kaffee, aber Tee.",
+"Ich trinke keinen Kaffee, sondern nicht Tee."
+],
+"a": 0,
+"why": "sondern nach Verneinung."
+}
+]
+},
+"144": {
+"kind": "video",
+"title": "What Berliners Like And Dislike About Their Partners | Easy German 403",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=mPrA1NJ42nw",
+"minutes": 12,
+"focus": "Collect adjectives for likes and dislikes. Say what you value in a partner or friend.",
+"questions": [
+{
+"t": "mc",
+"q": "“die Beziehung” means:",
+"o": [
+"relationship",
+"travel",
+"education"
+],
+"a": 0,
+"why": "eine Beziehung haben."
+},
+{
+"t": "mc",
+"q": "“sich streiten” means:",
+"o": [
+"to argue",
+"to hurry",
+"to stretch"
+],
+"a": 0,
+"why": "Wir streiten uns oft."
+},
+{
+"t": "fill",
+"q": "Ich habe mich in dich ___. (verlieben, Partizip II)",
+"a": [
+"verliebt"
+],
+"why": "sich verlieben."
+}
+]
+},
+"145": {
+"kind": "video",
+"title": "A Day in our Office in Slow German",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=kYEBu6dG2MM",
+"minutes": 9,
+"focus": "Note the office vocabulary and the order of the day; describe your own workplace in five sentences.",
+"questions": [
+{
+"t": "mc",
+"q": "“der Kollege” means:",
+"o": [
+"colleague",
+"customer",
+"boss"
+],
+"a": 0,
+"why": "mein Kollege."
+},
+{
+"t": "mc",
+"q": "“die Besprechung” means:",
+"o": [
+"meeting",
+"break",
+"holiday"
+],
+"a": 0,
+"why": "eine Besprechung haben."
+},
+{
+"t": "fill",
+"q": "Ich arbeite im ___ von 9 bis 17 Uhr.",
+"a": [
+"Büro",
+"Buero"
+],
+"why": "im Büro."
+}
+]
+},
+"146": {
+"kind": "video",
+"title": "Gehaltsrechner: Brutto & Netto-Gehalt erklärt! Inkl. Lohnabrechnung-Beispiel",
+"source": "YouTube · Finanzfluss",
+"url": "https://www.youtube.com/watch?v=t5jTNx1dFu4",
+"minutes": 9,
+"focus": "Note where the deductions go (Steuern, Sozialversicherung).",
+"questions": [
+{
+"t": "mc",
+"q": "Brutto is the salary …",
+"o": [
+"before deductions",
+"after deductions",
+"per hour"
+],
+"a": 0,
+"why": "Brutto minus Abzüge = Netto."
+},
+{
+"t": "mc",
+"q": "Netto is the salary …",
+"o": [
+"after deductions",
+"before deductions",
+"without holiday"
+],
+"a": 0,
+"why": "Was bleibt übrig."
+},
+{
+"t": "fill",
+"q": "Ich habe ___ Auto. (negation)",
+"a": [
+"kein"
+],
+"why": "kein + Nomen."
+}
+]
+},
+"147": {
+"kind": "video",
+"title": "Deutsch lernen: NOTFALL 112 anrufen – Dialog und erste Hilfe",
+"source": "YouTube · Hören und sprechen",
+"url": "https://www.youtube.com/watch?v=VKx9lzUDHiY",
+"minutes": 8,
+"focus": "Note the information you must give: Wo? Was ist passiert? Wie viele Verletzte? Wer ruft an?",
+"questions": [
+{
+"t": "mc",
+"q": "Which number do you call for fire or medical emergencies?",
+"o": [
+"112",
+"110",
+"116"
+],
+"a": 0,
+"why": "112 = Feuerwehr / Rettungsdienst."
+},
+{
+"t": "mc",
+"q": "What belongs in an emergency call?",
+"o": [
+"where the accident happened",
+"your favourite food",
+"your salary"
+],
+"a": 0,
+"why": "Wo ist es passiert?"
+},
+{
+"t": "fill",
+"q": "Der Unfall ___ gestern. (passieren, Präteritum)",
+"a": [
+"passierte"
+],
+"why": "passieren – passierte."
+}
+]
+},
+"148": {
+"kind": "video",
+"title": "Why Germans Love Insurance | Easy German 495",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=NNPnLBPt39g",
+"minutes": 13,
+"focus": "Collect the types of insurance mentioned; say which you would need.",
+"questions": [
+{
+"t": "mc",
+"q": "“die Haftpflichtversicherung” pays for …",
+"o": [
+"damage you cause to others",
+"your own illness",
+"your car repairs"
+],
+"a": 0,
+"why": "Haftpflicht = liability."
+},
+{
+"t": "mc",
+"q": "“der Unfall, Unfälle” means:",
+"o": [
+"accident",
+"event",
+"insurance"
+],
+"a": 0,
+"why": "einen Unfall haben."
+},
+{
+"t": "fill",
+"q": "___ du einen Unfall hast, rufst du 112.",
+"a": [
+"Wenn"
+],
+"why": "wenn + Nebensatz."
+}
+]
+},
+"149": {
+"kind": "video",
+"title": "Wie funktioniert das Schulsystem in Deutschland? Deutsches Bildungssystem einfach erklärt",
+"source": "YouTube · easy newstime",
+"url": "https://www.youtube.com/watch?v=2zhntE44W5U",
+"minutes": 4,
+"focus": "Note the school types in order: Grundschule, weiterführende Schule, Abitur.",
+"questions": [
+{
+"t": "mc",
+"q": "“die Grundschule” is …",
+"o": [
+"primary school",
+"high school",
+"university"
+],
+"a": 0,
+"why": "Klasse 1 bis 4."
+},
+{
+"t": "fill",
+"q": "Mein Sohn ist in der ___ Klasse. (3. → Dativ)",
+"a": [
+"dritten"
+],
+"why": "in der dritten Klasse."
+},
+{
+"t": "mc",
+"q": "The ordinal number for 1. is:",
+"o": [
+"erste",
+"einte",
+"ein"
+],
+"a": 0,
+"why": "der erste Tag."
+}
+]
+},
+"150": {
+"kind": "video",
+"title": "At a German School | Easy German 152",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=uQ7hsFGnfrY",
+"minutes": 9,
+"focus": "Note school vocabulary and wishes people express about school.",
+"questions": [
+{
+"t": "fill",
+"q": "Ich wünschte, wir ___ weniger Hausaufgaben. (haben, Konjunktiv II)",
+"a": [
+"hätten",
+"haetten"
+],
+"why": "wir hätten."
+},
+{
+"t": "mc",
+"q": "“die Hausaufgaben” means:",
+"o": [
+"homework",
+"housework",
+"homeland"
+],
+"a": 0,
+"why": "Hausaufgaben machen."
+},
+{
+"t": "mc",
+"q": "Wenn ich Schulleiter ___, würde ich später beginnen.",
+"o": [
+"wäre",
+"war",
+"bin"
+],
+"a": 0,
+"why": "wenn + Konjunktiv II."
+}
+]
+},
+"151": {
+"kind": "video",
+"title": "Lernen lernen: 13 Tipps aus der Gehirnforschung",
+"source": "YouTube · Sprouts Deutschland",
+"url": "https://www.youtube.com/watch?v=_CgmMnBjnz0",
+"minutes": 5,
+"focus": "Pick two tips and plan how to use them in your German study this week.",
+"questions": [
+{
+"t": "mc",
+"q": "“wiederholen” means:",
+"o": [
+"to repeat, review",
+"to bring back",
+"to whistle"
+],
+"a": 0,
+"why": "Vokabeln wiederholen."
+},
+{
+"t": "mc",
+"q": "“sich konzentrieren auf + Akk.” means:",
+"o": [
+"to concentrate on",
+"to celebrate",
+"to consult"
+],
+"a": 0,
+"why": "Ich konzentriere mich auf …"
+},
+{
+"t": "fill",
+"q": "Ich lerne täglich, ___ ich Wörter nicht vergesse.",
+"a": [
+"damit"
+],
+"why": "damit = purpose."
+}
+]
+},
+"152": {
+"kind": "video",
+"title": "Er unterrichtet fast alles! Das verdient ein Grundschullehrer | Lohnt sich das?",
+"source": "YouTube · Lohnt sich das?",
+"url": "https://www.youtube.com/watch?v=miy5M7rNnVs",
+"minutes": 10,
+"focus": "Listen for school vocabulary and which subjects a primary teacher teaches.",
+"questions": [
+{
+"t": "mc",
+"q": "“unterrichten” means:",
+"o": [
+"to teach",
+"to inform",
+"to underline"
+],
+"a": 0,
+"why": "Er unterrichtet Mathe."
+},
+{
+"t": "mc",
+"q": "“das Fach, Fächer” in school means:",
+"o": [
+"subject",
+"compartment",
+"failure"
+],
+"a": 0,
+"why": "Mein Lieblingsfach ist Sport."
+},
+{
+"t": "fill",
+"q": "Er ___ Mathe und Deutsch. (unterrichten)",
+"a": [
+"unterrichtet"
+],
+"why": "er unterrichtet."
+}
+]
+},
+"153": {
+"kind": "video",
+"title": "Duale Berufsausbildung in Deutschland (German)",
+"source": "YouTube · Bundesinstitut für Berufsbildung",
+"url": "https://www.youtube.com/watch?v=55-4Y1yZ2s0",
+"minutes": 8,
+"focus": "Note the two places of learning and how long the training lasts.",
+"questions": [
+{
+"t": "mc",
+"q": "In a dual Ausbildung you learn …",
+"o": [
+"in a company and at a vocational school",
+"only at university",
+"only online"
+],
+"a": 0,
+"why": "Betrieb + Berufsschule."
+},
+{
+"t": "mc",
+"q": "“der Azubi” is short for:",
+"o": [
+"Auszubildender",
+"Ausländer",
+"Arbeitsuchender"
+],
+"a": 0,
+"why": "Azubi = apprentice."
+},
+{
+"t": "fill",
+"q": "___ interessierst du dich? (für was)",
+"a": [
+"Wofür",
+"Wofuer"
+],
+"why": "wo(r) + für."
+}
+]
+},
+"154": {
+"kind": "video",
+"title": "IHK-Weiterbildung - einfach erklärt",
+"source": "YouTube · IHK Nord Westfalen",
+"url": "https://www.youtube.com/watch?v=Bl8Y3EJGT2I",
+"minutes": 3,
+"focus": "Note which qualifications you can earn after your Ausbildung.",
+"questions": [
+{
+"t": "mc",
+"q": "“die Weiterbildung” means:",
+"o": [
+"further training",
+"further building",
+"farewell"
+],
+"a": 0,
+"why": "sich weiterbilden."
+},
+{
+"t": "mc",
+"q": "Which institution often offers further training in Germany?",
+"o": [
+"IHK",
+"ADAC",
+"Bäckerei"
+],
+"a": 0,
+"why": "Industrie- und Handelskammer."
+},
+{
+"t": "mc",
+"q": "“der Abschluss” means:",
+"o": [
+"qualification, degree",
+"lock",
+"conclusion of a speech"
+],
+"a": 0,
+"why": "einen Abschluss machen."
+}
+]
+}
+}

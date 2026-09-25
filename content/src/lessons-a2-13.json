@@ -1,0 +1,146 @@
+{
+"a2-53": {
+  "goal": "Talk about culture and your cultural interests (theatre, cinema, music, literature) and say what a topic is about with “Es geht um …”.",
+  "words": [
+    ["die Kunst / die Kultur", "art / culture"],
+    ["die Literatur / der Roman / das Gedicht", "literature / novel / poem"],
+    ["die Malerei / das Gemälde", "painting / painting (work)"],
+    ["das Theater / das Kino", "theatre / cinema"],
+    ["das Festival, -s / das Open-Air-Festival", "festival / open-air festival"],
+    ["die Band, -s / der Sänger, -", "band / singer"],
+    ["das Jubiläum", "anniversary"],
+    ["absagen", "to cancel"],
+    ["kurzfristig", "at short notice"],
+    ["der Ersatz", "replacement"],
+    ["Es geht um …", "It’s about …"],
+    ["langweilig", "boring"]
+  ],
+  "grammar": {
+    "title": "Talking about interests: gern, lieber, Es geht um …",
+    "text": "Say how much you like something: **gern – lieber – am liebsten**: Ich gehe **ganz gern** ins Kino, **lieber** ins Konzert, **am liebsten** auf ein Festival. Say what you find: **Theater finde ich langweilig.**\n\n**Es geht um + Akkusativ** (it is about): Es geht **um** Literatur, Theater und Malerei. Worum geht es? – Es geht **um** Gedichte und Romane.\n\nExperience in the past: **Bist du schon mal auf einem Festival gewesen?** (**gewesen** = Partizip II of sein, with **sein**).",
+    "ex": [
+      ["Ich gehe ganz gerne ins Kino, aber Theater finde ich ziemlich langweilig.", "I quite like going to the cinema, but I find theatre rather boring."],
+      ["Es geht um Literatur, Theater und Malerei.", "It’s about literature, theatre and painting."],
+      ["Bist du schon mal auf einem Festival gewesen?", "Have you ever been to a festival?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What is the topic of Nico’s lesson?","o":["Art and culture","Sports","Cooking"],"a":0,"why":"“Kunst und Kultur. Es geht um Literatur, Theater und Malerei.”","src":"video"},
+    {"t":"mc","q":"What does Nico think of theatre?","o":["Rather boring – he prefers cinema","He loves it","He has never been"],"a":0,"why":"“Theater finde ich ziemlich langweilig.”","src":"video"},
+    {"t":"mc","q":"What would Nico love to do next summer?","o":["Go to an open-air festival","Visit a museum","Learn the guitar"],"a":0,"why":"“… nächsten Sommer unbedingt auf ein Open-Air-Festival gehen.”","src":"video"},
+    {"t":"mc","q":"What bad news does Tarek bring?","o":["The band has cancelled because the singer is ill","The restaurant is fully booked","The rent is due"],"a":0,"why":"“Die Band hat abgesagt … Der Sänger ist krank.”","src":"video"},
+    {"t":"fill","q":"Es geht ___ Literatur und Theater. (about)","a":["um"],"why":"es geht um + Akk.","src":"grammar"},
+    {"t":"fill","q":"Ich gehe gern ins Kino, aber ___ gehe ich in Konzerte. (prefer)","a":["lieber"],"why":"gern – lieber – am liebsten.","src":"grammar"},
+    {"t":"mc","q":"“kurzfristig” means:","o":["at short notice","for a short time only","in the near future"],"a":0,"why":"So kurzfristig finden wir keinen Ersatz.","src":"vocab"},
+    {"t":"mc","q":"“das Gedicht” is a:","o":["poem","picture","song"],"a":0,"why":"Gedichte und Romane.","src":"vocab"}
+  ]
+},
+"a2-54": {
+  "goal": "Plan a city tour and give advice with sollen / sollte (Sie sollten das Museum besuchen), and understand a review.",
+  "words": [
+    ["die Stadtbesichtigung, -en", "city tour"],
+    ["das Stadtschloss / das Stadtmuseum", "city palace / city museum"],
+    ["die Ausstellung, -en", "exhibition"],
+    ["das Programm / die Aufführung", "programme / performance"],
+    ["der Kritiker / die Kritik", "critic / review"],
+    ["die Bühne / der Schauspieler", "stage / actor"],
+    ["der Applaus", "applause"],
+    ["das Gemälde, -", "painting"],
+    ["der Geheimtipp, -s", "insider tip"],
+    ["sich lohnen", "to be worth it"],
+    ["Sie sollten auf jeden Fall …", "You should definitely …"],
+    ["Das steht in keinem Stadtführer.", "That isn’t in any guidebook."]
+  ],
+  "grammar": {
+    "title": "Advice with sollen / sollte",
+    "text": "**sollen** gives advice or reports an expectation. The polite form for advice is **sollte** (Konjunktiv II):\n\n- Sie **sollten** sich einfach mal entspannen.\n- Sie **sollten** auf jeden Fall das Stadtschloss besuchen.\n- Wie oft **soll** ich das noch sagen? (annoyed question)\n\nNegative advice: **Gehen Sie bitte auf keinen Fall in das Museum …** – **Das lohnt sich gar nicht.**\n\nPräteritum for a review: **Goethes Faust begeisterte** die Theaterbesucher. Die Schauspieler **mussten** dreimal auf die Bühne **kommen**.",
+    "ex": [
+      ["Sie sollten auf jeden Fall das Stadtschloss besuchen.", "You should definitely visit the city palace."],
+      ["Ich finde, Sie sollten sich einfach mal entspannen.", "I think you should simply relax."],
+      ["Das lohnt sich gar nicht.", "That’s not worth it at all."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Why is Yara irritated at the start?","o":["The neighbour’s dustbin is in front of her shop again","Her phone is broken","Her bike is missing"],"a":0,"why":"“Ich möchte nicht, dass die Mülltonne vor meinem Laden steht.”","src":"video"},
+    {"t":"mc","q":"What does Yara need to plan?","o":["A city tour for her visitor","A party","A holiday"],"a":0,"why":"“Ich bekomme Besuch und muss eine Stadtbesichtigung planen.”","src":"video"},
+    {"t":"mc","q":"Which play does the landlord recommend?","o":["Goethe’s Faust","Romeo and Juliet","Hamlet"],"a":0,"why":"“… Faust-Interpretation.”","src":"video"},
+    {"t":"mc","q":"Which museum does he say is not worth visiting?","o":["The museum for modern art","The city museum","The palace"],"a":0,"why":"“Gehen Sie auf keinen Fall in das Museum für moderne Kunst.”","src":"video"},
+    {"t":"fill","q":"Sie ___ das Stadtschloss besuchen. (should – polite)","a":["sollten"],"why":"Konjunktiv II: sollten.","src":"grammar"},
+    {"t":"mc","q":"Which sentence gives advice?","o":["Sie sollten das Museum besuchen.","Sie besuchen das Museum gestern.","Sie haben das Museum besucht."],"a":0,"why":"sollten + infinitive.","src":"grammar"},
+    {"t":"mc","q":"“der Geheimtipp” is:","o":["an insider tip","a secret door","a password"],"a":0,"why":"Geheim + Tipp.","src":"vocab"},
+    {"t":"mc","q":"“Das lohnt sich nicht.” means:","o":["It isn’t worth it.","It isn’t possible.","It isn’t open."],"a":0,"why":"sich lohnen.","src":"vocab"}
+  ]
+},
+"a2-55": {
+  "goal": "Read and write a short biography (a famous citizen of a city) with the Präteritum of regular and common irregular verbs.",
+  "words": [
+    ["der Bürger / die Bürgerin", "citizen"],
+    ["der Komponist, -en", "composer"],
+    ["das Stück, -e / die Geige / das Klavier", "piece / violin / piano"],
+    ["beeindruckend", "impressive"],
+    ["relativ uninteressant", "rather uninteresting"],
+    ["herumreisen", "to travel around"],
+    ["sterben – starb – ist gestorben", "to die"],
+    ["schreiben – schrieb", "to write"],
+    ["leben – lebte", "to live"],
+    ["die Ausbildung", "training"],
+    ["Wie fandest du …?", "What did you think of …?"],
+    ["Es geht mir wieder besser.", "I’m feeling better again."]
+  ],
+  "grammar": {
+    "title": "Simple past in biographies: regular and irregular verbs",
+    "text": "Biographies and written texts use the **Präteritum**:\n\n- regular: leben – **lebte**, arbeiten – **arbeitete**, studieren – **studierte**, reisen – **reiste**\n- irregular: schreiben – **schrieb**, gehen – **ging**, kommen – **kam**, sterben – **starb**, finden – **fand**, sein – **war**, haben – **hatte**\n\nExample: Ein bekannter Komponist **lebte** in dieser Stadt. Er **schrieb** viele Stücke für Geige und Klavier. Er **starb** vor ein paar Jahren.\n\nIn conversation you say: Er hat dort gelebt. Er ist vor ein paar Jahren gestorben.",
+    "ex": [
+      ["Er schrieb viele Stücke für Geige und Klavier.", "He wrote many pieces for violin and piano."],
+      ["Ein bekannter Komponist hat dort gelebt.", "A famous composer lived there."],
+      ["Er ist vor ein paar Jahren gestorben.", "He died a few years ago."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Who is Yara’s visitor?","o":["Her friend Sarah from Switzerland","Her sister","Nico’s mother"],"a":0,"why":"Yara and Sarah look back at the time of their training.","src":"video"},
+    {"t":"mc","q":"What did Sarah think of the exhibition?","o":["The palace was impressive, but the exhibition rather uninteresting","She loved it","She hated the palace"],"a":0,"why":"“Das Stadtschloss war beeindruckend, aber die Ausstellung war relativ uninteressant.”","src":"video"},
+    {"t":"mc","q":"How long will Sarah stay?","o":["Not long – she is travelling around","A month","A year"],"a":0,"why":"“Nicht lange. Ich reise gerade herum.”","src":"video"},
+    {"t":"mc","q":"What did Sarah’s father always want?","o":["For her to see the world","For her to stay at home","For her to be a doctor"],"a":0,"why":"“… er wollte immer, dass ich die Welt sehe.”","src":"video"},
+    {"t":"fill","q":"Er ___ viele Stücke für Geige. (schreiben, Präteritum)","a":["schrieb"],"why":"schreiben – schrieb.","src":"grammar"},
+    {"t":"fill","q":"Er ___ vor ein paar Jahren. (sterben, Präteritum)","a":["starb"],"why":"sterben – starb.","src":"grammar"},
+    {"t":"mc","q":"“der Komponist” is:","o":["a composer","a critic","a conductor"],"a":0,"why":"komponieren.","src":"vocab"},
+    {"t":"mc","q":"“beeindruckend” means:","o":["impressive","expensive","boring"],"a":0,"why":"beeindrucken = to impress.","src":"vocab"}
+  ]
+},
+"a2-56": {
+  "goal": "Decide on an evening out: compare events, ask about tickets (Abendkasse, ausverkauft) and use “Lust haben, … zu + Infinitiv”.",
+  "words": [
+    ["die Veranstaltung, -en", "event"],
+    ["das Konzert / das Musical", "concert / musical"],
+    ["die Volksmusik / die Rockmusik", "folk music / rock music"],
+    ["die Karte / das Ticket, -s", "ticket"],
+    ["die Abendkasse / die Theaterkasse", "box office (evening / theatre)"],
+    ["ausverkauft", "sold out"],
+    ["beliebt / populär", "popular"],
+    ["die Sängerin, -nen", "singer (f)"],
+    ["Gibt es noch Karten?", "Are there still tickets?"],
+    ["Das hört sich gut an.", "That sounds good."],
+    ["Hast du Lust, … zu …?", "Do you feel like …?"],
+    ["Auf keinen Fall!", "Absolutely not!"]
+  ],
+  "grammar": {
+    "title": "zu + Infinitiv after Lust haben",
+    "text": "After expressions like **Lust haben**, **Zeit haben**, **vorhaben**, **anfangen**, **aufhören**, **versuchen** you use an **infinitive with zu** at the end of the clause (separated by a comma):\n\n- Hast du **Lust**, meinen Neffen **kennenzulernen**? (separable verb: zu inside: kennen**zu**lernen)\n- Ich habe **keine Zeit**, ins Kino **zu** gehen.\n- Es hat **angefangen**, **zu** regnen.\n\nSeparable verbs: **zu** goes between prefix and verb: **auf**zu**stehen**, **an**zu**rufen**.\n\nAsk for tickets: **Gibt es noch Karten an der Abendkasse?** – **Nein, die Tickets sind ausverkauft.**",
+    "ex": [
+      ["Hast du Lust, meinen Neffen Nico kennenzulernen?", "Do you feel like meeting my nephew Nico?"],
+      ["Gibt es keine Tickets an der Abendkasse?", "Are there no tickets at the box office?"],
+      ["Die Sängerin ist ziemlich populär. Ich denke, die Tickets sind ausverkauft.", "The singer is quite popular. I think the tickets are sold out."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Which events are on offer for the evening?","o":["Folk music, rock club, musical, theatre","Only football","Only cinema"],"a":0,"why":"Volksmusik, Rockmusik im Club, Musical, Theater.","src":"video"},
+    {"t":"mc","q":"Why do Yara and Sarah dismiss the folk music?","o":["“Auf keinen Fall!” – they don’t like it","It is too expensive","It is far away"],"a":0,"why":"They both say it at once.","src":"video"},
+    {"t":"mc","q":"What is the problem with the rock concert?","o":["The tickets are probably sold out","It is too far","It costs too much"],"a":0,"why":"“Ich denke, die Tickets sind ausverkauft.”","src":"video"},
+    {"t":"mc","q":"What happens at the end?","o":["Lisa, Sebastian and Nico give a small concert at the restaurant","The concert is cancelled","Sarah leaves"],"a":0,"why":"Tarek announces “ein kleines Konzert von unseren guten Freunden”.","src":"video"},
+    {"t":"fill","q":"Hast du Lust, ins Kino ___ gehen? (zu)","a":["zu"],"why":"Lust haben + zu + Infinitiv.","src":"grammar"},
+    {"t":"mc","q":"Which is correct?","o":["Ich habe keine Zeit, dich anzurufen.","Ich habe keine Zeit, dich zu anrufen.","Ich habe keine Zeit, dich anrufen zu."],"a":0,"why":"anzurufen: zu between prefix and verb.","src":"grammar"},
+    {"t":"mc","q":"“ausverkauft” means:","o":["sold out","on sale","for rent"],"a":0,"why":"Die Tickets sind ausverkauft.","src":"vocab"},
+    {"t":"mc","q":"“die Abendkasse” is:","o":["the box office on the evening of the event","a cash desk in the kitchen","a night bank"],"a":0,"why":"Abend + Kasse.","src":"vocab"}
+  ]
+}
+}

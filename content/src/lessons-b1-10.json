@@ -1,0 +1,146 @@
+{
+"b1-41": {
+  "goal": "Talk about weather and climate differences (kalt, heiß, sich gewöhnen), compare costs and ask for help in a shop.",
+  "words": [
+    ["das Klima / das Wetter", "climate / weather"],
+    ["die Kälte / die Hitze", "cold / heat"],
+    ["durchgefroren", "frozen through"],
+    ["übertreiben", "to exaggerate"],
+    ["aushalten", "to bear, to endure"],
+    ["sich gewöhnen an + Akk.", "to get used to"],
+    ["gebraucht / ein gebrauchtes Fahrrad", "used / a used bicycle"],
+    ["sich informieren (über)", "to get information (about)"],
+    ["die Monatskarte, -n", "monthly ticket"],
+    ["günstiger als", "cheaper than"],
+    ["Kennen wir uns?", "Do we know each other?"],
+    ["Wie kann ich Ihnen helfen?", "How can I help you?"]
+  ],
+  "grammar": {
+    "title": "Talking about climate: sich gewöhnen, man, wie-Sätze",
+    "text": "Useful structures:\n\n- **sich gewöhnen an + Akk.:** **Man gewöhnt sich an** das Klima. (Ich habe mich an die Kälte gewöhnt.)\n- **man** (one/people): **Man** kann die Kälte kaum aushalten.\n- **wie-Satz after verstehen/wissen:** Ich kann nicht verstehen, **wie man** diese Kälte **aushalten kann**. (verb at the end)\n- **comparison:** Das Fahrrad ist **günstiger als** eine Monatskarte.\n- **Ich hoffe (dass) …** Ich hoffe! (short answer)\n\nAdjectives about weather: **kalt – kälter, warm – wärmer, heiß, schwül, windig, regnerisch**.",
+    "ex": [
+      ["Man gewöhnt sich an das Klima.", "You get used to the climate."],
+      ["Ich kann nicht verstehen, wie man diese lange Kälte aushalten kann.", "I can’t understand how one can endure this long cold."],
+      ["Das Fahrrad ist günstiger als eine Monatskarte für die Straßenbahn.", "The bike is cheaper than a monthly tram ticket."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was stört Ibrahim in Deutschland?","o":["Die lange Kälte","Die Sprache","Das Essen"],"a":0,"why":"“Ich kann es nicht verstehen, wie man diese lange Kälte aushalten kann.”","src":"video"},
+    {"t":"mc","q":"Was sagt Yara dazu?","o":["Man gewöhnt sich an das Klima","Es wird nie wärmer","Er soll zurückgehen"],"a":0,"why":"“Man gewöhnt sich an das Klima.”","src":"video"},
+    {"t":"mc","q":"Wie ist das Wetter in Syrien laut Ibrahim?","o":["Manchmal richtig heiß","Immer kalt","Immer regnerisch"],"a":0,"why":"“Manchmal ist es richtig heiß.”","src":"video"},
+    {"t":"mc","q":"Warum fährt Selma mit dem Fahrrad zur Arbeit?","o":["Es ist günstiger als eine Monatskarte","Sie liebt Sport","Es ist schneller"],"a":0,"why":"“… das ist günstiger als eine Monatskarte für die Straßenbahn.”","src":"video"},
+    {"t":"fill","q":"Man gewöhnt sich ___ das Klima. (to)","a":["an"],"why":"sich gewöhnen an + Akk.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Ich verstehe nicht, wie man das aushalten kann.","Ich verstehe nicht, wie kann man das aushalten.","Ich verstehe nicht, wie man kann das aushalten."],"a":0,"why":"Verb am Ende.","src":"grammar"},
+    {"t":"mc","q":"“übertreiben” bedeutet:","o":["to exaggerate","to over-drive","to override"],"a":0,"why":"Übertreiben Sie nicht!","src":"vocab"},
+    {"t":"mc","q":"“durchgefroren” bedeutet:","o":["chilled to the bone","freshly frozen","well done"],"a":0,"why":"Ibrahim ist durchgefroren.","src":"vocab"}
+  ]
+},
+"b1-42": {
+  "goal": "Talk about health, weather sensitivity and holidays, and use double conjunctions and je … desto.",
+  "words": [
+    ["wetterfühlig", "sensitive to the weather"],
+    ["die Temperaturschwankung, -en", "temperature fluctuation"],
+    ["die Knochen (pl.)", "bones"],
+    ["die Beschwerden (pl.)", "complaints, ailments"],
+    ["die Krankheit / die Gesundheit", "illness / health"],
+    ["der Urlaub / entspannend", "holiday / relaxing"],
+    ["Ägypten / die Pyramiden", "Egypt / the pyramids"],
+    ["die Sehenswürdigkeiten", "sights"],
+    ["der Selfie-Stick", "selfie stick"],
+    ["Macht euch nur lustig!", "Go on, make fun of me!"],
+    ["Es sei denn, …", "unless …"],
+    ["erwachsen werden", "to grow up"]
+  ],
+  "grammar": {
+    "title": "nicht nur … sondern auch; je … desto; es sei denn",
+    "text": "- **nicht nur … sondern auch**: Ich möchte **nicht nur** Bohnen, **sondern auch** Karotten. Ihr wart **nicht nur** im Hotel, **sondern auch** im Landesinneren.\n- **je + Komparativ … desto + Komparativ** (the more … the more): **Je größer** die Temperaturschwankungen **sind**, **desto stärker spüre** ich meine Knochen. (je-clause: verb at the end; desto-clause: verb second)\n- **es sei denn (, dass)** = unless: Ich bin gesund, **es sei denn**, Alter ist eine Krankheit.\n\nMore: **je mehr … desto besser**, **je früher … desto besser**.",
+    "ex": [
+      ["Ich möchte nicht nur Bohnen, sondern auch Karotten.", "I’d like not only beans but also carrots."],
+      ["Je größer die Temperaturschwankungen sind, desto stärker spüre ich meine Knochen.", "The bigger the temperature swings, the more I feel my bones."],
+      ["Ich hoffe, ihr wart nicht nur im Hotel, sondern auch im Landesinneren.", "I hope you weren’t only in the hotel but also inland."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Wie sieht Inge nach dem Urlaub aus, laut Tarek?","o":["Mindestens zehn Jahre jünger","Sehr müde","Krank"],"a":0,"why":"“Du wirkst mindestens zehn Jahre jünger.”","src":"video"},
+    {"t":"mc","q":"Was war das Problem im Urlaub?","o":["Das Wetter – ihre Knochen spüren Temperaturschwankungen","Das Essen","Das Hotel"],"a":0,"why":"“Je größer die Temperaturschwankungen sind, desto stärker spüre ich meine Knochen.”","src":"video"},
+    {"t":"mc","q":"Wohin ist Inge mit Jacques gereist?","o":["Nach Ägypten","Nach Spanien","Nach Italien"],"a":0,"why":"“In Ägypten.”","src":"video"},
+    {"t":"mc","q":"Was fand Inge an den Sehenswürdigkeiten furchtbar?","o":["Die vielen Touristen","Das Essen","Die Hitze"],"a":0,"why":"“Aber diese vielen Touristen! Das war furchtbar!”","src":"video"},
+    {"t":"fill","q":"Je kälter es ist, ___ mehr Schmerzen habe ich. (the … the)","a":["desto","umso"],"why":"je … desto.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Je früher du kommst, desto besser ist es.","Je früher du kommst, desto ist es besser.","Je früher kommst du, desto besser ist es."],"a":0,"why":"je-Satz: Verb am Ende; desto-Satz: Verb an 2.","src":"grammar"},
+    {"t":"fill","q":"Ich möchte nicht nur Bohnen, ___ auch Karotten. (but)","a":["sondern"],"why":"nicht nur … sondern auch.","src":"grammar"},
+    {"t":"mc","q":"“wetterfühlig” bedeutet:","o":["sensitive to weather changes","weather-proof","feeling like the weather"],"a":0,"why":"Inge ist wetterfühlig.","src":"vocab"}
+  ]
+},
+"b1-43": {
+  "goal": "Say why something happens because of weather and circumstances with wegen + Genitiv, and talk about the future with werden and about unreal past situations.",
+  "words": [
+    ["wegen + Genitiv", "because of"],
+    ["das Wetter / die Hitze", "weather / heat"],
+    ["im Sommer / im Winter", "in summer / in winter"],
+    ["der Betrieb / mehr Betrieb", "business, activity"],
+    ["die Siesta", "siesta"],
+    ["die Gewohnheit, -en", "habit"],
+    ["Schnee und Eis", "snow and ice"],
+    ["Tag und Nacht arbeiten", "to work day and night"],
+    ["Lass dir nichts einreden!", "Don’t let them talk you into anything!"],
+    ["Du wirst dich wundern!", "You’ll be surprised!"],
+    ["die Zeit deines Lebens haben", "to have the time of your life"],
+    ["Zu viel Arbeit.", "Too much work."]
+  ],
+  "grammar": {
+    "title": "wegen + Genitiv; Futur I; hätte … können",
+    "text": "**wegen** (because of) takes the **Genitiv**:\n\n- **wegen des** Wetters (masc./neut.: **des … -s / -es**)\n- **wegen der** Hitze (feminine: **der**)\n- **wegen der vielen** Gäste (plural: **der** + adjective **-en**)\n\nIn spoken language **wegen + Dativ** is common (wegen dem Wetter), but the Genitiv is correct.\n\n**Futur I** (werden + infinitive) for predictions: Du **wirst** nie wieder Freizeit **haben**. Du **wirst** dich **wundern**.\n\n**Unreal past** (Konjunktiv II Vergangenheit): Bei uns **wäre** das anders **gewesen**. Du **hättest** die Zeit deines Lebens **haben können**.",
+    "ex": [
+      ["Im Sommer ist wegen der vielen Gäste draußen auch mehr Betrieb.", "In summer there’s more going on because of the many guests outside."],
+      ["Wegen des Wetters fährt im Winter fast niemand Fahrrad.", "Because of the weather almost nobody cycles in winter."],
+      ["Du wirst nie wieder Freizeit haben.", "You will never have free time again."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was macht Nico bald?","o":["Eine Ausbildung bei Yara im Fahrradladen","Ein Studium in Berlin","Eine Weltreise"],"a":0,"why":"“Nico wird bald bei Yara … eine Ausbildung machen.”","src":"video"},
+    {"t":"mc","q":"Was sagen Max und Tarek scherzhaft über Yara?","o":["Sie ist eine harte Chefin und Nico wird nie mehr Freizeit haben","Sie ist sehr nett","Sie bezahlt schlecht"],"a":0,"why":"“Du wirst Tag und Nacht arbeiten müssen.”","src":"video"},
+    {"t":"mc","q":"Warum ist im Sommer im Restaurant mehr Betrieb?","o":["Wegen der vielen Gäste draußen","Wegen des Regens","Wegen der Ferien der Kinder"],"a":0,"why":"“… wegen der vielen Gäste draußen …”","src":"video"},
+    {"t":"mc","q":"Was sagt Nico über den Sommer im Fahrradladen?","o":["Wegen der Hitze gibt es mittags eine Siesta","Es gibt keine Kunden","Er arbeitet nachts"],"a":0,"why":"“… wegen der Hitze am Mittag eine Siesta.”","src":"video"},
+    {"t":"fill","q":"Wegen ___ Wetters bleiben wir zu Hause. (genitive)","a":["des"],"why":"wegen des Wetters.","src":"grammar"},
+    {"t":"fill","q":"Wegen ___ Hitze machen sie Siesta. (genitive feminine)","a":["der"],"why":"wegen der Hitze.","src":"grammar"},
+    {"t":"mc","q":"“Du wirst dich wundern!” ist:","o":["Futur I","Perfekt","Präteritum"],"a":0,"why":"werden + Infinitiv.","src":"grammar"},
+    {"t":"mc","q":"“die Gewohnheit” bedeutet:","o":["habit","custom duty","wonder"],"a":0,"why":"Gewohnheiten ändern.","src":"vocab"}
+  ]
+},
+"b1-44": {
+  "goal": "Talk about climate change and the environment, and make predictions with the future tense (Futur I) and with wenn … dann.",
+  "words": [
+    ["der Klimawandel / die globale Erwärmung", "climate change / global warming"],
+    ["die Umwelt / die Umweltbelastung", "environment / pollution"],
+    ["die Abgase (pl.)", "exhaust gases"],
+    ["die Treibhausgase (pl.)", "greenhouse gases"],
+    ["die Atmosphäre", "atmosphere"],
+    ["die Klimaprognose, -n", "climate forecast"],
+    ["der Forscher / der Experte", "researcher / expert"],
+    ["die Lärmbelästigung", "noise nuisance"],
+    ["den Motor abstellen", "to switch off the engine"],
+    ["zunehmen – nimmt zu", "to increase"],
+    ["eintreten", "to occur, to come true"],
+    ["Ach, nun kommen Sie schon!", "Oh, come on!"]
+  ],
+  "grammar": {
+    "title": "Futur I: predictions and consequences",
+    "text": "**Futur I = werden + Infinitiv** (at the end). Use it for **predictions, promises and assumptions**:\n\n- Es **wird** immer wärmer. (werden as a full verb: to become)\n- Hier **wird** sich bald alles **erwärmen**. (werden + reflexive infinitive)\n- Wenn die Belastung weiter zunimmt, **dann wird** sich das Klima **verändern**.\n- Die Temperaturen **werden** in den nächsten Jahren **steigen**.\n\nOften you can use the **present tense + time word** instead: Morgen **regnet** es. **Ich werde** vs. **ich würde**: werde = future; würde = Konjunktiv II (hypothetical).",
+    "ex": [
+      ["Es wird immer wärmer.", "It’s getting warmer and warmer."],
+      ["Wenn die Klimaprognosen eintreten, dann wird sich hier bald alles erwärmen.", "If the climate forecasts come true, everything here will soon warm up."],
+      ["Es werden immer mehr Treibhausgase in die Atmosphäre geblasen.", "More and more greenhouse gases are being blown into the atmosphere."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Worüber beschwert sich Yara?","o":["Herr Murz lässt seinen Motor minutenlang laufen","Der Kaffee ist kalt","Die Miete ist hoch"],"a":0,"why":"“Wenn er minutenlang seinen Motor nicht abstellt …”","src":"video"},
+    {"t":"mc","q":"Warum ist das schlecht?","o":["Lärmbelästigung und schlecht für die Umwelt","Es kostet Benzin","Es zerstört das Auto"],"a":0,"why":"“… nicht nur Lärmbelästigung. Es ist auch schlecht für die Umwelt!”","src":"video"},
+    {"t":"mc","q":"Was sagt Yara über die globale Erwärmung?","o":["Sie ist eine Tatsache – es wird immer wärmer","Sie ist eine Erfindung","Sie ist noch weit weg"],"a":0,"why":"“Die globale Erwärmung ist eine Tatsache.”","src":"video"},
+    {"t":"mc","q":"Wie reagiert Hauke?","o":["Er wäre nicht böse über eine Klimaänderung, weil es so kalt ist","Er ruft die Polizei","Er stimmt sofort zu"],"a":0,"why":"“Ich wäre nicht böse über eine Klimaänderung. Die Kälte heute ist furchtbar.”","src":"video"},
+    {"t":"fill","q":"Es ___ immer wärmer. (werden, Präsens)","a":["wird"],"why":"es wird wärmer.","src":"grammar"},
+    {"t":"fill","q":"Die Temperaturen ___ steigen. (werden, Futur, plural)","a":["werden"],"why":"werden + Infinitiv.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist Futur I?","o":["Es wird bald regnen.","Es hat gestern geregnet.","Es regnete gestern."],"a":0,"why":"werden + Infinitiv.","src":"grammar"},
+    {"t":"mc","q":"“die Abgase” sind:","o":["exhaust fumes","waste water","outgoing gas bills"],"a":0,"why":"Abgase von Autos.","src":"vocab"}
+  ]
+}
+}

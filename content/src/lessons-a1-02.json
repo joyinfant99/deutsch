@@ -1,0 +1,142 @@
+{
+"a1-09": {
+  "goal": "Count from 0 to 100 in German, and say your age.",
+  "words": [
+    ["null", "zero"],
+    ["eins, zwei, drei, vier, fünf", "1, 2, 3, 4, 5"],
+    ["sechs, sieben, acht, neun, zehn", "6, 7, 8, 9, 10"],
+    ["elf, zwölf", "11, 12"],
+    ["dreizehn … neunzehn", "13 … 19"],
+    ["zwanzig, dreißig, vierzig", "20, 30, 40"],
+    ["fünfzig, sechzig, siebzig", "50, 60, 70"],
+    ["achtzig, neunzig, einhundert", "80, 90, 100"],
+    ["die Zahl, -en", "number"],
+    ["der Geburtstag, -e", "birthday"],
+    ["das Geschenk, -e", "present"],
+    ["die Einladung, -en", "invitation"]
+  ],
+  "grammar": {
+    "title": "Numbers 1–100",
+    "text": "**1–12** are separate words: eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn, elf, zwölf.\n\n**13–19** = unit + **zehn**: drei**zehn**, vier**zehn**, fünf**zehn**, **sech**zehn (not sechszehn), **sieb**zehn (not siebenzehn), acht**zehn**, neun**zehn**.\n\n**Tens** end in **-zig**: zwanzig, **dreißig**, vierzig, fünfzig, **sech**zig, **sieb**zig, achtzig, neunzig.\n\n**21–99:** say the unit first, then the ten, joined with **und**: ein**und**zwanzig (21), sieben**und**dreißig (37). Say your age: Ich bin 30 Jahre alt. / Wie alt bist du?",
+    "ex": [
+      ["Emma ist acht Jahre alt.", "Emma is eight years old."],
+      ["Wie viele Zahlen sind das? – Das sind 31 Zahlen.", "How many numbers are these? – These are 31 numbers."],
+      ["einundzwanzig, zweiundzwanzig, dreiundzwanzig", "21, 22, 23"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How old is Emma?","o":["Eight","Eleven","Eighteen"],"a":0,"why":"“Emma ist acht Jahre alt.”","src":"video"},
+    {"t":"mc","q":"Nico draws numbers and Emma teaches him to count. Up to which number does she count in the scene?","o":["Twelve (zwölf)","Ten (zehn)","Twenty (zwanzig)"],"a":0,"why":"Eins … zwölf.","src":"video"},
+    {"t":"mc","q":"What is the invitation for?","o":["Charlotte’s birthday","A concert","A language course"],"a":0,"why":"“Eine Einladung zum Geburtstag von Charlotte.”","src":"video"},
+    {"t":"fill","q":"Write in words: 16 = ___","a":["sechzehn"],"why":"sechs loses its -s: sechzehn.","src":"grammar"},
+    {"t":"fill","q":"Write in words: 30 = ___","a":["dreißig","dreissig"],"why":"dreißig (not dreizig).","src":"grammar"},
+    {"t":"mc","q":"How do you say 37?","o":["siebenunddreißig","dreißigundsieben","sieben dreißig"],"a":0,"why":"Unit first: sieben-und-dreißig.","src":"grammar"},
+    {"t":"mc","q":"“Wie alt bist du?” asks for your:","o":["age","address","name"],"a":0,"why":"alt = old.","src":"vocab"}
+  ]
+},
+"a1-10": {
+  "goal": "Read out phone numbers, ask for and give someone’s number, and use zweimal / dreimal.",
+  "words": [
+    ["die Telefonnummer, -n", "phone number"],
+    ["das Handy, -s", "mobile phone"],
+    ["Wie ist deine Telefonnummer?", "What’s your phone number?"],
+    ["Meine Telefonnummer ist …", "My phone number is …"],
+    ["zweimal / dreimal", "twice / three times"],
+    ["wichtig", "important"],
+    ["das Radio, -s", "radio"],
+    ["das Fundbüro, -s", "lost-and-found office"],
+    ["verlieren", "to lose"],
+    ["fragen / antworten", "to ask / to answer"],
+    ["hören", "to hear, to listen"],
+    ["Herzlichen Glückwunsch!", "Congratulations! / Happy birthday!"]
+  ],
+  "grammar": {
+    "title": "Phone numbers and repeated digits",
+    "text": "German phone numbers are read digit by digit or in short groups. Zero is **null**. For a repeated digit, Germans say **zweimal** (twice) or **dreimal** (three times) plus the digit: “dreimal die Sieben, zweimal die Drei” = 777 33.\n\nUseful pair: **Wie ist deine / Ihre Telefonnummer?** (informal / formal) – **Meine Telefonnummer ist …**",
+    "ex": [
+      ["0800, dann dreimal die Sieben, zweimal die Drei, zweimal die Vier.", "0800, then 7 three times, 3 twice, 4 twice."],
+      ["Ich bin 23 Jahre alt.", "I’m 23 years old."],
+      ["Wie ist deine Handynummer?", "What’s your mobile number?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How old is Lotte, whose birthday it is?","o":["Eight","Seven","Eighteen"],"a":0,"why":"“Sie ist acht.”","src":"video"},
+    {"t":"mc","q":"The radio caller met his dream woman in a “Fundbüro”. What is that?","o":["A lost-and-found office","A bakery","A police school"],"a":0,"why":"Fundbüro = lost-and-found.","src":"video"},
+    {"t":"mc","q":"Why does Nico take Lisa’s phone and dial the radio number?","o":["The caller mentions a lost bag, like his","He wants to order pizza","He wants to call Yara"],"a":0,"why":"“Tasche verloren?” – Nico hears the story about a lost bag.","src":"video"},
+    {"t":"mc","q":"“Dreimal die Sieben” means:","o":["7 7 7","3 7","7 3 3"],"a":0,"why":"dreimal = three times.","src":"grammar"},
+    {"t":"fill","q":"Wie ___ bist du? – Ich bin 23. (asking for age)","a":["alt"],"why":"Wie alt bist du?","src":"grammar"},
+    {"t":"mc","q":"What does “Herzlichen Glückwunsch!” mean?","o":["Congratulations!","Good night!","Take care!"],"a":0,"why":"Said on birthdays and successes.","src":"vocab"},
+    {"t":"mc","q":"What is “null”?","o":["zero","nine","ninety"],"a":0,"why":"null = 0.","src":"vocab"}
+  ]
+},
+"a1-11": {
+  "goal": "Ask and answer personal questions with W-questions, and say a street name and house number.",
+  "words": [
+    ["Wer? / Wer ist da?", "Who? / Who is it?"],
+    ["Wie? / Wie heißt die Straße?", "How? / What is the street called?"],
+    ["Was?", "What?"],
+    ["Wo? / Woher?", "Where? / Where from?"],
+    ["Warum?", "Why?"],
+    ["Wie geht’s dir? – Mir geht’s gut.", "How are you? – I’m fine."],
+    ["schreiben", "to write"],
+    ["telefonieren", "to phone"],
+    ["Viel Glück!", "Good luck!"],
+    ["die Straße / die Hausnummer", "street / house number"],
+    ["die Polizeistelle", "police station"],
+    ["Entschuldigung.", "I’m sorry. / Excuse me."]
+  ],
+  "grammar": {
+    "title": "W-questions",
+    "text": "W-questions start with a question word beginning with **W**. The verb comes second:\n\n- **Wer** bist du? – Ich bin Nico.\n- **Wie** heißt du? – Ich heiße Nico.\n- **Was** machst du? – Ich suche meine Tasche.\n- **Wo** wohnst du? – Ich wohne in Sevilla.\n- **Woher** kommst du? – Aus Spanien.\n- **Warum** …? – Weil … / Darum …\n\nPattern: **Question word + verb + subject.**",
+    "ex": [
+      ["Wo ist die Polizei? – In der Schreinerstraße.", "Where is the police? – On Schreinerstraße."],
+      ["Wie heißt die Straße? – Schreinerstraße, S-C-H-R-E-I-N-E-R.", "What’s the street called? – Schreinerstraße, spelled …"],
+      ["Warum nicht so gut?", "Why not so good?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"The radio host asks Nico “Wie geht’s dir?” What does he answer?","o":["Nicht so gut.","Sehr gut, danke.","Ich weiß es nicht."],"a":0,"why":"He is upset about his bag.","src":"video"},
+    {"t":"mc","q":"Lisa describes Nico’s bag. What is on it?","o":["A patch with a bicycle","A red ribbon","His name in big letters"],"a":0,"why":"“Sie hat einen Aufnäher mit einem Fahrrad.”","src":"video"},
+    {"t":"mc","q":"Where should the finder of the bag take it?","o":["To the police (Polizeistelle Ost), Schreinerstraße 144","To the airport","To the radio station"],"a":0,"why":"Lisa gives the address on the radio.","src":"video"},
+    {"t":"mc","q":"Why does Lisa spell out “S-C-H-R-E-I-N-E-R”?","o":["The presenter misheard it as Scheinerstraße","Nobody can read it","It is a long word"],"a":0,"why":"Spelling avoids confusion (with R vs no R).","src":"video"},
+    {"t":"fill","q":"___ wohnst du? – In Sevilla. (where)","a":["Wo"],"why":"wo = where.","src":"grammar"},
+    {"t":"mc","q":"Which is correct word order?","o":["Wie heißt du?","Wie du heißt?","Heißt wie du?"],"a":0,"why":"Question word, then verb, then subject.","src":"grammar"},
+    {"t":"mc","q":"“Viel Glück!” means:","o":["Good luck!","Thank you!","Have fun!"],"a":0,"why":"das Glück = luck.","src":"vocab"}
+  ]
+},
+"a1-12": {
+  "goal": "Give personal details formally at an office: name, birth date, address, passport number, and read numbers over 100.",
+  "words": [
+    ["das Amt, Ämter", "government office"],
+    ["der Nachname, -n", "last name"],
+    ["das Geburtsdatum", "date of birth"],
+    ["die Passnummer, -n", "passport number"],
+    ["die Postleitzahl, -en", "postcode"],
+    ["der Wohnort, -e", "place of residence"],
+    ["das Heimatland, -länder", "home country"],
+    ["Freut mich sehr.", "Pleased to meet you."],
+    ["Setzen Sie sich bitte.", "Please sit down."],
+    ["Ich weiß es nicht.", "I don’t know."],
+    ["einhundert, zweihundert, dreihundert", "100, 200, 300"],
+    ["eintausend", "1000"]
+  ],
+  "grammar": {
+    "title": "Formal address (Sie / Ihr) and numbers over 100",
+    "text": "At an office you use **Sie**, and **Ihr / Ihre** for “your”: **Wie ist Ihre Adresse?** **Wie ist Ihr Geburtsdatum?** Answers with ich: Meine Adresse ist … Mein Pass ist weg.\n\n**Numbers over 100** are written as one word: einhundert(**hundert**), zweihundert, dreihundert … neunhundert, eintausend. Add the rest without spaces: 434 = **vierhundertvierunddreißig**, 101 = einhunderteins.",
+    "ex": [
+      ["Herr González, freut mich sehr.", "Mr González, pleased to meet you."],
+      ["Wie ist Ihr Geburtsdatum?", "What is your date of birth?"],
+      ["Ich wohne in der Wagnergasse 136.", "I live at Wagnergasse 136."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How does Lisa’s father address Nico at the police station?","o":["Formally, with Sie (Herr González)","Informally, with du","He does not speak to him"],"a":0,"why":"“Herr González, freut mich sehr. Setzen Sie sich doch bitte.”","src":"video"},
+    {"t":"mc","q":"What is Nico’s full name?","o":["Nicolás González","Nico Brunner","Nicolás Yara"],"a":0,"why":"“Ja. Ich heiße Nicolás González.”","src":"video"},
+    {"t":"mc","q":"Which address do they give as Nico’s contact address?","o":["Wagnergasse 136 (Lisa’s)","Schreinerstraße 144","Adelschiffstraße 12"],"a":0,"why":"“Wir nehmen meine Adresse. Ich wohne in der Wagnergasse 136.”","src":"video"},
+    {"t":"mc","q":"Why can Nico not give his Passnummer?","o":["His passport is gone (in the lost bag)","He forgot it","He is too young"],"a":0,"why":"“Mein Pass ist weg.”","src":"video"},
+    {"t":"fill","q":"Formal question: “Wie ist ___ Adresse?” (your)","a":["Ihre"],"why":"Ihre Adresse – formal.","src":"grammar"},
+    {"t":"mc","q":"How do you write 434 in German?","o":["vierhundertvierunddreißig","vierhundert vier und dreißig","vierdreißighundert"],"a":0,"why":"One word, unit before ten.","src":"grammar"},
+    {"t":"mc","q":"“Ich weiß es nicht.” means:","o":["I don’t know.","I don’t like it.","I can’t see it."],"a":0,"why":"wissen = to know.","src":"vocab"}
+  ]
+}
+}

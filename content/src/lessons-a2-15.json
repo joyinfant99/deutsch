@@ -1,0 +1,146 @@
+{
+"a2-61": {
+  "goal": "Talk about presents and invitations with verbs that take two objects (schenken, geben, zeigen) and dative pronouns (ihm, ihr).",
+  "words": [
+    ["schenken", "to give as a present"],
+    ["das Geschenk, -e", "present"],
+    ["der Geburtstag, -e", "birthday"],
+    ["einladen – lädt ein", "to invite"],
+    ["die Einladung, -en", "invitation"],
+    ["das Wörterbuch / das Ticket / die DVD", "dictionary / ticket / DVD"],
+    ["eislaufen gehen", "to go ice-skating"],
+    ["ausprobieren", "to try out"],
+    ["planen", "to plan"],
+    ["Wer schenkt wem was?", "Who gives what to whom?"],
+    ["Sie können stolz auf Ihre Tochter sein.", "You can be proud of your daughter."],
+    ["Bis zum nächsten Mal!", "Until next time!"]
+  ],
+  "grammar": {
+    "title": "Verbs with two objects",
+    "text": "**schenken, geben, zeigen, kaufen, bringen, schicken** take a **dative** (person) and an **accusative** (thing):\n\n- Ich schenke **dir** (Dat.) **einen Stift** (Akk.).\n- Ich schenke **meinem Vater** (Dat.) **ein Ticket** (Akk.).\n- Ich schenke **meiner Mutter** eine DVD.\n\nDative pronouns: **mir, dir, ihm, ihr, ihm (es), uns, euch, ihnen**. Masculine/neuter nouns take **-em**: dem / meinem Vater; feminine **-er**: der / meiner Mutter.\n\n**einladen** takes only the **accusative**: Ich lade **dich** zu meinem Geburtstag ein.",
+    "ex": [
+      ["Ich schenke ihm ein Ticket fürs Theater.", "I give him a ticket for the theatre."],
+      ["Ich schenke ihr eine DVD.", "I give her a DVD."],
+      ["Ich lade dich zu meinem Geburtstag ein.", "I invite you to my birthday."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Which grammar exercise are Lisa and Selma doing?","o":["“Who gives what to whom?”","Telling the time","Ordering food"],"a":0,"why":"“Wer schenkt wem was?”","src":"video"},
+    {"t":"mc","q":"What does Selma give her father in the exercise?","o":["A ticket for the theatre","A book","A bicycle"],"a":0,"why":"“Ich schenke ihm ein Ticket fürs Theater.”","src":"video"},
+    {"t":"mc","q":"What would Selma like to do for her birthday?","o":["Go ice-skating","Go to the cinema","Have a picnic"],"a":0,"why":"“Ich würde gerne eislaufen gehen.”","src":"video"},
+    {"t":"mc","q":"How is Selma’s father doing?","o":["He got the job and is working now","He is still ill","He is looking for a flat"],"a":0,"why":"“Er arbeitet jetzt.”","src":"video"},
+    {"t":"fill","q":"Ich schenke ___ (my father) ein Ticket. (dative pronoun for “him”)","a":["ihm"],"why":"er → ihm.","src":"grammar"},
+    {"t":"fill","q":"Ich schenke ___ (my mother) eine DVD. (dative pronoun for “her”)","a":["ihr"],"why":"sie → ihr.","src":"grammar"},
+    {"t":"mc","q":"Which verb takes only the accusative?","o":["einladen","schenken","zeigen"],"a":0,"why":"Ich lade dich ein.","src":"grammar"},
+    {"t":"mc","q":"“ausprobieren” means:","o":["to try out","to prove","to practise"],"a":0,"why":"Ich möchte es mal ausprobieren.","src":"vocab"}
+  ]
+},
+"a2-62": {
+  "goal": "Discuss gift ideas and prices, and put dative and accusative objects and pronouns in the right order.",
+  "words": [
+    ["das Fahrrad, -räder / gebraucht", "bicycle / used"],
+    ["preiswert / teuer", "good value / expensive"],
+    ["sich etwas leisten können", "to be able to afford something"],
+    ["überraschen", "to surprise"],
+    ["die Suche nach + Dat.", "the search for"],
+    ["zurückzahlen", "to pay back"],
+    ["so schnell wie möglich", "as quickly as possible"],
+    ["herausfinden", "to find out"],
+    ["mitanpacken", "to lend a hand"],
+    ["Na schön.", "All right then."],
+    ["Mach dir keine Sorgen.", "Don’t worry."],
+    ["Ist gut.", "OK, that’s fine."]
+  ],
+  "grammar": {
+    "title": "Sentence construction: order of objects and pronouns",
+    "text": "With two objects the normal order is **Dativ – Akkusativ**:\n\n- Ich schenke **ihr** (Dat.) **ein Fahrrad** (Akk.).\n- Ich zahle **dir** (Dat.) **das Geld** (Akk.) zurück.\n\nOrder rules:\n1. **Pronoun before noun**: Ich schenke **ihr** das Fahrrad. / Ich schenke es meiner Freundin.\n2. **Two pronouns: Akkusativ before Dativ**: Ich schenke **es ihr**. Ich zahle **es dir** zurück.\n3. **Two nouns: Dativ before Akkusativ**: Ich schenke **meiner Freundin ein** Fahrrad.\n\nUseful: **Das kannst du dir nicht leisten.** (dative reflexive)",
+    "ex": [
+      ["Ich möchte ihr ein Fahrrad schenken.", "I’d like to give her a bicycle."],
+      ["Ich zahle dir das Geld so schnell wie möglich zurück.", "I’ll pay you the money back as soon as possible."],
+      ["Das kannst du dir doch gar nicht leisten.", "You simply can’t afford that."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Nico want to give Selma?","o":["A used bicycle","A new bicycle","A book"],"a":0,"why":"“Ich schenke ihr ein gebrauchtes Fahrrad.”","src":"video"},
+    {"t":"mc","q":"What is Yara’s first reaction?","o":["“That’s too expensive – you can’t afford it.”","“What a great idea!”","“I have one for you.”"],"a":0,"why":"“Das kannst du dir doch gar nicht leisten.”","src":"video"},
+    {"t":"mc","q":"What does Yara advise Nico to do more?","o":["Spend more time looking for a job","Save money","Learn Spanish"],"a":0,"why":"“Du solltest vielleicht mehr Zeit mit der Suche nach einer Arbeit verbringen.”","src":"video"},
+    {"t":"mc","q":"What does Nico promise Yara?","o":["To pay the money back as soon as possible","To work in her shop for free","To move out"],"a":0,"why":"“Ich zahle dir das Geld auch so schnell wie möglich zurück.”","src":"video"},
+    {"t":"mc","q":"Which order is correct with two pronouns?","o":["Ich schenke es ihr.","Ich schenke ihr es.","Ich es schenke ihr."],"a":0,"why":"Akkusativ before Dativ.","src":"grammar"},
+    {"t":"mc","q":"Which order is correct with two nouns?","o":["Ich schenke meiner Freundin ein Fahrrad.","Ich schenke ein Fahrrad meiner Freundin.","Ich meiner Freundin schenke ein Fahrrad."],"a":0,"why":"Dativ before Akkusativ.","src":"grammar"},
+    {"t":"fill","q":"Ich zahle ___ das Geld zurück. (dative, du)","a":["dir"],"why":"dative: dir.","src":"grammar"},
+    {"t":"mc","q":"“preiswert” means:","o":["good value","overpriced","free"],"a":0,"why":"der Preis + wert.","src":"vocab"}
+  ]
+},
+"a2-63": {
+  "goal": "Make and respond to suggestions (Wir könnten …, Wie wär’s mit …, Sollen wir …?), and help a friend prepare a dinner invitation.",
+  "words": [
+    ["einen Vorschlag machen", "to make a suggestion"],
+    ["Wir könnten …", "We could …"],
+    ["Wie wär’s mit …?", "How about …?"],
+    ["Sollen wir …?", "Shall we …?"],
+    ["Ich schlage vor, dass …", "I suggest that …"],
+    ["verabredet sein", "to have a date"],
+    ["einladen zu sich nach Hause", "to invite to one’s home"],
+    ["vorbereiten", "to prepare"],
+    ["warm machen", "to heat up"],
+    ["die Roulade / die Klöße (pl.)", "beef roulade / dumplings"],
+    ["überzeugt sein", "to be convinced"],
+    ["Ihr seid zwei Schätze!", "You’re two treasures!"]
+  ],
+  "grammar": {
+    "title": "Making suggestions",
+    "text": "Ways to make a suggestion:\n\n- **Sollen wir** Roulade machen? (Shall we …?)\n- **Wir könnten** Roulade mit Rotkraut und Klößen kochen. (We could …)\n- **Wie wär’s mit** Roulade? / **Wie wäre es, wenn** wir Roulade kochen? (How about …)\n- **Ich schlage vor, dass** wir alles vorbereiten.\n- **Lass uns** (etwas) machen! (Let’s …)\n\nReact: **Gute Idee!** – **Ja, das machen wir.** – **Ich bin nicht überzeugt.** – **Lieber nicht.** – **Warum nicht?**",
+    "ex": [
+      ["Roulade mit Rotkraut und Klößen?", "Roulade with red cabbage and dumplings?"],
+      ["Wir bereiten alles vor. Du musst das Essen nur warm machen.", "We’ll prepare everything. You only have to heat up the food."],
+      ["Ich bin nicht überzeugt!", "I’m not convinced!"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What do Max and Tarek disagree about at the start?","o":["Whether Pepe can be trusted","The menu","The opening hours"],"a":0,"why":"“Nico hasst seinen Bruder nicht … Pepe ist in Ordnung.”","src":"video"},
+    {"t":"mc","q":"What is Inge’s big problem?","o":["She invited Jacques for dinner but she cooks badly","She lost her keys","She has no money"],"a":0,"why":"“Ich habe gesagt, ich koche … Jacques weiß nicht, wie schlecht ich koche.”","src":"video"},
+    {"t":"mc","q":"How do Max and Tarek help?","o":["They prepare everything – Inge only heats it up","They cook at her home","They cancel the date"],"a":0,"why":"“Wir bereiten alles vor.”","src":"video"},
+    {"t":"mc","q":"What dish do they suggest?","o":["Roulade with red cabbage and dumplings","Pizza","Fish soup"],"a":0,"why":"“Roulade mit Rotkraut und Klößen?”","src":"video"},
+    {"t":"fill","q":"___ wir alles vorbereiten? (shall we)","a":["Sollen"],"why":"Sollen wir …?","src":"grammar"},
+    {"t":"fill","q":"Wie ___ es mit Roulade? (how about – wär’s)","a":["wär’s","wärs","wäre","wär"],"why":"Wie wär’s mit …?","src":"grammar"},
+    {"t":"mc","q":"Which sentence is a suggestion?","o":["Wir könnten zusammen kochen.","Wir haben gekocht.","Wir müssen kochen."],"a":0,"why":"könnten = could.","src":"grammar"},
+    {"t":"mc","q":"“ein Schatz” (informal) is:","o":["a dear person","a treasure map","an expense"],"a":0,"why":"Ihr seid zwei Schätze!","src":"vocab"}
+  ]
+},
+"a2-64": {
+  "goal": "Talk about your favourite holidays (Ostern, Weihnachten) and childhood memories in the past, and use “so …, dass” for results.",
+  "words": [
+    ["Ostern / der Osterhase", "Easter / Easter bunny"],
+    ["das Osterei, -er / bunt gefärbt", "Easter egg / coloured"],
+    ["Weihnachten / der Weihnachtsbaum", "Christmas / Christmas tree"],
+    ["das Christkind / der Weihnachtsmann", "Christ child / Santa Claus"],
+    ["der Advent / der Adventskranz", "Advent / Advent wreath"],
+    ["der Stollen / die Kerze, -n", "stollen / candle"],
+    ["schmücken", "to decorate"],
+    ["verstecken", "to hide"],
+    ["das Lieblingsfest", "favourite holiday"],
+    ["zu Ostern / zu Weihnachten", "at Easter / at Christmas"],
+    ["ein Weihnachtsabenteuer", "a Christmas adventure"],
+    ["Meinst du das ernst?", "Are you serious?"]
+  ],
+  "grammar": {
+    "title": "Talking about a holiday in the past; so … dass",
+    "text": "Describe memories with the **Präteritum** (esp. sein, haben, es gab, denken, bringen) and the **Perfekt** for events:\n\n- In unserer Familie **gab** es zu Ostern oft Roulade.\n- Ich **war** noch sehr klein und **dachte**, dass wir den Osterhasen essen.\n- **Brachte** bei euch das Christkind die Geschenke?\n- Meine Eltern **haben** bunte Eier **versteckt**.\n\n**so … , dass** (result): Ich habe **so** geweint, **dass** meine Eltern nie wieder Hasenbraten gemacht haben. Time: **zu Ostern / zu Weihnachten**, **im Advent**, **an Heiligabend**.",
+    "ex": [
+      ["Ich habe so geweint, dass meine Eltern nie wieder einen Hasenbraten gemacht haben.", "I cried so much that my parents never made a roast hare again."],
+      ["Brachte bei euch der Weihnachtsmann oder das Christkind die Geschenke?", "Did Santa Claus or the Christ child bring the presents at your place?"],
+      ["Weihnachten ist kein schönes Fest, wenn man allein ist.", "Christmas is not a nice holiday if you’re alone."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does the meal remind Jacques of?","o":["Easter at home","A summer picnic","A wedding"],"a":0,"why":"“Das erinnert mich an Ostern.”","src":"video"},
+    {"t":"mc","q":"Why did Jacques’ parents never make roast hare again?","o":["He cried because he thought they were eating the Easter bunny","He was allergic","It was too expensive"],"a":0,"why":"“Ich habe so geweint, dass meine Eltern … nie wieder einen Hasenbraten gemacht haben.”","src":"video"},
+    {"t":"mc","q":"What is Inge’s favourite holiday?","o":["Christmas","Easter","New Year"],"a":0,"why":"“Mein Lieblingsfest war immer Weihnachten.”","src":"video"},
+    {"t":"mc","q":"What did Inge and her husband do every Advent?","o":["Eat stollen and light the candles on the Advent wreath","Go skiing","Bake cookies for school"],"a":0,"why":"“… Stollen gegessen und die Kerzen am Adventskranz angezündet.”","src":"video"},
+    {"t":"mc","q":"What does Jacques suggest for Christmas?","o":["To travel together – a Christmas adventure","To stay at Inge’s","To cook for the whole street"],"a":0,"why":"“Lass uns wegfahren! Ein Weihnachtsabenteuer.”","src":"video"},
+    {"t":"fill","q":"Ich habe so geweint, ___ meine Eltern erschraken. (that)","a":["dass"],"why":"so … dass.","src":"grammar"},
+    {"t":"fill","q":"In unserer Familie ___ es zu Ostern oft Roulade. (there was)","a":["gab"],"why":"es gab.","src":"grammar"},
+    {"t":"mc","q":"“der Adventskranz” is:","o":["the Advent wreath","the Advent calendar","the Christmas tree"],"a":0,"why":"Kerzen am Adventskranz.","src":"vocab"}
+  ]
+}
+}

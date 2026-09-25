@@ -1,0 +1,146 @@
+{
+"b1-57": {
+  "goal": "Talk about age limits and coming of age (Volljährigkeit) and use double conjunctions (weder … noch, sowohl … als auch, entweder … oder, nicht nur … sondern auch).",
+  "words": [
+    ["volljährig / minderjährig", "of age / underage"],
+    ["das Mindestalter", "minimum age"],
+    ["der Personalausweis", "ID card"],
+    ["der Lebensabschnitt, -e", "stage of life"],
+    ["anstoßen auf + Akk.", "to toast to"],
+    ["bestehen auf + Dat.", "to insist on"],
+    ["der Sekt / der Wein", "sparkling wine / wine"],
+    ["die Verkäuferin, -nen", "shop assistant"],
+    ["jünger aussehen, als man ist", "to look younger than one is"],
+    ["zumindest", "at least"],
+    ["Ich vermisse dich.", "I miss you."],
+    ["erwachsen werden", "to grow up"]
+  ],
+  "grammar": {
+    "title": "Double conjunctions and age rules",
+    "text": "**Double conjunctions** link two parts:\n- **weder … noch**: Mit 16 darfst du **weder** Schnaps kaufen **noch** Auto fahren.\n- **sowohl … als auch**: Mit 18 bist du **sowohl** volljährig **als auch** wahlberechtigt.\n- **entweder … oder**: **Entweder** du zeigst den Ausweis, **oder** du bekommst keinen Wein.\n- **nicht nur … sondern auch**.\n\n**Age limits in Germany (simplified):** Bier und Wein ab **16**, Spirituosen ab **18**, Wählen und Führerschein ab **18** (begleitetes Fahren ab 17), **volljährig** mit 18.\n\n**bestehen auf + Dat.:** Yara **besteht darauf**, dass wir anstoßen. (dass-clause with da-compound)",
+    "ex": [
+      ["Yara besteht darauf, dass wir auf unseren neuen Lebensabschnitt anstoßen.", "Yara insists that we toast to our new stage of life."],
+      ["Die Verkäuferin wollte mir die Flaschen nicht verkaufen, zumindest nicht ohne Personalausweis.", "The shop assistant didn’t want to sell me the bottles, at least not without ID."],
+      ["Du siehst eben jünger aus, als du bist.", "You simply look younger than you are."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was hat Nico am Abend vor?","o":["Mit Yara und Pepe auf einen neuen Lebensabschnitt anstoßen","Ins Kino gehen","Selma zu heiraten"],"a":0,"why":"“Yara besteht darauf, dass Pepe, sie und ich auf unseren neuen Lebensabschnitt anstoßen.”","src":"video"},
+    {"t":"mc","q":"Was war das Problem beim Kauf von Sekt und Wein?","o":["Die Verkäuferin wollte einen Ausweis sehen","Es gab keinen Wein","Er hatte kein Geld"],"a":0,"why":"“… zumindest nicht ohne Personalausweis.”","src":"video"},
+    {"t":"mc","q":"Wie bewertet Selma das?","o":["Als Kompliment – er sieht jünger aus, als er ist","Als Beleidigung","Als Problem"],"a":0,"why":"“Es ist ein Kompliment …”","src":"video"},
+    {"t":"mc","q":"Was möchte Selma?","o":["Nico morgen treffen","Nico nie mehr sehen","Mit Nico verreisen"],"a":0,"why":"“Ich vermisse dich, Nico.” – “Dann treffen wir uns morgen.”","src":"video"},
+    {"t":"fill","q":"Er hat weder Zeit ___ Geld. (nor)","a":["noch"],"why":"weder … noch.","src":"grammar"},
+    {"t":"fill","q":"Yara besteht ___ , dass wir anstoßen. (darauf / darüber)","a":["darauf"],"why":"bestehen auf.","src":"grammar"},
+    {"t":"mc","q":"Ab welchem Alter ist man in Deutschland volljährig?","o":["18","16","21"],"a":0,"why":"Volljährigkeit mit 18.","src":"grammar"},
+    {"t":"mc","q":"“der Lebensabschnitt” bedeutet:","o":["stage of life","life expectancy","lifelong subscription"],"a":0,"why":"ein neuer Lebensabschnitt.","src":"vocab"}
+  ]
+},
+"b1-58": {
+  "goal": "Talk about expectations between parents and children, express anger and prohibitions, and use seit as a conjunction (Seit du dich mit ihm triffst, …).",
+  "words": [
+    ["die Erwartung, -en", "expectation"],
+    ["die Perspektive, -n", "prospect"],
+    ["der Umgang", "company, associates"],
+    ["die Schande", "disgrace"],
+    ["belügen / anlügen", "to lie to"],
+    ["verbieten – verbot – verboten", "to forbid"],
+    ["zu deinem eigenen Wohl", "for your own good"],
+    ["sorgen für + Akk.", "to take care of"],
+    ["den Kontakt abbrechen", "to break off contact"],
+    ["zufällig", "by chance"],
+    ["Es geht Sie nichts an.", "It’s none of your business."],
+    ["das Leben wegwerfen", "to throw one’s life away"]
+  ],
+  "grammar": {
+    "title": "seit as conjunction (subordinate clause)",
+    "text": "**seit** can be a **preposition** (seit + Dativ: seit einem Jahr) or a **conjunction** (since): the verb goes to the **end**:\n\n- **Seit** du dich mit ihm **triffst**, **tust** du das. (Since you’ve been seeing him, you do that.)\n- **Seit** wir in Deutschland **leben**, sprechen wir mehr Deutsch.\n- **Seit wann** seht ihr euch schon? (question)\n\nThe **tense** of both clauses is usually **present** when the situation continues: **Seit** er hier **wohnt**, **ist** er glücklich.\n\nCompare: **als** (single past event): **Als** wir in Syrien **lebten**, hast du nie gelogen.\n\nExpressing authority/prohibition: **Ich verbiete dir, ihn zu sehen.** (verbieten + Dativ + zu-Infinitiv) – **Das kann ich dir nicht erlauben.**",
+    "ex": [
+      ["Als wir in Syrien lebten, hast du nie gelogen. Seit du dich mit ihm triffst, tust du das.", "When we lived in Syria you never lied. Since you’ve been meeting him you do."],
+      ["Seit wann seht ihr euch schon?", "Since when have you been seeing each other?"],
+      ["Deshalb verbiete ich dir, ihn zu sehen. Zu deinem eigenen Wohl!", "That’s why I forbid you to see him. For your own good!"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was wirft Ibrahim Selma vor?","o":["Dass sie ihre Familie belügt","Dass sie zu spät kommt","Dass sie arbeitet"],"a":0,"why":"“Du belügst deine Familie immer noch.”","src":"video"},
+    {"t":"mc","q":"Was sagt Ibrahim über die Zeit in Syrien?","o":["Damals hat Selma nie gelogen","Damals war alles schlechter","Damals war Selma kleiner"],"a":0,"why":"“Als wir in Syrien lebten, hast du nie gelogen.”","src":"video"},
+    {"t":"mc","q":"Welche Erwartungen hat Ibrahim an Nico?","o":["Er fragt nach seinen Perspektiven und ob er für Selma sorgen kann","Er will Geld","Er lädt ihn ein"],"a":0,"why":"“Was sind deine Perspektiven? … Wie willst du für meine Tochter sorgen?”","src":"video"},
+    {"t":"mc","q":"Was verbietet Ibrahim Selma?","o":["Nico zu sehen","Zu arbeiten","Auszuziehen"],"a":0,"why":"“Deshalb verbiete ich dir, ihn zu sehen.”","src":"video"},
+    {"t":"fill","q":"___ du dich mit ihm triffst, lügst du. (since)","a":["Seit"],"why":"seit + Nebensatz.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Seit ich hier wohne, bin ich glücklicher.","Seit ich wohne hier, bin ich glücklicher.","Seit wohne ich hier, bin ich glücklicher."],"a":0,"why":"Verb am Ende.","src":"grammar"},
+    {"t":"mc","q":"“der Umgang” bedeutet hier:","o":["company, the people you spend time with","a walk around","dealing with paperwork"],"a":0,"why":"Er ist kein Umgang für dich.","src":"vocab"},
+    {"t":"mc","q":"“zu deinem eigenen Wohl” bedeutet:","o":["for your own good","to your own well","in your own house"],"a":0,"why":"das Wohl = welfare.","src":"vocab"}
+  ]
+},
+"b1-59": {
+  "goal": "Talk about your career path and life story in the correct order with bevor, and understand a moment of mistaken identity.",
+  "words": [
+    ["der Lebensweg, -e / die Biografie", "life path / biography"],
+    ["die Gastronomie", "catering industry"],
+    ["der Koch / der Spüljunge", "cook / dishwasher"],
+    ["der Elektriker / der Bankkaufmann", "electrician / bank clerk"],
+    ["ein Restaurant aufmachen", "to open a restaurant"],
+    ["sich lohnen", "to be worth it"],
+    ["Das waren Zeiten.", "Those were the days."],
+    ["die Verwechslung, -en", "mix-up, case of mistaken identity"],
+    ["seit Ewigkeiten", "for ages"],
+    ["erklären", "to explain"],
+    ["Wem sagen Sie das!", "Tell me about it!"],
+    ["Lass es mich erklären!", "Let me explain!"]
+  ],
+  "grammar": {
+    "title": "Subordinate clauses with bevor",
+    "text": "**bevor** (before) introduces an action that happens **later** than the main clause; the verb goes to the **end**:\n\n- **Bevor** ich ein Restaurant **hatte**, habe ich lange als Koch gearbeitet.\n- **Bevor** wir das Restaurant **aufgemacht haben**, hatte ich als Elektriker **gearbeitet**.\n- **Bevor** ich den Job als Koch **hatte**, war ich Spüljunge.\n\nTense: use the **same tense** or a **Plusquamperfekt** in the main clause when it happened earlier: Wir **hatten** in einer Firma **gearbeitet**, **bevor** wir das Restaurant **eröffneten**.\n\n**seit-clause:** **Seit** er die Sanitäter gerufen hat, habe ich ihn nicht mehr gesehen. (Perfekt in both parts)",
+    "ex": [
+      ["Bevor wir das Restaurant aufgemacht haben, hatte ich in einer Firma als Elektriker gearbeitet.", "Before we opened the restaurant I had worked as an electrician in a company."],
+      ["Bevor ich den Job als Koch hatte, war ich Spüljunge in der Küche.", "Before I had the job as a cook I was a dishwasher in the kitchen."],
+      ["Seit er gestern die Sanitäter gerufen hat, hab ich ihn nicht mehr gesehen.", "Since he called the paramedics yesterday I haven’t seen him."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was war Tarek, bevor er das Restaurant aufmachte?","o":["Elektriker","Bankkaufmann","Koch"],"a":0,"why":"“… hatte ich in einer Firma als Elektriker gearbeitet.”","src":"video"},
+    {"t":"mc","q":"Was war Max?","o":["Bankkaufmann","Koch","Kellner"],"a":0,"why":"“Und ich war Bankkaufmann.”","src":"video"},
+    {"t":"mc","q":"Was möchte Jacques schreiben?","o":["Ein Buch über seine Erfahrungen","Ein Rezept","Einen Brief"],"a":0,"why":"“Ich könnte ’n Buch drüber schreiben.”","src":"video"},
+    {"t":"mc","q":"Was passiert, als Yara ins Restaurant kommt?","o":["Sie erkennt Jacques als Otto aus Duisburg","Sie erkennt Max nicht","Sie sucht Selma"],"a":0,"why":"“Das ist Otto aus Duisburg. Ich kenne ihn schon seit Jahren.”","src":"video"},
+    {"t":"fill","q":"___ ich ein Restaurant hatte, habe ich als Koch gearbeitet. (before)","a":["Bevor"],"why":"bevor + Nebensatz.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Bevor ich ins Büro fahre, frühstücke ich.","Bevor ich fahre ins Büro, frühstücke ich.","Bevor fahre ich ins Büro, frühstücke ich."],"a":0,"why":"Verb am Ende.","src":"grammar"},
+    {"t":"fill","q":"Wir ___ vorher als Elektriker gearbeitet. (haben, Plusquamperfekt)","a":["hatten"],"why":"wir hatten gearbeitet.","src":"grammar"},
+    {"t":"mc","q":"“die Verwechslung” bedeutet:","o":["mix-up, mistaken identity","exchange rate","fine print"],"a":0,"why":"verwechseln = to confuse.","src":"vocab"}
+  ]
+},
+"b1-60": {
+  "goal": "Talk about lies, trust and second chances: apologise, forgive or refuse, and use anfangen / aufhören with zu-infinitive.",
+  "words": [
+    ["die Lüge, -n / lügen – log – gelogen", "lie / to lie"],
+    ["die Wahrheit / wahr", "truth / true"],
+    ["verzeihen", "to forgive"],
+    ["vertrauen + Dat.", "to trust"],
+    ["enttäuschen", "to disappoint"],
+    ["der Neuanfang", "fresh start"],
+    ["das Gefühlschaos", "emotional chaos"],
+    ["schuld sein an + Dat.", "to be to blame for"],
+    ["Herz und Verstand", "heart and mind"],
+    ["kein einziges Wort", "not a single word"],
+    ["nie mehr wiedersehen", "never see again"],
+    ["Lüg mich nicht an!", "Don’t lie to me!"]
+  ],
+  "grammar": {
+    "title": "Confessing and refusing; anfangen / aufhören + zu",
+    "text": "**Confession and apology:** Ich habe gelogen. – Ich bin schuld. – Es tut mir leid. – Lass es mich erklären! – Ich will einen **Neuanfang**.\n**Refusal:** Ich glaube dir kein einziges Wort mehr. – Ich will dich nie mehr wiedersehen. – Ich brauche das Geld nicht.\n\n**anfangen / aufhören + zu + Infinitiv:** **Fang bloß nicht an, von Herz und Verstand zu sprechen!** – Hör auf **zu lügen**! – Er **fängt an, zu erklären**.\n\n**Imperative negative:** **Lüg mich nicht an!** **Sag nicht, dass sie recht hat!**\n\n**Cases with lügen/anlügen:** jemanden **anlügen** / **belügen** (Akk.), jemandem **vertrauen** / **verzeihen** (Dat.).",
+    "ex": [
+      ["Ich habe gelogen. Ich bin nicht Jacques und ich komme auch nicht aus Frankreich.", "I lied. I’m not Jacques and I don’t come from France either."],
+      ["Fang bloß nicht an, von Herz und Verstand zu sprechen!", "Don’t you dare start talking about heart and mind!"],
+      ["Ich glaube dir kein einziges Wort mehr.", "I don’t believe a single word you say any more."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was gesteht Jacques Inge?","o":["Dass er nicht Jacques ist, kein Restaurant hat und nicht aus Frankreich kommt","Dass er verheiratet ist","Dass er krank ist"],"a":0,"why":"“Ich bin nicht Jacques, ich habe keine Restaurants … nicht aus Frankreich.”","src":"video"},
+    {"t":"mc","q":"Wie reagiert Inge auf das Geld?","o":["Sie will nichts zurück – das Geld ist ihr egal","Sie verlangt alles zurück","Sie verklagt ihn"],"a":0,"why":"“Ich will nichts zurück, Jacques! … Mir ist das Geld egal!”","src":"video"},
+    {"t":"mc","q":"Was will Jacques?","o":["Einen Neuanfang mit Inge","Weiter lügen","Geld"],"a":0,"why":"“Ich will einen Neuanfang mit dir.”","src":"video"},
+    {"t":"mc","q":"Wie reagiert Inge am Ende?","o":["Sie glaubt ihm kein Wort und will ihn nie wiedersehen","Sie verzeiht sofort","Sie ruft die Polizei"],"a":0,"why":"“Ich glaube dir kein einziges Wort mehr. Ich will dich nie mehr wiedersehen.”","src":"video"},
+    {"t":"fill","q":"Hör auf, mich anzu___! (lügen → anlügen)","a":["lügen","luegen"],"why":"anzulügen; zu zwischen Präfix und Verb.","src":"grammar"},
+    {"t":"fill","q":"Fang nicht an, ___ streiten. (zu)","a":["zu"],"why":"anfangen + zu.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Ich glaube dir kein Wort mehr.","Ich glaube dich kein Wort mehr.","Ich glaube dir nicht Wort mehr."],"a":0,"why":"glauben + Dativ (Person).","src":"grammar"},
+    {"t":"mc","q":"“verzeihen” bedeutet:","o":["to forgive","to pardon a tax","to pay a fine"],"a":0,"why":"Kannst du mir verzeihen?","src":"vocab"}
+  ]
+}
+}

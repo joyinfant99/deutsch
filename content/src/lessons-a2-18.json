@@ -1,0 +1,146 @@
+{
+"a2-73": {
+  "goal": "Present and discuss a business idea (a bike delivery service), and describe people, things and companies with relative clauses.",
+  "words": [
+    ["der Lieferservice", "delivery service"],
+    ["liefern", "to deliver"],
+    ["umweltfreundlich", "environmentally friendly"],
+    ["der Geschäftspartner / die Geschäftspartnerin", "business partner (m/f)"],
+    ["der Gewinn / das Risiko", "profit / risk"],
+    ["beteiligt sein an + Dat.", "to have a share in"],
+    ["der Investor, -en", "investor"],
+    ["der Kredit, -e", "loan"],
+    ["profitabel / riskant", "profitable / risky"],
+    ["der Flyer / die App", "flyer / app"],
+    ["mieten / vermieten", "to rent / to rent out"],
+    ["Was habt ihr vor?", "What are you planning?"]
+  ],
+  "grammar": {
+    "title": "Relative clauses (review): subject, object, preposition",
+    "text": "Combine information about people and things:\n\n- **Subject**: Ich habe jemanden gefunden, **der** mich unterstützt. Ich kenne einen Investor, **der** Interesse hat.\n- **Object**: Die Idee, **die** wir haben, ist gut. Das Fahrrad, **das** ich verleihe, ist neu.\n- **With a preposition**: Der Investor, **von dem** Pepe erzählt, … Das Projekt, **an dem** du beteiligt bist, …\n- **Plural / generic**: Das sind Leute, **die** Ideen haben. Alles, **was** ich brauche …\n\nThe verb of the relative clause is **last**.",
+    "ex": [
+      ["Ich hab jemanden gefunden, der mich unterstützt.", "I’ve found someone who supports me."],
+      ["Ich kenne einen Investor, der Interesse hat.", "I know an investor who is interested."],
+      ["Du steigst als Geschäftspartnerin ein und wirst am Gewinn beteiligt.", "You join as a business partner and share in the profits."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What is the business idea?","o":["A delivery service for the restaurant, by bicycle","A bike repair shop","A cooking school"],"a":0,"why":"“… einen Lieferservice anschließen … mit dem Fahrrad liefern.”","src":"video"},
+    {"t":"mc","q":"Why bicycles?","o":["It is environmentally friendly and saves petrol costs","It is faster than a car","Yara insisted"],"a":0,"why":"“umweltfreundlich und spart auch Benzinkosten.”","src":"video"},
+    {"t":"mc","q":"What role does Pepe offer Yara?","o":["Business partner sharing profit and risk – or just renting bikes to them","Employee","Manager"],"a":0,"why":"“… als Geschäftspartnerin … Gewinn beteiligt … Risiko geteilt … oder nur mieten.”","src":"video"},
+    {"t":"mc","q":"Why does Yara not want a loan?","o":["She can’t take one out now – Pepe knows an investor instead","Loans are forbidden","She has too much money"],"a":0,"why":"“Ich kann jetzt keinen Kredit aufnehmen.” – “Ich kenne einen Investor.”","src":"video"},
+    {"t":"fill","q":"Ich kenne einen Investor, ___ Interesse hat. (relative pronoun)","a":["der"],"why":"masc. nominative: der.","src":"grammar"},
+    {"t":"fill","q":"Das ist die Idee, ___ wir haben. (relative pronoun, feminine object)","a":["die"],"why":"feminine: die.","src":"grammar"},
+    {"t":"mc","q":"“das Risiko” is:","o":["risk","rice","rule"],"a":0,"why":"das Risiko wird geteilt.","src":"vocab"},
+    {"t":"mc","q":"“umweltfreundlich” means:","o":["environmentally friendly","expensive","fast"],"a":0,"why":"die Umwelt = environment.","src":"vocab"}
+  ]
+},
+"a2-74": {
+  "goal": "Describe how a process or service works, using the passive voice in the present (werden + Partizip II).",
+  "words": [
+    ["die Bestellung / bestellen", "order / to order"],
+    ["ausliefern", "to deliver out"],
+    ["die Zutaten (pl.)", "ingredients"],
+    ["die fertige Mahlzeit", "ready meal"],
+    ["vegan / vegetarisch", "vegan / vegetarian"],
+    ["die Laktoseintoleranz", "lactose intolerance"],
+    ["das Konzept, -e", "concept"],
+    ["einsteigen", "to join in, to get in"],
+    ["annehmen", "to accept"],
+    ["achten auf + Akk.", "to pay attention to"],
+    ["Im Prinzip ist das richtig.", "In principle that’s right."],
+    ["Kurz gesagt …", "In short …"]
+  ],
+  "grammar": {
+    "title": "The passive voice (Präsens)",
+    "text": "The passive focuses on the **action**, not on who does it. Form: **werden** (conjugated) + **Partizip II** at the end:\n\n- Die Gerichte **werden** über die App **bestellt**. (Someone orders them via the app.)\n- Dann **wird** es mit Yaras Fahrrädern **ausgeliefert**.\n- In der App **wird** gezeigt, welche Gerichte es für Vegetarier gibt.\n- Darauf **wird** geachtet. (impersonal: no subject)\n\nWho does it? **von + Dativ**: Die Gerichte werden **von den Kunden** bestellt. Without agent is common. Compare active: Die Kunden bestellen die Gerichte.",
+    "ex": [
+      ["Die Gerichte werden von den Kunden über die App bestellt.", "The dishes are ordered by the customers via the app."],
+      ["Dann wird es mit Yaras Fahrrädern ausgeliefert.", "Then it’s delivered with Yara’s bikes."],
+      ["Darauf wird dann auch geachtet.", "That will be taken care of too."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What do customers order through?","o":["The app","The phone only","A flyer"],"a":0,"why":"“… über die App bestellt.”","src":"video"},
+    {"t":"mc","q":"What is special about the offer?","o":["People can choose a ready meal or only the ingredients","There are no vegetarian dishes","Only fish is offered"],"a":0,"why":"“… fertige Mahlzeit … oder nur die Zutaten.”","src":"video"},
+    {"t":"mc","q":"What does the app show?","o":["Which dishes are vegetarian, vegan or lactose-free","Only prices","The weather"],"a":0,"why":"“… welche Gerichte es für Vegetarier oder Veganer … gibt.”","src":"video"},
+    {"t":"mc","q":"What does Tarek question?","o":["Why they need an investor","Whether the bikes are new","Whether the app is legal"],"a":0,"why":"“Wozu brauchen wir einen Investor?”","src":"video"},
+    {"t":"fill","q":"Die Gerichte ___ über die App bestellt. (werden)","a":["werden"],"why":"plural: werden + Partizip II.","src":"grammar"},
+    {"t":"fill","q":"Das Essen wird ___. (ausliefern – Partizip II)","a":["ausgeliefert"],"why":"aus + ge + liefert.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is passive?","o":["Das Essen wird geliefert.","Das Essen liefert der Bote.","Das Essen ist lecker."],"a":0,"why":"werden + Partizip II.","src":"grammar"},
+    {"t":"mc","q":"“die Zutaten” are:","o":["ingredients","guests","tools"],"a":0,"why":"Zutaten kaufen.","src":"vocab"}
+  ]
+},
+"a2-75": {
+  "goal": "Explain a purpose with um … zu and damit, and make and discuss suggestions about technology at home (Saugroboter).",
+  "words": [
+    ["der Saugroboter, -", "robot vacuum cleaner"],
+    ["der Wischroboter, -", "robot mop"],
+    ["die Druckerei, -en", "print shop"],
+    ["das Angebot / ein Angebot machen lassen", "offer / to get a quote"],
+    ["investieren", "to invest"],
+    ["die Stimmung", "mood, atmosphere"],
+    ["sich versöhnen", "to make up"],
+    ["offensichtlich", "obviously"],
+    ["den Preis teilen", "to split the price"],
+    ["Es reicht!", "That’s enough!"],
+    ["offen sein für", "to be open to"],
+    ["Ich schlage vor, …", "I suggest …"]
+  ],
+  "grammar": {
+    "title": "Final clauses: um … zu and damit",
+    "text": "Purpose (**wozu? – damit?**):\n\n- **um … zu + Infinitiv** – the **same subject** in both parts: Ich gehe in die Druckerei, **um** mir ein Angebot machen **zu** lassen. Wir kaufen einen Saugroboter, **um** uns die Arbeit **zu** sparen.\n- **damit + Nebensatz** – **different subject** (or a passive/possibility): Wir sollten investieren, **damit** die Stimmung wieder besser **wird**.\n\nWith separable verbs: **um … aufzuräumen**, **um … einzukaufen**. No **um … zu** if the subjects differ: Ich putze, **damit** ihr Zeit habt.",
+    "ex": [
+      ["Ich geh morgen in die Druckerei, um mir ’n Angebot machen zu lassen.", "Tomorrow I’ll go to the print shop to get a quote."],
+      ["Wir sollten uns einen Saugroboter kaufen, um uns die Arbeit zu sparen.", "We should buy a robot vacuum to save us the work."],
+      ["Ich finde, wir sollten investieren, damit die Stimmung wieder besser wird.", "I think we should invest so that the mood improves again."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Sebastian propose?","o":["To buy a robot vacuum cleaner","To hire a cleaner","To move out"],"a":0,"why":"“… wir sollten uns einen Saugroboter kaufen …”","src":"video"},
+    {"t":"mc","q":"How would they pay for it?","o":["Split the price four ways","Sebastian pays","Borrow from Yara"],"a":0,"why":"“… wir können den Preis durch vier teilen.”","src":"video"},
+    {"t":"mc","q":"Why does Sebastian want to invest?","o":["So that the mood improves","So that they need to clean less often","To impress Nico"],"a":0,"why":"“… damit die Stimmung wieder besser wird.”","src":"video"},
+    {"t":"mc","q":"What is Lisa’s reaction?","o":["“A totally silly idea” – she proposes she cleans the bathroom and he the kitchen","She loves it","She says nothing"],"a":0,"why":"“… eine total blöde Idee … dass ich jetzt das Bad putze und du die Küche.”","src":"video"},
+    {"t":"fill","q":"Ich gehe zur Bank, ___ Geld abzuheben. (in order)","a":["um"],"why":"same subject: um … zu.","src":"grammar"},
+    {"t":"fill","q":"Wir putzen, ___ ihr Zeit habt. (so that – different subject)","a":["damit"],"why":"different subjects: damit.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Ich lerne Deutsch, um in Deutschland zu arbeiten.","Ich lerne Deutsch, damit in Deutschland zu arbeiten.","Ich lerne Deutsch, um ich in Deutschland arbeite."],"a":0,"why":"same subject: um … zu.","src":"grammar"},
+    {"t":"mc","q":"“sich versöhnen” means:","o":["to make up (after a quarrel)","to fight","to apologise"],"a":0,"why":"Habt ihr euch versöhnt?","src":"vocab"}
+  ]
+},
+"a2-76": {
+  "goal": "Present a product or plan to an investor: explain how it works, why it is good, and use the passive in the past (wurde geplant).",
+  "words": [
+    ["die Videokonferenz, -en", "video conference"],
+    ["das System, -e", "system"],
+    ["effizient / stabil", "efficient / stable"],
+    ["die Arbeitskraft, -kräfte", "worker"],
+    ["vergrößern", "to enlarge"],
+    ["eventuell", "possibly"],
+    ["zustimmen + Dat.", "to agree"],
+    ["nachdenken über + Akk.", "to think about"],
+    ["sich melden", "to get in touch"],
+    ["Ich trau dem Ganzen nicht.", "I don’t trust the whole thing."],
+    ["Wir können uns nicht mehr sehen.", "We can’t see each other any more."],
+    ["Ich muss es dir persönlich sagen.", "I have to tell you in person."]
+  ],
+  "grammar": {
+    "title": "The passive in the past (Präteritum) and presenting a plan",
+    "text": "**Passive Präteritum**: **wurde / wurden** + Partizip II:\n\n- Das System **wurde** sehr genau **durchgeplant**.\n- Die Bestellungen **wurden** schnell **bearbeitet**.\n- Das Projekt **wurde** von Pepes Firma **entwickelt**.\n\nPhrases for a presentation: **Ich möchte Ihnen unser Konzept vorstellen.** – **Dafür brauchen wir …** – **Der Vorteil ist, dass …** – **Sonst bestellt niemand zweimal.** – **Haben Sie noch Fragen?**\n\nReaction of an investor: **Ich stimme zu.** – **Ich denke darüber nach.** – **Ich melde mich in den nächsten Tagen.**",
+    "ex": [
+      ["Das System wurde sehr genau durchgeplant.", "The system was planned very carefully."],
+      ["Dafür brauchen wir eine stabile App und zusätzliche Arbeitskräfte.", "For that we need a stable app and additional staff."],
+      ["Ich denke darüber nach. Ich melde mich in den nächsten Tagen wieder.", "I’ll think about it. I’ll get back to you in the next few days."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Pepe say the delivery service needs?","o":["A stable app and additional staff","A bigger car","A new logo"],"a":0,"why":"“… eine stabile App und zusätzliche Arbeitskräfte.”","src":"video"},
+    {"t":"mc","q":"Why must the delivery service work perfectly from the start?","o":["Otherwise nobody orders twice","Because of the investor","Because of the law"],"a":0,"why":"“Sonst bestellt niemand zweimal.”","src":"video"},
+    {"t":"mc","q":"What does the investor answer?","o":["He will think about it and get back to them","He says yes immediately","He says no"],"a":0,"why":"“Ich denke darüber nach. Ich melde mich in den nächsten Tagen wieder.”","src":"video"},
+    {"t":"mc","q":"What does Tarek say afterwards?","o":["He doesn’t trust the whole thing","He is thrilled","He wants to leave"],"a":0,"why":"“Ich trau dem Ganzen nicht.”","src":"video"},
+    {"t":"mc","q":"What bad news does Selma bring Nico?","o":["They can’t see each other any more","She is moving away","She lost the bike"],"a":0,"why":"“Wir können uns nicht mehr sehen, Nico.”","src":"video"},
+    {"t":"fill","q":"Das System ___ sehr genau geplant. (passive Präteritum, singular)","a":["wurde"],"why":"wurde + Partizip II.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is a passive in the past?","o":["Die App wurde entwickelt.","Die App wird entwickelt.","Die App hat entwickelt."],"a":0,"why":"wurde + Partizip II.","src":"grammar"},
+    {"t":"mc","q":"“Ich denke darüber nach.” means:","o":["I’ll think about it.","I remember it.","I doubt it."],"a":0,"why":"nachdenken über.","src":"vocab"}
+  ]
+}
+}

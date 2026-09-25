@@ -1,0 +1,146 @@
+{
+"a2-57": {
+  "goal": "Talk about holidays and celebrations, and ask questions with question words in different cases (Wer, Wen, Wem, Mit wem …?).",
+  "words": [
+    ["das Fest, -e / der Feiertag, -e", "celebration / public holiday"],
+    ["feiern", "to celebrate"],
+    ["Halloween / der Valentinstag", "Halloween / Valentine’s Day"],
+    ["der Kürbis, -se", "pumpkin"],
+    ["die Kürbissuppe / der Kürbiskuchen", "pumpkin soup / pumpkin cake"],
+    ["häufiger", "more often"],
+    ["besorgen", "to get, to organise"],
+    ["Wir kriegen das schon hin.", "We’ll manage it."],
+    ["Mit wem willst du feiern?", "With whom do you want to celebrate?"],
+    ["Mal sehen.", "We’ll see."],
+    ["Geh deinen Weg.", "Go your own way."],
+    ["Was ist dein Ziel?", "What is your goal?"]
+  ],
+  "grammar": {
+    "title": "Question words and case",
+    "text": "The question words **wer / wen / wem / wessen** change with the case:\n\n| Nominativ | Akkusativ | Dativ | Genitiv |\n|---|---|---|---|\n| **wer** | **wen** | **wem** | **wessen** |\n\n- **Wer** feiert? (subject) – **Wen** lädst du ein? (object) – **Mit wem** willst du Valentinstag feiern? (mit + Dativ) – **Wessen** Fest ist das?\n\nWith prepositions: **für wen, an wen, auf wen** (Akk.), **mit wem, von wem, zu wem** (Dat.). For things: **worauf, womit, wofür** (wo(r)- + preposition): Wofür interessierst du dich? – Für Musik.",
+    "ex": [
+      ["Mit wem willst du denn Valentinstag feiern?", "With whom do you want to celebrate Valentine’s Day?"],
+      ["Wo habt ihr denn dieses Jahr Halloween gefeiert?", "Where did you celebrate Halloween this year?"],
+      ["Wir wollen jetzt häufiger so kleine Partys feiern.", "We want to hold small parties like this more often now."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What song do Nico and Lisa sing?","o":["“Geh deinen Weg”","“Happy Birthday”","“Stille Nacht”"],"a":0,"why":"The chorus: “Geh deinen Weg. Sag mir, woher du kommst und wohin du gehst.”","src":"video"},
+    {"t":"mc","q":"What do Tarek and Max plan?","o":["More small parties like Halloween, St. Patrick’s Day, Valentine’s Day","To sell the restaurant","To move abroad"],"a":0,"why":"“Wir wollen jetzt häufiger so kleine Partys feiern.”","src":"video"},
+    {"t":"mc","q":"What does Nina remember about autumn?","o":["Lots of dishes made of pumpkin","Long walks","A holiday in Spain"],"a":0,"why":"Kürbissuppe, Kürbiskuchen, Kürbisbrot …","src":"video"},
+    {"t":"mc","q":"Did Nina and Sebastian celebrate Halloween this year?","o":["No, not at all","Yes, at home","Yes, in the restaurant"],"a":0,"why":"“Wir haben dieses Jahr überhaupt kein Halloween gefeiert.”","src":"video"},
+    {"t":"fill","q":"___ willst du Valentinstag feiern? (with whom)","a":["Mit wem"],"why":"mit + Dativ: wem.","src":"grammar"},
+    {"t":"fill","q":"___ lädst du zur Party ein? (whom, accusative)","a":["Wen"],"why":"accusative: wen.","src":"grammar"},
+    {"t":"mc","q":"“Wir kriegen das schon hin.” means:","o":["We’ll manage it.","We will give it back.","We won’t do it."],"a":0,"why":"hinkriegen = to manage.","src":"vocab"},
+    {"t":"mc","q":"“der Kürbis” is a:","o":["pumpkin","cabbage","carrot"],"a":0,"why":"Kürbissuppe.","src":"vocab"}
+  ]
+},
+"a2-58": {
+  "goal": "Chat about festivals (Karneval, Weinfest, Oktoberfest) and use verbs with prepositions (teilnehmen an, einladen zu, gratulieren zu, anstoßen auf).",
+  "words": [
+    ["das Volksfest, -e", "folk festival"],
+    ["der Karneval / das Kostüm", "carnival / costume"],
+    ["das Weinfest / das Oktoberfest", "wine festival / Oktoberfest"],
+    ["die Lederhose / das Dirndl", "lederhosen / dirndl"],
+    ["die Region", "region"],
+    ["anbieten", "to offer"],
+    ["einladen zu + Dat.", "to invite to"],
+    ["teilnehmen an + Dat.", "to take part in"],
+    ["gratulieren zu + Dat.", "to congratulate on"],
+    ["anstoßen auf + Akk.", "to toast to"],
+    ["Zum Wohl!", "Cheers!"],
+    ["Wie wär’s mit …?", "How about …?"]
+  ],
+  "grammar": {
+    "title": "Verbs with prepositions (celebrations)",
+    "text": "Learn these verb + preposition combinations with the case:\n\n- **einladen zu** + Dat.: Ich lade dich **zu** meinem Geburtstag ein.\n- **teilnehmen an** + Dat.: Wir nehmen **an** dem Fest teil.\n- **gratulieren zu** + Dat.: Ich gratuliere dir **zum** Geburtstag. (zu + dem = zum)\n- **anstoßen auf** + Akk.: Wir stoßen **auf** das Jubiläum an.\n- **sich freuen auf** + Akk. (future) / **über** + Akk. (present)\n- **sich bedanken für** + Akk.\n\nIdeas for a party: **Wie wär’s mit einem Oktoberfest?** (mit + Dativ)",
+    "ex": [
+      ["Wie wär’s mit einem Oktoberfest?", "How about an Oktoberfest?"],
+      ["Jeder, der in einem Kostüm kommt, bekommt ein Getränk umsonst.", "Everyone who comes in a costume gets a free drink."],
+      ["Zehn Jahre „Das Marek“. Zum Wohl!", "Ten years of ‘Das Marek’. Cheers!"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Where does St. Patrick’s Day come from, according to Max?","o":["Ireland","Germany","France"],"a":0,"why":"“St. Patrick’s Day feiert man in Irland.”","src":"video"},
+    {"t":"mc","q":"What drink offer is suggested for carnival?","o":["A free drink for everyone in a costume","Half-price beer","A free dinner"],"a":0,"why":"“Jeder, der in einem Kostüm kommt, bekommt ein Getränk umsonst.”","src":"video"},
+    {"t":"mc","q":"What could they do in spring?","o":["A wine festival with young regional wines","A ski week","A beach party"],"a":0,"why":"“Oder ein Weinfest … im Frühjahr.”","src":"video"},
+    {"t":"mc","q":"Why is Nina not allowed to drink?","o":["She is pregnant","She is driving","She is too young"],"a":0,"why":"“Du bist schwanger! Du darfst nichts trinken!”","src":"video"},
+    {"t":"fill","q":"Ich gratuliere dir ___ Geburtstag. (zu + dem)","a":["zum"],"why":"gratulieren zu + Dat.","src":"grammar"},
+    {"t":"fill","q":"Wir stoßen ___ das Jubiläum an. (auf)","a":["auf"],"why":"anstoßen auf + Akk.","src":"grammar"},
+    {"t":"mc","q":"Which is correct?","o":["Ich lade dich zu meiner Party ein.","Ich lade dich auf meine Party ein.","Ich lade dich für meiner Party ein."],"a":0,"why":"einladen zu + Dat.","src":"grammar"},
+    {"t":"mc","q":"“Wie wär’s mit …?” is used to:","o":["make a suggestion","ask the time","end a conversation"],"a":0,"why":"How about …?","src":"vocab"}
+  ]
+},
+"a2-59": {
+  "goal": "Argue, apologise and state conditions with wenn-clauses (Wenn du so verantwortungslos bist …) and understand a heated conversation.",
+  "words": [
+    ["verantwortungslos", "irresponsible"],
+    ["sich raushalten (aus)", "to keep out (of)"],
+    ["Das geht dich nichts an.", "That’s none of your business."],
+    ["die Untersuchung, -en", "medical examination"],
+    ["begleiten", "to accompany"],
+    ["der Frauenarzt / die Frauenärztin", "gynaecologist"],
+    ["verlassen", "to leave (someone)"],
+    ["ein Kind kriegen", "to have a baby"],
+    ["aufpassen", "to be careful"],
+    ["Entschuldigung, das war scheiße!", "Sorry, that was out of order!"],
+    ["Was bedeutet …?", "What does … mean?"],
+    ["Herzlichen Glückwunsch!", "Congratulations!"]
+  ],
+  "grammar": {
+    "title": "Subordinate clauses with wenn",
+    "text": "**wenn** = if (condition) or whenever (repeated event). The verb goes to the **end**; with a **zu-infinitive** the pattern is: … wenn es darum **geht**, mich zu begleiten …\n\n- Ich halte mich nicht raus, **wenn** du so verantwortungslos **bist**. (if/when)\n- **Wenn** es darum **geht**, mich zu Untersuchungen zu begleiten, hältst du dich raus. (whenever; main clause after: verb first)\n- **Wenn** du Hilfe **brauchst**, **ruf** mich an.\n\nAsk: **Was passiert, wenn …?** – Answer: **Wenn** man nicht aufpasst, **wird** man schwanger.\n\nDo not confuse: **wenn** (conditional/repeated), **als** (single event in the past), **ob** (indirect yes/no question).",
+    "ex": [
+      ["Ich halte mich bestimmt nicht raus, wenn du so verantwortungslos bist.", "I certainly won’t keep out if you’re so irresponsible."],
+      ["Aber wenn es darum geht, mich zu begleiten, dann hältst du dich gerne raus.", "But when it comes to accompanying me, you like to keep out of it."],
+      ["Wenn du Hilfe brauchst, ruf mich an.", "If you need help, call me."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What is Nina angry about?","o":["Lisa interferes and is not there when she needs her","Lisa broke her phone","Sebastian lost her keys"],"a":0,"why":"“Halt dich einfach mal da raus! … Du hast gesagt, du hilfst mir.”","src":"video"},
+    {"t":"mc","q":"Why does Lisa say she has no time?","o":["She has a job","She is ill","She is on holiday"],"a":0,"why":"“Ich habe eine Arbeit. Ich habe keine Zeit.”","src":"video"},
+    {"t":"mc","q":"What shocking news does Nina reveal about Dario?","o":["He left her","He proposed","He moved in"],"a":0,"why":"“Dario hat mich verlassen!”","src":"video"},
+    {"t":"mc","q":"Who does not understand what is going on?","o":["Nico","Sebastian","Lisa"],"a":0,"why":"“Was bedeutet ‘schwanger’?”","src":"video"},
+    {"t":"fill","q":"Ruf mich an, ___ du Hilfe brauchst. (if)","a":["wenn"],"why":"wenn-clause.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Wenn du Zeit hast, komm vorbei.","Wenn du hast Zeit, komm vorbei.","Wenn Zeit hast du, komm vorbei."],"a":0,"why":"verb at the end.","src":"grammar"},
+    {"t":"mc","q":"“Das geht dich nichts an.” means:","o":["That’s none of your business.","That doesn’t work.","That is not for you to buy."],"a":0,"why":"angehen = to concern.","src":"vocab"},
+    {"t":"mc","q":"“verantwortungslos” means:","o":["irresponsible","careless with money","unlucky"],"a":0,"why":"die Verantwortung = responsibility.","src":"vocab"}
+  ]
+},
+"a2-60": {
+  "goal": "Remember old times and say goodbye after a party, using verbs that take a dative object and remembering with “sich erinnern an”.",
+  "words": [
+    ["die Feier, -n / die Party, -s", "party"],
+    ["sich erinnern an + Akk.", "to remember"],
+    ["Erinnerst du dich an …?", "Do you remember …?"],
+    ["vermissen", "to miss"],
+    ["die alten Zeiten", "the old days"],
+    ["mitmachen", "to go through, to join in"],
+    ["sich aufregen über + Akk.", "to get annoyed about"],
+    ["der Sonnenaufgang", "sunrise"],
+    ["brav", "well-behaved"],
+    ["klug – die Klügere", "clever – the cleverer one"],
+    ["Mach’s gut!", "Take care!"],
+    ["Blödsinn!", "Nonsense!"]
+  ],
+  "grammar": {
+    "title": "Verbs with a dative object (and remembering)",
+    "text": "Verbs that take a **dative person**: **gefallen, gehören, helfen, danken, glauben, passen, fehlen, zuhören, gratulieren**.\n- Die Feier **gefällt mir**. – Das Buch **gehört mir**. – Ich **danke dir**.\n\nDo not mix up with verbs that need a **preposition**: **sich erinnern an** + Akk.: Erinnerst du dich **an** die Partys? – **sich aufregen über** + Akk.: Die Nachbarn haben sich **über** die Musik aufgeregt.\n\nTelling about the past: **Wir sind nie vor Sonnenaufgang nach Hause gegangen.** (Perfekt with sein, gehen). **Das waren die tollsten Partys.** (superlative before a noun)",
+    "ex": [
+      ["Erinnerst du dich noch an die tollen Partys damals?", "Do you still remember the great parties back then?"],
+      ["Wir sind nie vor Sonnenaufgang nach Hause gegangen.", "We never went home before sunrise."],
+      ["Ich vermisse die alten Zeiten.", "I miss the old days."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How does Sarah describe the evening?","o":["The best evening for a long time","A disaster","Boring"],"a":0,"why":"“Das war der beste Abend seit langer Zeit.”","src":"video"},
+    {"t":"mc","q":"What did the friends do in the old days?","o":["Party at the Pudelclub and never go home before sunrise","Study all night","Travel by train"],"a":0,"why":"“Wir sind nie vor Sonnenaufgang nach Hause gegangen.”","src":"video"},
+    {"t":"mc","q":"How did Yara behave, according to herself?","o":["Always well-behaved","Always the loudest","Absent"],"a":0,"why":"“Ich war immer brav.”","src":"video"},
+    {"t":"mc","q":"What does Sarah say you need to be able to do to be happy?","o":["To miss something","To travel","To earn money"],"a":0,"why":"“Du kannst nur glücklich sein, wenn du etwas vermissen kannst.”","src":"video"},
+    {"t":"fill","q":"Erinnerst du dich ___ die Partys? (of)","a":["an"],"why":"sich erinnern an + Akk.","src":"grammar"},
+    {"t":"fill","q":"Die Feier gefällt ___. (me)","a":["mir"],"why":"gefallen + Dativ.","src":"grammar"},
+    {"t":"mc","q":"Which verb takes the dative?","o":["gratulieren","besuchen","kaufen"],"a":0,"why":"Ich gratuliere dir.","src":"grammar"},
+    {"t":"mc","q":"“Ich vermisse die alten Zeiten.” means:","o":["I miss the old days.","I lose the old days.","I forget the old days."],"a":0,"why":"vermissen = to miss.","src":"vocab"}
+  ]
+}
+}

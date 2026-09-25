@@ -1,0 +1,146 @@
+{
+"b1-49": {
+  "goal": "Talk about newspapers, sections (Rubriken) and adverts, and use relative clauses with prepositions (die Zeitung, in der …; jede Möglichkeit, mit der …).",
+  "words": [
+    ["die Zeitung, -en / der Artikel", "newspaper / article"],
+    ["die Rubrik, -en", "section"],
+    ["Politik / Wirtschaft / Sport / Kultur", "politics / economy / sport / culture"],
+    ["das Feuilleton", "arts section"],
+    ["der Lokalteil", "local news section"],
+    ["die Annonce / die Anzeige, -n", "advert"],
+    ["kostenlos drucken", "to print for free"],
+    ["platzieren", "to place"],
+    ["die Werbung", "advertising"],
+    ["ein Angebot annehmen", "to accept an offer"],
+    ["entwerfen", "to draft"],
+    ["sich verknallen in + Akk. (ugs.)", "to have a crush on"]
+  ],
+  "grammar": {
+    "title": "Relative clauses with prepositions",
+    "text": "The preposition stands in front of the relative pronoun; its case decides the pronoun:\n\n- Die Zeitung, **in der** der Artikel erscheinen wird, … (in + Dat. fem. → **der**)\n- Jede Möglichkeit, **mit der** du mehr Leute in den Laden kriegst, … (mit + Dat. fem. → **der**)\n- Rubriken sind Teile, **in denen** es um verschiedene Themen geht. (in + Dat. pl. → **denen**)\n- Das Angebot, **das** er dir gemacht hat, … (object, no preposition → **das**)\n\nSteps: 1) noun’s gender/number, 2) preposition + case, 3) verb at the end.",
+    "ex": [
+      ["Die Zeitung, in der der Artikel erscheinen wird, druckt kostenlos eine Annonce.", "The newspaper in which the article will appear will print an advert for free."],
+      ["Du solltest jede Möglichkeit nutzen, mit der du mehr Leute in den Laden kriegst.", "You should use every opportunity with which you get more people into the shop."],
+      ["Rubriken sind Teile in der Zeitung, in denen es um verschiedene Themen geht.", "Sections are parts of the newspaper in which different topics are covered."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was bietet die Zeitung Yara an?","o":["Eine kostenlose Annonce für den Laden","Ein Interview im Fernsehen","Einen Job"],"a":0,"why":"“… würden kostenlos ’ne Annonce für den Laden drucken.”","src":"video"},
+    {"t":"mc","q":"Was ist eine „Rubrik“?","o":["Ein Teil der Zeitung zu einem Thema","Ein Rätsel","Ein Foto"],"a":0,"why":"“Rubriken sind Teile in der Zeitung, in denen es um verschiedene Themen geht.”","src":"video"},
+    {"t":"mc","q":"In welcher Rubrik würde die Annonce wahrscheinlich erscheinen?","o":["Im Lokalteil","Im Sportteil","Im Feuilleton"],"a":0,"why":"“… im Lokalteil erscheinen.”","src":"video"},
+    {"t":"mc","q":"Was vermutet Yara über den Reporter?","o":["Er hat sich in sie verknallt","Er will Geld","Er ist ihr Cousin"],"a":0,"why":"“Ich glaube, der Reporter hat sich in mich verknallt.”","src":"video"},
+    {"t":"fill","q":"Die Zeitung, in ___ der Artikel erscheint. (feminine dative)","a":["der"],"why":"in + Dativ, fem.: der.","src":"grammar"},
+    {"t":"fill","q":"Rubriken, in ___ es um Politik geht. (plural dative)","a":["denen"],"why":"Dativ Plural: denen.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Das ist der Reporter, mit dem ich gesprochen habe.","Das ist der Reporter, mit den ich gesprochen habe.","Das ist der Reporter, mit der ich gesprochen habe."],"a":0,"why":"mit + Dativ, maskulin: dem.","src":"grammar"},
+    {"t":"mc","q":"“die Annonce” bedeutet:","o":["advert","announcement of death","annual fee"],"a":0,"why":"Annonce = Anzeige.","src":"vocab"}
+  ]
+},
+"b1-50": {
+  "goal": "Describe how a newspaper is produced step by step with the passive (zuerst wird … dann werden … zum Schluss wird …).",
+  "words": [
+    ["die Redaktion, -en / die Redaktionsleitung", "editorial office / editorial management"],
+    ["der Reporter / der Grafiker", "reporter / graphic designer"],
+    ["recherchieren", "to research"],
+    ["ein Interview machen", "to do an interview"],
+    ["lektorieren", "to proofread, to edit"],
+    ["zusammenfassen", "to combine, to summarise"],
+    ["in den Druck gehen", "to go to print"],
+    ["der Ablauf, Abläufe", "procedure"],
+    ["die Lokalredaktion", "local desk"],
+    ["Profis", "professionals"],
+    ["einen Gefallen tun", "to do a favour"],
+    ["etwas zu schätzen wissen", "to appreciate something"]
+  ],
+  "grammar": {
+    "title": "Passive for procedures: zuerst, dann, danach, zum Schluss",
+    "text": "Describe a process with the **passive** and sequence words. The subject of the passive is the thing that is done:\n\n- **Zuerst wird** eine Idee **vorgeschlagen** und **besprochen**.\n- **Dann werden** die Artikel **geschrieben**.\n- **Danach wird** **lektoriert**. (impersonal, no subject)\n- **Zum Schluss werden** alle Artikel **zusammengefasst**.\n- **Erst dann** geht das Ganze **in den Druck**.\n\nForm: werden (conjugated) + Partizip II (end). Singular subject → **wird**, plural → **werden**.",
+    "ex": [
+      ["Zuerst wird eine Idee für einen Artikel vorgeschlagen und dann mit der Redaktionsleitung besprochen.", "First an idea for an article is proposed and then discussed with the editorial management."],
+      ["Dann werden die Artikel geschrieben. Danach wird lektoriert.", "Then the articles are written. After that they are proofread."],
+      ["Ich weiß das wirklich sehr zu schätzen.", "I really appreciate that."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was passiert zuerst bei der Zeitung?","o":["Eine Idee für einen Artikel wird vorgeschlagen","Der Artikel wird gedruckt","Die Anzeige wird verkauft"],"a":0,"why":"“Zuerst wird eine Idee … vorgeschlagen.”","src":"video"},
+    {"t":"mc","q":"Was machen die Reporter danach?","o":["Sie recherchieren und machen Interviews","Sie gehen nach Hause","Sie layouten"],"a":0,"why":"“Erst dann beginnen die Reporter zu recherchieren und Interviews zu machen.”","src":"video"},
+    {"t":"mc","q":"Was machen die Grafiker?","o":["Sie fassen alle Artikel zusammen","Sie schreiben Artikel","Sie rufen Kunden an"],"a":0,"why":"“… von den Grafikern.”","src":"video"},
+    {"t":"mc","q":"Warum ist Yara am Ende unangenehm berührt?","o":["Der Reporter lädt sie zum Kaffee ein","Er verlangt Geld","Er kritisiert ihren Laden"],"a":0,"why":"“Wir können ja mal ’n Kaffee trinken gehen …”","src":"video"},
+    {"t":"fill","q":"Die Artikel ___ geschrieben. (werden, plural)","a":["werden"],"why":"werden + Partizip II.","src":"grammar"},
+    {"t":"fill","q":"Danach ___ lektoriert. (werden, singular/impersonal)","a":["wird"],"why":"es wird lektoriert.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz beschreibt einen Ablauf im Passiv?","o":["Zum Schluss werden die Seiten gedruckt.","Zum Schluss drucken die Seiten.","Zum Schluss haben die Seiten gedruckt."],"a":0,"why":"werden + Partizip II.","src":"grammar"},
+    {"t":"mc","q":"“lektorieren” bedeutet:","o":["to proofread / edit","to lecture","to select"],"a":0,"why":"Texte lektorieren.","src":"vocab"}
+  ]
+},
+"b1-51": {
+  "goal": "Compare print and digital media, argue with advantages and disadvantages, and open a short presentation politely.",
+  "words": [
+    ["analog / digital", "analogue / digital"],
+    ["die Titelseite, -n", "front page"],
+    ["der Journalismus", "journalism"],
+    ["die Leserzahlen (pl.)", "readership numbers"],
+    ["die App, -s / die Internetseite", "app / website"],
+    ["der Vorteil liegt auf der Hand", "the advantage is obvious"],
+    ["unpraktisch / modern", "impractical / modern"],
+    ["heutzutage", "nowadays"],
+    ["kein Wunder, dass …", "no wonder that …"],
+    ["die Aufmerksamkeit", "attention"],
+    ["sich schämen", "to be ashamed"],
+    ["präsentieren / vorstellen", "to present / to introduce"]
+  ],
+  "grammar": {
+    "title": "Comparing media and presenting a solution",
+    "text": "**Advantages / disadvantages:**\n- **Zeitungen sind** unpraktisch **und** nicht mehr modern. – Journalismus **ist** immer noch extrem wichtig.\n- **kein Wunder, dass** heutzutage niemand mehr Zeitung liest. (dass-clause)\n- **Ich lese am liebsten morgens.** (Präferenz)\n\n**Presentation opening (formal):** **Ich begrüße Sie ganz herzlich.** – **Mein Name ist …** – **Ich präsentiere Ihnen …** – **Wir entwickeln nicht nur …, sondern auch …** – **Die Vorteile liegen auf der Hand.** – **Ich bedanke mich für Ihre Aufmerksamkeit.**\n\n**Konjunktiv II Vergangenheit:** Du **hättest** es auf die Titelseite **gebracht**. (You would have made it to the front page.)",
+    "ex": [
+      ["Kein Wunder, dass heutzutage niemand mehr Zeitung liest.", "No wonder nobody reads the newspaper any more nowadays."],
+      ["Journalismus ist immer noch extrem wichtig.", "Journalism is still extremely important."],
+      ["Ich bedanke mich für Ihre Aufmerksamkeit.", "Thank you for your attention."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Wann liest Yara am liebsten Zeitung?","o":["Morgens mit einer Tasse Kaffee (oder abends)","Nachmittags im Café","Nur am Wochenende"],"a":0,"why":"“Ich lese am liebsten morgens. Dazu trinke ich dann eine Tasse Kaffee.”","src":"video"},
+    {"t":"mc","q":"Was meint Pepe zu Zeitungen?","o":["Sie sind unpraktisch und nicht mehr modern","Sie sind die Zukunft","Sie sind zu billig"],"a":0,"why":"“Zeitungen sind unpraktisch und einfach nicht mehr modern.”","src":"video"},
+    {"t":"mc","q":"Was hat Pepe gerade geübt?","o":["Eine Präsentation für eine digitale Lösung für Zeitungen","Eine Bewerbung","Ein Lied"],"a":0,"why":"“Ich präsentiere Ihnen eine vollständige digitale Lösung für Ihre Zeitung.”","src":"video"},
+    {"t":"mc","q":"Womit schließt Pepe seine Präsentation?","o":["Ich bedanke mich für Ihre Aufmerksamkeit.","Auf Wiedersehen!","Kaufen Sie jetzt!"],"a":0,"why":"formeller Schluss.","src":"video"},
+    {"t":"fill","q":"Kein Wunder, ___ niemand mehr Zeitung liest. (that)","a":["dass"],"why":"dass-Satz.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist eine höfliche Begrüßung in einer Präsentation?","o":["Ich begrüße Sie ganz herzlich.","Hallo, Leute!","Ruhe bitte!"],"a":0,"why":"formell.","src":"grammar"},
+    {"t":"mc","q":"“heutzutage” bedeutet:","o":["nowadays","today at noon","in a few days"],"a":0,"why":"heutzutage = these days.","src":"vocab"},
+    {"t":"mc","q":"“Die Vorteile liegen auf der Hand.” bedeutet:","o":["The advantages are obvious.","The advantages are in your hand.","The advantages are unknown."],"a":0,"why":"idiom.","src":"vocab"}
+  ]
+},
+"b1-52": {
+  "goal": "Understand and write personal ads (Kontaktanzeigen) using superlatives before nouns and relative clauses with prepositions.",
+  "words": [
+    ["die Kontaktanzeige, -n", "personal ad"],
+    ["einfühlsam / verständnisvoll", "empathetic / understanding"],
+    ["charmant / lustig / toll", "charming / funny / great"],
+    ["die Erfüllung", "fulfilment"],
+    ["warnen vor + Dat.", "to warn against"],
+    ["träumen von + Dat.", "to dream of"],
+    ["heimlich", "secretly"],
+    ["eine Anzeige schalten", "to place an ad"],
+    ["sich verlieben in + Akk.", "to fall in love with"],
+    ["der Gefallen, -", "favour"],
+    ["die Bitte, -n", "request"],
+    ["Ich habe mich total verliebt.", "I’ve completely fallen in love."]
+  ],
+  "grammar": {
+    "title": "Superlatives before nouns; relative clauses with prepositions",
+    "text": "**Superlative + noun** (adjective endings): **der einfühlsamste Mann** der Welt, **die tollste, lustigste Frau**, **das schönste Geschenk**; with a preposition: **mit dem einfühlsamsten Mann**.\n\n**Comparative before nouns:** **verständnisvoller, charmanter als alle anderen Männer.**\n\n**Relative clause with a preposition:**\n- Der Mann, **vor dem** Sie Ihre Kinder warnen, aber **von dem** Sie heimlich träumen. (vor + Dat. masc. → **dem**)\n- Die Frau, **in die** ich mich verliebt habe. (verlieben in + Akk. fem. → **die**)\n- Die Frau, **die** ich kennengelernt habe. (object → die)\n\nAd style: short, positive adjectives: **sportlich, humorvoll, ehrlich, romantisch**.",
+    "ex": [
+      ["Sie ist die tollste, lustigste Frau, die ich in meinem Leben kennengelernt habe.", "She is the greatest, funniest woman I’ve ever met."],
+      ["Der Mann, vor dem Sie Ihre Kinder warnen, aber von dem Sie ganz heimlich träumen.", "The man you warn your children about but secretly dream of."],
+      ["Ich möchte, dass du mir hilfst, sie nie mehr zu verlieren.", "I want you to help me never to lose her again."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was wollte der Reporter für Otto tun?","o":["Eine neue Kontaktanzeige schreiben","Ein Interview führen","Einen Kredit geben"],"a":0,"why":"“Wie soll ich dich in deiner nächsten Kontaktanzeige beschreiben?”","src":"video"},
+    {"t":"mc","q":"Was möchte Otto stattdessen?","o":["Keine Kontaktanzeige mehr – er hat sich verliebt","Ein neues Auto","Mehr Zeitungen kaufen"],"a":0,"why":"“Ich möchte keine Kontaktanzeige mehr … Ich habe mich total verliebt.”","src":"video"},
+    {"t":"mc","q":"Wie beschreibt Otto die Frau?","o":["Die tollste, lustigste Frau, die er kennengelernt hat","Eine reiche Frau","Eine alte Bekannte"],"a":0,"why":"“Sie ist die tollste, lustigste Frau …”","src":"video"},
+    {"t":"mc","q":"Wie lange kennen sich die beiden Männer?","o":["15 Jahre","5 Jahre","30 Jahre"],"a":0,"why":"“Wir kennen uns jetzt seit 15 Jahren.”","src":"video"},
+    {"t":"fill","q":"Sie ist die ___ Frau, die ich kenne. (toll, superlative + ending)","a":["tollste"],"why":"die tollste Frau.","src":"grammar"},
+    {"t":"fill","q":"Der Mann, ___ dem ich träume. (von + …)","a":["von"],"why":"träumen von + Dat.: von dem.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Das ist die Frau, in die ich mich verliebt habe.","Das ist die Frau, in der ich mich verliebt habe.","Das ist die Frau, in den ich mich verliebt habe."],"a":0,"why":"sich verlieben in + Akk.","src":"grammar"},
+    {"t":"mc","q":"“eine Anzeige schalten” bedeutet:","o":["to place an ad","to switch on a display","to shift a sign"],"a":0,"why":"in der Zeitung schalten.","src":"vocab"}
+  ]
+}
+}

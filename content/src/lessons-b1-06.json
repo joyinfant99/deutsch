@@ -1,0 +1,146 @@
+{
+"b1-25": {
+  "goal": "Talk about looking for a partner and about trust, and express concessions with trotzdem, dennoch, obwohl and auch wenn.",
+  "words": [
+    ["die Partnersuche", "partner search"],
+    ["das Profil ausfüllen", "to fill in a profile"],
+    ["das Partnerportal", "dating site"],
+    ["loyal / aktiv / sportlich", "loyal / active / sporty"],
+    ["die Überweisung bearbeiten", "to process a transfer"],
+    ["stornieren", "to cancel (a booking)"],
+    ["peinlich", "embarrassing"],
+    ["jemandem vertrauen", "to trust someone"],
+    ["Keine Diskussionen!", "No arguments!"],
+    ["Einverstanden!", "Agreed!"],
+    ["das Geld zurückgeben", "to give the money back"],
+    ["auf keinen Fall", "under no circumstances"]
+  ],
+  "grammar": {
+    "title": "Concessive connectors: trotzdem, dennoch, obwohl, auch wenn, zwar … aber",
+    "text": "Concessions express a contrast to what you would expect:\n\n- **trotzdem / dennoch** (adverbs, verb 2): Ich habe alle Formulare ausgefüllt. **Trotzdem schaffen** sie es nicht.\n- **obwohl / auch wenn** (subordinate clause, verb at the end): **Obwohl** ich alle Formulare **ausgefüllt habe**, klappt es nicht. – **Auch wenn** du Probleme **hast**, fahren wir.\n- **zwar … aber**: Ich bin **zwar** 75, **aber** noch sehr aktiv.\n- **aber trotzdem** (spoken, emphatic): Ich bin 75, aber trotzdem noch sehr aktiv.\n\nAlso: **Du hast vielleicht Probleme mit deiner Bank, trotzdem fahren wir ein paar Tage weg.**",
+    "ex": [
+      ["Ich bin 75 Jahre alt, aber trotzdem noch sehr aktiv.", "I’m 75 years old but still very active."],
+      ["Ich habe alle Formulare ausgefüllt, trotzdem schaffen sie es nicht, meine Überweisung zu bearbeiten.", "I filled in all the forms, yet they can’t process my transfer."],
+      ["Du hast vielleicht Probleme mit deiner Bank, trotzdem fahren wir ein paar Tage weg.", "You may have problems with your bank, but we’re going away for a few days anyway."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was macht Jacques am Laptop?","o":["Er füllt ein Profil für die Partnersuche aus","Er bucht ein Hotel","Er schreibt eine E-Mail an die Bank"],"a":0,"why":"“Beschreiben Sie sich mit eigenen Worten, um die Partnersuche zu erleichtern.”","src":"video"},
+    {"t":"mc","q":"Was ist das Problem mit der Bank?","o":["Sie bearbeitet seine Überweisung nicht","Sie hat sein Konto gesperrt (endgültig)","Sie ist geschlossen"],"a":0,"why":"“… trotzdem schaffen sie es nicht, meine Überweisung zu bearbeiten.”","src":"video"},
+    {"t":"mc","q":"Was schlägt Inge vor?","o":["Sie bezahlt die Reise und er gibt ihr das Geld später zurück","Sie storniert die Reise","Sie fährt allein"],"a":0,"why":"“Ich bezahle die Reise … kannst du mir das Geld zurückgeben.”","src":"video"},
+    {"t":"mc","q":"Warum vertraut Inge Jacques?","o":["Sie kennt ihn lange genug – er ist kein Fremder aus dem Internet","Er hat ihr viel Geld gegeben","Er hat einen Vertrag unterschrieben"],"a":0,"why":"“Ich kenne dich lange genug. Ich vertraue dir.”","src":"video"},
+    {"t":"fill","q":"Er ist alt, ___ noch sehr aktiv. (nevertheless – adverb)","a":["trotzdem","dennoch"],"why":"trotzdem + verb 2.","src":"grammar"},
+    {"t":"fill","q":"___ es regnet, gehen wir spazieren. (although)","a":["Obwohl"],"why":"obwohl + verb am Ende.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Er ist müde, trotzdem arbeitet er weiter.","Er ist müde, trotzdem er arbeitet weiter.","Er ist müde, trotzdem weiter arbeitet er."],"a":0,"why":"trotzdem + Verb.","src":"grammar"},
+    {"t":"mc","q":"“stornieren” bedeutet:","o":["to cancel a booking","to store","to steer"],"a":0,"why":"die Reise stornieren.","src":"vocab"}
+  ]
+},
+"b1-26": {
+  "goal": "Talk about sharing housework in a partnership or flat and use infinitive clauses with zu (Es ist wichtig, Rücksicht zu nehmen).",
+  "words": [
+    ["der Putzplan, -pläne", "cleaning rota"],
+    ["das Putztuch / das Wischtuch", "cleaning cloth"],
+    ["das Geschirrtuch", "tea towel"],
+    ["aufteilen", "to divide up"],
+    ["mithelfen", "to help out"],
+    ["die Schwangerschaft", "pregnancy"],
+    ["sich anstrengen", "to make an effort"],
+    ["Rücksicht nehmen auf + Akk.", "to be considerate of"],
+    ["ein Versprechen halten", "to keep a promise"],
+    ["sinnvoll", "sensible"],
+    ["sich melden", "to get in touch"],
+    ["Keine Ahnung.", "No idea."]
+  ],
+  "grammar": {
+    "title": "Infinitive clauses with zu",
+    "text": "**zu + Infinitiv** (comma optional in many cases) after:\n\n- **Es ist wichtig / sinnvoll / schwer / leicht …**: Es ist wichtig, **Rücksicht zu nehmen**. Es ist sinnvoll, einen Putzplan **zu erstellen**.\n- Nouns like **Grund, Idee, Lust, Zeit, Angst**: eine Schwangerschaft ist kein Grund, nicht **mitzuhelfen**. Ich fand die Idee super, die Arbeit **aufzuteilen**.\n- Verbs like **anfangen, aufhören, versuchen, vorhaben**: Ich fange an, **zu putzen**.\n\n**Separable verbs:** **zu** stands between prefix and verb: **auf**zu**teilen**, **mit**zu**helfen**, **an**zu**rufen**. **Subject** of the infinitive = subject of the main verb or “man”.",
+    "ex": [
+      ["Es ist wichtig, auf andere Menschen Rücksicht zu nehmen.", "It’s important to be considerate of other people."],
+      ["Ich fand die Idee super, die Arbeit aufzuteilen.", "I found the idea of dividing up the work great."],
+      ["Eine Schwangerschaft ist kein Grund, nicht mitzuhelfen.", "A pregnancy is no reason not to help."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was möchte Sebastian von Nico?","o":["Ein Putztuch","Ein Handtuch","Ein Geschirrtuch"],"a":0,"why":"“Ich brauche ein Putztuch oder ein Wischtuch.”","src":"video"},
+    {"t":"mc","q":"Worüber beschwert sich Sebastian bei Nina?","o":["Er macht seit Wochen fast die ganze Putzarbeit","Nina kocht zu wenig","Nina räumt nie auf"],"a":0,"why":"“… ich mach hier eigentlich seit Wochen ständig sauber.”","src":"video"},
+    {"t":"mc","q":"Was antwortet Nina?","o":["Als Schwangere darf sie sich nicht anstrengen","Sie will auch putzen","Sie zieht aus"],"a":0,"why":"“Ich darf mich aber nicht anstrengen.”","src":"video"},
+    {"t":"mc","q":"Was macht Nico Sorgen?","o":["Selma antwortet seit gestern nicht mehr","Er verliert seine Arbeit","Er hat kein Geld"],"a":0,"why":"“Selma antwortet seit gestern Abend nicht mehr.”","src":"video"},
+    {"t":"fill","q":"Es ist wichtig, Rücksicht ___ nehmen. (zu)","a":["zu"],"why":"zu + Infinitiv.","src":"grammar"},
+    {"t":"mc","q":"Welche Form ist richtig?","o":["Ich habe keine Lust, aufzuräumen.","Ich habe keine Lust, zu aufräumen.","Ich habe keine Lust, aufräumen zu."],"a":0,"why":"aufzuräumen: zu zwischen Präfix und Verb.","src":"grammar"},
+    {"t":"mc","q":"“aufteilen” bedeutet:","o":["to divide up","to up-date","to split into two only"],"a":0,"why":"die Arbeit aufteilen.","src":"vocab"},
+    {"t":"mc","q":"“sinnvoll” bedeutet:","o":["sensible","sinful","sad"],"a":0,"why":"Es ist sinnvoll, einen Plan zu machen.","src":"vocab"}
+  ]
+},
+"b1-27": {
+  "goal": "Talk about misunderstandings between partners, speculate about reasons (wahrscheinlich, vielleicht, bestimmt) and use nicht … sondern correctly.",
+  "words": [
+    ["die Beziehungskrise", "relationship crisis"],
+    ["sich streiten – gestritten", "to argue"],
+    ["das Missverständnis, -se", "misunderstanding"],
+    ["verunsichern", "to make insecure"],
+    ["testen / aufgeben", "to test / to give up"],
+    ["ans Telefon gehen / rangehen", "to answer the phone"],
+    ["wahrscheinlich / vielleicht / bestimmt", "probably / perhaps / surely"],
+    ["Das kann tausend Gründe haben.", "There can be a thousand reasons."],
+    ["sauer sein", "to be annoyed"],
+    ["etwas klären", "to sort something out"],
+    ["die Kommunikationsprobleme", "communication problems"],
+    ["abwarten", "to wait and see"]
+  ],
+  "grammar": {
+    "title": "nicht … sondern (correction) and speculation",
+    "text": "**nicht … sondern** corrects the first part with the second (equal parts):\n\n- Die Frage ist **nicht**, worüber ihr gesprochen habt, **sondern** was du gesagt hast.\n- Du sollst ihn **nicht** verunsichern, **sondern** ihm helfen.\n- **kein … sondern**: Das ist **kein** Unsinn, **sondern** die Wahrheit.\n\nCompare **aber** (contrast, not correction): Er hat angerufen, **aber** sie ist nicht rangegangen.\n\n**Speculate:** Sie hat **wahrscheinlich** keine Zeit. **Vielleicht** ist sie sauer. Sie hat den Anruf **bestimmt** gesehen. Das kann auch sein. Ich denke, sie **will** dich testen.",
+    "ex": [
+      ["Die Frage ist nicht, worüber ihr gesprochen habt, sondern was du gesagt hast.", "The question isn’t what you talked about, but what you said."],
+      ["Du sollst ihn nicht verunsichern, sondern ihm helfen.", "You should not make him insecure but help him."],
+      ["Wahrscheinlich hat sie einfach keine Zeit.", "She probably just has no time."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Warum ist Nico beunruhigt?","o":["Selma geht seit gestern nicht ans Telefon, obwohl er dreimal angerufen hat","Selma hat ihn verlassen","Selma hat ihm gedroht"],"a":0,"why":"“… seit gestern nicht ans Telefon, obwohl ich dreimal angerufen habe.”","src":"video"},
+    {"t":"mc","q":"Welche Erklärung gibt Nina?","o":["Sie hat wahrscheinlich einfach keine Zeit","Sie ist böse","Sie ist verreist"],"a":0,"why":"“Wahrscheinlich hat sie einfach keine Zeit.”","src":"video"},
+    {"t":"mc","q":"Was vermutet Sebastian?","o":["Selma testet Nico oder ist sauer","Selma ist im Ausland","Selma hat kein Handy"],"a":0,"why":"“Sie will dich testen … sie ist doch sauer.”","src":"video"},
+    {"t":"mc","q":"Warum schimpft Nina mit Sebastian?","o":["Er verunsichert Nico statt ihm zu helfen","Er isst zu viel","Er ist unpünktlich"],"a":0,"why":"“Du sollst ihn nicht verunsichern, sondern ihm helfen.”","src":"video"},
+    {"t":"fill","q":"Du sollst ihn nicht verunsichern, ___ ihm helfen. (but rather)","a":["sondern"],"why":"nicht … sondern.","src":"grammar"},
+    {"t":"mc","q":"Wann verwendet man „sondern“?","o":["Nach einer Verneinung, um zu korrigieren","Immer statt „aber“","Nur am Satzende"],"a":0,"why":"nicht A, sondern B.","src":"grammar"},
+    {"t":"mc","q":"“das Missverständnis” bedeutet:","o":["misunderstanding","mistrust","mistake in writing"],"a":0,"why":"missverstehen.","src":"vocab"},
+    {"t":"mc","q":"“Das kann tausend Gründe haben.” bedeutet:","o":["There could be a thousand reasons.","It costs a thousand.","It has a thousand levels."],"a":0,"why":"speculation.","src":"vocab"}
+  ]
+},
+"b1-28": {
+  "goal": "Talk about relationship problems and unexpected bad news, and use double conjunctions (entweder … oder, weder … noch).",
+  "words": [
+    ["die Beziehung, -en", "relationship"],
+    ["heimlich", "secretly"],
+    ["das Missverständnis vermeiden", "to avoid misunderstandings"],
+    ["Es hat nichts mit dir zu tun.", "It has nothing to do with you."],
+    ["erlauben / verbieten", "to allow / to forbid"],
+    ["der Herzinfarkt", "heart attack"],
+    ["operieren – operiert werden", "to operate – to be operated on"],
+    ["im Krankenhaus", "in hospital"],
+    ["sich schlecht fühlen", "to feel bad"],
+    ["die Schuld", "fault, guilt"],
+    ["aufgebracht", "upset"],
+    ["Spinnst du?", "Are you crazy?"]
+  ],
+  "grammar": {
+    "title": "Double conjunctions: entweder … oder, weder … noch, sowohl … als auch",
+    "text": "Two-part conjunctions link two options, each with its own word:\n\n- **entweder … oder** (either … or): **Entweder** du sagst mir, warum du nicht antwortest, **oder** ich bleibe hier stehen. (main clause: **entweder + verb**)\n- **entweder … oder** with phrases: **Entweder** in der WG **oder** in der Stadt.\n- **weder … noch**: Sie hat **weder** angerufen **noch** geschrieben.\n- **sowohl … als auch**: Es hilft **sowohl** dir **als auch** ihr.\n- **nicht nur … sondern auch**: nicht nur Kopfschmerzen, sondern auch Fieber.\n\nWith **fühlen**: Ich fühle **mich** schlecht. (reflexive) – Es hat **nichts mit dir zu tun.**",
+    "ex": [
+      ["Entweder du sagst mir, warum du mir nicht antwortest, oder ich bleib den ganzen Tag hier stehen.", "Either you tell me why you’re not answering me or I’ll stay here all day."],
+      ["Entweder wir treffen uns heimlich in der WG oder in der Stadt.", "Either we meet secretly at the flat or in town."],
+      ["Es hat nichts mit dir zu tun.", "It has nothing to do with you."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Wo ist Nico?","o":["Vor Selmas Haus","Im Krankenhaus","In der WG"],"a":0,"why":"Nico steht vor Selmas Haus.","src":"video"},
+    {"t":"mc","q":"Was verlangt Nico von Selma?","o":["Sie soll ihm sagen, warum sie nicht antwortet","Sie soll ihm Geld geben","Sie soll wegziehen"],"a":0,"why":"“Entweder du sagst mir, warum …”","src":"video"},
+    {"t":"mc","q":"Warum trifft Selma Nico nicht mehr?","o":["Ihre Eltern erlauben es nicht, und ihr Vater ist im Krankenhaus","Sie mag ihn nicht mehr","Sie ist umgezogen"],"a":0,"why":"“Wir dürfen uns nicht treffen … Mein Vater ist wieder im Krankenhaus.”","src":"video"},
+    {"t":"mc","q":"Was ist mit Selmas Vater passiert?","o":["Er hatte einen Herzinfarkt und muss operiert werden","Er hat einen Unfall","Er hat die Arbeit verloren"],"a":0,"why":"“Er hatte einen Herzinfarkt und muss operiert werden.”","src":"video"},
+    {"t":"fill","q":"___ du sagst es mir, oder ich frage jemand anderen. (either)","a":["Entweder"],"why":"entweder … oder.","src":"grammar"},
+    {"t":"fill","q":"Er hat weder angerufen ___ geschrieben.","a":["noch"],"why":"weder … noch.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Entweder bleibst du hier, oder du gehst.","Entweder du bleibst hier, oder gehst du.","Entweder bleiben du hier, oder du gehst."],"a":0,"why":"Verb an Position 2 (nach entweder) oder normale Satzstellung.","src":"grammar"},
+    {"t":"mc","q":"“der Herzinfarkt” ist:","o":["a heart attack","a heart transplant","heartburn"],"a":0,"why":"Herz + Infarkt.","src":"vocab"}
+  ]
+}
+}

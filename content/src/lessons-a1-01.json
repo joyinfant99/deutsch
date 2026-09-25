@@ -1,0 +1,142 @@
+{
+"a1-05": {
+  "goal": "Say your name with “Ich heiße …” and ask someone else’s name with “Wie heißt du?”.",
+  "words": [
+    ["ich", "I"],
+    ["du", "you (informal)"],
+    ["heißen", "to be called"],
+    ["Ich heiße Nico.", "My name is Nico."],
+    ["Wie heißt du?", "What is your name? (informal)"],
+    ["Wie heißen Sie?", "What is your name? (formal)"],
+    ["Wer bist du?", "Who are you?"],
+    ["Ich bin …", "I am …"],
+    ["der Deutschlehrer, -", "German teacher (male)"],
+    ["die Deutschlehrerin, -nen", "German teacher (female)"],
+    ["jetzt", "now"],
+    ["aber", "but"]
+  ],
+  "grammar": {
+    "title": "Personal pronouns ich and du; the verb heißen",
+    "text": "**ich** = I and **du** = you (informal) are the first two personal pronouns. The verb changes its ending with the pronoun:\n\n- ich heiß**e**\n- du heiß**t**\n\nThe formal question uses **Sie**: Wie heißen Sie? The name follows the verb: Ich heiße Emma. or Ich bin Emma.",
+    "ex": [
+      ["Hallo, ich heiße Nico. Und wie heißt du?", "Hello, I’m called Nico. And what’s your name?"],
+      ["Ich heiße Lisa.", "I’m called Lisa."],
+      ["Wer bist du? – Ich bin Emma.", "Who are you? – I’m Emma."]
+    ]
+  },
+  "quiz": [
+    {"t":"fill","q":"Lisa asks Nico: “Hallo, wie ___ du?”","a":["heißt","heisst"],"why":"du takes -t: du heißt.","src":"video"},
+    {"t":"mc","q":"Lisa says “Ich muss noch kurz tanken.” What does she have to do?","o":["Fill up the car with petrol","Buy a coffee","Call the police"],"a":0,"why":"tanken = to fill up with fuel; she has stopped at a gas station.","src":"video"},
+    {"t":"mc","q":"At the end Nico shouts “Taxi! Stopp!” Why?","o":["He recognises the cab that drove away with his bag","He wants to go to the airport","He forgot his phone"],"a":0,"why":"He sees the cab with his bag inside.","src":"video"},
+    {"t":"mc","q":"What is the female form of “der Deutschlehrer”?","o":["die Deutschlehrerin","das Deutschlehrer","die Deutschlehrer"],"a":0,"why":"Add -in for women.","src":"vocab"},
+    {"t":"mc","q":"“Wer bist du?” means:","o":["Who are you?","Where are you?","How are you?"],"a":0,"why":"wer = who.","src":"vocab"},
+    {"t":"fill","q":"Ich heiße Emma. Du ___ Nico.","a":["heißt","heisst"],"why":"ich heiße – du heißt.","src":"grammar"},
+    {"t":"mc","q":"Which pronoun do you use to address a stranger politely?","o":["Sie","du","ich"],"a":0,"why":"Formal you = Sie.","src":"grammar"}
+  ]
+},
+"a1-06": {
+  "goal": "Introduce another person: “Das ist Nico.”, and use first name and last name.",
+  "words": [
+    ["Das ist Nico.", "This is Nico."],
+    ["der Vorname, -n", "first name"],
+    ["der Familienname, -n", "last name"],
+    ["das Taxi / der Taxifahrer", "taxi / taxi driver (male)"],
+    ["die Taxifahrerin", "taxi driver (female)"],
+    ["suchen", "to look for"],
+    ["Die Tasche ist nicht im Taxi.", "The bag isn’t in the taxi."],
+    ["Keine Ahnung.", "No idea."],
+    ["Komm!", "Come on!"],
+    ["helfen", "to help"],
+    ["die Sprache, -n", "language"],
+    ["lernen", "to learn"]
+  ],
+  "grammar": {
+    "title": "Introducing others: Das ist … and er / sie",
+    "text": "To introduce someone use **Das ist …** (This is …): Das ist Nico. Das ist Lisa.\n\nAdd both names to be complete: **Ich bin Lisa Brunner.** (Vorname Lisa, Familienname Brunner.)\n\nTo talk about him or her later, use **er** (he) and **sie** (she): Nico sucht seine Tasche. Er sucht seine Tasche.",
+    "ex": [
+      ["Hallo, ich bin Lisa Brunner. Das ist Nico.", "Hello, I’m Lisa Brunner. This is Nico."],
+      ["Nico sucht seine Tasche.", "Nico is looking for his bag."],
+      ["Die Tasche ist nicht im Taxi.", "The bag is not in the taxi."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Nico stops the cab. What does the driver say about the bag?","o":["Da ist keine Tasche.","Die Tasche ist im Kofferraum.","Ich habe deine Tasche."],"a":0,"why":"keine Tasche = no bag there.","src":"video"},
+    {"t":"fill","q":"Lisa introduces herself: “Hallo, ich ___ Lisa Brunner. Das ist Nico.”","a":["bin"],"why":"ich bin + name.","src":"video"},
+    {"t":"mc","q":"What does “Nico sucht seine Tasche” mean?","o":["Nico is looking for his bag.","Nico has a bag.","Nico is buying a bag."],"a":0,"why":"suchen = to look for.","src":"video"},
+    {"t":"mc","q":"“Keine Ahnung.” means:","o":["No idea.","No problem.","No thanks."],"a":0,"why":"die Ahnung = idea/clue.","src":"vocab"},
+    {"t":"mc","q":"Which is the Familienname in “Lisa Brunner”?","o":["Brunner","Lisa","Both"],"a":0,"why":"Vorname = Lisa, Familienname = Brunner.","src":"vocab"},
+    {"t":"fill","q":"Das ___ Nico. (This is Nico.)","a":["ist"],"why":"Das ist + name.","src":"grammar"},
+    {"t":"mc","q":"How do you refer to Nico in the next sentence, instead of his name?","o":["er","sie","es"],"a":0,"why":"er = he.","src":"grammar"}
+  ]
+},
+"a1-07": {
+  "goal": "Say where you come from and where you live, and ask the same questions using the verbs kommen and wohnen.",
+  "words": [
+    ["Woher kommst du?", "Where are you from?"],
+    ["Ich komme aus Spanien.", "I’m from Spain."],
+    ["Wo wohnst du?", "Where do you live?"],
+    ["Ich wohne in Sevilla.", "I live in Seville."],
+    ["kommen", "to come"],
+    ["wohnen", "to live (reside)"],
+    ["Entschuldigung?", "Excuse me? / Pardon?"],
+    ["woher / wo", "where from / where"],
+    ["hier", "here"],
+    ["die Polizei", "the police"],
+    ["der Vater, Väter", "father"],
+    ["Wie geht es dir?", "How are you?"]
+  ],
+  "grammar": {
+    "title": "Present tense: regular verbs",
+    "text": "Take the infinitive (kommen), remove **-en** and add the ending that fits the pronoun:\n\n- ich komm**e**\n- du komm**st**\n- er / sie / es komm**t**\n- wir komm**en**\n- ihr komm**t**\n- sie / Sie komm**en**\n\nSame pattern for **wohnen**, **machen**, **lernen**. In questions the verb comes first (yes/no) or second after a question word: **Woher** kommst du?",
+    "ex": [
+      ["Ich komme aus Deutschland.", "I come from Germany."],
+      ["Wo wohnst du? – Ich wohne in Sevilla.", "Where do you live? – I live in Seville."],
+      ["Wir kommen aus Deutschland.", "We come from Germany."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Max asks: “Woher kommst du?” What does he want to know?","o":["Where Nico is from","Where Nico lives","Who Nico is"],"a":0,"why":"woher = from where.","src":"video"},
+    {"t":"mc","q":"In which Spanish city does Nico live?","o":["Sevilla","Madrid","Barcelona"],"a":0,"why":"Max offers Barcelona or Madrid; Nico answers: Sevilla!","src":"video"},
+    {"t":"mc","q":"Why can’t Nico simply call his aunt?","o":["His bag, phone and her number are gone","She has no phone","She lives in Spain"],"a":0,"why":"“Meine Tasche ist weg. Mein Telefon ist weg. Und die Nummer ist weg.”","src":"video"},
+    {"t":"mc","q":"What is Lisa’s father’s job?","o":["Police officer","Taxi driver","Teacher"],"a":0,"why":"“Mein Vater ist Polizist.”","src":"video"},
+    {"t":"fill","q":"Ich ___ in Sevilla. (wohnen)","a":["wohne"],"why":"ich + -e.","src":"grammar"},
+    {"t":"fill","q":"Du ___ aus Spanien. (kommen)","a":["kommst"],"why":"du + -st.","src":"grammar"},
+    {"t":"mc","q":"“Entschuldigung?” is used to:","o":["ask someone to repeat or to get attention","say goodbye","order food"],"a":0,"why":"Excuse me? / Pardon?","src":"vocab"}
+  ]
+},
+"a1-08": {
+  "goal": "Talk about other people with er and sie, and say what they have or need, using sein and haben.",
+  "words": [
+    ["er / sie / es", "he / she / it"],
+    ["sein: ich bin, du bist, er ist", "to be"],
+    ["haben: ich habe, du hast, er hat", "to have"],
+    ["der Pass, Pässe", "passport"],
+    ["das Foto, -s", "photo"],
+    ["die Adresse, -n", "address"],
+    ["das Fahrradgeschäft, -e", "bicycle shop"],
+    ["die Tante, -n", "aunt"],
+    ["der Polizist / die Polizistin", "police officer (m/f)"],
+    ["richtig", "correct"],
+    ["Danke, Papa!", "Thanks, Dad!"],
+    ["Bis später!", "See you later!"]
+  ],
+  "grammar": {
+    "title": "Personal pronouns er and sie; sein and haben",
+    "text": "**er** = he, **sie** = she, **es** = it. Two verbs you need constantly are irregular:\n\n- **sein:** ich bin, du bist, er/sie/es ist\n- **haben:** ich habe, du hast, er/sie/es hat\n\nCapital **Sie** = you (formal), lower-case **sie** = she or they. Careful with the endings: Er **hat** ein Problem. Sie **ist** Polizistin.",
+    "ex": [
+      ["Er kommt aus Spanien und er hat ein Problem.", "He comes from Spain and he has a problem."],
+      ["Seine Tante hat ein Fahrradgeschäft.", "His aunt has a bicycle shop."],
+      ["Sie wohnt auch hier in Deutschland.", "She also lives here in Germany."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What is Nico’s problem, according to Lisa?","o":["His bag is gone and he doesn’t speak much German","His plane is late","He has lost his aunt’s dog"],"a":0,"why":"“Seine Tasche ist weg und er spricht nicht gut Deutsch.”","src":"video"},
+    {"t":"mc","q":"What does Nico’s aunt do for work?","o":["She has a bicycle shop","She is a police officer","She is a teacher"],"a":0,"why":"“Sie hat ein Fahrradgeschäft.”","src":"video"},
+    {"t":"mc","q":"What does Nico have to identify his aunt?","o":["A photo of her","Her phone number","Her passport"],"a":0,"why":"“Er hat ein Foto von seiner Tante.”","src":"video"},
+    {"t":"fill","q":"Er ___ ein Problem. (haben)","a":["hat"],"why":"er hat.","src":"grammar"},
+    {"t":"fill","q":"Sie ___ Polizistin. (sein)","a":["ist"],"why":"sie ist.","src":"grammar"},
+    {"t":"mc","q":"“Bis später!” means:","o":["See you later!","Good morning!","Thank you!"],"a":0,"why":"später = later.","src":"vocab"},
+    {"t":"mc","q":"Which form is correct? “Nico ___ aus Spanien.”","o":["kommt","komme","kommst"],"a":0,"why":"er/sie/es → -t.","src":"grammar"}
+  ]
+}
+}

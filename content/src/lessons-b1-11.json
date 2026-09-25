@@ -1,0 +1,146 @@
+{
+"b1-45": {
+  "goal": "Discuss the environment and environmental awareness, and build unreal conditions with the Konjunktiv II (Wenn sie auf Plastik verzichten würden, würden sie merken …).",
+  "words": [
+    ["die Umwelt / der Umweltschutz", "environment / environmental protection"],
+    ["das Recycling / recyceln", "recycling / to recycle"],
+    ["das Plastik", "plastic"],
+    ["umweltschädlich", "harmful to the environment"],
+    ["das Umweltbewusstsein", "environmental awareness"],
+    ["das Konsumverhalten", "consumer behaviour"],
+    ["ausbeuten", "to exploit"],
+    ["aussterben – stirbt aus", "to die out"],
+    ["die Tierart, -en", "animal species"],
+    ["verzichten auf + Akk.", "to do without"],
+    ["abstrakt / spannend", "abstract / exciting"],
+    ["das Gehirn, -e", "brain"]
+  ],
+  "grammar": {
+    "title": "Unreal conditions with Konjunktiv II; je … desto",
+    "text": "**Real condition:** Wenn du kein Plastik kaufst, **sparst** du Müll.\n**Unreal / hypothetical condition (Konjunktiv II)** – in both clauses:\n\n- **Wenn** die Schüler eine Woche auf Plastik **verzichten würden**, **würden** sie **merken**, was alles aus Plastik ist.\n- **Wenn** ich Zeit **hätte**, **würde** ich mehr **recyceln**.\n- **Wenn** wir mehr Geld **hätten**, **könnten** wir Solarzellen kaufen.\n\nForms: **würde + Infinitiv** (regular verbs), **wäre, hätte, könnte, müsste** (frequent verbs).\n\n**je … desto:** **Je** statistischer das Thema **ist**, **desto** langweiliger **wird** es. (je + comparative, desto + comparative)",
+    "ex": [
+      ["Wenn die mal eine Woche auf Plastik verzichten würden, dann würden sie merken, was alles aus Plastik ist.", "If they did without plastic for a week they would notice how much is made of plastic."],
+      ["Je statistischer das Thema, desto langweiliger wird es.", "The more statistical the topic, the more boring it gets."],
+      ["Wenn wir unseren Planeten weiterhin so ausbeuten, dann brauchen wir 2030 zwei Erden.", "If we keep exploiting our planet like this we’ll need two Earths by 2030."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Welches Thema behandelt Lisa morgen im Unterricht?","o":["Recycling und Umweltschutz","Reisen","Kochen"],"a":0,"why":"“… das Thema Recycling und Umweltschutz im Unterricht behandeln.”","src":"video"},
+    {"t":"mc","q":"Warum ist das für Lisa ein Problem?","o":["Statistiken machen das Thema langweilig und abstrakt","Sie kennt sich nicht aus","Ihre Schüler sind faul"],"a":0,"why":"“… je statistischer das Thema, desto langweiliger wird es.”","src":"video"},
+    {"t":"mc","q":"Welche Idee hat Nina?","o":["Eine Woche lang kein Plastik kaufen","Nur noch Fahrrad fahren","Nur Bio essen"],"a":0,"why":"“… es reicht ja … wenn du mal ’ne Woche kein Plastik kaufst.”","src":"video"},
+    {"t":"mc","q":"Was soll bei den Schülern entstehen?","o":["Ein Umweltbewusstsein","Angst","Hunger nach Plätzchen"],"a":0,"why":"“Die sollen ein Umweltbewusstsein entwickeln.”","src":"video"},
+    {"t":"fill","q":"Wenn ich Zeit ___, würde ich mehr recyceln. (haben, Konjunktiv II)","a":["hätte","haette"],"why":"hätte.","src":"grammar"},
+    {"t":"fill","q":"Wenn wir Geld hätten, ___ wir Solarzellen kaufen. (können, Konjunktiv II)","a":["könnten","koennten"],"why":"könnten.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz drückt eine unwirkliche Bedingung aus?","o":["Wenn ich reich wäre, würde ich reisen.","Wenn ich Zeit habe, reise ich.","Wenn ich reiste, hatte ich Zeit."],"a":0,"why":"Konjunktiv II in beiden Teilen.","src":"grammar"},
+    {"t":"mc","q":"“verzichten auf” bedeutet:","o":["to do without","to trust in","to fall into"],"a":0,"why":"auf Plastik verzichten.","src":"vocab"}
+  ]
+},
+"b1-46": {
+  "goal": "Explain environmental problems (plastic) and ask others to change their behaviour, using verzichten auf, nicht … sondern, and the preposition zuliebe.",
+  "words": [
+    ["die Umweltbelastung, -en", "environmental burden"],
+    ["die Tonne, -n / viele Tonnen Plastik", "tonne / many tonnes of plastic"],
+    ["das Meer / die Fische", "sea / fish"],
+    ["der Kreislauf", "cycle"],
+    ["krank werden von + Dat.", "to get ill from"],
+    ["mitmachen", "to take part"],
+    ["der Joghurtbecher", "yoghurt pot"],
+    ["ein Versprechen geben", "to make a promise"],
+    ["Das ist kein Zuckerschlecken.", "It’s no picnic."],
+    ["der Gegenvorschlag, -schläge", "counter-proposal"],
+    ["Ist das dein Ernst?", "Are you serious?"],
+    ["der Umwelt zuliebe", "for the sake of the environment"]
+  ],
+  "grammar": {
+    "title": "verzichten auf, nicht … sondern, zuliebe",
+    "text": "**verzichten auf + Akk.** (do without): Ihr sollt **auf Plastik verzichten**. – Wir verzichten **auf** das Auto.\n\n**nicht … sondern**: Ihr sollt **nicht** euer ganzes Leben lang auf Plastik verzichten, **sondern** nur eine Woche.\n\n**zuliebe** (for the sake of) follows the noun in the **Dativ**: **der Umwelt zuliebe**, **den Kindern zuliebe**, **mir zuliebe**.\n\nAlso: **Wusstet ihr, dass …?** (Did you know that …?) – **davon** krank werden – **Macht ihr mit?** – **Ist das dein Ernst?**",
+    "ex": [
+      ["Ihr sollt nicht euer ganzes Leben lang auf Plastik verzichten, sondern nur eine Woche.", "You shouldn’t do without plastic your whole life, only for a week."],
+      ["Wusstet ihr, dass viele Tonnen Plastik im Meer schwimmen?", "Did you know that many tonnes of plastic float in the sea?"],
+      ["Umweltschutz ist kein Zuckerschlecken!", "Protecting the environment is no picnic!"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was sollen die Schüler eine Woche lang tun?","o":["Auf Plastik verzichten","Nur Bio-Essen kaufen","Kein Auto fahren"],"a":0,"why":"“… nur eine Woche.”","src":"video"},
+    {"t":"mc","q":"Was passiert laut Lisa mit den Fischen und uns?","o":["Sie werden krank vom Plastik – wir essen sie und werden krank","Sie sterben sofort","Nichts"],"a":0,"why":"“Die Fische werden krank davon. Wir essen die Fische, dann werden wir krank davon.”","src":"video"},
+    {"t":"mc","q":"Warum protestiert Nina gegen Lisa (im Video)?","o":["Lisa hat einen Joghurtbecher aus Plastik","Lisa raucht","Lisa kauft ein Auto"],"a":0,"why":"Lisa wurde mit einem Joghurtbecher erwischt.","src":"video"},
+    {"t":"mc","q":"Was sagt Nina über Umweltschutz?","o":["Er ist kein Zuckerschlecken","Er ist ganz einfach","Er ist überflüssig"],"a":0,"why":"“Umweltschutz ist kein Zuckerschlecken!”","src":"video"},
+    {"t":"fill","q":"Ich verzichte ___ Plastik. (auf)","a":["auf"],"why":"verzichten auf + Akk.","src":"grammar"},
+    {"t":"fill","q":"Der Umwelt ___ verzichte ich auf das Auto. (for the sake of)","a":["zuliebe"],"why":"nachgestelltes zuliebe.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Sie sollen nicht rauchen, sondern Sport treiben.","Sie sollen nicht rauchen, aber Sport treiben.","Sie sollen nicht rauchen, denn Sport treiben."],"a":0,"why":"nicht … sondern.","src":"grammar"},
+    {"t":"mc","q":"“der Kreislauf” bedeutet:","o":["cycle, circulation","circle run","kidney"],"a":0,"why":"ein Kreislauf.","src":"vocab"}
+  ]
+},
+"b1-47": {
+  "goal": "Talk about alternative energy and energy-saving architecture, using relative clauses with was, superlatives with am, and asking for donations for a flea market.",
+  "words": [
+    ["die alternative Energie / die Solarzelle", "alternative energy / solar cell"],
+    ["der Strom / mit Strom versorgen", "electricity / to supply with power"],
+    ["Energie sparen", "to save energy"],
+    ["das Gebäude, -", "building"],
+    ["intelligente Häuser", "smart homes"],
+    ["montieren", "to mount, to install"],
+    ["der Flohmarkt, -märkte", "flea market"],
+    ["gebrauchte Sachen / Klamotten", "used things / clothes"],
+    ["vorbeibringen", "to drop off"],
+    ["Bescheid sagen", "to let (someone) know"],
+    ["der Wettbewerb / die Brücke", "competition / bridge"],
+    ["weiterkommen – kam weiter", "to make progress"]
+  ],
+  "grammar": {
+    "title": "Relative clauses with was; superlative with am … -sten",
+    "text": "**was** is the relative pronoun after **alles, etwas, nichts, das, viel, einiges, das Beste**:\n\n- Wenn ihr **etwas habt, was** ihr nicht mehr braucht, bringt es vorbei.\n- Das ist **alles, was** ich weiß.\n- Ich finde das, **was** ich sehe, interessant.\n\n**Superlative predicate: am + -sten:** Ich finde alternative Energien **am interessantesten**. – Das ist **am wichtigsten**.\n\n**Passive with Präsens:** Die Lampen **werden** mit Strom **versorgt**. Solarzellen **werden** an den Seiten **montiert**.",
+    "ex": [
+      ["Wenn ihr irgendwas habt, was ihr nicht mehr braucht, dann bringt’s gerne vorbei.", "If you have anything you no longer need, feel free to bring it over."],
+      ["Ich finde alternative Energien sowieso am interessantesten.", "I find alternative energies the most interesting anyway."],
+      ["Ich hatte die Idee, Solarzellen an die Seiten zu montieren.", "I had the idea of mounting solar cells on the sides."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Welche Idee hatte Selma für ihre Brücke?","o":["Solarzellen an den Seiten, die die Lampen mit Strom versorgen","Ein Wasserrad","Eine Glasbrücke"],"a":0,"why":"“… Solarzellen an die Seiten zu montieren. Die können die Lampen … mit Strom versorgen.”","src":"video"},
+    {"t":"mc","q":"Was findet Selma am interessantesten?","o":["Alternative Energien","Kunstgeschichte","Statik"],"a":0,"why":"“Ich finde alternative Energien sowieso am interessantesten.”","src":"video"},
+    {"t":"mc","q":"Was organisiert Yara?","o":["Einen Flohmarkt für Flüchtlinge","Ein Konzert","Ein Radrennen"],"a":0,"why":"“… einen kleinen Flohmarkt für Flüchtlinge organisieren.”","src":"video"},
+    {"t":"mc","q":"Was können Leute mitbringen?","o":["Gebrauchte Sachen, die sie nicht mehr brauchen","Neue Waren","Lebensmittel nur"],"a":0,"why":"“… gebrauchte Sachen, Fahrräder, Klamotten.”","src":"video"},
+    {"t":"fill","q":"Das ist alles, ___ ich weiß. (relative pronoun)","a":["was"],"why":"nach alles: was.","src":"grammar"},
+    {"t":"fill","q":"Ich finde das ___ interessantesten. (superlative)","a":["am"],"why":"am interessantesten.","src":"grammar"},
+    {"t":"mc","q":"“Energie sparen” bedeutet:","o":["to save energy","to spare the energy","to store energy"],"a":0,"why":"sparen = save.","src":"vocab"},
+    {"t":"mc","q":"“der Flohmarkt” ist:","o":["a flea market","a fish market","a market for insects"],"a":0,"why":"Second-hand-Markt.","src":"vocab"}
+  ]
+},
+"b1-48": {
+  "goal": "Talk about recycling and waste separation, be interviewed about an event, and use the present passive (Hier wird recycelt).",
+  "words": [
+    ["die Wertstoffe (pl.)", "recyclable materials"],
+    ["recyceln / wiederverwerten", "to recycle"],
+    ["wegwerfen – wirft weg", "to throw away"],
+    ["der Müll / der Restmüll", "rubbish / general waste"],
+    ["der gelbe Sack / die Papiertonne / die Biotonne", "yellow bag / paper bin / organic bin"],
+    ["die Pfandflasche, -n", "deposit bottle"],
+    ["der Besitzer, -", "owner"],
+    ["den Besitzer wechseln", "to change hands"],
+    ["der Veranstalter / veranstalten", "organiser / to organise"],
+    ["der Reporter / der Lokalteil", "reporter / local section"],
+    ["umsonst", "free of charge"],
+    ["Wie sind Sie auf die Idee gekommen?", "How did you come up with the idea?"]
+  ],
+  "grammar": {
+    "title": "Present passive: processes and rules",
+    "text": "**Passiv Präsens** = **werden + Partizip II**. Use it to describe processes, rules and what happens to things:\n\n- Hier **wird** recycelt. (impersonal, no agent)\n- Gebrauchte Gegenstände **werden** nicht **weggeworfen**.\n- Altpapier **wird** in der Papiertonne **gesammelt**. Pfandflaschen **werden** zurückgegeben.\n\nGerman waste separation: **Papier → Papiertonne (blau), Verpackungen → gelber Sack, Bioabfall → Biotonne, Glas → Container, Reste → Restmüll.**\n\nQuestion in an interview: **Wie sind Sie auf die Idee gekommen?** – **Das Besondere ist, dass alles umsonst ist.**",
+    "ex": [
+      ["Hier wird recycelt. Gebrauchte Gegenstände werden hier nicht weggeworfen, sie wechseln den Besitzer.", "Recycling happens here. Used items aren’t thrown away here, they change owners."],
+      ["Das Besondere hier ist, dass alles umsonst ist.", "The special thing here is that everything is free."],
+      ["Papier wird in der Papiertonne gesammelt.", "Paper is collected in the paper bin."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Wer ist Herr Fromme?","o":["Ein Reporter vom Tageblatt","Ein Nachbar","Ein Polizist"],"a":0,"why":"“Ich bin vom Lokalteil des Tageblatts.”","src":"video"},
+    {"t":"mc","q":"Wie erklärt Yara ihre Idee?","o":["Man kann nicht immer alles neu kaufen – gebrauchte Sachen werden hier nicht weggeworfen","Alles ist kaputt","Sie will Geld verdienen"],"a":0,"why":"“Man kann nicht immer alles neu kaufen. Hier wird recycelt.”","src":"video"},
+    {"t":"mc","q":"Was ist das Besondere am Flohmarkt?","o":["Alles ist umsonst","Alles ist sehr teuer","Nur Fahrräder"],"a":0,"why":"“… dass alles umsonst ist.”","src":"video"},
+    {"t":"mc","q":"Wonach suchen Selma und ihr Vater?","o":["Nach einem Fahrrad für Ibrahim","Nach Kleidung","Nach Büchern"],"a":0,"why":"Sie suchen nach einem Fahrrad.","src":"video"},
+    {"t":"fill","q":"Hier ___ recycelt. (werden, Präsens, impersonal)","a":["wird"],"why":"es wird recycelt.","src":"grammar"},
+    {"t":"fill","q":"Gebrauchte Gegenstände ___ nicht weggeworfen. (werden, plural)","a":["werden"],"why":"werden + Partizip II.","src":"grammar"},
+    {"t":"mc","q":"Wohin kommt Altpapier in Deutschland?","o":["In die Papiertonne","In den gelben Sack","In die Biotonne"],"a":0,"why":"Papier → blaue Tonne.","src":"grammar"},
+    {"t":"mc","q":"“den Besitzer wechseln” bedeutet:","o":["to change owners","to change the shop","to exchange the boss"],"a":0,"why":"gebrauchte Sachen wechseln den Besitzer.","src":"vocab"}
+  ]
+}
+}

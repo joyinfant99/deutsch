@@ -1,0 +1,146 @@
+{
+"b1-61": {
+  "goal": "Name the German Bundesländer and talk about regions and regional dishes, using the genitive (die Stadt Oldenburg → eine Spezialität der Stadt).",
+  "words": [
+    ["das Bundesland, -länder", "federal state"],
+    ["die Region, -en", "region"],
+    ["die Spezialität, -en", "speciality"],
+    ["das Gericht, -e", "dish"],
+    ["die Herkunft", "origin"],
+    ["zubereiten", "to prepare (food)"],
+    ["die Deutschlandkarte, -n", "map of Germany"],
+    ["der Nordwesten / der Süden", "north-west / south"],
+    ["liegen in + Dat.", "to be located in"],
+    ["verrückt", "crazy"],
+    ["die Theke, -n", "counter"],
+    ["Viel Erfolg!", "Good luck!"]
+  ],
+  "grammar": {
+    "title": "The genitive (Genitiv)",
+    "text": "The genitive shows **belonging** or **origin** (of …). Endings:\n\n- **masculine/neuter:** des + noun with **-(e)s** → das Zentrum **des Landes**, der Name **des Bundeslandes**\n- **feminine/plural:** **der** (noun unchanged) → eine Spezialität **der Stadt**, die Namen **der Gerichte**\n- **without article:** proper names add -s → **Deutschlands** Hauptstadt, **Nicos** Vokabelheft\n\nSmall words after the noun: **im Nordwesten des Bundeslandes** Niedersachsen. Very common in news and formal writing; in speech people often use **von + Dativ** instead: die Hauptstadt **von** Bayern.\n\n**Bundesländer (16):** Baden-Württemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein, Thüringen.",
+    "ex": [
+      ["Das ist eine Spezialität der Stadt Oldenburg.", "That is a speciality of the city of Oldenburg."],
+      ["Oldenburg liegt im Nordwesten des Bundeslandes Niedersachsen.", "Oldenburg is in the north-west of the federal state of Lower Saxony."],
+      ["Wir erklären die Herkunft des Gerichts.", "We explain the origin of the dish."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was haben Max und Tarek vor?","o":["Videos über klassische deutsche Gerichte mit verrückten Namen machen","Ein neues Restaurant eröffnen","Eine Reise durch Deutschland planen"],"a":0,"why":"“Wir suchen klassische deutsche Gerichte mit total verrückten Namen … die Videos stellen wir dann ins Internet.”","src":"video"},
+    {"t":"mc","q":"Wo liegt Oldenburg?","o":["Im Nordwesten von Niedersachsen","In Baden-Württemberg","In Bayern"],"a":0,"why":"Tarek irrt sich; Max korrigiert ihn.","src":"video"},
+    {"t":"mc","q":"Was sucht Nico im Marek?","o":["Sein Vokabelheft","Seinen Laptop","Seinen Ausweis"],"a":0,"why":"“Ich suche mein Vokabelheft.”","src":"video"},
+    {"t":"mc","q":"Warum braucht Nico das Heft?","o":["Er hat später seine B1-Prüfung","Er will Max helfen","Er lernt für die Schule"],"a":0,"why":"“… weil ich später meine B1-Prüfung habe.”","src":"video"},
+    {"t":"fill","q":"Die Hauptstadt ___ Landes ist Berlin. (des / der – Land = neuter)","a":["des"],"why":"Neutrum Genitiv: des Landes.","src":"grammar"},
+    {"t":"fill","q":"Das ist eine Spezialität ___ Stadt. (feminine genitive)","a":["der"],"why":"Feminin Genitiv: der.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Das Buch des Lehrers liegt hier.","Das Buch dem Lehrer liegt hier.","Das Buch der Lehrers liegt hier."],"a":0,"why":"Maskulin Genitiv: des Lehrers.","src":"grammar"},
+    {"t":"mc","q":"“das Gericht” bedeutet im Restaurant:","o":["dish","court","judge"],"a":0,"why":"Das Gericht = Speise (auch: court).","src":"vocab"}
+  ]
+},
+"b1-62": {
+  "goal": "Discuss politics and Europe, express annoyance about complaints, and use brauchen + zu + Infinitiv and wo-compounds (worüber, wofür, womit).",
+  "words": [
+    ["die Beschwerde, -n / sich beschweren über + Akk.", "complaint / to complain about"],
+    ["der Vermieter, -", "landlord"],
+    ["das Gedränge", "crowd, crush"],
+    ["der Lärm", "noise"],
+    ["die Ruhezeit, -en", "quiet hours"],
+    ["sich engagieren für + Akk.", "to be involved in"],
+    ["der Politiker, - / die Politik", "politician / politics"],
+    ["die Europäische Union (EU)", "European Union"],
+    ["das Mitglied / der Mitgliedstaat", "member / member state"],
+    ["die Grenze, -n", "border"],
+    ["wieder|geben", "to relay, report"],
+    ["überlassen + Dat.", "to leave to someone"]
+  ],
+  "grammar": {
+    "title": "brauchen + zu + Infinitiv; wo-compounds",
+    "text": "**brauchen nicht zu + Infinitiv** = **nicht müssen** (need not). It is used with a **negation** or **nur/kein**:\n\n- Sie **brauchen** nicht **anzurufen**. (= Sie müssen nicht anrufen.)\n- Du **brauchst nur zu klicken**. (You only have to click.)\n- Wir **brauchen** keine Erlaubnis **einzuholen**.\n\n**wo-compounds** ask about things (not people): **wo(r) + preposition**:\n- **Worüber** reden wir hier eigentlich? (über)\n- **Wovon** wurde Ihnen berichtet? (von)\n- **Wofür** gibt es Handys? (für)\n- **Womit** beschäftigen Sie sich? (mit)\n\nFor **people** use preposition + who: **Über wen** reden wir? **Mit wem** sprichst du?\n\n**EU facts:** The EU has **27 Mitgliedstaaten**. Citizens elect the **Europäisches Parlament** in the **Europawahl** every five years. Most member states share borders without checks (**Schengen**).",
+    "ex": [
+      ["Sie hätten mich einfach anrufen können. Wofür gibt es heutzutage Handys?", "You could simply have called me. What are mobile phones for these days?"],
+      ["Worüber reden wir hier eigentlich?", "What are we actually talking about here?"],
+      ["Wir brauchen nicht zu warten.", "We don’t need to wait."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Warum kommt Yaras Vermieter vorbei?","o":["Die Nachbarn haben sich über den Flohmarkt beschwert","Er will die Miete erhöhen","Er will ein Fahrrad kaufen"],"a":0,"why":"“… aber die Nachbarn haben sich beschwert.”","src":"video"},
+    {"t":"mc","q":"Was kritisiert Hauke?","o":["Lärm und Gedränge vor der Eingangstür","Dass Yara zu wenig arbeitet","Dass der Laden zu klein ist"],"a":0,"why":"“… sehr laut und da war ein großes Gedränge.”","src":"video"},
+    {"t":"mc","q":"Was meint Yara über Politiker?","o":["Sie tun viel zu wenig","Sie tun genug","Sie sind unwichtig"],"a":0,"why":"“Ich finde, dass Politiker viel zu wenig tun.”","src":"video"},
+    {"t":"mc","q":"Was schlägt Hauke Yara am Ende vor?","o":["Sich direkt in der Politik zu engagieren","Den Laden zu schließen","Umzuziehen"],"a":0,"why":"“Warum engagieren Sie sich nicht direkt in der Politik?”","src":"video"},
+    {"t":"fill","q":"Du brauchst nicht ___ kommen. (zu)","a":["zu"],"why":"brauchen nicht zu + Infinitiv.","src":"grammar"},
+    {"t":"fill","q":"___ reden wir hier eigentlich? (about what)","a":["Worüber"],"why":"Worüber = über was.","src":"grammar"},
+    {"t":"mc","q":"“Wir brauchen kein Visum einzuholen.” bedeutet:","o":["Wir müssen kein Visum einholen.","Wir dürfen kein Visum einholen.","Wir wollen kein Visum einholen."],"a":0,"why":"brauchen + nicht/kein + zu = nicht müssen.","src":"grammar"},
+    {"t":"mc","q":"Wie viele Mitgliedstaaten hat die EU?","o":["27","16","50"],"a":0,"why":"Die EU hat 27 Mitgliedstaaten (seit 2020).","src":"vocab"}
+  ]
+},
+"b1-63": {
+  "goal": "Talk about taxes, social insurance and fairness (Gerechtigkeit), and recognise abstract nouns ending in -heit/-keit.",
+  "words": [
+    ["die Steuererklärung, -en", "tax return"],
+    ["die Steuer, -n / das Finanzamt", "tax / tax office"],
+    ["absetzen", "to deduct"],
+    ["die Fahrtkosten (Pl.)", "travel costs"],
+    ["ehrenamtlich / das Ehrenamt", "voluntary / voluntary work"],
+    ["die Sozialversicherung", "social insurance"],
+    ["die Bescheidenheit", "modesty"],
+    ["die Gelassenheit", "composure, calm"],
+    ["die Klarheit", "clarity"],
+    ["die Gerechtigkeit / gerecht", "fairness / fair"],
+    ["der Ausgleich", "balance, compensation"],
+    ["sich abreagieren", "to let off steam"]
+  ],
+  "grammar": {
+    "title": "Nouns ending in -heit / -keit (always feminine)",
+    "text": "Adjectives become abstract nouns with **-heit** or **-keit**. They are always **feminine** (**die**):\n\n- **-heit:** schön → die Schön**heit**, gesund → die Gesund**heit**, frei → die Frei**heit**, klar → die Klar**heit**, bescheiden → die Bescheiden**heit**\n- **-keit** after -ig, -lich, -sam, -bar: gerecht**ig** → die Gerecht**igkeit**, möglich → die Möglich**keit**, freundlich → die Freundlich**keit**, ehrlich → die Ehrlich**keit**, dankbar → die Dankbar**keit**\n- **-igkeit** when the adjective ends in -ig: **ruhig → die Ruhigkeit** (but Ruhe is more common)\n\nAfter **-heit/-keit**: the plural adds **-en**: die Möglichkeit → die Möglichkeit**en**.\n\n**Taxes and insurance:** Employees pay **Lohnsteuer** and contribute to **Kranken-, Renten-, Arbeitslosen- and Pflegeversicherung** (social insurance). Many people file an annual **Steuererklärung** to get money back, e.g. for **Fahrtkosten** or **Spenden**.",
+    "ex": [
+      ["Jetzt habe ich ein bisschen Klarheit.", "Now I have a bit of clarity."],
+      ["Keine falsche Bescheidenheit, du sprichst großartig!", "No false modesty, you speak great!"],
+      ["Ich wusste nicht, dass ich meine Fahrtkosten absetzen kann.", "I didn’t know I could deduct my travel costs."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Wobei möchte Lisa Hilfe von Pepe?","o":["Bei ihrer Steuererklärung","Bei der Prüfung","Beim Umzug"],"a":0,"why":"“… kannst du kurz über meine Steuererklärung schauen?”","src":"video"},
+    {"t":"mc","q":"Was kann Lisa absetzen?","o":["Fahrtkosten für ihre ehrenamtlichen Tätigkeiten","Ihre Miete","Ihre Kleidung"],"a":0,"why":"“… meine Fahrtkosten für meine ehrenamtlichen Tätigkeiten absetzen kann.”","src":"video"},
+    {"t":"mc","q":"Was macht Pepe als Ausgleich?","o":["Boxen","Schwimmen","Malen"],"a":0,"why":"“Boxen. Das ist anstrengend und man kann sich super abreagieren.”","src":"video"},
+    {"t":"mc","q":"Wie reagiert Lisa auf Pepes Frage nach Sport?","o":["Sie wollte Boxen schon immer mal ausprobieren","Sie hasst Sport","Sie hat keine Zeit"],"a":0,"why":"“… wollte ich das schon immer mal ausprobieren.”","src":"video"},
+    {"t":"fill","q":"möglich → die Möglich___ (-heit / -keit)","a":["keit"],"why":"-lich → -keit.","src":"grammar"},
+    {"t":"fill","q":"frei → die Frei___","a":["heit"],"why":"-heit nach einsilbigen Adjektiven.","src":"grammar"},
+    {"t":"mc","q":"Welchen Artikel haben Nomen auf -heit / -keit?","o":["die","der","das"],"a":0,"why":"Immer feminin.","src":"grammar"},
+    {"t":"mc","q":"Wofür braucht man eine Steuererklärung?","o":["Um zu viel gezahlte Steuern zurückzubekommen","Um ein Konto zu eröffnen","Um zu heiraten"],"a":0,"why":"Steuererklärung = tax return.","src":"vocab"}
+  ]
+},
+"b1-64": {
+  "goal": "Explain how elections work in Germany (Erststimme, Zweitstimme, Landtags-/Bundestags-/Europawahl) and use the passive (wird gewählt / wurde gewählt).",
+  "words": [
+    ["die Wahl, -en / wählen", "election, choice / to vote"],
+    ["die Wahlbenachrichtigung, -en", "polling card"],
+    ["die Landtagswahl / die Bundestagswahl", "state / federal election"],
+    ["die Kommunalwahl / die Europawahl", "local / European election"],
+    ["die Erststimme / die Zweitstimme", "first / second vote"],
+    ["der Kandidat, -en / die Kandidatin", "candidate"],
+    ["die Partei, -en", "party"],
+    ["der Wahlkreis, -e", "constituency"],
+    ["das Überhangmandat, -e", "overhang seat"],
+    ["die Demokratie, -n", "democracy"],
+    ["konservativ / liberal / sozial", "conservative / liberal / social"],
+    ["die Meinung, -en", "opinion"]
+  ],
+  "grammar": {
+    "title": "The passive voice (Passiv)",
+    "text": "**Passive** = the action matters, not who does it: **werden + Partizip II**.\n\n- **Präsens:** Der Landtag **wird gewählt**.\n- **Präteritum:** Es **wurden** mehr Kandidaten **gewählt**, als die Partei Sitze hat.\n- **Perfekt:** Der Kandidat **ist gewählt worden**. (**worden**, not geworden!)\n- **Modal:** Man **kann** die Partei mit der Zweitstimme **wählen**. → Die Partei **kann** mit der Zweitstimme **gewählt werden**.\n\n**Agent with von:** Der Landtag wird **von den Bürgern** gewählt.\n**Zustandspassiv (state):** Viele Meinungen **sind erlaubt**.\n\n**German elections in short:** Every voter has **two votes** for the Bundestag: the **Erststimme** for a **Kandidat** in the local **Wahlkreis**, the **Zweitstimme** for a **Partei**. Voting age for the Bundestag: **18**.",
+    "ex": [
+      ["Mit der Erststimme wird der Kandidat des Wahlkreises gewählt.", "With the first vote the candidate of the constituency is elected."],
+      ["Im nächsten Monat wird der Landtag gewählt.", "Next month the state parliament will be elected."],
+      ["Wenn mehr Kandidaten gewählt wurden, als die Partei Sitze hat, gibt es Überhangmandate.", "If more candidates were elected than the party has seats, there are overhang seats."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was hält Sebastian in den Händen?","o":["Die Wahlbenachrichtigung für die Landtagswahl","Ein Rezept","Ein Bewerbungsschreiben"],"a":0,"why":"“Das ist die Wahlbenachrichtigung für die Landtagswahl im nächsten Monat.”","src":"video"},
+    {"t":"mc","q":"Was wählt man mit der Erststimme?","o":["Den Kandidaten des Wahlkreises","Die Partei","Den Bürgermeister"],"a":0,"why":"“Mit der Erststimme wählt man den Kandidaten des jeweiligen Wahlkreises.”","src":"video"},
+    {"t":"mc","q":"Was wählt man mit der Zweitstimme?","o":["Die Partei","Den Kanzler direkt","Den Präsidenten"],"a":0,"why":"“… mit der Zweitstimme die Partei.”","src":"video"},
+    {"t":"mc","q":"Welche Wahlen nennt Sebastian?","o":["Landtags-, Kommunal-, Bundestags- und Europawahl","Nur die Bundestagswahl","Nur die Europawahl"],"a":0,"why":"Vier Ebenen.","src":"video"},
+    {"t":"fill","q":"Der Landtag ___ im nächsten Monat gewählt. (wird / wurde)","a":["wird"],"why":"Präsens Passiv: wird gewählt.","src":"grammar"},
+    {"t":"fill","q":"Der Kandidat ist gewählt ___. (worden / geworden)","a":["worden"],"why":"Perfekt Passiv: worden.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist Passiv?","o":["Die Partei wird mit der Zweitstimme gewählt.","Die Partei wählt mit der Zweitstimme.","Die Partei hat gewählt."],"a":0,"why":"werden + Partizip II.","src":"grammar"},
+    {"t":"mc","q":"“die Demokratie” bedeutet:","o":["democracy","dictatorship","diplomacy"],"a":0,"why":"Wir leben in einer Demokratie.","src":"vocab"}
+  ]
+}
+}

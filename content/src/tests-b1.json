@@ -1,0 +1,273 @@
+{
+"b1": {
+"title": "B1 Level Test",
+"goal": "You have worked through 76 B1 lessons. Today you prove B1 before you start the 25 exam-prep days.",
+"notes": [
+{
+"heading": "How today works",
+"text": "1. Skim the review sheet (10 minutes).\n2. Take the official **Final Test B1** on Deutsche Welle (material 1) and note the result.\n3. Take today’s 25-question exam. You need **70%** to complete the day. If you miss it, read the explanations and retake."
+},
+{
+"heading": "Sentence structure and connectors",
+"text": "**Subordinate clauses** (verb at the end): weil, dass, wenn, als, ob, obwohl, damit, während, bevor, nachdem, seit(dem).\n**Main-clause adverbs** (verb in 2nd place): deshalb, deswegen, trotzdem, dagegen, jedoch, allerdings.\n**Double conjunctions:** entweder … oder, weder … noch, sowohl … als auch, nicht nur … sondern auch.\n**Purpose:** um … zu (same subject) / damit (different subjects).\n**Infinitive with zu:** Ich habe keine Lust, heute **zu** arbeiten. Separable: aufzustehen."
+},
+{
+"heading": "Tenses, passive and Konjunktiv",
+"text": "**Präteritum** (written/narrative): ging, kam, war, hatte. **Perfekt** (spoken). **Plusquamperfekt:** hatte/war + Partizip II (nachdem er gegessen hatte).\n**Passiv:** werden + Partizip II (wird gewählt, wurde gebaut, ist gebaut worden).\n**Konjunktiv II:** wäre, hätte, würde, könnte – wishes, advice, polite requests.\n**Futur I:** werden + Infinitiv (es wird wärmer werden)."
+},
+{
+"heading": "Cases, relative clauses, nouns",
+"text": "**Genitiv:** des Mannes, der Frau; wegen, trotz, während + Genitiv.\n**Relative clauses:** der Mann, **den** ich kenne · **dessen** Tochter · die Stadt, **wo** ich wohne.\n**n-Deklination:** der Student → den/dem/des Studenten.\n**Nouns:** -heit/-keit (die), -chen (das), -ung (die). **wo-compounds:** worauf, womit, wofür, worüber."
+}
+],
+"materials": [
+{
+"kind": "exercise",
+"title": "Final Test B1 – Nicos Weg",
+"source": "Deutsche Welle",
+"url": "https://learngerman.dw.com/de/abschlusstest-b1/l-44070818",
+"minutes": 25,
+"focus": "Take the official course test and write down the score. Any unit where you hesitate is your review list."
+},
+{
+"kind": "pdf",
+"title": "Grammar overview B1 (Nicos Weg)",
+"source": "Deutsche Welle",
+"url": "https://static.dw.com/downloads/59838242/grammatikuebersicht-nicos-weg-b1.pdf",
+"minutes": 10,
+"focus": "Read all B1 grammar tables and mark the ones you cannot recite from memory."
+}
+],
+"quiz": [
+{
+"t": "fill",
+"q": "Ich weiß nicht, ___ er heute kommt. (whether)",
+"a": [
+"ob"
+],
+"why": "Indirekte Ja/Nein-Frage → ob."
+},
+{
+"t": "mc",
+"q": "Which sentence is correct?",
+"o": [
+"Ich bleibe zu Hause, weil ich krank bin.",
+"Ich bleibe zu Hause, weil ich bin krank.",
+"Ich bleibe zu Hause, weil bin ich krank."
+],
+"a": 0,
+"why": "Nebensatz: Verb am Ende."
+},
+{
+"t": "fill",
+"q": "Es regnet. ___ gehe ich spazieren. (nevertheless)",
+"a": [
+"Trotzdem"
+],
+"why": "trotzdem + Verb an Position 2."
+},
+{
+"t": "mc",
+"q": "Complete: Er ist nicht müde, ___ hungrig.",
+"o": [
+"sondern",
+"aber",
+"denn"
+],
+"a": 0,
+"why": "nicht … sondern."
+},
+{
+"t": "fill",
+"q": "Ich mag weder Fisch ___ Fleisch.",
+"a": [
+"noch"
+],
+"why": "weder … noch."
+},
+{
+"t": "fill",
+"q": "Ich lerne Deutsch, ___ in Deutschland zu arbeiten.",
+"a": [
+"um"
+],
+"why": "um … zu."
+},
+{
+"t": "mc",
+"q": "“Ich helfe dir, ___ du früher fertig bist.”",
+"o": [
+"damit",
+"um",
+"weil"
+],
+"a": 0,
+"why": "Different subjects → damit."
+},
+{
+"t": "fill",
+"q": "Gestern ___ ich lange im Büro. (sein, Präteritum)",
+"a": [
+"war"
+],
+"why": "ich war."
+},
+{
+"t": "fill",
+"q": "Nachdem er gegessen ___, ging er spazieren. (haben, Plusquamperfekt)",
+"a": [
+"hatte"
+],
+"why": "hatte gegessen."
+},
+{
+"t": "fill",
+"q": "Der Landtag ___ im nächsten Monat gewählt. (werden, Passiv)",
+"a": [
+"wird"
+],
+"why": "wird gewählt."
+},
+{
+"t": "fill",
+"q": "Der Kandidat ist gewählt ___. (Perfekt Passiv)",
+"a": [
+"worden"
+],
+"why": "Perfekt Passiv: worden."
+},
+{
+"t": "fill",
+"q": "Wenn ich mehr Zeit ___, würde ich reisen. (haben, Konjunktiv II)",
+"a": [
+"hätte",
+"haette"
+],
+"why": "ich hätte."
+},
+{
+"t": "mc",
+"q": "Which sentence gives advice?",
+"o": [
+"An deiner Stelle würde ich zum Arzt gehen.",
+"Ich gehe zum Arzt.",
+"Er war beim Arzt."
+],
+"a": 0,
+"why": "Konjunktiv II."
+},
+{
+"t": "fill",
+"q": "Es ___ in Zukunft wärmer werden. (werden, Futur I)",
+"a": [
+"wird"
+],
+"why": "es wird."
+},
+{
+"t": "fill",
+"q": "___ des schlechten Wetters bleiben wir zu Hause. (because of)",
+"a": [
+"Wegen"
+],
+"why": "wegen + Genitiv."
+},
+{
+"t": "fill",
+"q": "Das ist der Mann, ___ Tochter Ärztin ist.",
+"a": [
+"dessen"
+],
+"why": "dessen + Nomen ohne Artikel."
+},
+{
+"t": "fill",
+"q": "Die Stadt, ___ ich geboren bin, ist klein.",
+"a": [
+"wo",
+"in der"
+],
+"why": "Relativadverb wo."
+},
+{
+"t": "fill",
+"q": "Ich kenne den Student___. (n-Deklination, Akkusativ)",
+"a": [
+"en",
+"Studenten"
+],
+"why": "den Studenten."
+},
+{
+"t": "mc",
+"q": "möglich → noun:",
+"o": [
+"die Möglichkeit",
+"das Möglich",
+"der Möglichheit"
+],
+"a": 0,
+"why": "-lich → -keit."
+},
+{
+"t": "mc",
+"q": "Gender of a noun ending in -chen:",
+"o": [
+"das",
+"der",
+"die"
+],
+"a": 0,
+"why": "Diminutiv: immer neutrum."
+},
+{
+"t": "fill",
+"q": "___ interessierst du dich? (for what)",
+"a": [
+"Wofür",
+"Wofuer"
+],
+"why": "wo(r) + für."
+},
+{
+"t": "fill",
+"q": "Ich lerne seit einem Jahr Deutsch, ___ ich in Deutschland wohne. (since)",
+"a": [
+"seit",
+"seitdem"
+],
+"why": "seit(dem) + Nebensatz."
+},
+{
+"t": "fill",
+"q": "Er lässt sich die Haare ___. (schneiden)",
+"a": [
+"schneiden"
+],
+"why": "lassen + Infinitiv."
+},
+{
+"t": "mc",
+"q": "Which comparison is correct?",
+"o": [
+"Er ist so alt wie ich.",
+"Er ist so älter wie ich.",
+"Er ist älter wie ich."
+],
+"a": 0,
+"why": "so … wie; älter als."
+},
+{
+"t": "mc",
+"q": "Which sentence contains the correct Genitiv?",
+"o": [
+"Das Auto des Nachbarn steht hier.",
+"Das Auto der Nachbarn steht hier (singular).",
+"Das Auto dem Nachbarn steht hier."
+],
+"a": 0,
+"why": "Maskulin Genitiv: des …(e)s / n-Nomen: des Nachbarn."
+}
+]
+}
+}

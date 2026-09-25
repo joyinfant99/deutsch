@@ -1,0 +1,1541 @@
+{
+"155": {
+"kind": "video",
+"title": "Job Interviews in Germany /w German LifeStyle GLS | Easy German 238",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=eC4j_v8TBIU",
+"minutes": 8,
+"focus": "Note the interview questions; prepare your own answers to three of them.",
+"questions": [
+{
+"t": "mc",
+"q": "“das Praktikum” means:",
+"o": [
+"internship",
+"practice room",
+"practical joke"
+],
+"a": 0,
+"why": "ein Praktikum machen."
+},
+{
+"t": "mc",
+"q": "“die Bewerbung” means:",
+"o": [
+"application",
+"reward",
+"description"
+],
+"a": 0,
+"why": "eine Bewerbung schreiben."
+},
+{
+"t": "fill",
+"q": "Ich habe ein Praktikum bei einer Firma ___. (machen, Partizip II)",
+"a": [
+"gemacht"
+],
+"why": "machen – gemacht."
+}
+]
+},
+"156": {
+"kind": "video",
+"title": "Studying in Germany | Easy German 170",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=nCNEJoqm8Dk",
+"minutes": 12,
+"focus": "Collect university words (Semester, Vorlesung, Prüfung). Say what you would study.",
+"questions": [
+{
+"t": "mc",
+"q": "“das Semester” means:",
+"o": [
+"half-year term",
+"exam",
+"degree"
+],
+"a": 0,
+"why": "Wintersemester."
+},
+{
+"t": "mc",
+"q": "“die Vorlesung” means:",
+"o": [
+"lecture",
+"reading",
+"preparation"
+],
+"a": 0,
+"why": "in die Vorlesung gehen."
+},
+{
+"t": "fill",
+"q": "Ich ___ Informatik. (studieren, ich)",
+"a": [
+"studiere"
+],
+"why": "ich studiere."
+}
+]
+},
+"157": {
+"kind": "video",
+"title": "Das Wetter & Wettervorhersage | Deutsch lernen",
+"source": "YouTube · Super Deutsch",
+"url": "https://www.youtube.com/watch?v=xxmyiTDi0rU",
+"minutes": 7,
+"focus": "Collect weather words and predict tomorrow’s weather in three sentences.",
+"questions": [
+{
+"t": "mc",
+"q": "“die Wettervorhersage” means:",
+"o": [
+"weather forecast",
+"weather station",
+"weather report of yesterday"
+],
+"a": 0,
+"why": "Wetter morgen."
+},
+{
+"t": "fill",
+"q": "Heute sind es 30 Grad, es ist sehr ___.",
+"a": [
+"heiß",
+"heiss"
+],
+"why": "heiß = hot."
+},
+{
+"t": "mc",
+"q": "“bewölkt” means:",
+"o": [
+"cloudy",
+"windy",
+"foggy"
+],
+"a": 0,
+"why": "der Himmel ist bewölkt."
+}
+]
+},
+"158": {
+"kind": "video",
+"title": "Das Wetter | A2 B1 B2 | Learn German | Deutsch lernen",
+"source": "YouTube · Benjamin - Der Deutschlehrer",
+"url": "https://www.youtube.com/watch?v=f7OfygAD6nI",
+"minutes": 10,
+"focus": "Note the extended weather vocabulary; use nicht nur … sondern auch to describe the weather.",
+"questions": [
+{
+"t": "mc",
+"q": "“die Hitze” means:",
+"o": [
+"heat",
+"hail",
+"height"
+],
+"a": 0,
+"why": "Bei Hitze viel trinken."
+},
+{
+"t": "fill",
+"q": "Bei Hitze soll man viel ___.",
+"a": [
+"trinken"
+],
+"why": "Flüssigkeit."
+},
+{
+"t": "mc",
+"q": "Which sentence is correct?",
+"o": [
+"Es ist nicht nur kalt, sondern auch nass.",
+"Es ist nur nicht kalt, sondern nass auch.",
+"Es ist nicht kalt, aber sondern nass."
+],
+"a": 0,
+"why": "nicht nur … sondern auch."
+}
+]
+},
+"159": {
+"kind": "video",
+"title": "B1 - Lesson 9 | Genitivpräpositionen | Wegen Während Trotz",
+"source": "YouTube · Learn German",
+"url": "https://www.youtube.com/watch?v=oskcXcv3_1w",
+"minutes": 12,
+"focus": "Note the meaning: wegen (because of), trotz (despite), während (during), statt (instead of).",
+"questions": [
+{
+"t": "fill",
+"q": "___ des schlechten Wetters bleiben wir zu Hause.",
+"a": [
+"Wegen"
+],
+"why": "wegen + Genitiv."
+},
+{
+"t": "mc",
+"q": "wegen is formally used with …",
+"o": [
+"the genitive",
+"the accusative",
+"the dative only"
+],
+"a": 0,
+"why": "In der Umgangssprache oft Dativ."
+},
+{
+"t": "fill",
+"q": "___ des Regens gehen wir spazieren. (despite)",
+"a": [
+"Trotz"
+],
+"why": "trotz + Genitiv."
+}
+]
+},
+"160": {
+"kind": "video",
+"title": "Klimawandel einfach erklärt (explainity® Erklärvideo)",
+"source": "YouTube · explainity",
+"url": "https://www.youtube.com/watch?v=Ds4HxRif8dA",
+"minutes": 4,
+"focus": "Note causes and consequences, then make three predictions with the Futur I.",
+"questions": [
+{
+"t": "mc",
+"q": "Futur I is formed with …",
+"o": [
+"werden + infinitive",
+"haben + Partizip II",
+"sein + Partizip II"
+],
+"a": 0,
+"why": "Es wird wärmer werden."
+},
+{
+"t": "fill",
+"q": "Es ___ in Zukunft wärmer werden. (werden, es)",
+"a": [
+"wird"
+],
+"why": "es wird."
+},
+{
+"t": "mc",
+"q": "“der Klimawandel” means:",
+"o": [
+"climate change",
+"weather forecast",
+"climate zone"
+],
+"a": 0,
+"why": "Klimawandel."
+}
+]
+},
+"161": {
+"kind": "video",
+"title": "B1 - Lesson 34 | Umwelt und Umweltschutz | Environment",
+"source": "YouTube · Learn German",
+"url": "https://www.youtube.com/watch?v=8etayvawQmg",
+"minutes": 10,
+"focus": "Collect environmental vocabulary and say three things you do for the environment.",
+"questions": [
+{
+"t": "mc",
+"q": "“die Umwelt” means:",
+"o": [
+"environment",
+"surroundings of a house",
+"world"
+],
+"a": 0,
+"why": "Umweltschutz."
+},
+{
+"t": "mc",
+"q": "“nachhaltig” means:",
+"o": [
+"sustainable",
+"late",
+"lasting a night"
+],
+"a": 0,
+"why": "nachhaltig leben."
+},
+{
+"t": "fill",
+"q": "Man ___ Müll trennen. (sollen, man)",
+"a": [
+"soll"
+],
+"why": "man soll."
+}
+]
+},
+"162": {
+"kind": "video",
+"title": "Wer ist schuld am Klimawandel? - Wer muss jetzt handeln?",
+"source": "YouTube · Dinge Erklärt – Kurzgesagt",
+"url": "https://www.youtube.com/watch?v=zbup1WK3qS0",
+"minutes": 11,
+"focus": "Note the main polluters and possible actions; write two sentences with weil.",
+"questions": [
+{
+"t": "mc",
+"q": "“die Verschmutzung” means:",
+"o": [
+"pollution",
+"cleaning",
+"shipment"
+],
+"a": 0,
+"why": "Luftverschmutzung."
+},
+{
+"t": "mc",
+"q": "“die Abgase” are:",
+"o": [
+"exhaust fumes",
+"waste water",
+"gases in a gas station"
+],
+"a": 0,
+"why": "Auto-Abgase."
+},
+{
+"t": "fill",
+"q": "Der Fluss ist stark ___. (verschmutzen, Partizip II)",
+"a": [
+"verschmutzt"
+],
+"why": "verschmutzt."
+}
+]
+},
+"163": {
+"kind": "video",
+"title": "Energiewende einfach erklärt - Erneuerbare & Fossile Energien",
+"source": "YouTube · Die Merkhilfe Wirtschaft",
+"url": "https://www.youtube.com/watch?v=dQGvXKxuGdU",
+"minutes": 6,
+"focus": "Sort the energy sources into erneuerbar and fossil.",
+"questions": [
+{
+"t": "mc",
+"q": "Which energy is NOT renewable?",
+"o": [
+"Kohle",
+"Sonne",
+"Wind"
+],
+"a": 0,
+"why": "Kohle = fossil."
+},
+{
+"t": "mc",
+"q": "“die Windkraft” means:",
+"o": [
+"wind power",
+"wind force ten",
+"wind farm"
+],
+"a": 0,
+"why": "Windkraftanlage."
+},
+{
+"t": "mc",
+"q": "“erneuerbare Energien” includes …",
+"o": [
+"solar and wind energy",
+"coal and gas",
+"oil"
+],
+"a": 0,
+"why": "Sonne, Wind, Wasser."
+}
+]
+},
+"164": {
+"kind": "video",
+"title": "Recycling in Germany | Super Easy German (128)",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=2yFEeFqbVwg",
+"minutes": 9,
+"focus": "Learn the bin colours and what goes where; note the word Pfand.",
+"questions": [
+{
+"t": "mc",
+"q": "Paper usually goes into the … bin.",
+"o": [
+"blue",
+"yellow",
+"black"
+],
+"a": 0,
+"why": "blaue Tonne = Papier."
+},
+{
+"t": "mc",
+"q": "The yellow bin/bag is for:",
+"o": [
+"plastic and metal packaging",
+"glass",
+"food waste"
+],
+"a": 0,
+"why": "gelbe Tonne / gelber Sack."
+},
+{
+"t": "fill",
+"q": "Flaschen mit ___ bringt man zurück in den Supermarkt.",
+"a": [
+"Pfand"
+],
+"why": "Pfand = deposit."
+}
+]
+},
+"165": {
+"kind": "video",
+"title": "Deutsch lernen mit Nachrichten - Neues Gesetz vereinfacht Einbürgerung",
+"source": "YouTube · Learn German",
+"url": "https://www.youtube.com/watch?v=8el16ybgG3I",
+"minutes": 10,
+"focus": "Read along: note news vocabulary (Gesetz, Regierung) and then summarise in two sentences.",
+"questions": [
+{
+"t": "mc",
+"q": "“die Nachrichten” (Pl.) means:",
+"o": [
+"the news",
+"messages",
+"reports of birth"
+],
+"a": 0,
+"why": "Nachrichten sehen."
+},
+{
+"t": "mc",
+"q": "“die Schlagzeile” means:",
+"o": [
+"headline",
+"punchline",
+"strike line"
+],
+"a": 0,
+"why": "Die Schlagzeile der Zeitung."
+},
+{
+"t": "fill",
+"q": "In der Zeitung ___ ein interessanter Artikel. (stehen, es)",
+"a": [
+"steht"
+],
+"why": "es steht."
+}
+]
+},
+"166": {
+"kind": "video",
+"title": "Journalistin werden: Stress vor Redaktionsschluss - Mein Alltag in der Lokalredaktion",
+"source": "YouTube · alpha Uni",
+"url": "https://www.youtube.com/watch?v=rd-SCRlTUhU",
+"minutes": 12,
+"focus": "Note what an editor does in a day; write down five job-related words.",
+"questions": [
+{
+"t": "mc",
+"q": "“der Redakteur / die Redakteurin” means:",
+"o": [
+"editor",
+"reporter of a court",
+"reaction"
+],
+"a": 0,
+"why": "In der Redaktion."
+},
+{
+"t": "mc",
+"q": "“der Redaktionsschluss” means:",
+"o": [
+"editorial deadline",
+"end of a job",
+"closing of a shop"
+],
+"a": 0,
+"why": "Redaktionsschluss um 18 Uhr."
+},
+{
+"t": "fill",
+"q": "Der Artikel muss bis 18 Uhr ___ sein.",
+"a": [
+"fertig"
+],
+"why": "fertig sein."
+}
+]
+},
+"167": {
+"kind": "video",
+"title": "10 APPS that will SIMPLIFY YOUR LIFE in Germany",
+"source": "YouTube · Simple Germany",
+"url": "https://www.youtube.com/watch?v=Yro2yNl-mCI",
+"minutes": 10,
+"focus": "Collect app and media vocabulary; say if you prefer analog or digital.",
+"questions": [
+{
+"t": "mc",
+"q": "The opposite of “digital” is:",
+"o": [
+"analog",
+"digitalisiert",
+"digital-los"
+],
+"a": 0,
+"why": "analog vs. digital."
+},
+{
+"t": "mc",
+"q": "“herunterladen” means:",
+"o": [
+"to download",
+"to lower",
+"to load a truck"
+],
+"a": 0,
+"why": "eine App herunterladen."
+},
+{
+"t": "mc",
+"q": "“die Bildschirmzeit” means:",
+"o": [
+"screen time",
+"time in front of a projector",
+"exam time"
+],
+"a": 0,
+"why": "Bildschirm = screen."
+}
+]
+},
+"168": {
+"kind": "video",
+"title": "Wortschatz Werbungen | Vocabulary | Advertisement | A1-A2-B1",
+"source": "YouTube · Lingo Guru",
+"url": "https://www.youtube.com/watch?v=wEB0TiDPD_c",
+"minutes": 6,
+"focus": "Collect ad vocabulary (Angebot, Rabatt, kostenlos, Anzeige).",
+"questions": [
+{
+"t": "mc",
+"q": "“die Werbung” means:",
+"o": [
+"advertising",
+"recruiting",
+"work"
+],
+"a": 0,
+"why": "Werbung im Fernsehen."
+},
+{
+"t": "mc",
+"q": "“die Anzeige, -n” means:",
+"o": [
+"advertisement (ad)",
+"display",
+"announcement of a wedding only"
+],
+"a": 0,
+"why": "Kleinanzeige."
+},
+{
+"t": "mc",
+"q": "“kostenlos” means:",
+"o": [
+"free of charge",
+"costly",
+"cost-effective"
+],
+"a": 0,
+"why": "kostenlos = gratis."
+}
+]
+},
+"169": {
+"kind": "video",
+"title": "7 More Things NOT to Do in Germany | Easy German 354",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=hLoatpfE7VM",
+"minutes": 10,
+"focus": "Note the social mistakes that are peinlich; tell one embarrassing story using Perfekt.",
+"questions": [
+{
+"t": "mc",
+"q": "“peinlich” means:",
+"o": [
+"embarrassing",
+"painful",
+"pleasant"
+],
+"a": 0,
+"why": "Das war mir peinlich."
+},
+{
+"t": "mc",
+"q": "“das Missgeschick” means:",
+"o": [
+"mishap",
+"misfortune shop",
+"mistake in grammar only"
+],
+"a": 0,
+"why": "Mir ist ein Missgeschick passiert."
+},
+{
+"t": "fill",
+"q": "Das war mir sehr ___.",
+"a": [
+"peinlich"
+],
+"why": "peinlich."
+}
+]
+},
+"170": {
+"kind": "video",
+"title": "Dialog auf Deutsch im Restaurant (A2, B1, B2) | Essen + Getränke bestellen",
+"source": "YouTube · Learn German with Leo",
+"url": "https://www.youtube.com/watch?v=eJEbC-8c3l4",
+"minutes": 12,
+"focus": "Note polite phrases for ordering and paying; practise the dialogue aloud.",
+"questions": [
+{
+"t": "mc",
+"q": "In Germany you usually give a tip …",
+"o": [
+"of about 5–10 %, often by rounding up",
+"never",
+"of 30 %"
+],
+"a": 0,
+"why": "Trinkgeld geben."
+},
+{
+"t": "fill",
+"q": "Man ___ nicht mit vollem Mund sprechen. (sollen, man)",
+"a": [
+"soll"
+],
+"why": "man soll."
+},
+{
+"t": "mc",
+"q": "“Guten Appetit!” is said …",
+"o": [
+"before eating",
+"after eating",
+"when paying"
+],
+"a": 0,
+"why": "vor dem Essen."
+}
+]
+},
+"171": {
+"kind": "video",
+"title": "Partizip I oder II? Grammatik einfach lernen! Deutsch B1-C1",
+"source": "YouTube · Lingster Academy",
+"url": "https://www.youtube.com/watch?v=3oiWy0RuIdY",
+"minutes": 8,
+"focus": "Note how Partizip I is formed (Infinitiv + d) and used as an adjective.",
+"questions": [
+{
+"t": "mc",
+"q": "Partizip I is formed with infinitive + …",
+"o": [
+"-d",
+"-t",
+"-en"
+],
+"a": 0,
+"why": "lachen → lachend."
+},
+{
+"t": "fill",
+"q": "lachen → das ___ Kind",
+"a": [
+"lachende"
+],
+"why": "lachend + e."
+},
+{
+"t": "mc",
+"q": "“der wartende Mann” means:",
+"o": [
+"the man who is waiting",
+"the man who was waited for",
+"the man who waits for nothing"
+],
+"a": 0,
+"why": "Partizip I = aktiv."
+}
+]
+},
+"172": {
+"kind": "video",
+"title": "B1 - Lesson 31 | etwas reklamieren | to complain",
+"source": "YouTube · Learn German",
+"url": "https://www.youtube.com/watch?v=cvS_YPCyLnA",
+"minutes": 10,
+"focus": "Note phrases for complaints; write a short complaint about a broken product.",
+"questions": [
+{
+"t": "mc",
+"q": "“reklamieren” means:",
+"o": [
+"to complain about a defect",
+"to advertise",
+"to reclaim land"
+],
+"a": 0,
+"why": "Ich möchte reklamieren."
+},
+{
+"t": "fill",
+"q": "Nachdem ich das Handy gekauft ___, funktionierte es nicht. (haben, Plusquamperfekt)",
+"a": [
+"hatte"
+],
+"why": "hatte gekauft."
+},
+{
+"t": "mc",
+"q": "“der Kassenbon” means:",
+"o": [
+"receipt",
+"cash box",
+"cash bond"
+],
+"a": 0,
+"why": "Ohne Kassenbon kein Umtausch."
+}
+]
+},
+"173": {
+"kind": "video",
+"title": "Finally 18! What changes for you when you come of age",
+"source": "YouTube · Mädchenkram",
+"url": "https://www.youtube.com/watch?v=JDNBix-ZvLc",
+"minutes": 4,
+"focus": "Note which rights and duties come with 18 and compare with your country.",
+"questions": [
+{
+"t": "mc",
+"q": "At what age are you volljährig in Germany?",
+"o": [
+"18",
+"16",
+"21"
+],
+"a": 0,
+"why": "Volljährigkeit mit 18."
+},
+{
+"t": "mc",
+"q": "“minderjährig” means:",
+"o": [
+"underage",
+"of minor importance",
+"min-year old"
+],
+"a": 0,
+"why": "unter 18."
+},
+{
+"t": "mc",
+"q": "“der Führerschein” means:",
+"o": [
+"driving licence",
+"leader’s ticket",
+"fire certificate"
+],
+"a": 0,
+"why": "den Führerschein machen."
+}
+]
+},
+"174": {
+"kind": "video",
+"title": "Konnektor seit/seitdem | Nebensatz mit seit/seitdem und Präposition seit",
+"source": "YouTube · Deutschprüfungen",
+"url": "https://www.youtube.com/watch?v=gaoO8iwI5KY",
+"minutes": 3,
+"focus": "Note the difference between the preposition seit + Dativ and the conjunction seit(dem) + Nebensatz.",
+"questions": [
+{
+"t": "fill",
+"q": "Ich lerne ___ einem Jahr Deutsch.",
+"a": [
+"seit"
+],
+"why": "seit + Dativ."
+},
+{
+"t": "mc",
+"q": "Seit ich in Deutschland ___, lerne ich Deutsch.",
+"o": [
+"wohne",
+"wohnen",
+"wohnst"
+],
+"a": 0,
+"why": "Verb am Ende."
+},
+{
+"t": "mc",
+"q": "“Seit wann wohnst du hier?” Which answer fits?",
+"o": [
+"Seit 2020.",
+"Vor 2020 bis morgen.",
+"Nach dem Essen."
+],
+"a": 0,
+"why": "seit + Zeitpunkt."
+}
+]
+},
+"175": {
+"kind": "video",
+"title": "Das Plusquamperfekt - Vorvergangenheit einfach erklärt",
+"source": "YouTube · Nachhilfe vom Lehrer",
+"url": "https://www.youtube.com/watch?v=0h7tQQYrg6U",
+"minutes": 5,
+"focus": "Note the formation: hatte/war + Partizip II; use it with nachdem.",
+"questions": [
+{
+"t": "fill",
+"q": "Nachdem er gegessen ___, ging er spazieren. (haben, Plusquamperfekt)",
+"a": [
+"hatte"
+],
+"why": "hatte gegessen."
+},
+{
+"t": "fill",
+"q": "___ ich ins Bett gehe, putze ich die Zähne. (before)",
+"a": [
+"Bevor"
+],
+"why": "bevor."
+},
+{
+"t": "mc",
+"q": "Plusquamperfekt = …",
+"o": [
+"hatte/war + Partizip II",
+"habe/bin + Partizip II",
+"werde + Infinitiv"
+],
+"a": 0,
+"why": "Vorvergangenheit."
+}
+]
+},
+"176": {
+"kind": "video",
+"title": "Neues Leben beginnen: 5 Schritte für deinen Neuanfang",
+"source": "YouTube · Glücksdetektiv",
+"url": "https://www.youtube.com/watch?v=-isJcGa4gLE",
+"minutes": 11,
+"focus": "Note the five steps; pick one and write how you could start it.",
+"questions": [
+{
+"t": "mc",
+"q": "“der Neuanfang” means:",
+"o": [
+"fresh start",
+"new beginning of a film",
+"new anchor"
+],
+"a": 0,
+"why": "einen Neuanfang wagen."
+},
+{
+"t": "mc",
+"q": "“sich verändern” means:",
+"o": [
+"to change",
+"to reject",
+"to delay"
+],
+"a": 0,
+"why": "Ich habe mich verändert."
+},
+{
+"t": "fill",
+"q": "Es ist nie zu spät, ___ Neuanfang zu wagen. (einen)",
+"a": [
+"einen"
+],
+"why": "Akkusativ maskulin."
+}
+]
+},
+"177": {
+"kind": "video",
+"title": "DER GENITIV - Einfach erklärt für Deutschlerner A2-C1",
+"source": "YouTube · Lingster Academy",
+"url": "https://www.youtube.com/watch?v=K0SGXxkB5ZM",
+"minutes": 13,
+"focus": "Note the endings: des/der + -(e)s and how von + Dativ replaces the genitive in speech.",
+"questions": [
+{
+"t": "fill",
+"q": "das Auto ___ Nachbarn (der Nachbar)",
+"a": [
+"des"
+],
+"why": "Maskulin Genitiv: des."
+},
+{
+"t": "mc",
+"q": "der Name ___ Stadt (die Stadt)",
+"o": [
+"der",
+"des",
+"dem"
+],
+"a": 0,
+"why": "Feminin Genitiv: der."
+},
+{
+"t": "mc",
+"q": "die Bücher ___ Kinder (Plural)",
+"o": [
+"der",
+"des",
+"den"
+],
+"a": 0,
+"why": "Plural Genitiv: der."
+}
+]
+},
+"178": {
+"kind": "video",
+"title": "Die Europäische Union einfach erklärt (explainity® Erklärvideo)",
+"source": "YouTube · explainity",
+"url": "https://www.youtube.com/watch?v=pQHUOTCRv3E",
+"minutes": 4,
+"focus": "Note the EU goals and institutions; write three facts.",
+"questions": [
+{
+"t": "mc",
+"q": "What is the common currency of many EU countries?",
+"o": [
+"the euro",
+"the mark",
+"the franc"
+],
+"a": 0,
+"why": "Euro."
+},
+{
+"t": "mc",
+"q": "Where is the European Commission based?",
+"o": [
+"Brussels",
+"Berlin",
+"Vienna"
+],
+"a": 0,
+"why": "Brüssel."
+},
+{
+"t": "mc",
+"q": "“der Mitgliedstaat” means:",
+"o": [
+"member state",
+"state of mind",
+"membership fee"
+],
+"a": 0,
+"why": "Mitgliedstaaten."
+}
+]
+},
+"179": {
+"kind": "video",
+"title": "Steuern in Deutschland einfach erklärt (explainity® Erklärvideo)",
+"source": "YouTube · explainity",
+"url": "https://www.youtube.com/watch?v=ghJhy40yCfM",
+"minutes": 3,
+"focus": "Note the types of tax and what they finance.",
+"questions": [
+{
+"t": "mc",
+"q": "“die Steuer, -n” means:",
+"o": [
+"tax",
+"steering wheel",
+"tax refund"
+],
+"a": 0,
+"why": "Steuern zahlen."
+},
+{
+"t": "mc",
+"q": "“die Einkommensteuer” means:",
+"o": [
+"income tax",
+"incoming mail",
+"income insurance"
+],
+"a": 0,
+"why": "Einkommen = income."
+},
+{
+"t": "fill",
+"q": "Man gibt beim Finanzamt die ___ ab. (tax return)",
+"a": [
+"Steuererklärung"
+],
+"why": "Steuererklärung."
+}
+]
+},
+"180": {
+"kind": "video",
+"title": "Erst- und Zweitstimme",
+"source": "YouTube · Bundeszentrale für politische Bildung",
+"url": "https://www.youtube.com/watch?v=7RMKwP_854M",
+"minutes": 3,
+"focus": "Note what each vote is for and how they combine.",
+"questions": [
+{
+"t": "mc",
+"q": "With the Erststimme you vote for …",
+"o": [
+"a candidate",
+"a party",
+"the chancellor"
+],
+"a": 0,
+"why": "Wahlkreiskandidat."
+},
+{
+"t": "mc",
+"q": "With the Zweitstimme you vote for …",
+"o": [
+"a party",
+"a candidate",
+"the president"
+],
+"a": 0,
+"why": "Parteistimme."
+},
+{
+"t": "fill",
+"q": "Der Bundestag ___ gewählt. (werden, Passiv Präsens)",
+"a": [
+"wird"
+],
+"why": "wird gewählt."
+}
+]
+},
+"181": {
+"kind": "video",
+"title": "Ruhr area - Germany's largest metropolitan area",
+"source": "YouTube · Die Welt in Karten",
+"url": "https://www.youtube.com/watch?v=9N_1Hdf8SCI",
+"minutes": 6,
+"focus": "Note the cities and the history; name three Ruhr cities.",
+"questions": [
+{
+"t": "mc",
+"q": "Which city belongs to the Ruhrgebiet?",
+"o": [
+"Essen",
+"München",
+"Hamburg"
+],
+"a": 0,
+"why": "Essen, Dortmund, Duisburg."
+},
+{
+"t": "fill",
+"q": "das Haus → das ___ (small)",
+"a": [
+"Häuschen",
+"Haeuschen"
+],
+"why": "-chen + Umlaut."
+},
+{
+"t": "mc",
+"q": "The Ruhrgebiet is known for …",
+"o": [
+"coal mining and industry",
+"wine",
+"skiing"
+],
+"a": 0,
+"why": "Bergbau und Stahl."
+}
+]
+},
+"182": {
+"kind": "video",
+"title": "Strukturwandel - Wirtschaftssektoren 1",
+"source": "YouTube · Geographie - simpleclub",
+"url": "https://www.youtube.com/watch?v=RAikJlwcdw0",
+"minutes": 4,
+"focus": "Sort jobs into the three sectors.",
+"questions": [
+{
+"t": "mc",
+"q": "Industry belongs to the … sector.",
+"o": [
+"secondary",
+"primary",
+"tertiary"
+],
+"a": 0,
+"why": "sekundärer Sektor."
+},
+{
+"t": "mc",
+"q": "Services belong to the … sector.",
+"o": [
+"tertiary",
+"primary",
+"secondary"
+],
+"a": 0,
+"why": "tertiärer Sektor."
+},
+{
+"t": "fill",
+"q": "___ der Arbeitszeit darf man nicht privat telefonieren. (during + Genitiv)",
+"a": [
+"Während",
+"Waehrend"
+],
+"why": "während + Genitiv."
+}
+]
+},
+"183": {
+"kind": "video",
+"title": "Strukturwandel im Ruhrgebiet einfach erklärt",
+"source": "YouTube · selbstorientiert",
+"url": "https://www.youtube.com/watch?v=8kNzlAwT-xI",
+"minutes": 11,
+"focus": "Note the phases: Kohle, Krise, neue Branchen. Use wie/als to compare then and now.",
+"questions": [
+{
+"t": "mc",
+"q": "“der Strukturwandel” means:",
+"o": [
+"structural change",
+"building work",
+"change of clothes"
+],
+"a": 0,
+"why": "Wandel = change."
+},
+{
+"t": "fill",
+"q": "Heute gibt es weniger Bergwerke ___ früher.",
+"a": [
+"als"
+],
+"why": "Komparativ + als."
+},
+{
+"t": "mc",
+"q": "Which sentence is correct?",
+"o": [
+"Er ist so alt wie ich.",
+"Er ist so alt als ich.",
+"Er ist so älter wie ich."
+],
+"a": 0,
+"why": "so … wie."
+}
+]
+},
+"184": {
+"kind": "video",
+"title": "Deutsch lernen (A2) | Das Deutschlandlabor | Folge 18: Kunst",
+"source": "YouTube · Deutsch lernen mit der DW",
+"url": "https://www.youtube.com/watch?v=Wj03L7Js55w",
+"minutes": 5,
+"focus": "Note art vocabulary; describe a picture you like.",
+"questions": [
+{
+"t": "mc",
+"q": "“die Ausstellung” means:",
+"o": [
+"exhibition",
+"position",
+"statement"
+],
+"a": 0,
+"why": "eine Ausstellung besuchen."
+},
+{
+"t": "mc",
+"q": "“das Gemälde” means:",
+"o": [
+"painting",
+"gem",
+"stamp"
+],
+"a": 0,
+"why": "Gemälde im Museum."
+},
+{
+"t": "mc",
+"q": "“der Künstler” means:",
+"o": [
+"artist",
+"craftsman of trade",
+"cunning man"
+],
+"a": 0,
+"why": "Künstler und Künstlerin."
+}
+]
+},
+"185": {
+"kind": "video",
+"title": "Is Germany an Attractive Country For Immigration? | Easy German 612",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=OyuXSJ9pG6M",
+"minutes": 14,
+"focus": "Listen for reasons for and against; note migration vocabulary.",
+"questions": [
+{
+"t": "mc",
+"q": "“einwandern” means:",
+"o": [
+"to immigrate",
+"to walk in",
+"to move a wall"
+],
+"a": 0,
+"why": "Er ist eingewandert."
+},
+{
+"t": "mc",
+"q": "“die Aufenthaltserlaubnis” means:",
+"o": [
+"residence permit",
+"permission to leave",
+"stay-at-home order"
+],
+"a": 0,
+"why": "Aufenthalt = stay."
+},
+{
+"t": "fill",
+"q": "Ich bin ___ zwei Jahren nach Deutschland gekommen. (ago)",
+"a": [
+"vor"
+],
+"why": "vor + Dativ."
+}
+]
+},
+"186": {
+"kind": "video",
+"title": "Integration in Germany (with Abdul and Allaa from German LifeStyle) | Easy German",
+"source": "YouTube · Easy German",
+"url": "https://www.youtube.com/watch?v=yanc4sZuaPE",
+"minutes": 11,
+"focus": "Note experiences with language, work and neighbours; say what helps you feel at home.",
+"questions": [
+{
+"t": "mc",
+"q": "“die Integration” means:",
+"o": [
+"integration",
+"integrity",
+"interaction"
+],
+"a": 0,
+"why": "Integration in Deutschland."
+},
+{
+"t": "mc",
+"q": "“sich einleben” means:",
+"o": [
+"to settle in",
+"to enter life",
+"to live alone"
+],
+"a": 0,
+"why": "Ich habe mich eingelebt."
+},
+{
+"t": "mc",
+"q": "“der Integrationskurs” is …",
+"o": [
+"a language and orientation course",
+"a math course",
+"a sports club"
+],
+"a": 0,
+"why": "Sprachkurs + Orientierung."
+}
+]
+},
+"187": {
+"kind": "video",
+"title": "German Lesson (124) - Relativpronomen im Genitiv - dessen - deren - B1/B2",
+"source": "YouTube · lingoni GERMAN",
+"url": "https://www.youtube.com/watch?v=9zTMQXR13uU",
+"minutes": 8,
+"focus": "Note that dessen/deren replaces the article of the following noun.",
+"questions": [
+{
+"t": "fill",
+"q": "Das ist der Mann, ___ Tochter Ärztin ist.",
+"a": [
+"dessen"
+],
+"why": "dessen bei maskulin."
+},
+{
+"t": "fill",
+"q": "Das ist die Frau, ___ Sohn in Berlin lebt.",
+"a": [
+"deren"
+],
+"why": "deren bei feminin."
+},
+{
+"t": "mc",
+"q": "After dessen/deren the noun has …",
+"o": [
+"no article",
+"der article",
+"a definite article in dative"
+],
+"a": 0,
+"why": "dessen Tochter."
+}
+]
+},
+"188": {
+"kind": "video",
+"title": "Selbstständig machen in 13 Schritten | Selbstständigkeit Grundlagen ganz einfach",
+"source": "YouTube · STEUERFIT",
+"url": "https://www.youtube.com/watch?v=5LznsgvEaTs",
+"minutes": 13,
+"focus": "Note the steps to start a business; name the first three.",
+"questions": [
+{
+"t": "mc",
+"q": "“selbstständig” means:",
+"o": [
+"self-employed, independent",
+"selfish",
+"self-service"
+],
+"a": 0,
+"why": "selbstständig arbeiten."
+},
+{
+"t": "mc",
+"q": "“die Gründung” means:",
+"o": [
+"founding",
+"ground",
+"reason of anger"
+],
+"a": 0,
+"why": "Firmengründung."
+},
+{
+"t": "mc",
+"q": "Complete: Die Firma ist klein, ___ sehr erfolgreich.",
+"o": [
+"dennoch",
+"deshalb",
+"außerdem"
+],
+"a": 0,
+"why": "dennoch = contrast."
+}
+]
+},
+"189": {
+"kind": "video",
+"title": "Relativsätze mit \"wo\" und \"was\" | How to make relative clauses more simple",
+"source": "YouTube · Deutsch1",
+"url": "https://www.youtube.com/watch?v=z--oZ4_Cyfo",
+"minutes": 6,
+"focus": "Note when to use wo (places) and was (after alles, nichts, das Beste).",
+"questions": [
+{
+"t": "fill",
+"q": "Die Stadt, ___ ich wohne, ist klein.",
+"a": [
+"wo",
+"in der"
+],
+"why": "wo = in der."
+},
+{
+"t": "mc",
+"q": "After “alles” the relative pronoun is …",
+"o": [
+"was",
+"das",
+"wo"
+],
+"a": 0,
+"why": "alles, was …"
+},
+{
+"t": "mc",
+"q": "Das Beste, ___ ich kenne.",
+"o": [
+"was",
+"das",
+"wo"
+],
+"a": 0,
+"why": "nach Superlativ: was."
+}
+]
+},
+"190": {
+"kind": "video",
+"title": "Das Verb \"lassen\" klar erklärt (modale Bedeutung)",
+"source": "YouTube · DeutschLera",
+"url": "https://www.youtube.com/watch?v=Jv5mIw0Etc4",
+"minutes": 10,
+"focus": "Note the meanings: allow, cause to be done, leave.",
+"questions": [
+{
+"t": "fill",
+"q": "Ich ___ mein Auto reparieren. (lassen, ich)",
+"a": [
+"lasse"
+],
+"why": "ich lasse."
+},
+{
+"t": "mc",
+"q": "“Er lässt sich die Haare schneiden” means …",
+"o": [
+"someone else cuts his hair",
+"he cuts his hair himself",
+"he refuses to cut hair"
+],
+"a": 0,
+"why": "Veranlassung."
+},
+{
+"t": "mc",
+"q": "Perfekt: Ich habe ihn kommen ___.",
+"o": [
+"lassen",
+"gelassen",
+"lässt"
+],
+"a": 0,
+"why": "Ersatzinfinitiv."
+}
+]
+},
+"191": {
+"kind": "video",
+"title": "Die N-DEKLINATION einfach erklärt (Deutsch lernen | Grammatik)",
+"source": "YouTube · Dein Sprachcoach",
+"url": "https://www.youtube.com/watch?v=z_GAd4Qml7M",
+"minutes": 11,
+"focus": "Learn the group typical n-nouns (Student, Kollege, Herr, Mensch).",
+"questions": [
+{
+"t": "fill",
+"q": "Ich kenne den Student___.",
+"a": [
+"en",
+"Studenten"
+],
+"why": "den Studenten."
+},
+{
+"t": "mc",
+"q": "Which noun follows the n-declension?",
+"o": [
+"der Junge",
+"der Tisch",
+"der Apfel"
+],
+"a": 0,
+"why": "den Jungen."
+},
+{
+"t": "fill",
+"q": "Ich helfe dem Kollege___.",
+"a": [
+"n",
+"Kollegen"
+],
+"why": "dem Kollegen."
+}
+]
+},
+"192": {
+"kind": "video",
+"title": "B1 - Lesson 25 | Konjunktiv II | Irreale Wünsche und Träume",
+"source": "YouTube · Learn German",
+"url": "https://www.youtube.com/watch?v=fvALt7eKK14",
+"minutes": 5,
+"focus": "Note wenn + Konjunktiv II and hätte/wäre; write three wishes of your own.",
+"questions": [
+{
+"t": "fill",
+"q": "Ich wünschte, ich ___ mehr Zeit. (haben, Konjunktiv II)",
+"a": [
+"hätte",
+"haette"
+],
+"why": "ich hätte."
+},
+{
+"t": "mc",
+"q": "Wenn ich doch nur fliegen ___!",
+"o": [
+"könnte",
+"kann",
+"konnte"
+],
+"a": 0,
+"why": "Konjunktiv II."
+},
+{
+"t": "mc",
+"q": "“Es wäre schön, wenn …” expresses …",
+"o": [
+"a wish",
+"a fact",
+"an order"
+],
+"a": 0,
+"why": "Wunsch."
+}
+]
+}
+}

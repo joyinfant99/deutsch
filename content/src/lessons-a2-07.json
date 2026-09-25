@@ -1,0 +1,146 @@
+{
+"a2-29": {
+  "goal": "Talk about advertising and reaching customers, say how often and how much (zehn Prozent mehr), and use “nichts Schöneres als …”.",
+  "words": [
+    ["die Werbung", "advertising"],
+    ["die Werbeagentur, -en", "advertising agency"],
+    ["der Kunde, -n / die Kundin", "customer (m/f)"],
+    ["der Slogan / der Text", "slogan / text"],
+    ["die Freiheit / die Leidenschaft", "freedom / passion"],
+    ["das Internet", "the internet"],
+    ["zehn Prozent mehr", "ten percent more"],
+    ["beauftragen", "to commission"],
+    ["reparieren", "to repair"],
+    ["der Reifen, - / die Bremse, -n", "tyre / brake"],
+    ["fantasievoll", "imaginative"],
+    ["Wo erreicht man viele Menschen?", "Where do you reach many people?"]
+  ],
+  "grammar": {
+    "title": "Comparing with nichts / etwas + adjective, and how often",
+    "text": "After **nichts / etwas / viel / alles** an adjective becomes a **noun** with a capital letter and the ending **-es**:\n\n- Es gibt **nichts Schöneres** als Radfahren. (nothing more beautiful than cycling)\n- Ich möchte **etwas Neues** ausprobieren.\n- Das ist **nichts Besonderes**.\n\n**Frequency** (Wie oft?): immer, oft, manchmal, selten, nie – **einmal / zweimal pro Woche** – **jeden Tag**. Proportions: **zehn Prozent mehr Kunden**.",
+    "ex": [
+      ["Es gibt doch nichts Schöneres als Radfahren.", "There is nothing lovelier than cycling."],
+      ["Ich brauche gute, fantasievolle Werbung.", "I need good, imaginative advertising."],
+      ["Ich brauche zehn Prozent mehr Kunden.", "I need ten percent more customers."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What is the slogan Max and Tarek try out?","o":["“Es gibt nichts Schöneres als Radfahren. Pure Freiheit!”","“Kaufen Sie jetzt Fahrräder!”","“Yara repariert alles.”"],"a":0,"why":"They rehearse an advertising slogan.","src":"video"},
+    {"t":"mc","q":"Why does Yara need more customers?","o":["Her landlord is raising the rent","She wants to open a second shop","She wants to retire"],"a":0,"why":"“Herr Friese erhöht meine Miete. Also brauche ich mehr Kunden.”","src":"video"},
+    {"t":"mc","q":"Why doesn’t Yara hire an advertising agency?","o":["It is far too expensive","She does not trust agencies","There are none in town"],"a":0,"why":"“Das ist viel zu teuer. Ich mache das lieber selbst.”","src":"video"},
+    {"t":"mc","q":"How many more customers does Yara need?","o":["Ten percent more","Twice as many","A hundred more"],"a":0,"why":"“Ich brauche zehn Prozent mehr Kunden.”","src":"video"},
+    {"t":"mc","q":"Where do you reach many people, says Max?","o":["On the internet","In the newspaper","On the radio"],"a":0,"why":"“Im Internet!”","src":"video"},
+    {"t":"fill","q":"Es gibt nichts ___ als Radfahren. (schön → comparative as noun)","a":["Schöneres","Schoeneres"],"why":"nichts + Adjektiv + -es.","src":"grammar"},
+    {"t":"mc","q":"“die Werbung” is:","o":["advertising","a warning","a tool"],"a":0,"why":"Werbung machen = to advertise.","src":"vocab"},
+    {"t":"mc","q":"“zweimal pro Woche” answers the question:","o":["Wie oft?","Wie lange?","Wie viel?"],"a":0,"why":"Wie oft? = how often?","src":"grammar"}
+  ]
+},
+"a2-30": {
+  "goal": "Talk about websites and social networks, and ask yes/no questions indirectly with ob (Ich möchte wissen, ob du mir hilfst).",
+  "words": [
+    ["die Website / die Webseite, -n", "website"],
+    ["das soziale Netzwerk, -e", "social network"],
+    ["liken / posten", "to like / to post"],
+    ["das Smartphone / das Tablet / der Laptop", "smartphone / tablet / laptop"],
+    ["erstellen", "to create"],
+    ["der Mitarbeiter, -", "employee"],
+    ["der Auftrag, Aufträge", "job, order"],
+    ["sich lohnen", "to be worth it"],
+    ["die Möglichkeit, -en", "possibility"],
+    ["überarbeitet", "revised"],
+    ["immer und überall", "always and everywhere"],
+    ["Das lohnt sich nicht.", "It’s not worth it."]
+  ],
+  "grammar": {
+    "title": "Indirect questions with ob",
+    "text": "A **yes/no question** becomes a subordinate clause with **ob** (whether / if). The verb goes to the **end**:\n\n- Hilfst du mir? → Ich möchte wissen, **ob** du mir **hilfst**.\n- Kannst du eine Webseite machen? → Ich habe dich gefragt, **ob** du eine Webseite für mich machen **kannst**.\n\nIntroductory phrases: **Ich möchte wissen, …**, **Ich habe gefragt, …**, **Weißt du, …?**, **Ich weiß nicht, …** Compare: W-questions use their question word: Ich weiß nicht, **wann** er kommt.",
+    "ex": [
+      ["Ich möchte wissen, ob du mir hilfst.", "I want to know whether you’ll help me."],
+      ["Ich habe dich gefragt, ob du eine Webseite für mich machen kannst.", "I asked you whether you can make a website for me."],
+      ["Ich weiß nicht, ob er Zeit hat.", "I don’t know if he has time."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Pepe’s company do?","o":["It designs digital solutions, websites and blogs","It sells bicycles","It runs a restaurant"],"a":0,"why":"“Wir designen digitale Lösungen: Marketingkonzepte, Blogs …”","src":"video"},
+    {"t":"mc","q":"According to Pepe, what is not enough for a shop?","o":["A website alone – you need social networks too","A phone number","A sign in the window"],"a":0,"why":"“Eine Website allein reicht nicht.”","src":"video"},
+    {"t":"mc","q":"Why does Pepe refuse to build Yara’s website?","o":["Her shop is too small – it’s not worth it for his firm","He has no time this week","He doesn’t know how"],"a":0,"why":"“Dein Laden hier ist einfach zu klein. Das lohnt sich nicht.”","src":"video"},
+    {"t":"mc","q":"What does Yara say about Pepe at the end?","o":["He is not interested in his family","He is very generous","He is a good teacher"],"a":0,"why":"“Du interessierst dich überhaupt nicht für deine Familie.”","src":"video"},
+    {"t":"fill","q":"Ich möchte wissen, ___ du mir hilfst. (whether)","a":["ob"],"why":"yes/no indirect question: ob.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Ich weiß nicht, ob er kommt.","Ich weiß nicht, ob kommt er.","Ich weiß nicht, ob er kommen."],"a":0,"why":"verb at the end.","src":"grammar"},
+    {"t":"mc","q":"“Das lohnt sich nicht.” means:","o":["It’s not worth it.","It’s not allowed.","It’s not possible."],"a":0,"why":"sich lohnen.","src":"vocab"},
+    {"t":"mc","q":"“posten” means:","o":["to post (online)","to mail (letter)","to guard"],"a":0,"why":"Fotos posten.","src":"vocab"}
+  ]
+},
+"a2-31": {
+  "goal": "Write short informal messages and know the difference between informal (LG) and formal (Mit freundlichen Grüßen) sign-offs; understand messages without a subject.",
+  "words": [
+    ["die SMS / die Nachricht, -en", "text message"],
+    ["das Handy, -s", "mobile phone"],
+    ["schreiben / antworten", "to write / to answer"],
+    ["LG = Liebe Grüße", "kind regards (informal)"],
+    ["Mit freundlichen Grüßen", "Yours sincerely (formal)"],
+    ["Bin schon da.", "I’m here already."],
+    ["Freu mich auf dich!", "Looking forward to seeing you!"],
+    ["Kann nicht kommen.", "Can’t come."],
+    ["Wie lange brauchst du noch?", "How long will you be?"],
+    ["ehrlich", "honestly"],
+    ["das Flüchtlingszentrum", "refugee centre"],
+    ["Ich schreibe dir eine SMS.", "I’ll text you."]
+  ],
+  "grammar": {
+    "title": "Messages without a subject",
+    "text": "In informal texts, chats and messages Germans often **drop the subject** (ich, es) at the start of the sentence:\n\n- **Bin** schon da. (= Ich bin schon da.)\n- **Freu mich** auf dich! (= Ich freue mich auf dich.)\n- **Kann** nicht kommen. – **Habe** keine Zeit. – **Komme** später.\n\nThe verb stays first. This is fine in SMS or WhatsApp but **not** in formal emails. Sign-offs: **LG** (Liebe Grüße), **Bis später!**, formal: **Mit freundlichen Grüßen**.",
+    "ex": [
+      ["Hey, Selma! Bin schon da. Wie lange brauchst du noch?", "Hey Selma! I’m here already. How much longer will you be?"],
+      ["Freu’ mich auf dich!", "Looking forward to seeing you!"],
+      ["Entschuldigung. Kann nicht kommen.", "Sorry. Can’t come."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Where does Selma tell her mother she is going?","o":["To the language course","To the cinema","To Nico’s flat"],"a":0,"why":"“Zum Sprachkurs.”","src":"video"},
+    {"t":"mc","q":"Why does Nico write to Selma?","o":["He is already waiting and wants to know how long she needs","He wants to cancel","He wants to borrow money"],"a":0,"why":"“Bin schon da. Wie lange brauchst du noch?”","src":"video"},
+    {"t":"mc","q":"What does “LG” stand for?","o":["Liebe Grüße","Lange Geschichte","Letzte Grüße"],"a":0,"why":"informal sign-off.","src":"video"},
+    {"t":"mc","q":"Who answers Nico’s message?","o":["Selma’s mother Aya","Selma","Lisa"],"a":0,"why":"Selma left her phone; Aya replies “Kann nicht kommen.”","src":"video"},
+    {"t":"mc","q":"Which is a subject-less informal message?","o":["Bin gleich da.","Ich werde in Kürze eintreffen.","Wir bitten um Verständnis."],"a":0,"why":"ich is dropped.","src":"grammar"},
+    {"t":"mc","q":"Which sign-off is formal?","o":["Mit freundlichen Grüßen","LG","Bis später"],"a":0,"why":"formal emails.","src":"grammar"},
+    {"t":"fill","q":"Ich ___ dir eine SMS, wenn ich fertig bin. (schreiben)","a":["schreibe"],"why":"ich schreibe.","src":"grammar"},
+    {"t":"mc","q":"“ehrlich” means:","o":["honest(ly)","early","expensive"],"a":0,"why":"Ehrlich, Mama …","src":"vocab"}
+  ]
+},
+"a2-32": {
+  "goal": "Complain politely (or firmly) about a product or service, and report questions with wie, wann, wo, ob in indirect question clauses.",
+  "words": [
+    ["sich beschweren", "to complain"],
+    ["die Reklamation, -en", "complaint (about goods)"],
+    ["unzufrieden / zufrieden", "dissatisfied / satisfied"],
+    ["die App / die Website", "app / website"],
+    ["unübersichtlich", "confusing, not clear"],
+    ["zu langsam", "too slow"],
+    ["umtauschen", "to exchange"],
+    ["das Geld zurückbekommen", "to get money back"],
+    ["die Rückgabegarantie", "return guarantee"],
+    ["Das ist Ihr gutes Recht.", "That’s your right."],
+    ["Das ist leider nicht möglich.", "Unfortunately that isn’t possible."],
+    ["Die Zusammenarbeit ist beendet.", "Our cooperation is over."]
+  ],
+  "grammar": {
+    "title": "Indirect questions: wie, wann, wo, ob",
+    "text": "A polite way to ask is to embed the question in **Wissen Sie, …?**, **Ich möchte wissen, …**. The verb goes to the **end**:\n\n- Wie oft habe ich angerufen? → **Wissen Sie, wie oft** ich heute schon angerufen **habe**?\n- Wie soll man sich orientieren? → Ich weiß nicht, **wie** man sich hier orientieren **soll**.\n- Bekomme ich mein Geld zurück? → Ich möchte wissen, **ob** ich mein Geld zurück**bekomme**.\n\n**Complaint phrases:** Ich möchte mich beschweren. Ich bin unzufrieden. Ich möchte das umtauschen. Ich möchte mein Geld zurück.",
+    "ex": [
+      ["Wissen Sie, wie oft ich heute schon angerufen habe?", "Do you know how often I’ve called today?"],
+      ["Ich möchte mich beschweren.", "I would like to complain."],
+      ["Ich möchte sie umtauschen. Die Rechnung hab ich noch.", "I’d like to exchange them. I still have the receipt."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Why is the customer angry at the start of the call?","o":["He had called many times already","The product arrived late","He was charged twice"],"a":0,"why":"“Wissen Sie, wie oft ich heute schon angerufen habe?”","src":"video"},
+    {"t":"mc","q":"What does the customer criticise about the website?","o":["It is far too confusing","It is too colourful","It has no photos"],"a":0,"why":"“Die Website ist viel zu unübersichtlich.”","src":"video"},
+    {"t":"mc","q":"What is wrong with the tablets?","o":["They are much too slow","They are broken on arrival","They are too expensive"],"a":0,"why":"“Die sind viel zu langsam.”","src":"video"},
+    {"t":"mc","q":"What does the customer want?","o":["To exchange them and get his money back","A discount","A new website design"],"a":0,"why":"“Ich möchte sie umtauschen … Ich bekomme mein Geld doch zurück, oder?”","src":"video"},
+    {"t":"mc","q":"What is Pepe’s answer about the refund?","o":["“Das ist leider nicht möglich.”","“Of course.”","“Ask my colleague.”"],"a":0,"why":"He refuses.","src":"video"},
+    {"t":"fill","q":"Wissen Sie, wie oft ich angerufen ___? (haben)","a":["habe"],"why":"verb at the end: … angerufen habe.","src":"grammar"},
+    {"t":"mc","q":"Which sentence is correct?","o":["Ich möchte wissen, ob ich mein Geld zurückbekomme.","Ich möchte wissen, ob ich bekomme mein Geld zurück.","Ich möchte wissen, ob bekomme ich mein Geld zurück."],"a":0,"why":"verb last (zurückbekomme).","src":"grammar"},
+    {"t":"mc","q":"“umtauschen” means:","o":["to exchange (goods)","to cancel","to repair"],"a":0,"why":"Ich möchte die Tablets umtauschen.","src":"vocab"}
+  ]
+}
+}

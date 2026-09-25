@@ -1,0 +1,142 @@
+{
+"a1-61": {
+  "goal": "Talk about your family (Eltern, Geschwister, Großeltern) and use adjective endings after the definite article (die schwarze Tasche).",
+  "words": [
+    ["die Eltern (pl.)", "parents"],
+    ["die Geschwister (pl.)", "siblings"],
+    ["der Bruder, Brüder / die Schwester, -n", "brother / sister"],
+    ["die Großeltern (pl.)", "grandparents"],
+    ["der Vater / die Mutter", "father / mother"],
+    ["älter", "older"],
+    ["das Portemonnaie, -s", "wallet"],
+    ["der Flur", "hallway"],
+    ["seit fast einem Jahr", "for almost a year"],
+    ["Hast du Geschwister?", "Do you have siblings?"],
+    ["leben / wohnen", "to live"],
+    ["Was kann ich für dich tun?", "What can I do for you?"]
+  ],
+  "grammar": {
+    "title": "Adjective declension after der / die / das",
+    "text": "After the **definite article** the adjective ending is simple:\n\n| | masculine | feminine | neuter | plural |\n|---|---|---|---|---|\n| **Nom.** | der braun**e** Mann | die braun**e** Tasche | das braun**e** Portemonnaie | die braun**en** Taschen |\n| **Akk.** | den braun**en** Mann | die braun**e** Tasche | das braun**e** Portemonnaie | die braun**en** Taschen |\n\nSo: Ich habe es in **die schwarze Tasche** gesteckt. **Das braune Portemonnaie** gehört dir. Ich habe zwei **ältere** Brüder (no article: plural -e).",
+    "ex": [
+      ["Ich habe es in die schwarze Tasche gesteckt.", "I put it into the black bag."],
+      ["Das braune Portemonnaie gehört dir, oder?", "The brown wallet is yours, isn’t it?"],
+      ["Ich habe zwei ältere Brüder. Die leben in Hamburg.", "I have two older brothers. They live in Hamburg."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Why does Selma come to Inge’s flat?","o":["She left her wallet in Nico’s bag","She wants to buy bread","She is looking for Lisa"],"a":0,"why":"“Ich suche nur mein Portemonnaie.”","src":"video"},
+    {"t":"mc","q":"How long has Selma lived in Germany?","o":["Almost a year","Five years","Two months"],"a":0,"why":"“… seit fast einem Jahr in Deutschland.”","src":"video"},
+    {"t":"mc","q":"Who lives in Hamburg?","o":["Selma’s two older brothers","Her grandparents","Her parents"],"a":0,"why":"“Ich habe zwei ältere Brüder. Die leben in Hamburg.”","src":"video"},
+    {"t":"mc","q":"Where do Selma’s grandparents live?","o":["Still in Syria","In Germany","In Spain"],"a":0,"why":"“Meine Großeltern leben noch in Syrien.”","src":"video"},
+    {"t":"fill","q":"Das braun___ Portemonnaie gehört dir. (ending)","a":["e"],"why":"das + neuter nominative: -e.","src":"grammar"},
+    {"t":"fill","q":"Ich habe die schwarz___ Tasche gefunden. (ending)","a":["e"],"why":"die + feminine accusative: -e.","src":"grammar"},
+    {"t":"mc","q":"“die Geschwister” are:","o":["brothers and sisters","grandparents","cousins"],"a":0,"why":"Geschwister = siblings.","src":"vocab"}
+  ]
+},
+"a1-62": {
+  "goal": "Talk about your parents’ jobs and use accusative personal pronouns (mich, dich, ihn, sie, es, uns, euch, sie).",
+  "words": [
+    ["der Anwalt / die Anwältin", "lawyer (m/f)"],
+    ["die Ingenieurin", "engineer (f)"],
+    ["Was machen Ihre Eltern?", "What do your parents do?"],
+    ["Mein Vater ist Anwalt.", "My father is a lawyer."],
+    ["ungefähr zwei Wochen", "about two weeks"],
+    ["informieren", "to inform"],
+    ["erreichen", "to reach"],
+    ["anrufen", "to call"],
+    ["besuchen", "to visit"],
+    ["der Kontakt", "contact"],
+    ["sie hat uns nichts gesagt", "she didn’t tell us anything"],
+    ["verreisen", "to go on a trip"]
+  ],
+  "grammar": {
+    "title": "Personal pronouns in the accusative",
+    "text": "Replace an **accusative object** with a pronoun:\n\n| Nominative | ich | du | er | sie | es | wir | ihr | sie | Sie |\n|---|---|---|---|---|---|---|---|---|---|\n| **Accusative** | **mich** | **dich** | **ihn** | **sie** | **es** | **uns** | **euch** | **sie** | **Sie** |\n\n- Haben Sie **sie** angerufen? (Yara)\n- Ich erreiche **sie** nicht.\n- Sie hat **uns** nichts gesagt.\n- Kennst du den Laden? – Ja, ich kenne **ihn**.",
+    "ex": [
+      ["Haben Sie ihre Handynummer? Haben Sie sie angerufen?", "Do you have her mobile number? Have you called her?"],
+      ["Ich erreiche sie nicht.", "I can’t reach her."],
+      ["Sie hat uns nichts gesagt.", "She didn’t tell us anything."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How long ago did Max and Tarek last see Yara?","o":["About two weeks ago","Yesterday","A year ago"],"a":0,"why":"“Ungefähr zwei Wochen.”","src":"video"},
+    {"t":"mc","q":"What are Nico’s parents’ jobs?","o":["Father lawyer, mother engineer","Both teachers","Father doctor, mother police officer"],"a":0,"why":"“Mein Vater ist Anwalt und meine Mutter Ingenieurin.”","src":"video"},
+    {"t":"mc","q":"Where do Nico’s parents live?","o":["In Sevilla","In Madrid","In Berlin"],"a":0,"why":"“Meine Eltern wohnen in Sevilla.”","src":"video"},
+    {"t":"mc","q":"Why does Nico say Yara is not with his parents?","o":["The contact is not very good","They are on holiday","They are in Germany"],"a":0,"why":"“Der Kontakt ist nicht sehr gut.”","src":"video"},
+    {"t":"fill","q":"Kennst du Yara? – Ja, ich kenne ___. (her)","a":["sie"],"why":"accusative of sie: sie.","src":"grammar"},
+    {"t":"fill","q":"Ich sehe den Laden. Ich sehe ___. (it, masculine)","a":["ihn"],"why":"der Laden → ihn.","src":"grammar"},
+    {"t":"mc","q":"“Sie hat uns nichts gesagt.” – “uns” means:","o":["us","you","them"],"a":0,"why":"uns = us.","src":"grammar"}
+  ]
+},
+"a1-63": {
+  "goal": "Say whose things something is with possessive determiners in different cases (ihre Blumen, deinen Eltern) and follow a short flashback in the past.",
+  "words": [
+    ["die Blume, -n", "flower"],
+    ["gießen", "to water"],
+    ["wegfahren / verreisen", "to go away"],
+    ["ein paar Tage", "a few days"],
+    ["der Flug, Flüge", "flight"],
+    ["einen Flug buchen", "to book a flight"],
+    ["auflegen", "to hang up"],
+    ["Ich komme sofort.", "I’m coming right away."],
+    ["mit etwas Glück", "with a bit of luck"],
+    ["der Bruder / der neue Job", "brother / the new job"],
+    ["Wo leben deine Eltern?", "Where do your parents live?"],
+    ["Ich ruf wieder an.", "I’ll call again."]
+  ],
+  "grammar": {
+    "title": "Possessive determiners: mein, dein, sein, ihr, unser, euer",
+    "text": "Possessives have the same endings as **ein / kein**:\n\n- nominative: mein Bruder, mein**e** Eltern (plural), dein Job\n- accusative: ihr**e** Blumen, dein**e** Adresse, dein**en** Bruder (masculine)\n- dative: bei dein**en** Eltern (plural dative), mit mein**em** Bruder, bei mein**er** Tante\n\n**ihr** = her / their, **sein** = his: **Ihre** Blumen gießen (Yara’s flowers).",
+    "ex": [
+      ["Wir sollen ihre Blumen gießen.", "We’re supposed to water her flowers."],
+      ["Ich hab deine neue Adresse.", "I have your new address."],
+      ["Wo bist du? Bei deinen Eltern?", "Where are you? At your parents’?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What did Yara tell Max before she left?","o":["She had to go away for a few days and they should water her flowers","She was moving to Spain","She was selling the shop"],"a":0,"why":"“Sie muss für ein paar Tage weg und wir sollen ihre Blumen gießen.”","src":"video"},
+    {"t":"mc","q":"What does Yara plan to do in the flashback?","o":["Book a flight and fly to Zürich","Take a train to Berlin","Call her brother"],"a":0,"why":"“Ich buche jetzt einen Flug und komme heute noch nach Zürich.”","src":"video"},
+    {"t":"mc","q":"Who is Yara talking to on the phone?","o":["Sarah","Nico","Lisa"],"a":0,"why":"“Sarah! Oh nein … Ich komme sofort!”","src":"video"},
+    {"t":"fill","q":"Wir sollen ___ Blumen gießen. (her)","a":["ihre"],"why":"plural: ihre Blumen.","src":"grammar"},
+    {"t":"fill","q":"Ich habe ___ Adresse. (your, informal, feminine)","a":["deine"],"why":"die Adresse → deine.","src":"grammar"},
+    {"t":"mc","q":"“Ich komme sofort.” means:","o":["I’m coming right away.","I’m coming tomorrow.","I’m not coming."],"a":0,"why":"sofort = immediately.","src":"vocab"},
+    {"t":"mc","q":"“auflegen” on the phone means:","o":["to hang up","to answer","to dial"],"a":0,"why":"Dann hat sie aufgelegt.","src":"vocab"}
+  ]
+},
+"a1-64": {
+  "goal": "Talk about brothers and sisters and use the modal verb sollen for suggestions and for what others expect of you.",
+  "words": [
+    ["sollen", "to be supposed to, shall"],
+    ["Sollen wir ihn anrufen?", "Shall we call him?"],
+    ["der Verwandte, -n", "relative"],
+    ["witzig", "funny"],
+    ["weitersuchen", "to keep searching"],
+    ["warten", "to wait"],
+    ["Ich brauche keine Hilfe.", "I don’t need any help."],
+    ["ganz sicher", "absolutely sure"],
+    ["Sie kommt wieder!", "She’ll come back!"],
+    ["jemand aus deiner Familie", "someone from your family"],
+    ["Zürich / München", "Zurich / Munich"],
+    ["Wir müssen warten.", "We have to wait."]
+  ],
+  "grammar": {
+    "title": "Modal verbs: sollen",
+    "text": "**sollen** has two main uses:\n\n1. a **suggestion or offer**: **Sollen** wir ihn anrufen? (Shall we call him?)\n2. an **instruction from someone else**: Wir **sollen** ihre Blumen gießen. (We are supposed to water her flowers.)\n\n- ich **soll**\n- du **sollst**\n- er / sie / es **soll**\n- wir **sollen**\n- ihr **sollt**\n- sie / Sie **sollen**\n\nThe infinitive is at the end. **müssen** is stronger (obligation), **sollen** = supposed to.",
+    "ex": [
+      ["Sollen wir weitersuchen?", "Shall we keep searching?"],
+      ["Sollen wir ihn anrufen? – Nein.", "Shall we call him? – No."],
+      ["Wir sollen ihre Blumen gießen.", "We’re supposed to water her flowers."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Where does Nico’s brother live?","o":["In Munich","In Sevilla","In Zürich"],"a":0,"why":"“In Deutschland. In … München.”","src":"video"},
+    {"t":"mc","q":"What does Nico answer when they offer to call his brother?","o":["“Ich brauche keine Hilfe von meinem Bruder!”","“Yes please.”","“He is abroad.”"],"a":0,"why":"He has a bad relationship with him.","src":"video"},
+    {"t":"mc","q":"What does Tarek find funny?","o":["His brother also lives in Munich","Nico’s name","The weather"],"a":0,"why":"“Mein Bruder wohnt auch in München.”","src":"video"},
+    {"t":"mc","q":"What is the police officer’s final conclusion?","o":["They have to wait","They must fly to Zürich","They should call the airline"],"a":0,"why":"“Dann müssen wir warten.”","src":"video"},
+    {"t":"fill","q":"___ wir ihn anrufen? (shall we)","a":["Sollen"],"why":"Sollen wir …?","src":"grammar"},
+    {"t":"fill","q":"Du ___ deine Eltern anrufen. (supposed to, sollen)","a":["sollst"],"why":"du sollst.","src":"grammar"},
+    {"t":"mc","q":"“der Verwandte” means:","o":["relative","neighbour","colleague"],"a":0,"why":"die Verwandten = relatives.","src":"vocab"}
+  ]
+}
+}

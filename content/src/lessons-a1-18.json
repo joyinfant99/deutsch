@@ -1,0 +1,142 @@
+{
+"a1-73": {
+  "goal": "Describe your home and homeland: where you live and what it is like, using adjective endings after ein in the dative (in einem großen Haus).",
+  "words": [
+    ["die Heimat", "homeland, home"],
+    ["das Haus, Häuser / das Dorf, Dörfer", "house / village"],
+    ["der Stadtrand", "outskirts"],
+    ["am Stadtrand", "on the outskirts"],
+    ["die Großmutter / der Großvater", "grandmother / grandfather"],
+    ["der Vogel, Vögel / der Papagei", "bird / parrot"],
+    ["das Fenster, -", "window"],
+    ["warten auf + Akkusativ", "to wait for"],
+    ["weggehen", "to leave"],
+    ["die Aufenthaltserlaubnis", "residence permit"],
+    ["Wir dürfen bleiben!", "We’re allowed to stay!"],
+    ["klasse", "great"]
+  ],
+  "grammar": {
+    "title": "Adjective declension after ein in the dative",
+    "text": "After **in, bei, mit, von …** with the dative and an **ein-word**, the adjective ends in **-en** in all genders:\n\n- masculine/neuter: in **einem** groß**en** Haus, mit **meinem** klein**en** Bruder\n- feminine: in **einer** groß**en** Stadt, bei **meiner** alt**en** Tante\n\nIn the accusative: **einen** klein**en** Vogel (masc.), **eine** klein**e** Katze (fem.), **ein** klein**es** Kind (neuter).",
+    "ex": [
+      ["Wir wohnen in Damaskus in einem großen Haus.", "We live in Damascus in a big house."],
+      ["Wir haben auch einen kleinen Vogel, einen Papagei.", "We also have a small bird, a parrot."],
+      ["Wir wohnen am Stadtrand. Es ist fast wie im Dorf.", "We live on the outskirts. It’s almost like a village."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What kind of house does Selma’s family have in Damascus?","o":["A big house on the outskirts","A flat in the city centre","A house in a village"],"a":0,"why":"“… in einem großen Haus … am Stadtrand.”","src":"video"},
+    {"t":"mc","q":"What is the parrot called?","o":["Leli","Lisa","Nawin"],"a":0,"why":"“Er heißt Leli.”","src":"video"},
+    {"t":"mc","q":"What does Selma’s grandmother write about Leli?","o":["He sits at the window every day and waits for them","He has flown away","He is sick"],"a":0,"why":"“… dass er jeden Tag am Fenster sitzt und auf uns wartet.”","src":"video"},
+    {"t":"mc","q":"What is the big news at the end?","o":["The family may stay in Germany","They are moving to Hamburg","They are going back to Syria"],"a":0,"why":"“Wir dürfen in Deutschland bleiben!”","src":"video"},
+    {"t":"fill","q":"Wir wohnen in einem groß___ Haus. (ending)","a":["en"],"why":"dative after einem: -en.","src":"grammar"},
+    {"t":"fill","q":"Wir haben einen klein___ Vogel. (ending, masc. acc.)","a":["en"],"why":"einen kleinen Vogel.","src":"grammar"},
+    {"t":"mc","q":"“der Stadtrand” means:","o":["outskirts of the city","town centre","train station"],"a":0,"why":"der Rand = edge.","src":"vocab"}
+  ]
+},
+"a1-74": {
+  "goal": "Say what you miss and how you like life abroad, and use dative personal pronouns (mir, dir, ihm …) with verbs like schmecken and gefallen.",
+  "words": [
+    ["das Heimweh", "homesickness"],
+    ["vermissen", "to miss"],
+    ["Ich vermisse meine Freunde.", "I miss my friends."],
+    ["die Paella", "paella"],
+    ["Es schmeckt (dir).", "It tastes good (to you)."],
+    ["Mir gefällt es hier.", "I like it here."],
+    ["probieren", "to try (food)"],
+    ["Ich finde … sehr lecker.", "I find … very tasty."],
+    ["die Wurst / das Gulasch", "sausage / goulash"],
+    ["das Wetter ist besser", "the weather is better"],
+    ["aufessen: Iss auf!", "to eat up"],
+    ["Ich wünsche guten Appetit.", "Enjoy your meal."]
+  ],
+  "grammar": {
+    "title": "Personal pronouns in the dative",
+    "text": "Some verbs need a **dative** person:\n\n| Nom. | ich | du | er | sie | es | wir | ihr | sie |\n|---|---|---|---|---|---|---|---|---|\n| **Dat.** | **mir** | **dir** | **ihm** | **ihr** | **ihm** | **uns** | **euch** | **ihnen** |\n\nVerbs: **schmecken** (Es schmeckt **dir**?), **gefallen** (**Mir** gefällt es hier), **helfen** (Ich helfe **dir**), **gehören**, **passen**, **fehlen**. Formal: **Ihnen**.",
+    "ex": [
+      ["Wir hoffen, es schmeckt dir.", "We hope you like it."],
+      ["Mir gefällt es hier.", "I like it here."],
+      ["Schmeckt wie in Spanien!", "Tastes like in Spain!"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What surprise do Max and Tarek have for Nico?","o":["They cooked paella","They bought him a bicycle","They found his passport"],"a":0,"why":"“Paella!”","src":"video"},
+    {"t":"mc","q":"What German food does Nico like?","o":["Wurst, Rouladen and Gulasch","Only bread","Nothing"],"a":0,"why":"“Ich mag Wurst und Rouladen und Gulasch. Aber am liebsten mag ich Paella!”","src":"video"},
+    {"t":"mc","q":"How does Tarek explain “Heimweh”?","o":["When you are sad and want to go home","When you are hungry","When you are tired"],"a":0,"why":"“… wenn man traurig ist und nach Hause möchte.”","src":"video"},
+    {"t":"mc","q":"What does Nico say he misses a bit?","o":["His friends (and the warmer weather)","His job","His school"],"a":0,"why":"“Meine Freunde vermiss ich ein bisschen.”","src":"video"},
+    {"t":"fill","q":"Mir ___ es hier. (gefallen, er/sie/es)","a":["gefällt","gefaellt"],"why":"gefallen → es gefällt mir.","src":"grammar"},
+    {"t":"fill","q":"Wir hoffen, es schmeckt ___. (you, informal dative)","a":["dir"],"why":"schmecken + dative.","src":"grammar"},
+    {"t":"mc","q":"“vermissen” means:","o":["to miss (someone)","to forget","to lose"],"a":0,"why":"Ich vermisse meine Freunde.","src":"vocab"}
+  ]
+},
+"a1-75": {
+  "goal": "Compare life in two countries: anders als, nicht so … wie, genauso … wie, mehr als.",
+  "words": [
+    ["anders (als)", "different (from)"],
+    ["genauso … wie", "just as … as"],
+    ["nicht so … wie", "not as … as"],
+    ["mehr / weniger", "more / less"],
+    ["die Regel, -n", "rule"],
+    ["spontan / locker", "spontaneous / relaxed"],
+    ["die Jahreszeit, -en", "season"],
+    ["das Leben auf der Straße", "life on the street"],
+    ["die Menschen (pl.)", "people"],
+    ["glücklich", "happy"],
+    ["die neue / die alte Heimat", "the new / the old home"],
+    ["besonders am Abend", "especially in the evening"]
+  ],
+  "grammar": {
+    "title": "Comparing: als, wie and anders als",
+    "text": "Three ways to compare:\n\n- **different**: X ist **anders als** Y. Deutschland ist **anders als** Syrien.\n- **equal**: X ist **genauso … wie** Y. Die Menschen hier sind **genauso** nett **wie** in Syrien.\n- **unequal**: X ist **nicht so … wie** Y. Im Winter ist es **nicht so** kalt **wie** in Deutschland. Or comparative + **als**: Es gibt **mehr** Leben **als** hier.\n\nRemember: **als** after comparative and **anders**, **wie** after **so / genauso**.",
+    "ex": [
+      ["Deutschland ist anders als die alte Heimat.", "Germany is different from the old homeland."],
+      ["In Syrien gibt es nicht so viele Regeln wie in Deutschland.", "In Syria there aren’t as many rules as in Germany."],
+      ["Die Menschen hier sind genauso nett wie die Menschen in Syrien.", "People here are just as nice as people in Syria."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Is the winter in Syria as cold as in Germany?","o":["No, it is not as cold","Yes, exactly","It is colder"],"a":0,"why":"“Im Winter ist es nicht so kalt.”","src":"video"},
+    {"t":"mc","q":"What is different in Syria, according to Selma?","o":["Fewer rules and more life on the street","More rules","Fewer shops"],"a":0,"why":"“… nicht so viele Regeln … viel mehr Leben auf der Straße.”","src":"video"},
+    {"t":"mc","q":"How does Selma describe the people in Germany?","o":["Just as nice as in Syria","Colder than in Syria","Less friendly"],"a":0,"why":"“… genauso nett wie die Menschen in Syrien.”","src":"video"},
+    {"t":"mc","q":"How does Selma feel about staying in Germany?","o":["She should be happy but also misses her home","She is angry","She is bored"],"a":0,"why":"“Eigentlich muss ich glücklich sein … aber …”","src":"video"},
+    {"t":"fill","q":"Deutschland ist anders ___ Syrien.","a":["als"],"why":"anders als.","src":"grammar"},
+    {"t":"fill","q":"Die Menschen sind genauso nett ___ in Syrien.","a":["wie"],"why":"genauso … wie.","src":"grammar"},
+    {"t":"mc","q":"“locker” means:","o":["relaxed","strict","cold"],"a":0,"why":"locker = relaxed.","src":"vocab"}
+  ]
+},
+"a1-76": {
+  "goal": "Express wishes and dreams politely with hätte gern, wäre gern and träumen von, and use wünschen + dative.",
+  "words": [
+    ["sich etwas wünschen", "to wish for something"],
+    ["Ich wünsche mir einen Laden.", "I wish for a shop."],
+    ["Ich hätte gern einen eigenen Laden.", "I would like to have my own shop."],
+    ["träumen von + Dativ", "to dream of"],
+    ["der Traum, Träume", "dream"],
+    ["eigen", "own"],
+    ["fleißig / hart arbeiten", "hard-working / to work hard"],
+    ["die Bremse, -n", "brake"],
+    ["reparieren", "to repair"],
+    ["Fertig!", "Done!"],
+    ["Krass!", "Wow! (slang)"],
+    ["hupen", "to honk"]
+  ],
+  "grammar": {
+    "title": "Wishes: hätte gern, wäre gern, möchte",
+    "text": "To express a wish politely use the **Konjunktiv II**:\n\n- **Ich hätte gern** einen eigenen Laden. (I would like to have …)\n- **Ich wäre gern** Fahrradmechaniker. (I would like to be …)\n- **Ich möchte** …\n\nAnd two useful verbs: **sich (Dativ) etwas wünschen**: Ich **wünsche mir** einen Laden. **träumen von** + dative: Ich **träume von** einem eigenen Laden.\n\nThe result of hard work: **Du musst fleißig arbeiten, dann funktioniert das auch.**",
+    "ex": [
+      ["Ich wünsche mir so einen Laden. Ich hätte gern einen eigenen Laden.", "I wish for a shop like that. I’d like my own shop."],
+      ["Ich habe auch immer von meinem eigenen Restaurant geträumt.", "I always dreamt of my own restaurant too."],
+      ["Du musst nur immer fleißig und hart arbeiten.", "You only have to always work diligently and hard."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Nico wish for?","o":["A shop of his own","A new bicycle","A holiday in Spain"],"a":0,"why":"“Ich hätte gern einen eigenen Laden.”","src":"video"},
+    {"t":"mc","q":"What does Tarek say you need for your dream to come true?","o":["Work hard and diligently","Win a lot of money","Study at university"],"a":0,"why":"“Du musst nur immer fleißig und hart arbeiten, dann funktioniert das auch.”","src":"video"},
+    {"t":"mc","q":"What is wrong with the bicycle?","o":["The rear brake does not work","The tyre is flat","The chain is missing"],"a":0,"why":"“Die Bremse hinten funktioniert nicht.”","src":"video"},
+    {"t":"mc","q":"Who suddenly appears at the end?","o":["Yara, Nico’s aunt","Lisa","Max"],"a":0,"why":"“Nico … Yara. – Was machst du hier?”","src":"video"},
+    {"t":"fill","q":"Ich ___ gern einen eigenen Laden. (haben, wish)","a":["hätte","haette"],"why":"Ich hätte gern …","src":"grammar"},
+    {"t":"fill","q":"Ich träume ___ einem eigenen Laden. (of)","a":["von"],"why":"träumen von + dative.","src":"grammar"},
+    {"t":"mc","q":"“Ich wünsche mir einen Laden.” means:","o":["I wish for a shop.","I sell a shop.","I have a shop."],"a":0,"why":"sich etwas wünschen.","src":"vocab"}
+  ]
+}
+}

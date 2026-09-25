@@ -1,0 +1,142 @@
+{
+"a1-65": {
+  "goal": "Talk about sports equipment and injuries, and compare prices (billig, teuer, am teuersten, weniger als).",
+  "words": [
+    ["der Fußball, -bälle", "football"],
+    ["die Fußballschuhe (pl.)", "football boots"],
+    ["die Schuhgröße, -n", "shoe size"],
+    ["die Ballpumpe, -n", "ball pump"],
+    ["das Pflaster / der Verband", "plaster / bandage"],
+    ["das Knie, -", "knee"],
+    ["sich verletzen", "to hurt oneself"],
+    ["passen", "to fit"],
+    ["billig / teuer", "cheap / expensive"],
+    ["die Getränke (pl.)", "drinks"],
+    ["Bist du bereit?", "Are you ready?"],
+    ["Es geht los!", "Here we go!"]
+  ],
+  "grammar": {
+    "title": "Comparison: teuer, teurer, am teuersten",
+    "text": "The superlative of an adjective (used alone) is **am + -sten**:\n\n- billig – billiger – **am billigsten**\n- teuer – teurer – **am teuersten** (teuer loses the -e)\n- gut – besser – **am besten**\n\n**weniger als** = less than, **mehr als** = more than: Ein Ball hat 4,99 Euro gekostet, **weniger als** die Getränke. Verpflegung ist immer **am teuersten**.",
+    "ex": [
+      ["Waren die Fußbälle teuer? – Nein, die waren superbillig.", "Were the footballs expensive? – No, they were super cheap."],
+      ["Ein Ball hat 4,99 Euro gekostet, weniger als die Getränke.", "A ball cost 4.99 euros, less than the drinks."],
+      ["Verpflegung ist immer am teuersten.", "Food and drink are always the most expensive."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How much did one football cost?","o":["4,99 Euro","14,99 Euro","9,99 Euro"],"a":0,"why":"“Ein Ball hat 4,99 Euro gekostet.”","src":"video"},
+    {"t":"mc","q":"What is missing for Nico?","o":["Football boots","A shirt","A water bottle"],"a":0,"why":"“Ich hab keine Fußballschuhe mit.”","src":"video"},
+    {"t":"mc","q":"What happened to Tarek at the last training?","o":["He hurt his knee","He lost his phone","He broke a window"],"a":0,"why":"“Tarek hat sich beim letzten Mal am Knie verletzt.”","src":"video"},
+    {"t":"mc","q":"What is always the most expensive, says Max?","o":["Food and drink","Footballs","Shoes"],"a":0,"why":"“Verpflegung ist immer am teuersten.”","src":"video"},
+    {"t":"fill","q":"billig – billiger – am ___","a":["billigsten"],"why":"am billigsten.","src":"grammar"},
+    {"t":"fill","q":"teuer – ___ – am teuersten","a":["teurer"],"why":"teuer → teurer.","src":"grammar"},
+    {"t":"mc","q":"“die Schuhgröße” is:","o":["shoe size","shoe colour","shoe price"],"a":0,"why":"die Größe = size.","src":"vocab"}
+  ]
+},
+"a1-66": {
+  "goal": "Say how often and when you do sports or other things: zweimal im Monat, samstags, abends, seit fünf Jahren.",
+  "words": [
+    ["Wie oft?", "How often?"],
+    ["einmal / zweimal im Monat", "once / twice a month"],
+    ["dreimal pro Woche", "three times a week"],
+    ["samstags / sonntags", "on Saturdays / Sundays"],
+    ["abends / morgens", "in the evening / in the morning"],
+    ["unter der Woche", "during the week"],
+    ["Seit wann? / Wie lange?", "Since when? / How long?"],
+    ["seit fünf Jahren", "for five years"],
+    ["trainieren", "to train"],
+    ["der Terminkalender", "diary, schedule"],
+    ["meistens", "mostly"],
+    ["Helft mal mit!", "Help out, will you!"]
+  ],
+  "grammar": {
+    "title": "Time specification: Wann? Wie oft? Wie lange?",
+    "text": "Ask and answer:\n\n- **Wann?** – **samstags**, **abends**, **am Wochenende**, **unter der Woche** (on weekdays)\n- **Wie oft?** – **zweimal im Monat**, **dreimal pro Woche**, **jeden Tag**\n- **Wie lange?** / **Seit wann?** – **seit fünf Jahren** (for five years, and still)\n\nWeekday + **-s** means “every …”: **samstags** = every Saturday, **montags** = every Monday.",
+    "ex": [
+      ["Wir können meistens nur samstags oder sonntags trainieren.", "We can mostly only train on Saturdays or Sundays."],
+      ["So zweimal im Monat?", "About twice a month?"],
+      ["Wie lange spielt ihr schon zusammen? – Seit fünf Jahren.", "How long have you been playing together? – For five years."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How often do the friends train?","o":["About twice a month","Every day","Once a year"],"a":0,"why":"“So zweimal im Monat?”","src":"video"},
+    {"t":"mc","q":"When can they mostly train?","o":["On Saturdays or Sundays","Monday to Friday mornings","Only in summer"],"a":0,"why":"“… nur samstags oder sonntags … oder mal abends unter der Woche.”","src":"video"},
+    {"t":"mc","q":"How long have they been playing together?","o":["About five years","One year","Twenty years"],"a":0,"why":"“Seit fünf Jahren. Ungefähr.”","src":"video"},
+    {"t":"mc","q":"“samstags” means:","o":["on Saturdays (every Saturday)","last Saturday","next Saturday"],"a":0,"why":"-s = every.","src":"grammar"},
+    {"t":"fill","q":"Wie ___ trainiert ihr? – Zweimal im Monat. (how often)","a":["oft"],"why":"wie oft = how often.","src":"grammar"},
+    {"t":"fill","q":"Wie lange spielt ihr? – ___ fünf Jahren. (for/since)","a":["Seit"],"why":"seit + dative.","src":"grammar"},
+    {"t":"mc","q":"“unter der Woche” means:","o":["during the week (on weekdays)","under the week","every week"],"a":0,"why":"Mo–Fr.","src":"vocab"}
+  ]
+},
+"a1-67": {
+  "goal": "Compare abilities and give fitness advice using comparatives and superlatives (schneller, am schnellsten, am weitesten).",
+  "words": [
+    ["schnell – schneller – am schnellsten", "fast – faster – fastest"],
+    ["weit – weiter – am weitesten", "far – farther – farthest"],
+    ["gut – besser – am besten", "good – better – best"],
+    ["schlecht – schlechter – am schlechtesten", "bad – worse – worst"],
+    ["hoch – höher – am höchsten", "high – higher – highest"],
+    ["das Tor, -e / schießen", "goal / to shoot"],
+    ["springen", "to jump"],
+    ["das Krafttraining", "strength training"],
+    ["die Ernährung", "nutrition"],
+    ["sich ausruhen", "to rest"],
+    ["die Technik", "technique"],
+    ["Wir wissen Bescheid.", "We know."]
+  ],
+  "grammar": {
+    "title": "Comparison: comparative and superlative in use",
+    "text": "You learned the forms; now use them in sentences:\n\n- **Comparative** + **als**: Wir müssen **besser** und **schneller** spielen. Max ist schneller **als** Tarek.\n- **Superlative** with **am**: Max spielt **am schnellsten**. Yanis schießt **am weitesten**. Tarek spielt **am schlechtesten**.\n- Before a noun: **der Schnellste**, **das Wichtigste** (the most important thing).\n\nIrregular: gut – besser – **am besten**; viel – mehr – **am meisten**.",
+    "ex": [
+      ["Okay, Max ist vielleicht am schnellsten, aber ich kann am weitesten schießen.", "OK, Max may be the fastest, but I can shoot the farthest."],
+      ["Wir müssen besser und schneller spielen.", "We have to play better and faster."],
+      ["Das Wichtigste ist die Ernährung.", "The most important thing is nutrition."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Who is the fastest of the group?","o":["Max","Yanis","Tarek"],"a":0,"why":"“Du bist der Schnellste.”","src":"video"},
+    {"t":"mc","q":"Who can shoot the farthest?","o":["Yanis","Max","Nico"],"a":0,"why":"“… aber ich kann am weitesten schießen.”","src":"video"},
+    {"t":"mc","q":"Who plays the worst, according to Tarek himself?","o":["Tarek","Yanis","Max"],"a":0,"why":"“… spielt am schlechtesten.”","src":"video"},
+    {"t":"mc","q":"What does Tarek say is the most important thing?","o":["Nutrition (Ernährung)","Expensive shoes","Sleeping long"],"a":0,"why":"“Das Wichtigste ist die Ernährung.”","src":"video"},
+    {"t":"fill","q":"Max ist ___ als Tarek. (fast, comparative)","a":["schneller"],"why":"schnell → schneller.","src":"grammar"},
+    {"t":"fill","q":"Yanis schießt am ___. (far, superlative)","a":["weitesten"],"why":"weit → am weitesten.","src":"grammar"},
+    {"t":"mc","q":"Which is correct?","o":["Sie spielt besser als ich.","Sie spielt gutter als ich.","Sie spielt guter als ich."],"a":0,"why":"gut – besser.","src":"grammar"}
+  ]
+},
+"a1-68": {
+  "goal": "Talk about healthy food and give friendly instructions with the informal imperative (Iss mehr Obst! Trink Wasser!).",
+  "words": [
+    ["gesund / ungesund", "healthy / unhealthy"],
+    ["das Obst / das Gemüse", "fruit / vegetables"],
+    ["die Süßigkeiten (pl.)", "sweets"],
+    ["der Kartoffelsalat", "potato salad"],
+    ["der Grill / grillen", "barbecue / to barbecue"],
+    ["dick machen", "to be fattening"],
+    ["der Alkohol / rauchen", "alcohol / to smoke"],
+    ["vergessen", "to forget"],
+    ["Iss mehr Obst!", "Eat more fruit!"],
+    ["Trink viel Wasser!", "Drink a lot of water!"],
+    ["Ab morgen essen wir gesund!", "From tomorrow we’ll eat healthily!"],
+    ["lieber", "rather"]
+  ],
+  "grammar": {
+    "title": "The informal imperative (du)",
+    "text": "To tell one friend what to do, use the **stem** of the du-form without **-st**:\n\n- machen → **Mach** das! (sometimes **Mache**)\n- kommen → **Komm** her! – trinken → **Trink** Wasser!\n- essen → **Iss** Obst! (e → i stays: **iss**, **nimm**, **gib**, **sprich**)\n- sein → **Sei** ruhig!\n- fahren → **Fahr** vorsichtig! (no umlaut)\n\nNegative: **Iss nicht so viele Süßigkeiten!** Separable verbs: **Steh** auf! **Mach** die Tür zu!",
+    "ex": [
+      ["Yanis! Iss nicht so viele Süßigkeiten! Iss lieber mehr Obst!", "Yanis! Don’t eat so many sweets! Eat more fruit instead!"],
+      ["Iss viel Obst, trink keinen Alkohol und rauch nicht!", "Eat lots of fruit, don’t drink alcohol and don’t smoke!"],
+      ["Und trink viel Wasser!", "And drink lots of water!"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Tarek tell Yanis to eat?","o":["More fruit","More sweets","More potato salad"],"a":0,"why":"“Iss lieber mehr Obst!”","src":"video"},
+    {"t":"mc","q":"Why is there no fruit at the barbecue?","o":["Yanis forgot to buy it","The shop was closed","It was too expensive"],"a":0,"why":"“Ich wollte Äpfel, Bananen und Birnen kaufen, aber ich habe es vergessen.”","src":"video"},
+    {"t":"mc","q":"What does Yanis say from tomorrow?","o":["They will eat healthily","They will stop training","They will go on holiday"],"a":0,"why":"“Ab morgen essen wir gesund!”","src":"video"},
+    {"t":"mc","q":"What happens at the end?","o":["Someone cries out in pain on the pitch","The barbecue catches fire","It starts to rain"],"a":0,"why":"“Au! Ah!” – Nico is hurt.","src":"video"},
+    {"t":"fill","q":"___ viel Wasser! (trinken, du-imperative)","a":["Trink"],"why":"trinken → trink!","src":"grammar"},
+    {"t":"fill","q":"___ nicht so viele Süßigkeiten! (essen, du-imperative)","a":["Iss"],"why":"essen → iss!","src":"grammar"},
+    {"t":"mc","q":"Which is the correct imperative of “sein” (du)?","o":["Sei","Bist","Sein"],"a":0,"why":"Sei ruhig!","src":"grammar"}
+  ]
+}
+}

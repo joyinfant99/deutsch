@@ -1,0 +1,210 @@
+{
+"3": {
+  "kind": "video",
+  "title": "Introduce yourself in German (for absolute beginners)",
+  "source": "YouTube · Easy German",
+  "url": "https://www.youtube.com/watch?v=Yaelm87PTvg",
+  "minutes": 4,
+  "focus": "Real people answer five basic questions. Listen for the question, then the answer, and repeat the answers aloud. Then answer the same five questions about yourself.",
+  "questions": [
+    {"t":"mc","q":"Several people answer “Ich komme aus Berlin” or “Ich komme aus Zürich”. Which question are they answering?","o":["Wo lebst du?","Woher kommst du?","Wie heißt du?"],"a":1,"why":"woher = where from."},
+    {"t":"fill","q":"Wo lebst du? – Ich ___ in Berlin. (wohnen)","a":["wohne","lebe"],"why":"Both wohne and lebe appear in the video."},
+    {"t":"mc","q":"A man answers “Ich bin Student.” Which question is this the answer to?","o":["Was ist dein Beruf?","Woher kommst du?","Was ist dein Hobby?"],"a":0,"why":"Beruf = profession; Ich bin Student/Lehrer answers it."}
+  ]
+},
+"4": {
+  "kind": "video",
+  "title": "GERMAN LESSON 19: EASY Conjugation of German REGULAR VERBS (+ Personal Pronouns)",
+  "source": "YouTube · Learn German with Anja",
+  "url": "https://www.youtube.com/watch?v=qdTEFPqjfkY",
+  "minutes": 5,
+  "focus": "Follow the verb kommen through all pronouns: ich komme, du kommst, er/sie/es kommt … Then do Anja’s homework and conjugate wohnen yourself.",
+  "questions": [
+    {"t":"fill","q":"Anja’s table: ich komme, du ___, er kommt.","a":["kommst"],"why":"Regular verbs: du takes -st."},
+    {"t":"mc","q":"According to Anja, how does the infinitive of about 99 % of German verbs end?","o":["-en","-er","-ung"],"a":0,"why":"kommen, wohnen, machen … remove -en and add the personal ending."},
+    {"t":"mc","q":"Which verb does Anja give as homework to conjugate?","o":["wohnen","sein","gehen"],"a":0,"why":"ich wohne, du wohnst, er wohnt …"}
+  ]
+},
+"5": {
+  "kind": "video",
+  "title": "Counting in German from 1 – 100 (German Numbers for Beginners)",
+  "source": "YouTube · Easy German",
+  "url": "https://www.youtube.com/watch?v=QCGdeH4hYdo",
+  "minutes": 7,
+  "focus": "Count along out loud. Notice the pattern for 13–19, the -zig endings for tens, and the surprising order in numbers like 37.",
+  "questions": [
+    {"t":"mc","q":"Which numbers between 10 and 20 have no clear pattern, according to the video?","o":["11 and 12","13 and 14","19 and 20"],"a":0,"why":"elf and zwölf are special; 13–19 are built as number + zehn."},
+    {"t":"mc","q":"How do Germans say 37?","o":["dreißigsieben","siebenunddreißig","siebendreißig"],"a":1,"why":"The unit comes first: sieben und dreißig."},
+    {"t":"fill","q":"13 = drei + zehn = ___ (one word)","a":["dreizehn"],"why":"drei + zehn."}
+  ]
+},
+"6": {
+  "kind": "video",
+  "title": "GERMAN LESSON 23: The 6 Most IMPORTANT German Question Words!",
+  "source": "YouTube · Learn German with Anja",
+  "url": "https://www.youtube.com/watch?v=cCEnhEDLmIk",
+  "minutes": 5,
+  "focus": "Learn the six W-words with their example questions. Write one question of your own for each word.",
+  "questions": [
+    {"t":"mc","q":"Which question word asks about time? (Wann kommst du nach Hause?)","o":["wann","wo","wer"],"a":0,"why":"wann = when."},
+    {"t":"fill","q":"___ ist die Toilette? (Where is the toilet?)","a":["Wo"],"why":"wo = where."},
+    {"t":"mc","q":"Which question word means “why”?","o":["was","warum","wie"],"a":1,"why":"Anja’s example: Warum ist die Banane krumm?"}
+  ]
+},
+"7": {
+  "kind": "video",
+  "title": "GERMAN LESSON 9: The German Definite Articles DER, DIE, DAS",
+  "source": "YouTube · Learn German with Anja",
+  "url": "https://www.youtube.com/watch?v=9uFcMrgPrz4",
+  "minutes": 5,
+  "focus": "Listen for the two big tips: always learn a noun with its article, and the -chen ending. Write down the six example nouns Anja gives.",
+  "questions": [
+    {"t":"mc","q":"What is Anja’s most important tip for learning German nouns?","o":["Learn every noun together with its article","Learn only the plural forms","Ignore the articles at first"],"a":0,"why":"Always der Apfel, not just Apfel."},
+    {"t":"mc","q":"Why is it “das Mädchen” although a girl is female?","o":["Words ending in -chen are always neuter","Girls are grammatically neuter in every language","It is a mistake in the dictionary"],"a":0,"why":"-chen makes a diminutive: das Mädchen, das Brötchen."},
+    {"t":"mc","q":"Which article goes with “Frau” in Anja’s examples?","o":["der","die","das"],"a":1,"why":"die Frau, der Mann, das Kind."}
+  ]
+},
+"8": {
+  "kind": "video",
+  "title": "How to Order in a German Restaurant",
+  "source": "YouTube · Learn German with Anja",
+  "url": "https://www.youtube.com/watch?v=AwyA7GzGlvE",
+  "minutes": 8,
+  "focus": "Pick up the phrases in order: arriving, asking for the menu, ordering, asking for a recommendation. Practise the short waiter–guest dialogue aloud.",
+  "questions": [
+    {"t":"mc","q":"How do you ask for a table for two people?","o":["Haben Sie einen Tisch für zwei Personen?","Ich habe zwei Tische.","Wo ist die Speisekarte für zwei?"],"a":0,"why":"Tisch = table, Personen = people."},
+    {"t":"fill","q":"Können wir ___ sitzen? (outside)","a":["draußen","draussen"],"why":"draußen = outside, drinnen = inside."},
+    {"t":"mc","q":"How do you politely order a red wine?","o":["Ich hätte gerne einen Rotwein.","Rotwein, jetzt.","Ich bin ein Rotwein."],"a":0,"why":"Ich hätte gerne … = I would like …"}
+  ]
+},
+"9": {
+  "kind": "video",
+  "title": "“haben” and “sein” in the Past Tense (Präteritum Guide)",
+  "source": "YouTube · Learn German with Herr Antrim",
+  "url": "https://www.youtube.com/watch?v=MgDJTV34E0s",
+  "minutes": 6,
+  "focus": "Follow the conjugation tables for hatte and war, then read every example sentence aloud. Note which past tense he says Germans prefer for these two verbs.",
+  "questions": [
+    {"t":"mc","q":"Which past tense do most Germans use in speech for haben and sein?","o":["Präteritum (hatte, war)","Perfekt (habe gehabt, bin gewesen)","Futur"],"a":0,"why":"For haben and sein the short Präteritum forms are the natural choice in speech."},
+    {"t":"fill","q":"Ich ___ gestern im Kino. (sein, past)","a":["war"],"why":"ich war, du warst, er war …"},
+    {"t":"mc","q":"“As a child I ___ a lot of toys.” Which German form fits?","o":["hatte","war","hatten"],"a":0,"why":"ich hatte."}
+  ]
+},
+"10": {
+  "kind": "video",
+  "title": "Learn German Vocabulary – Countries & Languages in German (Länder und Sprachen)",
+  "source": "YouTube · Learn German",
+  "url": "https://www.youtube.com/watch?v=JOgBEiv7e-c",
+  "minutes": 8,
+  "focus": "Repeat each pair aloud (country, then language). Notice that most language names end in -isch. Make a note of the countries that come with an article.",
+  "questions": [
+    {"t":"mc","q":"Which language do people speak in Österreich?","o":["Deutsch","Österreichisch","Englisch"],"a":0,"why":"Österreich – Deutsch, as in the video."},
+    {"t":"fill","q":"Spanien – ___ (the language)","a":["Spanisch"],"why":"Spanien – Spanisch."},
+    {"t":"mc","q":"Which of these country names comes with an article?","o":["die Türkei","Frankreich","Polen"],"a":0,"why":"die Türkei, die USA, die Schweiz."}
+  ]
+},
+"11": {
+  "kind": "video",
+  "title": "GERMAN LESSON 15: The German indefinite articles EIN and EINE",
+  "source": "YouTube · Learn German with Anja",
+  "url": "https://www.youtube.com/watch?v=6Of-BqbiNLM",
+  "minutes": 5,
+  "focus": "Sort each of Anja’s example nouns by gender. Do her mini exercise at the end (Stift, Flasche, Kissen, Kartoffeln) before she gives the solution.",
+  "questions": [
+    {"t":"mc","q":"How many indefinite articles does German have (in the nominative)?","o":["Two: ein and eine","Three: ein, eine, eins","Four"],"a":0,"why":"ein for masculine and neuter, eine for feminine."},
+    {"t":"fill","q":"die Schüssel → das ist ___ Schüssel","a":["eine"],"why":"Feminine nouns take eine."},
+    {"t":"mc","q":"Which indefinite article is used with plural nouns such as “Schuhe”?","o":["ein","eine","None"],"a":2,"why":"das sind Schuhe – no article in the plural."}
+  ]
+},
+"12": {
+  "kind": "video",
+  "title": "How to Negate German Sentences – NICHT vs. KEIN for Beginners",
+  "source": "YouTube · lingoni GERMAN",
+  "url": "https://www.youtube.com/watch?v=4KtXdQJ_Etg",
+  "minutes": 6,
+  "focus": "Watch how nicht changes position, then how kein replaces ein/eine. Make your own negated version of each example.",
+  "questions": [
+    {"t":"mc","q":"Which sentence is correct?","o":["Er geht nicht nach Hause.","Er nicht geht nach Hause.","Er geht kein nach Hause."],"a":0,"why":"With a plain verb, nicht comes after it."},
+    {"t":"mc","q":"“Das Auto ist neu.” – negated:","o":["Das Auto ist nicht neu.","Das Auto ist kein neu.","Das Auto nicht ist neu."],"a":0,"why":"With an adjective, nicht stands before it."},
+    {"t":"fill","q":"Ich habe eine Tochter. → Ich habe ___ Tochter.","a":["keine"],"why":"Negating ein/eine + noun: kein / keine."}
+  ]
+},
+"13": {
+  "kind": "video",
+  "title": "My new house! Learn German Vocabulary of Furniture and Rooms!",
+  "source": "YouTube · Learn German with Anja",
+  "url": "https://www.youtube.com/watch?v=dlSoM2OG0r0",
+  "minutes": 7,
+  "focus": "Walk through Anja’s house room by room and write down each room and piece of furniture with its article. Her homework: write a few sentences about your own home.",
+  "questions": [
+    {"t":"mc","q":"Anja explains “das Wohnzimmer”. Which two parts is it built from?","o":["wohnen (to live) + Zimmer (room)","wohnen + Zeit","Wand + Zimmer"],"a":0,"why":"The living room is the room to live in."},
+    {"t":"mc","q":"What does “der Kühlschrank” mean literally?","o":["cold cupboard","cool table","ice room"],"a":0,"why":"kühl = cool, der Schrank = cupboard: fridge."},
+    {"t":"mc","q":"What is the plural of “das Fahrrad”, as Anja says?","o":["die Fahrräder","die Fahrrads","die Fahrrade"],"a":0,"why":"das Fahrrad – die Fahrräder."}
+  ]
+},
+"14": {
+  "kind": "video",
+  "title": "LESSON 16: Learn the German POSSESSIVE PRONOUNS: Mein, dein, sein, ihr, unser …",
+  "source": "YouTube · Learn German with Anja",
+  "url": "https://www.youtube.com/watch?v=CY4UhFttoog",
+  "minutes": 10,
+  "focus": "Write the list mein, dein, sein, ihr, unser, euer, ihr/Ihr next to the pronouns ich, du, er, sie … and watch which endings appear with feminine and plural nouns.",
+  "questions": [
+    {"t":"fill","q":"ich → mein, du → ___, er → sein","a":["dein"],"why":"dein = your (informal)."},
+    {"t":"mc","q":"“Das ist sein Ball.” means:","o":["That is his ball.","That is her ball.","That is my ball."],"a":0,"why":"sein = his (and also “to be”, as Anja jokes)."},
+    {"t":"mc","q":"Which possessive means “her” (for a woman)?","o":["ihr","sein","mein"],"a":0,"why":"ihr Ball = her ball."}
+  ]
+},
+"15": {
+  "kind": "video",
+  "title": "GERMAN LESSON 46: German Separable Verbs Explained – Trennbare Verben",
+  "source": "YouTube · Learn German with Anja",
+  "url": "https://www.youtube.com/watch?v=cEizjiqBrbI",
+  "minutes": 5,
+  "focus": "Notice how the prefix jumps to the end of the sentence. Say each of Anja’s examples aloud, then make two of your own with aufstehen and einkaufen.",
+  "questions": [
+    {"t":"mc","q":"“Der Zug fährt um 9 Uhr ab.” Where does the prefix “ab” stand?","o":["At the end of the sentence","Right before the verb","Nowhere; it is dropped"],"a":0,"why":"The prefix of a separable verb goes to the end in main clauses."},
+    {"t":"mc","q":"What is the infinitive in “Der Zug fährt ab”?","o":["abfahren","fahren ab","abfahrt"],"a":0,"why":"ab + fahren = to depart."},
+    {"t":"mc","q":"Which sentence is correct?","o":["Ich stehe um 7 Uhr auf.","Ich aufstehe um 7 Uhr.","Ich stehe auf um 7 Uhr früh dann."],"a":0,"why":"aufstehen → ich stehe … auf."}
+  ]
+},
+"16": {
+  "kind": "video",
+  "title": "Learn German Vocabulary – Hobbies in German (Hobbys)",
+  "source": "YouTube · Learn German",
+  "url": "https://www.youtube.com/watch?v=dVb_VwVYehs",
+  "minutes": 7,
+  "focus": "Repeat every hobby aloud and then say the two model sentences with your own hobbies.",
+  "questions": [
+    {"t":"mc","q":"How do you say “My hobby is cooking”?","o":["Mein Hobby ist kochen.","Ich Hobby koche mein.","Mein Hobby koche."],"a":0,"why":"Mein Hobby ist + infinitive."},
+    {"t":"mc","q":"Which sentence is correct for two hobbies?","o":["Meine Hobbys sind lesen und Musik hören.","Mein Hobbys ist lesen und Musik hören.","Meine Hobby sind lesen."],"a":0,"why":"Plural: meine Hobbys sind …"},
+    {"t":"mc","q":"How does the video say “Ski” in “Skifahren” should be pronounced at the start?","o":["like “sch”","like “sk”","like “z”"],"a":0,"why":"Ski is pronounced “schi”."}
+  ]
+},
+"17": {
+  "kind": "video",
+  "title": "GERMAN LESSON 59: How to tell the TIME in German – Die Uhrzeit (part 1)",
+  "source": "YouTube · Learn German with Anja",
+  "url": "https://www.youtube.com/watch?v=44xYdQWki-M",
+  "minutes": 6,
+  "focus": "Say every clock time out loud with Anja. Watch how she adds 12 to get the 24-hour time and how halb works.",
+  "questions": [
+    {"t":"mc","q":"How do you ask what time it is?","o":["Wie spät ist es?","Was ist Zeit?","Wo ist die Uhr?"],"a":0,"why":"Also: Wie viel Uhr ist es?"},
+    {"t":"mc","q":"How does Anja say 4 pm in the 24-hour style?","o":["sechzehn Uhr","vierzehn Uhr","vierundzwanzig Uhr"],"a":0,"why":"Add 12: 4 + 12 = 16."},
+    {"t":"fill","q":"4:30 is “halb ___”.","a":["fünf","fuenf"],"why":"halb fünf – half of the way to five."}
+  ]
+},
+"18": {
+  "kind": "video",
+  "title": "Learn German | German Grammar | Modalverben | Modal verbs | A1",
+  "source": "YouTube · Learn German",
+  "url": "https://www.youtube.com/watch?v=bD4vSw6AWps",
+  "minutes": 10,
+  "focus": "List the six modal verbs and note the structure: conjugated modal verb in position 2, infinitive at the very end.",
+  "questions": [
+    {"t":"mc","q":"How many modal verbs are there in German?","o":["Six","Four","Ten"],"a":0,"why":"dürfen, können, mögen, müssen, sollen, wollen."},
+    {"t":"mc","q":"In a sentence with a modal verb, where does the second verb (infinitive) go?","o":["At the end","Right after the subject","Before the modal verb"],"a":0,"why":"Ich kann gut schwimmen."},
+    {"t":"fill","q":"Ich ___ gut schwimmen. (können)","a":["kann"],"why":"ich kann, du kannst, er kann."}
+  ]
+}
+}

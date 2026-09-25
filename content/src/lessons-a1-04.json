@@ -1,0 +1,142 @@
+{
+"a1-17": {
+  "goal": "Say which cities and sights you have already visited, using war / warst / waren, and name a few German landmarks.",
+  "words": [
+    ["die Sehenswürdigkeit, -en", "sight, attraction"],
+    ["der Kölner Dom", "Cologne Cathedral"],
+    ["das Brandenburger Tor", "Brandenburg Gate"],
+    ["die Stadt, Städte", "city"],
+    ["Warst du schon mal in Köln?", "Have you ever been to Cologne?"],
+    ["Ich war schon mal in …", "I’ve been to … before."],
+    ["Ich war noch nie in …", "I’ve never been to …"],
+    ["schon mal / noch nie", "already once / never"],
+    ["nächste Woche", "next week"],
+    ["das Geschenk, -e", "present"],
+    ["Schön, dass ihr da seid!", "Nice that you’re here!"],
+    ["Vielen Dank für die Einladung!", "Thanks for the invitation!"]
+  ],
+  "grammar": {
+    "title": "Simple past of sein: war",
+    "text": "To say where you **were**, use the past tense of sein:\n\n- ich **war**\n- du **warst**\n- er / sie / es **war**\n- wir **waren**\n- ihr **wart**\n- sie / Sie **waren**\n\nCombine with **schon mal** (already once) and **noch nie** (never): Ich war schon mal in Hamburg. In Heidelberg war ich noch nie.",
+    "ex": [
+      ["Warst du schon mal in Köln?", "Have you ever been to Cologne?"],
+      ["Wir waren sogar am Brandenburger Tor.", "We were even at the Brandenburg Gate."],
+      ["Ihr wart schon mal in Berlin, oder?", "You’ve been to Berlin before, right?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Sebastian shows a picture and says it is a Sehenswürdigkeit in Köln. Which is it?","o":["Der Kölner Dom","Das Brandenburger Tor","Der Hauptbahnhof"],"a":0,"why":"Der Kölner Dom = Cologne Cathedral.","src":"video"},
+    {"t":"mc","q":"Which city does Nawin plan to visit next week?","o":["München","Hamburg","Heidelberg"],"a":0,"why":"“Nächste Woche fahre ich nach München!”","src":"video"},
+    {"t":"mc","q":"Which two cities has Nawin already visited?","o":["Hamburg and Köln","Köln and Heidelberg","Berlin and München"],"a":0,"why":"“Ich war schon mal in Hamburg und in Köln. In Heidelberg war ich noch nie.”","src":"video"},
+    {"t":"mc","q":"Who has been to Berlin?","o":["Nina and Sebastian","Nawin and Nico","Only Lisa"],"a":0,"why":"“Wir beide waren schon mal in Berlin.”","src":"video"},
+    {"t":"fill","q":"Ich ___ noch nie in Heidelberg. (sein, past)","a":["war"],"why":"ich war.","src":"grammar"},
+    {"t":"fill","q":"Warst du schon mal in Köln? – Nein, ich ___ noch nie dort.","a":["war"],"why":"ich war.","src":"grammar"},
+    {"t":"mc","q":"“Wir ___ in Berlin.” (past of sein)","o":["waren","war","wart"],"a":0,"why":"wir waren.","src":"grammar"}
+  ]
+},
+"a1-18": {
+  "goal": "Say where places are (in the north, south, east or west) and give simple facts about where you come from.",
+  "words": [
+    ["der Norden / Süden", "north / south"],
+    ["der Osten / Westen", "east / west"],
+    ["im Süden von Spanien", "in the south of Spain"],
+    ["Wo liegt das?", "Where is that (located)?"],
+    ["das Team, -s", "team"],
+    ["gewinnen", "to win"],
+    ["Spanien / Syrien / Deutschland", "Spain / Syria / Germany"],
+    ["Europa", "Europe"],
+    ["Ich komme aus Damaskus.", "I come from Damascus."],
+    ["anfangen", "to begin"],
+    ["Komm jetzt!", "Come on now!"],
+    ["noch nicht", "not yet"]
+  ],
+  "grammar": {
+    "title": "Statements and questions: verb position",
+    "text": "In a **statement** the verb is in **second position**: Spanien **ist** im Süden von Europa.\n\nIn a **yes/no question** the verb is first: **Kommst** du aus Syrien?\n\nIn a **W-question** the question word is first, then the verb: **Wo** liegt Sevilla? – Sevilla liegt im Süden von Spanien.\n\nDirections use **im** (in dem): im Norden, im Süden, im Osten, im Westen.",
+    "ex": [
+      ["Spanien – das ist im Süden, oder?", "Spain – that’s in the south, isn’t it?"],
+      ["Damaskus ist auch im Süden. Im Süden von Syrien.", "Damascus is also in the south. In the south of Syria."],
+      ["Woher kommst du? – Ich komme aus Syrien.", "Where do you come from? – I come from Syria."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How many teams are there in the party game?","o":["Four: Osten, Süden, Westen, Norden","Two: Ost and West","Three: Nord, Süd, Mitte"],"a":0,"why":"Team Osten, Süden, Westen and Norden.","src":"video"},
+    {"t":"mc","q":"Where does Selma come from?","o":["Damaskus in Syrien","Sevilla in Spanien","Köln in Deutschland"],"a":0,"why":"“Ich komme aus Syrien … aus Damaskus.”","src":"video"},
+    {"t":"mc","q":"Selma says Spain is in the south of Europe. In which part of Spain is Sevilla?","o":["In the south","In the north","In the east"],"a":0,"why":"“Sevilla ist im Süden von Spanien.”","src":"video"},
+    {"t":"mc","q":"Why does Nina say “Nico spricht noch nicht so gut Deutsch”?","o":["Because he does not understand the word gewinnen","Because he is shy","Because he is angry"],"a":0,"why":"Selma says “Wir gewinnen!” and Nico asks what it means.","src":"video"},
+    {"t":"fill","q":"Sevilla liegt im ___ von Spanien. (south)","a":["Süden","Sueden"],"why":"der Süden = south.","src":"vocab"},
+    {"t":"mc","q":"Which sentence has the verb in the correct (second) position?","o":["Selma kommt aus Syrien.","Selma aus Syrien kommt.","Kommt Selma aus Syrien."],"a":0,"why":"Statement: verb second.","src":"grammar"},
+    {"t":"mc","q":"“Wo liegt Damaskus?” is a:","o":["W-question","yes/no question","statement"],"a":0,"why":"It starts with the question word wo.","src":"grammar"}
+  ]
+},
+"a1-19": {
+  "goal": "Talk about countries and typical things there using the general subject “man”.",
+  "words": [
+    ["Schweden / Norwegen", "Sweden / Norway"],
+    ["Frankreich / Japan", "France / Japan"],
+    ["Italien / Spanien", "Italy / Spain"],
+    ["die Spezialität, -en", "speciality"],
+    ["man", "one, people (in general)"],
+    ["In Frankreich isst man gern Käse.", "In France people like eating cheese."],
+    ["nächstes Jahr", "next year"],
+    ["Nimmst du mich mit?", "Will you take me along?"],
+    ["Klar!", "Sure!"],
+    ["bald", "soon"],
+    ["der Job, -s", "job"],
+    ["Ich mag Deutschland.", "I like Germany."]
+  ],
+  "grammar": {
+    "title": "The indefinite pronoun man",
+    "text": "**man** means “people in general” or “one”. It takes the **er/sie/es** form of the verb: **man isst**, **man spricht**, **man geht**.\n\nIt is very common when describing customs: In Japan isst **man** Sushi. In Italien isst **man** Pizza. Do not confuse **man** (one) with **Mann** (man, husband).",
+    "ex": [
+      ["Köttbullar isst man in Schweden.", "You eat meatballs in Sweden."],
+      ["In Frankreich isst man gern Käse.", "In France people like eating cheese."],
+      ["In Spanien isst man Gazpacho.", "In Spain people eat gazpacho."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What do you have to do with the little flags in Lisa’s game?","o":["Match them to the foods of different countries","Count them","Give them to guests"],"a":0,"why":"“Ihr müsst die Fähnchen zuordnen.”","src":"video"},
+    {"t":"mc","q":"What is the speciality Nico names for Spain?","o":["Gazpacho","Paella","Sushi"],"a":0,"why":"“In Spanien isst man Gazpacho!”","src":"video"},
+    {"t":"mc","q":"Where is Nawin going soon?","o":["To France, for a job","To Japan, for holidays","To Sweden, to study"],"a":0,"why":"“Ich habe da einen Job.”","src":"video"},
+    {"t":"mc","q":"Which country does Nina plan to visit next year?","o":["Norwegen","Schweden","Frankreich"],"a":0,"why":"“Ich fahr nächstes Jahr nach Norwegen!”","src":"video"},
+    {"t":"fill","q":"In Italien isst ___ Pizza. (one / people)","a":["man"],"why":"man isst.","src":"grammar"},
+    {"t":"mc","q":"“In Japan isst man Sushi.” means:","o":["In Japan people eat sushi.","A man in Japan eats sushi.","I eat sushi in Japan."],"a":0,"why":"man = people in general.","src":"grammar"},
+    {"t":"mc","q":"What does “nächstes Jahr” mean?","o":["next year","last year","every year"],"a":0,"why":"nächst- = next.","src":"vocab"}
+  ]
+},
+"a1-20": {
+  "goal": "Say which languages you speak, ask others, and use the verb sprechen correctly.",
+  "words": [
+    ["die Sprache, -n", "language"],
+    ["Welche Sprachen sprichst du?", "Which languages do you speak?"],
+    ["Ich spreche Spanisch.", "I speak Spanish."],
+    ["Deutsch, Englisch, Spanisch", "German, English, Spanish"],
+    ["Französisch, Italienisch, Thai", "French, Italian, Thai"],
+    ["ein bisschen", "a little"],
+    ["sehr gut / schlecht", "very well / badly"],
+    ["schnell", "fast"],
+    ["der Flüchtling, -e", "refugee"],
+    ["die Aufenthaltserlaubnis", "residence permit"],
+    ["der Deutschkurs, -e", "German course"],
+    ["die Antwort, -en", "answer, reply"]
+  ],
+  "grammar": {
+    "title": "Conjugation: sprechen",
+    "text": "**sprechen** changes its vowel (e → i) in the du and er/sie/es forms:\n\n- ich spreche\n- du **sprichst**\n- er/sie/es **spricht**\n- wir sprechen\n- ihr sprecht\n- sie/Sie sprechen\n\nLanguages are capitalised nouns and have no article after sprechen: Ich spreche **Spanisch**.",
+    "ex": [
+      ["Selma spricht sehr gut Deutsch.", "Selma speaks German very well."],
+      ["Ich spreche Spanisch, ein bisschen Englisch und ein bisschen Deutsch.", "I speak Spanish, a little English and a little German."],
+      ["Welche Sprachen sprichst du?", "Which languages do you speak?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Why is Selma’s situation uncertain, according to Lisa?","o":["She has no residence permit yet","She has no job","She does not speak German"],"a":0,"why":"“Sie hat noch keine Aufenthaltserlaubnis.”","src":"video"},
+    {"t":"mc","q":"How well does Selma speak German?","o":["Very well – she is learning fast","Not at all","Only a few words"],"a":0,"why":"“Sie spricht sehr gut Deutsch … lernt sehr schnell.”","src":"video"},
+    {"t":"mc","q":"Which languages does Nico say he speaks?","o":["Spanish, a little English, a little German","Only Spanish","German and French"],"a":0,"why":"“Ich spreche Spanisch, ein bisschen Englisch und ein bisschen Deutsch.”","src":"video"},
+    {"t":"mc","q":"What news does Sebastian bring at the end?","o":["There is an answer and an address for Yara’s shop","The party is over","Nico’s bag was found"],"a":0,"why":"“Es gibt eine Antwort und eine Adresse.”","src":"video"},
+    {"t":"fill","q":"Du ___ sehr gut Deutsch! (sprechen)","a":["sprichst"],"why":"du sprichst.","src":"grammar"},
+    {"t":"fill","q":"Selma ___ Deutsch. (sprechen)","a":["spricht"],"why":"sie spricht.","src":"grammar"},
+    {"t":"mc","q":"“Ich spreche ein bisschen Englisch.” means:","o":["I speak a little English.","I speak English very well.","I don’t speak English."],"a":0,"why":"ein bisschen = a little.","src":"vocab"}
+  ]
+}
+}

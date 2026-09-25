@@ -1,0 +1,142 @@
+{
+"a1-41": {
+  "goal": "Say where you live and where places are, using bei, von and in der Nähe von.",
+  "words": [
+    ["wohnen bei + Dativ", "to live at someone’s place"],
+    ["in der Nähe von", "near, close to"],
+    ["der Bahnhof, Bahnhöfe", "station"],
+    ["der Supermarkt, -märkte", "supermarket"],
+    ["um die Ecke", "around the corner"],
+    ["das Theater, -", "theatre"],
+    ["die Polizeistation, -en", "police station"],
+    ["einkaufen", "to shop"],
+    ["das Geschenk, -e", "present"],
+    ["das Notizbuch, -bücher", "notebook"],
+    ["zurückgeben", "to give back"],
+    ["behalten", "to keep"]
+  ],
+  "grammar": {
+    "title": "Prepositions bei and von",
+    "text": "Both take the **dative**.\n\n**bei** = at someone’s place, near, at work: Ich wohne **bei** Frau Kohlhaas. Ich arbeite **bei** Max und Tarek.\n\n**von** = from / of, and in **in der Nähe von** (near): Die Kälberstraße ist in der Nähe **vom** Restaurant. (vom = von dem)\n\nContractions: **bei dem → beim**, **von dem → vom**, **zu dem → zum**, **zu der → zur**.",
+    "ex": [
+      ["Ich wohne bei Frau Kohlhaas. Sie wohnt in der Kälberstraße.", "I live at Mrs Kohlhaas’s. She lives on Kälberstraße."],
+      ["Die Kälberstraße ist in der Nähe vom Restaurant.", "Kälberstraße is near the restaurant."],
+      ["Ich kaufe im Supermarkt um die Ecke ein.", "I shop at the supermarket around the corner."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Which items must Nico give back to Sebastian?","o":["The bag and the jacket","The two T-shirts and the trousers","Everything"],"a":0,"why":"Sebastian: T-shirts and trousers can stay; “Die Tasche und die Jacke brauche ich unbedingt zurück.”","src":"video"},
+    {"t":"mc","q":"What does Emma give Nico?","o":["A notebook for new German words, and soap bubbles","A football","A map of the city"],"a":0,"why":"“Ein Notizbuch. Für alle neuen Wörter auf Deutsch. Und Seifenblasen!”","src":"video"},
+    {"t":"mc","q":"Where will Nico live from now on?","o":["With Mrs Kohlhaas in Kälberstraße","In a youth hostel","With Yara"],"a":0,"why":"“Ich wohne bei Frau Kohlhaas.”","src":"video"},
+    {"t":"mc","q":"What does Nico give Emma?","o":["A drawing","A book","A T-shirt"],"a":0,"why":"“Cool! Dein Bild!”","src":"video"},
+    {"t":"fill","q":"Ich wohne ___ Frau Kohlhaas. (at her place)","a":["bei"],"why":"bei + dative.","src":"grammar"},
+    {"t":"mc","q":"“vom” is short for:","o":["von dem","von der","vor dem"],"a":0,"why":"von + dem = vom.","src":"grammar"},
+    {"t":"mc","q":"“in der Nähe von” means:","o":["near","far from","opposite"],"a":0,"why":"die Nähe = closeness.","src":"vocab"}
+  ]
+},
+"a1-42": {
+  "goal": "Understand and give directions: which bus to take, where to turn, and landmarks like Ampel, Kreuzung, Theater.",
+  "words": [
+    ["die Ampel, -n", "traffic light"],
+    ["die Kreuzung, -en", "crossing, junction"],
+    ["links / rechts / geradeaus", "left / right / straight on"],
+    ["abbiegen", "to turn"],
+    ["überqueren", "to cross"],
+    ["an … vorbei", "past"],
+    ["entlang", "along"],
+    ["bis zum / bis zur", "as far as, until"],
+    ["die Straße, -n", "street"],
+    ["weit / nicht weit", "far / not far"],
+    ["Wie komme ich zum Bahnhof?", "How do I get to the station?"],
+    ["Los geht’s!", "Let’s go!"]
+  ],
+  "grammar": {
+    "title": "Giving directions: prepositions of place",
+    "text": "Typical building blocks:\n\n- **mit dem Bus bis zum Grafenplatz** (as far as the square)\n- **über den Platz** gehen (across)\n- **die Krugstraße entlang** (along the street)\n- **am Theater vorbei** (past the theatre)\n- **an der Ampel links / rechts** (at the traffic light, left/right)\n\nFormal directions use the **Sie-imperative** (verb first): **Gehen Sie** bis zum Platz. **Biegen Sie** links ab. **Überqueren Sie** die Straße.",
+    "ex": [
+      ["Zuerst fahrt ihr mit dem Bus bis zum Grafenplatz.", "First you take the bus to Grafenplatz."],
+      ["Geht die Krugstraße entlang, überquert die große Kreuzung.", "Walk along Krugstraße, cross the big junction."],
+      ["Der Fahrradladen ist in der Adalbert-Stifter-Straße 43.", "The bicycle shop is at Adalbert-Stifter-Straße 43."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What news does Emma’s grandfather bring?","o":["He found Yara’s bicycle shop","He found Nico’s bag","He found Nico’s passport"],"a":0,"why":"“Ich hab den Fahrradladen gefunden.”","src":"video"},
+    {"t":"mc","q":"At which address is Yara’s shop?","o":["Adalbert-Stifter-Straße 43","Krugstraße 12","Schlossstraße 7"],"a":0,"why":"Adalbert-Stifter-Straße 43, near the Arbeitsamt in the centre.","src":"video"},
+    {"t":"mc","q":"How do Lisa and Nico start their journey?","o":["By bus to Grafenplatz","By taxi to the airport","On foot along the river"],"a":0,"why":"“Zuerst fahrt ihr mit dem Bus bis zum Grafenplatz.”","src":"video"},
+    {"t":"mc","q":"What does Lisa do instead of listening to the directions again?","o":["She checks the route on her phone","She calls a taxi","She asks a passer-by"],"a":0,"why":"“Ich schau im Handy nach.”","src":"video"},
+    {"t":"fill","q":"Gehen Sie bis ___ Grafenplatz. (zu + dem)","a":["zum"],"why":"zu + dem = zum.","src":"grammar"},
+    {"t":"mc","q":"“Gehen Sie am Theater vorbei” means:","o":["Walk past the theatre.","Go into the theatre.","Turn left at the theatre."],"a":0,"why":"an … vorbei = past.","src":"grammar"},
+    {"t":"mc","q":"What is “die Ampel”?","o":["traffic light","crossing","pavement"],"a":0,"why":"an der Ampel = at the traffic light.","src":"vocab"}
+  ]
+},
+"a1-43": {
+  "goal": "Talk about how you travel: mit dem Bus, mit der U-Bahn, zu Fuß, and use mit + dative.",
+  "words": [
+    ["der Bus, Busse", "bus"],
+    ["die U-Bahn, -en", "underground, subway"],
+    ["die Straßenbahn, -en", "tram"],
+    ["die Haltestelle, -n", "stop"],
+    ["zu Fuß gehen", "to walk"],
+    ["mit dem Bus / mit der U-Bahn", "by bus / by underground"],
+    ["bis zur Uni", "as far as the university"],
+    ["hinter der Kreuzung", "behind the junction"],
+    ["sich verabschieden", "to say goodbye"],
+    ["Kommst du bald wieder?", "Will you come again soon?"],
+    ["Sehen wir uns wieder?", "Will we see each other again?"],
+    ["hoffentlich", "hopefully"]
+  ],
+  "grammar": {
+    "title": "The preposition mit + dative",
+    "text": "**mit** (by / with) always takes the dative and is used for means of transport:\n\n- **mit dem** Bus (masculine)\n- **mit der** U-Bahn, **mit der** Straßenbahn (feminine)\n- **mit dem** Auto, **mit dem** Fahrrad (neuter/masculine)\n\nExceptions without mit: **zu Fuß gehen** (on foot). For a destination use **zu**: **zur** Uni, **zum** Bahnhof.",
+    "ex": [
+      ["Wir fahren mit der U-Bahn bis zur Uni.", "We take the underground to the university."],
+      ["Den Rest gehen wir dann zu Fuß.", "We’ll walk the rest."],
+      ["Fahrt ihr nicht mit dem Bus?", "Aren’t you taking the bus?"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"How do Emma and her grandfather go home?","o":["By underground to the university, then on foot or by tram","By taxi","By bike"],"a":0,"why":"“Wir fahren mit der U-Bahn bis zur Uni. Den Rest gehen wir zu Fuß. Oder fahren wir mit der Straßenbahn?”","src":"video"},
+    {"t":"mc","q":"What does Emma choose?","o":["The tram (Straßenbahn)","The bus","Walking"],"a":0,"why":"“Straßenbahn!”","src":"video"},
+    {"t":"mc","q":"What does Emma say to Nico when they say goodbye?","o":["Viel Glück!","Auf Wiedersehen!","Gute Reise!"],"a":0,"why":"She wishes him good luck.","src":"video"},
+    {"t":"fill","q":"Ich fahre mit ___ Bus. (masculine, dative)","a":["dem"],"why":"mit dem Bus.","src":"grammar"},
+    {"t":"fill","q":"Wir fahren mit ___ U-Bahn. (feminine, dative)","a":["der"],"why":"mit der U-Bahn.","src":"grammar"},
+    {"t":"mc","q":"“zu Fuß gehen” means:","o":["to walk","to run","to cycle"],"a":0,"why":"der Fuß = foot.","src":"vocab"},
+    {"t":"mc","q":"“die Haltestelle” is where you:","o":["get on a bus or tram","buy a ticket only","park a car"],"a":0,"why":"halten = to stop.","src":"vocab"}
+  ]
+},
+"a1-44": {
+  "goal": "Say where objects are in an office using unter, hinter, in and auf with the dative, and react when a shop is closed.",
+  "words": [
+    ["der Schrank, Schränke", "cupboard"],
+    ["das Regal, -e", "shelf"],
+    ["die Tastatur, -en", "keyboard"],
+    ["der Drucker, -", "printer"],
+    ["der Computer, -", "computer"],
+    ["der Schreibtisch, -e", "desk"],
+    ["unter / hinter / auf / in", "under / behind / on / in"],
+    ["neben / vor / zwischen / über", "next to / in front of / between / above"],
+    ["die Quittung, -en", "receipt"],
+    ["geschlossen / zu", "closed"],
+    ["vorübergehend", "temporarily"],
+    ["Das kann nicht sein.", "That can’t be."]
+  ],
+  "grammar": {
+    "title": "Two-case prepositions: position with the dative",
+    "text": "**an, auf, hinter, in, neben, über, unter, vor, zwischen** can take the dative or the accusative. To say **where something is** (question **Wo?**), use the **dative**:\n\n- **im** Schrank (in dem)\n- **unter der** Tastatur (feminine)\n- **hinter dem** Drucker (masculine)\n- **im** Regal (neuter)\n\nFor movement to a place (question **Wohin?**) you would use the accusative (later in the course).",
+    "ex": [
+      ["Hast du schon im Schrank geschaut?", "Have you already looked in the cupboard?"],
+      ["Vielleicht unter der Tastatur oder hinter dem Drucker?", "Maybe under the keyboard or behind the printer?"],
+      ["Hier im Regal sehe ich auch nichts.", "I can’t see anything here on the shelf either."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Where do Max and Tarek NOT look for the missing thing?","o":["In the fridge","In the cupboard","Under the keyboard"],"a":0,"why":"They mention Schrank, Tastatur, Drucker and Regal.","src":"video"},
+    {"t":"mc","q":"What does the sign at Yara’s shop say?","o":["Temporarily closed","Open from 9 to 18","Back in five minutes"],"a":0,"why":"“Vorübergehend geschlossen.”","src":"video"},
+    {"t":"mc","q":"How does Nico react?","o":["“Aber das kann nicht sein. Wo ist Yara?”","He goes home","He laughs"],"a":0,"why":"He is shocked and worried.","src":"video"},
+    {"t":"fill","q":"Die Maus liegt unter ___ Tastatur. (feminine, dative)","a":["der"],"why":"unter der Tastatur.","src":"grammar"},
+    {"t":"fill","q":"Der Stift ist hinter ___ Drucker. (masculine, dative)","a":["dem"],"why":"hinter dem Drucker.","src":"grammar"},
+    {"t":"mc","q":"“im Regal” means:","o":["on the shelf","under the table","behind the door"],"a":0,"why":"im = in dem.","src":"vocab"},
+    {"t":"mc","q":"“geschlossen” is the opposite of:","o":["geöffnet","teuer","klein"],"a":0,"why":"geöffnet = open.","src":"vocab"}
+  ]
+}
+}

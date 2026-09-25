@@ -1,0 +1,146 @@
+{
+"b1-33": {
+  "goal": "Talk about school days, favourite subjects and grades, and use ordinal numbers (der erste, der dritte, die vierte Klasse).",
+  "words": [
+    ["das Schulfach, -fächer / das Lieblingsfach", "school subject / favourite subject"],
+    ["die Note, -n", "grade, mark"],
+    ["die Naturwissenschaften (pl.)", "natural sciences"],
+    ["Physik / Biologie / Chemie / Mathe", "physics / biology / chemistry / maths"],
+    ["Geschichte / Deutsch / Sport", "history / German / sport"],
+    ["die Lehrerin / der Lehrer", "teacher (f/m)"],
+    ["die Schulzeit", "school days"],
+    ["ätzend", "awful (colloquial)"],
+    ["die Gymnastik", "gymnastics, exercise"],
+    ["die Laune", "mood"],
+    ["meckern", "to grumble"],
+    ["Das gibt maximal die Note Vier.", "That gets a four at most."]
+  ],
+  "grammar": {
+    "title": "Ordinal numbers (Ordnungszahlen)",
+    "text": "Ordinals: **1. erste, 2. zweite, 3. dritte, 4. vierte, 5. fünfte … 19. neunzehnte, 20. zwanzigste, 21. einundzwanzigste … 100. hundertste**. Add **-te** up to 19 and **-ste** from 20; irregular: **erste, dritte, siebte, achte**.\n\nUses: **die erste Klasse**, **der zweite Weltkrieg**, **am dritten Mai**, **Ich wohne im vierten Stock**, **zum ersten Mal**. Before nouns they take adjective endings: **das erste Schuljahr**, **mit dem zweiten Lehrer**.\n\n**German grades:** 1 = sehr gut, 2 = gut, 3 = befriedigend, 4 = ausreichend, 5 = mangelhaft, 6 = ungenügend. **Note Vier** = just passing.",
+    "ex": [
+      ["Das gibt maximal die Note Vier.", "That gets a four at most."],
+      ["Sport war früher mein Lieblingsfach.", "Sport used to be my favourite subject."],
+      ["Ich war schon in der ersten Klasse gut in Mathe.", "I was already good at maths in the first grade."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was war Sebastians Lieblingsfach?","o":["Sport","Deutsch","Geschichte"],"a":0,"why":"“Sport war früher mein Lieblingsfach.”","src":"video"},
+    {"t":"mc","q":"Was waren Ninas Lieblingsfächer?","o":["Deutsch und Geschichte","Mathe und Physik","Sport und Kunst"],"a":0,"why":"“Meine Lieblingsfächer waren Deutsch und Geschichte.”","src":"video"},
+    {"t":"mc","q":"In welchen Fächern war Sebastian gut?","o":["Naturwissenschaften","Sprachen","Kunst"],"a":0,"why":"“Physik, Bio, Chemie … Mathe!”","src":"video"},
+    {"t":"mc","q":"Warum meckert Lisa?","o":["Die beiden sind zu laut – sie will arbeiten","Sie ist krank","Sie mag Sport nicht"],"a":0,"why":"“Geht’s auch ein bisschen leiser? Manche Menschen wollen arbeiten!”","src":"video"},
+    {"t":"fill","q":"Der ___ Mai (3rd) – ordinal","a":["dritte"],"why":"3. = dritte.","src":"grammar"},
+    {"t":"fill","q":"Ich wohne im ___ Stock. (7th)","a":["siebten"],"why":"7. = siebte → im siebten Stock.","src":"grammar"},
+    {"t":"mc","q":"“Note Vier” bedeutet:","o":["just passing","excellent","failed"],"a":0,"why":"4 = ausreichend.","src":"vocab"},
+    {"t":"mc","q":"“die Naturwissenschaften” sind:","o":["natural sciences","nature walks","science fiction"],"a":0,"why":"Physik, Bio, Chemie.","src":"vocab"}
+  ]
+},
+"b1-34": {
+  "goal": "Express wishes, possibilities and plans with the Konjunktiv II (wäre, hätte, könnte, müsste) and talk about training and school qualifications in Germany.",
+  "words": [
+    ["die Berufsschule, -n", "vocational school"],
+    ["der Meisterbetrieb, -e", "master craftsman’s business"],
+    ["ausbilden / die Ausbildung", "to train / training"],
+    ["das Zeugnis, -se", "certificate, report"],
+    ["übersetzen lassen", "to have translated"],
+    ["der Schulabschluss, -abschlüsse", "school-leaving qualification"],
+    ["der Hauptschulabschluss / der Realschulabschluss", "lower/intermediate school certificate"],
+    ["das Abitur / das Gymnasium", "A-levels / grammar school"],
+    ["sich erkundigen (ob / nach)", "to enquire"],
+    ["beachten", "to pay attention to"],
+    ["ein top Mitarbeiter", "a top employee"],
+    ["Ich bin stolz auf dich.", "I’m proud of you."]
+  ],
+  "grammar": {
+    "title": "Konjunktiv II (Präsens): wishes and possibilities",
+    "text": "The **Konjunktiv II** expresses **wishes, hypothetical situations, polite offers and advice**. Common forms:\n\n| Infinitive | Konjunktiv II |\n|---|---|\n| sein | ich **wäre**, du wärst, er wäre, wir wären |\n| haben | ich **hätte**, du hättest, er hätte |\n| können | ich **könnte**, du könntest |\n| müssen | ich **müsste**, du müsstest |\n| werden | ich **würde** + Infinitiv (for most other verbs) |\n\n- Du **müsstest** deine Zeugnisse übersetzen lassen. – Ich **wäre** nach drei Jahren fertig. – Ich **hätte** einen top Mitarbeiter. – Ich **könnte** hier studieren.\n\nUse **würde + Infinitiv** for regular verbs: Ich **würde** dort **arbeiten**.",
+    "ex": [
+      ["Ich wäre nach drei Jahren mit der Ausbildung fertig.", "I would be finished with the training after three years."],
+      ["Und ich hätte einen top Mitarbeiter!", "And I would have a top employee!"],
+      ["Du müsstest die B1-Prüfung machen.", "You would have to take the B1 exam."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Welches Angebot macht Yara Nico?","o":["Er kann nach der Ausbildung bei ihr arbeiten","Er bekommt ihren Laden geschenkt","Er soll nach Spanien zurück"],"a":0,"why":"“Ich könnte nach der Ausbildung wirklich bei dir arbeiten? – Ja.”","src":"video"},
+    {"t":"mc","q":"Was muss Nico zuerst tun?","o":["Seine spanischen Zeugnisse übersetzen lassen","Ein Praktikum machen","Einen Führerschein machen"],"a":0,"why":"“Zuerst müsstest du deine spanischen Zeugnisse übersetzen lassen.”","src":"video"},
+    {"t":"mc","q":"Warum darf Yara ausbilden?","o":["Ihr Fahrradladen ist ein Meisterbetrieb","Sie hat studiert","Sie hat viel Geld"],"a":0,"why":"“Mein Fahrradladen ist ein Meisterbetrieb.”","src":"video"},
+    {"t":"mc","q":"Welchen Nachweis braucht Nico noch?","o":["Über seine Deutschkenntnisse (B1-Prüfung)","Über seine Schuhgröße","Über sein Alter"],"a":0,"why":"“Du müsstest die B1-Prüfung machen.”","src":"video"},
+    {"t":"fill","q":"Ich ___ nach drei Jahren fertig. (sein, Konjunktiv II)","a":["wäre","waere"],"why":"sein → wäre.","src":"grammar"},
+    {"t":"fill","q":"Ich ___ einen top Mitarbeiter. (haben, Konjunktiv II)","a":["hätte","haette"],"why":"haben → hätte.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist ein höfliches Angebot?","o":["Ich könnte dir helfen.","Ich habe dir geholfen.","Ich helfe dir nie."],"a":0,"why":"könnte = Vorschlag.","src":"grammar"},
+    {"t":"mc","q":"“der Schulabschluss” ist:","o":["school-leaving qualification","end of school day","school closure"],"a":0,"why":"Abitur ist ein Schulabschluss.","src":"vocab"}
+  ]
+},
+"b1-35": {
+  "goal": "Talk about learning and workload: how to manage time, reduce commitments, and use infinitive clauses with zu (aufhören zu, anfangen zu).",
+  "words": [
+    ["der Arbeitsplan / die Arbeitsbelastung", "work schedule / workload"],
+    ["reduzieren", "to reduce"],
+    ["die Privatstunde / der Einzelunterricht", "private lesson / one-to-one teaching"],
+    ["in einer Gruppe / zu zweit", "in a group / in pairs"],
+    ["die Bibliothek, -en", "library"],
+    ["die Förderstunde, -n", "tutoring lesson"],
+    ["das Material zusammensuchen", "to gather materials"],
+    ["jemanden im Stich lassen", "to let someone down"],
+    ["verrückt machen", "to drive crazy"],
+    ["absagen", "to cancel"],
+    ["Hör auf zu suchen!", "Stop searching!"],
+    ["Ich hab ’ne Idee.", "I have an idea."]
+  ],
+  "grammar": {
+    "title": "Learning and managing time: infinitive with zu, sollen in questions",
+    "text": "Useful patterns:\n\n- **aufhören / anfangen / versuchen + zu + Infinitiv:** **Hör auf zu suchen!** – Ich fange an, mein Material **zusammenzusuchen**. – Versuch, dich **zu entspannen**.\n- **indirect question with sollen:** Ich weiß nicht, **wie ich das alles schaffen soll**.\n- **Suggestions with könntest:** Du **könntest** dich in der Bibliothek treffen. Du **könntest** die Kurse in einer Gruppe **machen**.\n- **Verneinung:** Ich will **niemanden** im Stich lassen.\n\nLearning vocabulary: **die Privatstunde**, **der Kurs**, **die Gruppe**, **der Einzelunterricht**, **das Lernmaterial**, **die Notizen**.",
+    "ex": [
+      ["Ich weiß echt nicht, wie ich das alles schaffen soll.", "I really don’t know how I’m supposed to manage all this."],
+      ["Du könntest dich auch mit ihnen in der Bibliothek treffen.", "You could also meet them in the library."],
+      ["Hör auf zu suchen! Ich hab ’ne Idee.", "Stop searching! I have an idea."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Was macht Lisa verrückt?","o":["Ihr Arbeitsplan","Ihr Handy","Ihre Wohnung"],"a":0,"why":"“… mein Arbeitsplan macht mich total verrückt.”","src":"video"},
+    {"t":"mc","q":"Welchen Vorschlag macht Sebastian?","o":["Nachhilfe in der Gruppe, zu zweit oder in der Bibliothek","Nur noch online unterrichten","Weniger schlafen"],"a":0,"why":"“In ’ner Gruppe? Oder zu zweit? … in der Bibliothek … ins Café.”","src":"video"},
+    {"t":"mc","q":"Warum will Lisa nichts reduzieren?","o":["Sie will niemanden im Stich lassen","Sie hat keine Zeit","Sie braucht das Geld nicht"],"a":0,"why":"“Ich will niemanden im Stich lassen.”","src":"video"},
+    {"t":"mc","q":"Was sucht Lisa?","o":["Ihre Notizen für die Förderstunde","Ihren Schlüssel","Ihre Brille"],"a":0,"why":"“… wo sind jetzt meine Notizen?”","src":"video"},
+    {"t":"fill","q":"Hör auf, ___ suchen! (zu)","a":["zu"],"why":"aufhören zu + Infinitiv.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Ich weiß nicht, wie ich das schaffen soll.","Ich weiß nicht, wie soll ich das schaffen.","Ich weiß nicht, wie ich soll das schaffen."],"a":0,"why":"Verb am Ende.","src":"grammar"},
+    {"t":"mc","q":"“jemanden im Stich lassen” bedeutet:","o":["to let someone down","to leave someone stitched up","to leave a sting"],"a":0,"why":"idiom.","src":"vocab"},
+    {"t":"mc","q":"“die Förderstunde” ist:","o":["a tutoring lesson","a lunch break","a meeting hour"],"a":0,"why":"fördern = to support.","src":"vocab"}
+  ]
+},
+"b1-36": {
+  "goal": "Talk about typical men’s and women’s jobs and describe photos, using relative clauses and the feminine job forms (Bauarbeiter → Bauarbeiterin).",
+  "words": [
+    ["der Bauarbeiter / die Bauarbeiterin", "construction worker (m/f)"],
+    ["der Erzieher / die Erzieherin", "nursery teacher (m/f)"],
+    ["der Kindergarten", "kindergarten"],
+    ["der Helm, -e", "helmet"],
+    ["verkleidet", "dressed up"],
+    ["das Arbeitsblatt, -blätter", "worksheet"],
+    ["austeilen", "to hand out"],
+    ["Egal, was es ist.", "No matter what it is."],
+    ["im Prinzip", "in principle"],
+    ["im ganzen Satz", "in a full sentence"],
+    ["Das Besondere ist …", "The special thing is …"],
+    ["lernen, was einen interessiert", "to learn what interests you"]
+  ],
+  "grammar": {
+    "title": "Relative clauses and female job titles",
+    "text": "**Feminine forms:** add **-in** (plural **-innen**): Bauarbeiter → Bauarbeiter**in**, Erzieher → Erzieher**in**, Lehrer → Lehrer**in**.\n\n**Relative clauses** describe a noun (verb at the end):\n- Die Frau, **die** den Helm **trägt**, ist eine Bauarbeiterin. (die = subject)\n- Was ist das Besondere an den Fotos, **die** ich euch eben gezeigt **habe**? (die = object, plural)\n- Das sind Berufe, **die** im Prinzip jeder lernen **kann**.\n- Schaut auf die Arbeitsblätter, **die** ich ausgeteilt **habe**.\n\nGeneral answer in full sentences: **Die Frau, die den Helm trägt, ist eine Bauarbeiterin.**",
+    "ex": [
+      ["Die Frau, die den Helm trägt, ist eine Bauarbeiterin.", "The woman who is wearing the helmet is a construction worker."],
+      ["Das sind Berufe, die im Prinzip jeder lernen kann.", "These are jobs that in principle anyone can learn."],
+      ["Schaut auf die Arbeitsblätter, die ich ausgeteilt habe!", "Look at the worksheets that I handed out!"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Welchen Beruf hat die Frau mit dem Helm auf dem Foto?","o":["Bauarbeiterin","Erzieherin","Feuerwehrfrau"],"a":0,"why":"“Die Frau, die den Helm trägt, ist eine Bauarbeiterin.”","src":"video"},
+    {"t":"mc","q":"Was denkt eine Schülerin über die Fotos?","o":["Alle sind verkleidet – Bauarbeiter sei ein Männerberuf, Kindergarten Frauenberuf","Die Fotos sind alt","Die Fotos sind unscharf"],"a":0,"why":"“Bauarbeiter ist ein Beruf für Männer, und im Kindergarten arbeiten meistens nur Frauen.”","src":"video"},
+    {"t":"mc","q":"Was sagt Lisa dazu?","o":["Jeder kann diese Berufe lernen, wenn er möchte","Frauen dürfen nicht auf Baustellen","Männer dürfen keine Kinder betreuen"],"a":0,"why":"“… Berufe, die im Prinzip jeder lernen kann.”","src":"video"},
+    {"t":"mc","q":"Was verteilt Lisa am Ende?","o":["Arbeitsblätter","Bücher","Fotos"],"a":0,"why":"“… die Arbeitsblätter, die ich ausgeteilt habe!”","src":"video"},
+    {"t":"fill","q":"der Erzieher → die ___ (feminine)","a":["Erzieherin"],"why":"+ in.","src":"grammar"},
+    {"t":"fill","q":"Die Frau, ___ den Helm trägt, ist Bauarbeiterin. (relative pronoun)","a":["die"],"why":"feminine subject: die.","src":"grammar"},
+    {"t":"mc","q":"Welcher Satz ist richtig?","o":["Das ist der Beruf, den ich lernen möchte.","Das ist der Beruf, der ich lernen möchte.","Das ist der Beruf, dem ich lernen möchte."],"a":0,"why":"maskulin, Akkusativ: den.","src":"grammar"},
+    {"t":"mc","q":"“verkleidet” bedeutet:","o":["dressed up (in costume)","clothed warmly","cleaned"],"a":0,"why":"sich verkleiden.","src":"vocab"}
+  ]
+}
+}

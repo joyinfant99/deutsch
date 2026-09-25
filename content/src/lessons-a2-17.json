@@ -1,0 +1,146 @@
+{
+"a2-69": {
+  "goal": "Express joy, gratitude and surprise (Ich bin froh, dass …; Ich freue mich, dich zu sehen) and say what you feel and why.",
+  "words": [
+    ["glücklich / froh", "happy / glad"],
+    ["überrascht / überraschen", "surprised / to surprise"],
+    ["wütend / sauer", "angry"],
+    ["traurig / enttäuscht", "sad / disappointed"],
+    ["das Gefühl, -e", "feeling"],
+    ["Alles Gute zum Geburtstag!", "Happy birthday!"],
+    ["Ich freue mich, dich zu sehen.", "I’m glad to see you."],
+    ["Ich bin froh, dass du gekommen bist.", "I’m glad that you came."],
+    ["seit Langem", "for a long time"],
+    ["erlauben", "to allow"],
+    ["Bescheid wissen", "to know about it"],
+    ["Mein Gott!", "My goodness!"]
+  ],
+  "grammar": {
+    "title": "Expressing emotions",
+    "text": "Ways to say how you feel and why:\n\n- adjective + **dass**-clause: Ich bin **froh, dass** du gekommen **bist**. Ich bin **glücklich, dass** du das Fahrrad **magst**.\n- **sich freuen** + **zu**-infinitive: Ich **freue mich**, dich **zu sehen**.\n- **sich freuen über** + Akk.: Ich freue mich **über** das Fahrrad.\n- exclamations: **Das ist fantastisch!** **So ein schönes Fahrrad!** **Das ist der beste Geburtstag seit Langem!**\n\nBirthday wishes: **Alles Gute zum Geburtstag!** **Herzlichen Glückwunsch!**",
+    "ex": [
+      ["Ich bin froh, dass du trotzdem gekommen bist.", "I’m glad you came anyway."],
+      ["Ich freu mich auch, dich zu sehen.", "I’m glad to see you too."],
+      ["Das ist der beste Geburtstag seit Langem!", "That’s the best birthday for a long time!"]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"Why did Selma have to lie to her parents again?","o":["She said she was at a language course","She said she was at a friend’s","She said she was at work"],"a":0,"why":"“Ich musste bei meinen Eltern schon wieder einen Sprachkurs vorschieben.”","src":"video"},
+    {"t":"mc","q":"What is Nico’s present?","o":["A bicycle","A phone","A book"],"a":0,"why":"“So ein schönes Fahrrad!”","src":"video"},
+    {"t":"mc","q":"What should Selma say if her parents ask where she got the bike?","o":["That it is from Lisa","That she found it","That she bought it"],"a":0,"why":"“… dann sag einfach, es ist von Lisa.”","src":"video"},
+    {"t":"mc","q":"What is Selma allowed to do in the afternoon?","o":["Go ice-skating","Go to the cinema","Visit Nico"],"a":0,"why":"“Heute Nachmittag darf ich eislaufen gehen.”","src":"video"},
+    {"t":"fill","q":"Ich bin froh, ___ du gekommen bist. (that)","a":["dass"],"why":"froh, dass …","src":"grammar"},
+    {"t":"fill","q":"Ich freue mich, dich ___ sehen. (zu)","a":["zu"],"why":"sich freuen + zu-Infinitiv.","src":"grammar"},
+    {"t":"mc","q":"“Alles Gute zum Geburtstag!” means:","o":["Happy birthday!","Good luck at work!","Have a good trip!"],"a":0,"why":"birthday wish.","src":"vocab"},
+    {"t":"mc","q":"“Lisa weiß Bescheid.” means:","o":["Lisa knows about it.","Lisa is angry.","Lisa is away."],"a":0,"why":"Bescheid wissen.","src":"vocab"}
+  ]
+},
+"a2-70": {
+  "goal": "Talk about feelings with verbs and adjectives that take a preposition (sich ärgern über, wütend auf, stolz auf, überrascht von).",
+  "words": [
+    ["sich ärgern über + Akk.", "to be annoyed about"],
+    ["sich aufregen über + Akk.", "to get worked up about"],
+    ["sich freuen auf / über + Akk.", "to look forward to / be pleased about"],
+    ["sich wundern über + Akk.", "to be surprised at"],
+    ["sauer auf + Akk.", "angry with"],
+    ["stolz auf + Akk.", "proud of"],
+    ["überrascht von + Dat.", "surprised by"],
+    ["gespannt auf + Akk.", "eager to see"],
+    ["der Termin / die Deadline", "date / deadline"],
+    ["sich lohnen", "to be worth it"],
+    ["die Turteltauben (pl.)", "lovebirds"],
+    ["Wir kriegen das schon hin.", "We’ll manage."]
+  ],
+  "grammar": {
+    "title": "Adjectives + preposition",
+    "text": "Adjectives about feelings take a fixed preposition:\n\n| adjective | preposition | case |\n|---|---|---|\n| sauer / wütend | **auf** | Akk. |\n| stolz | **auf** | Akk. |\n| gespannt | **auf** | Akk. |\n| überrascht | **von** / **über** | Dat. / Akk. |\n| zufrieden | **mit** | Dat. |\n| froh | **über** | Akk. |\n| interessiert | **an** | Dat. |\n\nSame with verbs: **sich ärgern über + Akk.**, **sich aufregen über + Akk.**\nUse **wenn / dass / ob**: Sie ärgern sich **über den neuen Termin**. Ich bin **stolz auf** dich.",
+    "ex": [
+      ["Ich weiß, Sie ärgern sich über den neuen Termin.", "I know you are annoyed about the new date."],
+      ["Bitte regen Sie sich nicht so auf!", "Please don’t get so worked up!"],
+      ["Da wären sie bestimmt überrascht.", "They’d surely be surprised."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What is Pepe talking about on the phone at first?","o":["A client who is annoyed about a new deadline","A job for Nico","A family dinner"],"a":0,"why":"“Ich weiß, Sie ärgern sich über den neuen Termin.”","src":"video"},
+    {"t":"mc","q":"What news does Herr Al-Pascha tell Pepe?","o":["He has had the job for two weeks","He is moving","He lost the job"],"a":0,"why":"“Sie haben den Job, seit zwei Wochen?”","src":"video"},
+    {"t":"mc","q":"What does Pepe carelessly mention?","o":["That he sees Herr Al-Pascha’s daughter with his brother in the park","That he has a new firm","That he is leaving Germany"],"a":0,"why":"“… ich seh hier grad Ihre Tochter mit meinem Bruder im Park.”","src":"video"},
+    {"t":"mc","q":"What does Pepe call Nico and Selma?","o":["Turteltauben (lovebirds)","Turnschuhe","Tanzpartner"],"a":0,"why":"“die beiden Turteltauben”","src":"video"},
+    {"t":"fill","q":"Ich ärgere mich ___ den Termin. (about)","a":["über","ueber"],"why":"sich ärgern über + Akk.","src":"grammar"},
+    {"t":"fill","q":"Ich bin stolz ___ dich. (of)","a":["auf"],"why":"stolz auf + Akk.","src":"grammar"},
+    {"t":"mc","q":"Which is correct?","o":["Sie ist wütend auf ihren Bruder.","Sie ist wütend mit ihren Bruder.","Sie ist wütend über ihrem Bruder."],"a":0,"why":"wütend auf + Akk.","src":"grammar"},
+    {"t":"mc","q":"“sich lohnen” means:","o":["to be worth it","to earn","to lend"],"a":0,"why":"Das Warten lohnt sich.","src":"vocab"}
+  ]
+},
+"a2-71": {
+  "goal": "Express your opinion and disagree (Ich denke / finde / glaube, dass …; Meiner Meinung nach …) in a conflict.",
+  "words": [
+    ["Meiner Meinung nach …", "In my opinion …"],
+    ["Ich denke / glaube / finde, dass …", "I think / believe / find that …"],
+    ["Ich glaube (nicht), dass …", "I (don’t) think that …"],
+    ["Ich sehe das anders.", "I see it differently."],
+    ["schuld sein an + Dat.", "to be to blame for"],
+    ["Riesenärger bekommen", "to get into big trouble"],
+    ["herausfinden", "to find out"],
+    ["ahnen", "to suspect"],
+    ["streng", "strict"],
+    ["Spinnst du?", "Are you crazy?"],
+    ["Halt dich aus meinem Leben raus!", "Keep out of my life!"],
+    ["Es tut mir leid.", "I’m sorry."]
+  ],
+  "grammar": {
+    "title": "Expressing opinions and disagreeing",
+    "text": "Give an opinion with a **dass-clause** (verb at the end) or a main clause:\n\n- Ich **denke nicht, dass** er irgendetwas **ahnt**.\n- Ich **finde nicht, dass** ich an irgendwas schuld **habe**.\n- **Meiner Meinung nach** bist du schuld. (Dat. of die Meinung + nach; verb second)\n- Ich **bin der Meinung, dass** …\n\nDisagree: **Ich sehe das anders.** – **Das stimmt nicht.** – **Ich glaube schon.** (I do think so.)\nWhen upset use apologies: **Es tut mir leid. Ich wusste das nicht.** (wissen – wusste)",
+    "ex": [
+      ["Ich denke nicht, dass er irgendetwas ahnt. – Ich glaube schon.", "I don’t think he suspects anything. – I think he does."],
+      ["Ich find nicht, dass ich an irgendwas schuld hab.", "I don’t think I’m to blame for anything."],
+      ["Es tut mir leid. Ich wusste das nicht.", "I’m sorry. I didn’t know that."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What does Selma tell Nico?","o":["Her father has found out she is not at the language course","Her father has bought her a bike","Her father is coming to the park"],"a":0,"why":"“… herausgefunden, dass ich nicht beim Sprachkurs bin.”","src":"video"},
+    {"t":"mc","q":"Why is Nico so angry at Pepe?","o":["Pepe told Selma’s father they were together in the park","Pepe took Nico’s bike","Pepe insulted Selma"],"a":0,"why":"“Und ihm gesagt, dass wir hier sind.”","src":"video"},
+    {"t":"mc","q":"Does Pepe think he is to blame?","o":["No, he says he doesn’t find that he is","Yes, completely","He doesn’t care"],"a":0,"why":"“Ich find nicht, dass ich an irgendwas Schuld hab.”","src":"video"},
+    {"t":"mc","q":"What does Pepe say in the end?","o":["He is sorry – he didn’t know","He is proud","He leaves"],"a":0,"why":"“Es tut mir leid. Ich wusste das nicht.”","src":"video"},
+    {"t":"mc","q":"Which is a polite way to disagree?","o":["Ich sehe das anders.","Du bist ein Idiot.","Halt den Mund!"],"a":0,"why":"neutral and polite.","src":"grammar"},
+    {"t":"fill","q":"Ich glaube nicht, ___ er das weiß. (that)","a":["dass"],"why":"dass-clause.","src":"grammar"},
+    {"t":"mc","q":"“Meiner Meinung nach …” means:","o":["In my opinion …","By my count …","On my name …"],"a":0,"why":"die Meinung = opinion.","src":"grammar"},
+    {"t":"mc","q":"“ahnen” means:","o":["to suspect","to remember","to forget"],"a":0,"why":"Er ahnt nichts.","src":"vocab"}
+  ]
+},
+"a2-72": {
+  "goal": "Describe strong emotions and enthusiasm with gradable adverbs (total, absolut, mega, ziemlich) and speak about football; use conditional sentences without wenn (Sind sie sauer, …).",
+  "words": [
+    ["der Fußballfan / das Fußballspiel", "football fan / match"],
+    ["das Tor, -e / das Abseits", "goal / offside"],
+    ["schießen / laufen / rennen", "to shoot / to run"],
+    ["der Weltmeister, -", "world champion"],
+    ["aufgeben", "to give up"],
+    ["total / absolut / mega", "totally / absolutely / mega"],
+    ["ziemlich / ganz / echt", "rather / quite / really"],
+    ["gut drauf sein", "to be on form"],
+    ["streng", "strict"],
+    ["Na und?", "So what?"],
+    ["Heute hast du verloren, morgen gewinnst du wieder.", "You lost today, you’ll win again tomorrow."],
+    ["ausfallen", "to be cancelled"]
+  ],
+  "grammar": {
+    "title": "Gradable adverbs, and conditions without wenn",
+    "text": "Strong words: **total gut, absolut großartig, mega Chance, ziemlich streng, echt gut**. They stand **before the adjective** and intensify it.\n\nConditions can also be built **without wenn** – the verb comes **first** in the condition clause:\n\n- **Sind** sie sauer, **darf** Selma nicht rausgehen. (= Wenn sie sauer sind, …)\n- **Darf** Selma nicht rausgehen, **seh** ich sie nicht.\n- **Hast** du Zeit, **komm** vorbei.\n\nThe following clause starts with the conjugated verb, too.",
+    "ex": [
+      ["Der macht ’n absolut großartiges Spiel heute.", "He’s playing an absolutely great game today."],
+      ["Sind sie sauer, darf Selma nicht rausgehen.", "If they’re angry, Selma isn’t allowed to go out."],
+      ["Ihre Eltern sind sehr streng.", "Her parents are very strict."]
+    ]
+  },
+  "quiz": [
+    {"t":"mc","q":"What are Max and Tarek doing when Nico arrives?","o":["Watching a football game","Cooking","Cleaning"],"a":0,"why":"They are commenting on a match.","src":"video"},
+    {"t":"mc","q":"How does Max describe the player’s game?","o":["Absolutely great","Terrible","Boring"],"a":0,"why":"“absolut großartiges Spiel”","src":"video"},
+    {"t":"mc","q":"Why is Nico unhappy?","o":["Selma’s father knows now, so she can’t go out and ice-skating is off","He lost his job","His team lost"],"a":0,"why":"“Eislaufen fällt aus. Und alles andere auch.”","src":"video"},
+    {"t":"mc","q":"How do Max and Tarek cheer him up?","o":["“Today you lost, tomorrow you’ll win again”","By buying him dinner","By calling Selma"],"a":0,"why":"“Heute hast du verloren, morgen wirst du wieder gewinnen.”","src":"video"},
+    {"t":"fill","q":"Sie ist ___ streng. (rather – gradable adverb)","a":["ziemlich","sehr","total","ganz"],"why":"any gradable adverb fits.","src":"grammar"},
+    {"t":"mc","q":"Which sentence expresses a condition without wenn?","o":["Hast du Zeit, komm vorbei.","Wenn du Zeit hast, komm vorbei.","Du hast Zeit, komm vorbei."],"a":0,"why":"verb first: Hast du Zeit …","src":"grammar"},
+    {"t":"mc","q":"“Sind sie sauer, darf Selma nicht rausgehen.” means:","o":["If they are angry, Selma can’t go out.","They are angry because Selma went out.","Selma wasn’t angry."],"a":0,"why":"verb-first condition.","src":"grammar"},
+    {"t":"mc","q":"“aufgeben” means:","o":["to give up","to give away","to give out"],"a":0,"why":"Jetzt nicht aufgeben!","src":"vocab"}
+  ]
+}
+}

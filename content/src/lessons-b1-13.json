@@ -1,0 +1,656 @@
+{
+"b1-53": {
+"goal": "Tell an embarrassing incident in the past (a Missgeschick) in a clear order using the Präteritum, time words and passive expressions (Wir wurden gerufen).",
+"words": [
+[
+"das Missgeschick, -e",
+"mishap"
+],
+[
+"das Missverständnis, -se",
+"misunderstanding"
+],
+[
+"peinlich",
+"embarrassing"
+],
+[
+"der Sanitäter / die Sanitäterin",
+"paramedic (m/f)"
+],
+[
+"der Notruf, -e",
+"emergency call"
+],
+[
+"husten / der Husten",
+"to cough / cough"
+],
+[
+"der Hustenanfall",
+"coughing fit"
+],
+[
+"mitbekommen",
+"to notice"
+],
+[
+"anbrennen – brannte an",
+"to burn (food)"
+],
+[
+"Es handelt sich um …",
+"It is a matter of …"
+],
+[
+"erklären",
+"to explain"
+],
+[
+"Wir wurden gerufen.",
+"We were called."
+]
+],
+"grammar": {
+"title": "Telling a story in the past: Präteritum and connectors",
+"text": "Structure of a mishap story: **Situation – Ereignis – Reaktion – Auflösung**.\n\n- **Situation (Präteritum):** Es **war** normaler Betrieb. Nico **saß** im hinteren Bereich.\n- **Ereignis:** **Dann / Plötzlich** **begann** Inge zu husten. Sie **wurde** ganz rot.\n- **Gleichzeitig:** **Während** wir in der Küche **waren**, **bekam** Inge einen Hustenanfall.\n- **Auflösung:** **Zum Schluss** **klärte** sich alles auf.\n\nIrregular Präteritum: saß, begann, wurde, trank, ging, bekam, rief. Passive: **Wir wurden gerufen.** (Präteritum passive)\nFormal apology: **Das ist uns wirklich peinlich.** – **Es handelt sich um ein Missverständnis.**",
+"ex": [
+[
+"Es war normaler Betrieb zur Mittagszeit. Nico saß im hinteren Bereich.",
+"It was a normal lunchtime rush. Nico sat at the back."
+],
+[
+"Dann begann Inge zu husten. Sie wurde ganz rot.",
+"Then Inge started coughing. She turned bright red."
+],
+[
+"Es handelt sich um ein ärgerliches Missverständnis.",
+"It is an annoying misunderstanding."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "Warum kommen Sanitäter ins Restaurant?",
+"o": [
+"Nico hat den Notruf gewählt",
+"Max hat sich verletzt",
+"Ein Gast ist umgefallen"
+],
+"a": 0,
+"why": "Nico hielt den Husten von Inge für gefährlich und rief den Notruf.",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Was passierte mit Inge?",
+"o": [
+"Sie begann zu husten und wurde ganz rot",
+"Sie fiel um",
+"Sie verschluckte sich nicht"
+],
+"a": 0,
+"why": "“… begann Inge zu husten … Sie wurde ganz rot.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Wohin ging Inge?",
+"o": [
+"Auf die Toilette, um sich frisch zu machen",
+"Nach Hause",
+"In die Küche"
+],
+"a": 0,
+"why": "“… ging aber auf Toilette, um sich frisch zu machen.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Warum waren Max und Tarek in der Küche?",
+"o": [
+"Die Tiegelwurst war angebrannt",
+"Sie mussten abwaschen",
+"Sie holten Getränke"
+],
+"a": 0,
+"why": "“… weil die Tiegelwurst angebrannt ist.”",
+"src": "video"
+},
+{
+"t": "fill",
+"q": "Nico ___ im hinteren Bereich. (sitzen, Präteritum)",
+"a": [
+"saß",
+"sass"
+],
+"why": "sitzen – saß.",
+"src": "grammar"
+},
+{
+"t": "fill",
+"q": "Inge ___ ganz rot. (werden, Präteritum)",
+"a": [
+"wurde"
+],
+"why": "werden – wurde.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "Welcher Satz beschreibt eine Gleichzeitigkeit?",
+"o": [
+"Während wir kochten, bekam Inge einen Hustenanfall.",
+"Nachdem wir kochten, bekam Inge …",
+"Bevor Inge einen Anfall bekam, kochten wir."
+],
+"a": 0,
+"why": "während = gleichzeitig.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“Das ist uns peinlich.” bedeutet:",
+"o": [
+"We’re embarrassed about this.",
+"This is painful for us.",
+"This is unpleasant for the guests only."
+],
+"a": 0,
+"why": "peinlich = embarrassing.",
+"src": "vocab"
+}
+]
+},
+"b1-54": {
+"goal": "Apologise politely and explain a misunderstanding, use sollen / sollte (obligation, offers) and the past subjunctive (Das hätte jedem passieren können).",
+"words": [
+[
+"umgangssprachlich",
+"colloquial"
+],
+[
+"wörtlich nehmen",
+"to take literally"
+],
+[
+"bedauern",
+"to regret"
+],
+[
+"die Absicht, -en",
+"intention"
+],
+[
+"die böse Absicht",
+"malicious intent"
+],
+[
+"die Zivilcourage",
+"moral courage"
+],
+[
+"beweisen – bewies – bewiesen",
+"to prove, to show"
+],
+[
+"dankbar sein",
+"to be grateful"
+],
+[
+"verlegen",
+"embarrassed"
+],
+[
+"Ich dachte, dass …",
+"I thought that …"
+],
+[
+"Er meint es gut.",
+"He means well."
+],
+[
+"Sollen wir uns Ihren Hals anschauen?",
+"Shall we look at your throat?"
+]
+],
+"grammar": {
+"title": "sollen / sollte; hätte … können (past possibility)",
+"text": "**sollen** = duty/offer; **sollte** = should / ought to:\n- Eigentlich **sollten** wir Nico dankbar **sein**. (we ought to be)\n- **Sollen** wir uns Ihren Hals anschauen? (Shall we …?)\n\n**Konjunktiv II Vergangenheit** = **hätte / wäre + Partizip II** (+ **können/sollen** as infinitive): \n- Das **hätte** jedem **passieren können**. (This could have happened to anybody.)\n- Ich **hätte** anders **reagieren sollen**. (I should have reacted differently.)\n- Er **wäre** fast **gestürzt**.\n\nFormal apology phrases: **Wir bedauern sehr, dass …** – **Es tut uns leid, dass …** – **Das war keine böse Absicht.** – **Das war ein Missverständnis.**",
+"ex": [
+[
+"Eigentlich sollten wir Nico dankbar sein.",
+"Actually we should be grateful to Nico."
+],
+[
+"Das hätte jedem passieren können.",
+"That could have happened to anyone."
+],
+[
+"Wir bedauern sehr, dass Sie kommen mussten.",
+"We very much regret that you had to come."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "Was ist „Die Tote Oma“?",
+"o": [
+"Ein Gericht (Tiegelwurst) – umgangssprachlicher Name",
+"Ein Film",
+"Ein Getränk"
+],
+"a": 0,
+"why": "“… das Gericht ‚Tiegelwurst‘ hatten wir so genannt.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Warum hat Nico den Notruf gewählt?",
+"o": [
+"Er nahm den Ausdruck wörtlich und hatte Angst um Inge",
+"Er wollte den Spaß",
+"Max bat ihn darum"
+],
+"a": 0,
+"why": "“Nico hatte das aber wörtlich genommen.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Was sagt Tarek über Nicos Verhalten?",
+"o": [
+"Er hat Zivilcourage bewiesen",
+"Er hat Unsinn gemacht",
+"Er war unhöflich"
+],
+"a": 0,
+"why": "“Er hat Zivilcourage bewiesen!”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Wie reagiert Inge auf das Angebot der Sanitäter?",
+"o": [
+"Sie lehnt ab – es geht ihr gut",
+"Sie fährt mit",
+"Sie ruft den Arzt"
+],
+"a": 0,
+"why": "“Mir geht’s gut!”",
+"src": "video"
+},
+{
+"t": "fill",
+"q": "Das ___ jedem passieren können. (hätte / wäre)",
+"a": [
+"hätte",
+"haette"
+],
+"why": "hätte + Infinitiv + können.",
+"src": "grammar"
+},
+{
+"t": "fill",
+"q": "Eigentlich ___ wir ihm dankbar sein. (sollen, Konjunktiv II)",
+"a": [
+"sollten"
+],
+"why": "wir sollten.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“Ich hätte anders reagieren sollen” bedeutet:",
+"o": [
+"I should have reacted differently.",
+"I have reacted differently.",
+"I will react differently."
+],
+"a": 0,
+"why": "Konjunktiv II Vergangenheit.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“umgangssprachlich” bedeutet:",
+"o": [
+"colloquial",
+"idiomatic",
+"aggressive"
+],
+"a": 0,
+"why": "Umgangssprache = colloquial language.",
+"src": "vocab"
+}
+]
+},
+"b1-55": {
+"goal": "Understand and follow etiquette rules in another culture, and use the present participle (Partizip I) as adjective and adverb.",
+"words": [
+[
+"die Benimmregeln (pl.)",
+"rules of etiquette"
+],
+[
+"das Benehmen",
+"behaviour"
+],
+[
+"es gehört sich",
+"it is proper"
+],
+[
+"unüblich / unhöflich",
+"unusual / impolite"
+],
+[
+"gelten als + Nom.",
+"to be regarded as"
+],
+[
+"sich erkundigen nach + Dat.",
+"to enquire about"
+],
+[
+"das Befinden",
+"well-being"
+],
+[
+"einladen zum Essen",
+"to invite to dinner"
+],
+[
+"Als Dankeschön für …",
+"As a thank-you for …"
+],
+[
+"begrüßen",
+"to greet"
+],
+[
+"duzen",
+"to use du"
+],
+[
+"Wie geht es Ihrer Familie?",
+"How is your family?"
+]
+],
+"grammar": {
+"title": "Partizip I (present participle)",
+"text": "**Partizip I** = **Infinitiv + -d**: lachen → **lachend**, kommen → **kommend**, begrüßen → **begrüßend**. It expresses a **simultaneous** action and works as an **adjective** or **adverb**:\n\n- **als Adverb:** Sie kam **lachend** herein. (laughing)\n- **als Adjektiv (with endings):** die **kommenden** Gäste, der **begrüßende** Mann, ein **überraschender** Besuch, **fließendes** Wasser.\n\n**Etiquette phrases:** **Es gehört sich, …** – **Das gilt als unhöflich.** – **Man sollte …** – **In Syrien wird sich nach dem Befinden der Familie erkundigt.**\n\n**Duzen:** Wir können uns gerne duzen. (offer the informal du)",
+"ex": [
+[
+"Sie kam lachend herein.",
+"She came in laughing."
+],
+[
+"Die kommenden Gäste sind sehr nett.",
+"The upcoming guests are very nice."
+],
+[
+"Wenn Sie eine syrische Familie begrüßen, sollte der Mann der Frau nicht die Hand geben.",
+"When you greet a Syrian family the man shouldn’t shake the woman’s hand."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "Wozu ist Nico eingeladen?",
+"o": [
+"Zum Abendessen bei den Al-Paschas",
+"Zu einer Party",
+"Zu einem Konzert"
+],
+"a": 0,
+"why": "“Die Al-Paschas haben uns für heute Abend zum Essen eingeladen.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Warum informiert sich Nico im Internet?",
+"o": [
+"Er will die Benimmregeln in Syrien kennen",
+"Er sucht ein Rezept",
+"Er möchte einen Film sehen"
+],
+"a": 0,
+"why": "“Ich erkundige mich nur nach Benimmregeln in Syrien.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Was steht laut Nico im Internet?",
+"o": [
+"Ein Mann sollte einer Frau nicht die Hand geben",
+"Man muss Blumen mitbringen",
+"Man muss laut sprechen"
+],
+"a": 0,
+"why": "“… sollte der Mann der Frau nicht die Hand geben.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Was fragt Nico Ibrahim?",
+"o": [
+"Wie es der Familie geht",
+"Was es zu essen gibt",
+"Wie alt er ist"
+],
+"a": 0,
+"why": "“Wie geht es der Familie?”",
+"src": "video"
+},
+{
+"t": "fill",
+"q": "Sie kam ___ herein. (lachen → Partizip I)",
+"a": [
+"lachend"
+],
+"why": "Infinitiv + d.",
+"src": "grammar"
+},
+{
+"t": "fill",
+"q": "Die ___ Gäste sind unruhig. (warten → Partizip I + ending)",
+"a": [
+"wartenden"
+],
+"why": "warten + d + en → die wartenden Gäste.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "Wie bildet man das Partizip I?",
+"o": [
+"Infinitiv + -d",
+"ge- + Stamm + -t",
+"Stamm + -end + ge-"
+],
+"a": 0,
+"why": "lach-en-d.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“Es gehört sich.” bedeutet:",
+"o": [
+"It is proper.",
+"It belongs to you.",
+"It is yours."
+],
+"a": 0,
+"why": "sich gehören = to be proper.",
+"src": "vocab"
+}
+]
+},
+"b1-56": {
+"goal": "Talk about what happened before another past event with the Plusquamperfekt (hatte gelesen, war gegangen) and connect with nachdem / bevor.",
+"words": [
+[
+"das Plusquamperfekt",
+"past perfect"
+],
+[
+"der Nachtisch",
+"dessert"
+],
+[
+"gastfreundlich",
+"hospitable"
+],
+[
+"die Verhaltensregeln (pl.)",
+"rules of conduct"
+],
+[
+"der Eindruck, Eindrücke",
+"impression"
+],
+[
+"ähnlich",
+"similar"
+],
+[
+"der Experte / die Expertin",
+"expert"
+],
+[
+"sich informieren über + Akk.",
+"to inform oneself about"
+],
+[
+"höflich",
+"polite"
+],
+[
+"Das ist glasklar.",
+"That’s crystal clear."
+],
+[
+"kompliziert",
+"complicated"
+],
+[
+"Ich habe gelesen, dass …",
+"I read that …"
+]
+],
+"grammar": {
+"title": "Plusquamperfekt: what happened earlier in the past",
+"text": "**Plusquamperfekt** = **hatte / war + Partizip II**. It shows an action that was **before** another past action:\n\n- Nico **hatte sich** vorher **informiert**, deshalb fragte er nach der Familie.\n- Nachdem wir **gegessen hatten**, **gab** es Nachtisch.\n- Bevor er zu Besuch **kam**, **hatte** er die Regeln **gelesen**.\n\n**haben** for most verbs (hatte gelesen), **sein** for movement/change (war gegangen, war gekommen).\n\n**nachdem** (after) + Plusquamperfekt in the subordinate clause; main clause in the Präteritum: **Nachdem** sie **gegessen hatten**, **tranken** sie Tee.\n\nTalking about knowledge: **Ich habe den Eindruck, dass …** – **Es ist toll, dass du dich informiert hast.**",
+"ex": [
+[
+"Nico hatte sich vor dem Besuch informiert.",
+"Nico had informed himself before the visit."
+],
+[
+"Nachdem sie gegessen hatten, gab es Nachtisch.",
+"After they had eaten there was dessert."
+],
+[
+"Ich habe den Eindruck, dass viele Verhaltensregeln sehr ähnlich sind.",
+"I have the impression that many rules of conduct are very similar."
+]
+]
+},
+"quiz": [
+{
+"t": "mc",
+"q": "Was gibt es am Ende des Essens?",
+"o": [
+"Nachtisch",
+"Kaffee",
+"Brot"
+],
+"a": 0,
+"why": "“Nachtisch.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Wie findet Yara die Gastfreundschaft der Familie?",
+"o": [
+"Sie fragt, ob alle Syrer so gastfreundlich sind",
+"Sie findet sie aufdringlich",
+"Sie ist unzufrieden"
+],
+"a": 0,
+"why": "“Sind in Syrien alle Menschen so gastfreundlich?”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Was hat Nico vor dem Besuch getan?",
+"o": [
+"Er hat sich über Benimmregeln informiert",
+"Er hat Blumen gekauft",
+"Er hat Arabisch gelernt"
+],
+"a": 0,
+"why": "“… dass Nico sich vor dem Besuch darüber informiert hat.”",
+"src": "video"
+},
+{
+"t": "mc",
+"q": "Wann ist die Frage nach der Familie höflich?",
+"o": [
+"Wenn man die Familie kennt",
+"Immer",
+"Nie"
+],
+"a": 0,
+"why": "“Wenn man die Familie kennt, ja.”",
+"src": "video"
+},
+{
+"t": "fill",
+"q": "Nico ___ sich vorher informiert. (haben, Plusquamperfekt)",
+"a": [
+"hatte"
+],
+"why": "hatte + Partizip II.",
+"src": "grammar"
+},
+{
+"t": "fill",
+"q": "Nachdem wir gegessen ___, gab es Nachtisch. (Plusquamperfekt)",
+"a": [
+"hatten"
+],
+"why": "wir hatten gegessen.",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "Welcher Satz ist richtig?",
+"o": [
+"Nachdem er gekommen war, aßen sie zusammen.",
+"Nachdem er kam, aßen sie zusammen.",
+"Nachdem er gekommen ist, aßen sie zusammen."
+],
+"a": 0,
+"why": "nachdem + Plusquamperfekt (Vergangenheit).",
+"src": "grammar"
+},
+{
+"t": "mc",
+"q": "“gastfreundlich” bedeutet:",
+"o": [
+"hospitable",
+"guest-unfriendly",
+"wary of guests"
+],
+"a": 0,
+"why": "Gäste + freundlich.",
+"src": "vocab"
+}
+]
+}
+}
