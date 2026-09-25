@@ -35,11 +35,13 @@ export default function Dashboard({ schedule }: { schedule: ScheduleItem[] }) {
     });
   }, [year, month, dayNumberOf, total]);
 
-  const weeks = useMemo(() => {
+  // Only weeks that contain course days are shown, so cells stay square instead of stretching.
+  const weekRows = useMemo(() => {
     const rows = Array.from({ length: 6 }, (_, w) => cells.slice(w * 7, w * 7 + 7));
     const used = rows.filter((row) => row.some((c) => c.inCourse));
     return used.length ? used : rows;
   }, [cells]);
+  const weeks = useMemo(() => weekRows.flat(), [weekRows]);
 
   const goMonth = (delta: number) => setView(toISO(new Date(year, month + delta, 1, 12)));
   const minView = fromISO(start);
@@ -62,7 +64,7 @@ export default function Dashboard({ schedule }: { schedule: ScheduleItem[] }) {
 
   return (
     <main className="grid flex-1 gap-4 px-4 py-4 sm:gap-5 sm:px-8 sm:py-5 lg:h-dvh lg:grid-cols-[minmax(0,1fr)_340px] lg:grid-rows-[auto_minmax(0,1fr)]">
-      <section className="order-2 flex min-w-0 flex-col rounded-3xl border border-line bg-card p-3.5 shadow-[0_1px_0_rgba(0,0,0,0.03)] sm:p-5 lg:order-none lg:col-start-1 lg:row-span-2 lg:row-start-1 lg:min-h-0">
+      <section className="order-2 flex min-w-0 flex-col rounded-3xl border border-line bg-card p-3.5 shadow-[0_1px_0_rgba(0,0,0,0.03)] sm:p-5 lg:order-none lg:col-start-1 lg:row-span-2 lg:row-start-1 lg:self-start">
         <div className="mb-3 flex items-center justify-between">
           <h1 className="serif whitespace-nowrap text-xl sm:text-4xl">
             {MONTHS[month]} <em>{year}</em>
@@ -100,10 +102,10 @@ export default function Dashboard({ schedule }: { schedule: ScheduleItem[] }) {
         </div>
 
         <div
-          style={{ "--rows": weeks.length } as React.CSSProperties}
-          className="grid min-h-0 flex-1 auto-rows-[3.9rem] grid-cols-7 gap-1 sm:gap-1.5 lg:auto-rows-auto lg:[grid-template-rows:repeat(var(--rows),minmax(0,1fr))]"
+          style={{ "--rows": weekRows.length } as React.CSSProperties}
+          className="grid auto-rows-[3.9rem] grid-cols-7 gap-1 sm:gap-1.5 lg:[grid-auto-rows:min(7rem,calc((100dvh-15rem)/var(--rows)))]"
         >
-          {weeks.flat().map((c) => {
+          {weeks.map((c) => {
             const day = fromISO(c.iso).getDate();
             if (!c.inCourse) {
               return (
