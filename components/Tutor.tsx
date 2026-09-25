@@ -34,6 +34,7 @@ export default function Tutor({ titles }: { titles: string[] }) {
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState("");
   const bottom = useRef<HTMLDivElement>(null);
+  const box = useRef<HTMLTextAreaElement>(null);
   const [vv, setVv] = useState<{ h: number; top: number } | null>(null);
   const abort = useRef<AbortController | null>(null);
 
@@ -57,6 +58,13 @@ export default function Tutor({ titles }: { titles: string[] }) {
   useEffect(() => {
     bottom.current?.scrollIntoView({ block: "end" });
   }, [msgs, open, busy]);
+
+  useEffect(() => {
+    const el = box.current;
+    if (!el) return;
+    el.style.height = "auto";
+    el.style.height = `${Math.min(el.scrollHeight, Math.round(window.innerHeight * 0.4))}px`;
+  }, [input, open, user]);
 
   useEffect(() => {
     const onOpen = () => setOpen(true);
@@ -214,6 +222,7 @@ export default function Tutor({ titles }: { titles: string[] }) {
               }}
             >
               <textarea
+                ref={box}
                 value={input}
                 onChange={(e) => setInput(e.target.value)}
                 onKeyDown={(e) => {
@@ -224,7 +233,7 @@ export default function Tutor({ titles }: { titles: string[] }) {
                 }}
                 rows={1}
                 placeholder="Ask about today's lesson…"
-                className="max-h-28 min-h-11 flex-1 resize-none rounded-2xl border border-line bg-paper px-3.5 py-2.5 text-base outline-none focus:border-accent lg:min-h-10 lg:text-sm"
+                className="min-h-11 flex-1 resize-none overflow-y-auto rounded-2xl border border-line bg-paper px-3.5 py-2.5 text-base leading-snug outline-none focus:border-accent lg:min-h-10 lg:text-sm"
               />
               <button
                 disabled={busy || !input.trim()}
