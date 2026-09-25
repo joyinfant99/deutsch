@@ -1,6 +1,7 @@
 "use client";
 
 import { useAuth } from "@/lib/auth";
+import { InstallInline } from "./InstallHint";
 
 function GoogleMark() {
   return (
@@ -47,6 +48,7 @@ export default function AuthGate({ children }: { children: React.ReactNode }) {
           </button>
           {error && <p className="mx-auto mt-4 max-w-sm rounded-xl bg-bad-soft px-3 py-2 text-sm text-bad">{error}</p>}
           <p className="mt-6 text-xs text-muted">Google sign-in only. We only use your account to save your progress.</p>
+          <InstallInline />
         </div>
       </main>
     );

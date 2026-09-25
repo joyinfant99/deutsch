@@ -6,6 +6,7 @@ import { AuthProvider } from "@/lib/auth";
 import AuthGate from "@/components/AuthGate";
 import Sidebar, { type PhaseInfo } from "@/components/Sidebar";
 import Tutor from "@/components/Tutor";
+import InstallHint from "@/components/InstallHint";
 import { getSchedule } from "@/lib/course";
 
 const inter = Inter({ variable: "--font-inter", subsets: ["latin"] });
@@ -22,6 +23,8 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   applicationName: "Deutsch",
   appleWebApp: { capable: true, title: "Deutsch", statusBarStyle: "default" },
+  formatDetection: { telephone: false, email: false, address: false },
+  other: { "mobile-web-app-capable": "yes", "apple-mobile-web-app-capable": "yes" },
   title: "Deutsch – Daily Workbook",
   description: "A daily German workbook from A1 to B1, with lessons, materials and exams.",
 };
@@ -50,6 +53,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             <div className="flex min-w-0 flex-1 flex-col pb-[calc(4.75rem+env(safe-area-inset-bottom))] lg:pb-0">{children}</div>
           </div>
           <Tutor titles={schedule.map((s) => s.title)} />
+          <InstallHint />
         </ProgressProvider>
         </AuthGate>
         </AuthProvider>
