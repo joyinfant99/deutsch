@@ -1,5 +1,6 @@
 "use client";
 
+import { useState } from "react";
 import Link from "next/link";
 import type { DayContent, DayLesson, Extra, NoteBlock } from "@/lib/types";
 import { PASS_MARK } from "@/lib/types";
@@ -278,6 +279,9 @@ function LessonNotesView({ l, multi }: { l: DayLesson; multi: boolean }) {
 }
 
 function MaterialCard({ m, done, onToggle }: { m: Material; done: boolean; onToggle: () => void }) {
+  const [open, setOpen] = useState(false);
+  const isPdf = m.kind === "pdf" && /\.pdf($|\?)/i.test(m.url);
+  const proxied = `/api/pdf?url=${encodeURIComponent(m.url)}`;
   return (
     <div className={`flex items-start gap-4 rounded-2xl border p-4 transition ${done ? "border-good/40 bg-good-soft/50" : "border-line bg-paper/40"}`}>
       <button
@@ -299,10 +303,24 @@ function MaterialCard({ m, done, onToggle }: { m: Material; done: boolean; onTog
           <span>{m.source}</span>
           <span>· {m.minutes} min</span>
         </div>
-        <a href={m.url} target="_blank" rel="noopener noreferrer" className="mt-1.5 block font-medium leading-snug text-accent hover:underline">
-          {m.title} ↗
-        </a>
+        {isPdf ? (
+          <button onClick={() => setOpen((o) => !o)} className="mt-1.5 block text-left font-medium leading-snug text-accent hover:underline">
+            {m.title} {open ? "▴ Hide" : "▾ Read here"}
+          </button>
+        ) : (
+          <a href={m.url} target="_blank" rel="noopener noreferrer" className="mt-1.5 block font-medium leading-snug text-accent hover:underline">
+            {m.title} ↗
+          </a>
+        )}
         <p className="mt-1 text-sm text-muted">{m.focus}</p>
+        {isPdf && open && (
+          <div className="mt-3">
+            <iframe src={proxied} title={m.title} className="h-[70vh] w-full rounded-lg border border-line bg-card" />
+            <a href={proxied} target="_blank" rel="noopener noreferrer" className="mt-1 inline-block text-xs text-muted hover:text-ink">
+              Open in new tab ↗
+            </a>
+          </div>
+        )}
       </div>
     </div>
   );
