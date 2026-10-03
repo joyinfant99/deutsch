@@ -1,7 +1,7 @@
 "use client";
 
-import { useAuth } from "@/lib/auth";
-import { InstallInline } from "./InstallHint";
+import { useAuth } from "@/lib/backend/auth";
+import { InstallInline } from "@/components/shell/InstallHint";
 
 function GoogleMark() {
   return (

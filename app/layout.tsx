@@ -1,13 +1,13 @@
 import type { Metadata, Viewport } from "next";
 import { Inter, Playfair_Display } from "next/font/google";
 import "./globals.css";
-import { ProgressProvider } from "@/lib/progress";
-import { AuthProvider } from "@/lib/auth";
-import AuthGate from "@/components/AuthGate";
-import Sidebar, { type PhaseInfo } from "@/components/Sidebar";
-import Tutor from "@/components/Tutor";
-import InstallHint from "@/components/InstallHint";
-import { getSchedule } from "@/lib/course";
+import { ProgressProvider } from "@/lib/state/progress";
+import { AuthProvider } from "@/lib/backend/auth";
+import AuthGate from "@/components/shell/AuthGate";
+import Sidebar, { type PhaseInfo } from "@/components/shell/Sidebar";
+import Tutor from "@/components/tutor/Tutor";
+import InstallHint from "@/components/shell/InstallHint";
+import { getSchedule } from "@/lib/course/course";
 
 const inter = Inter({ variable: "--font-inter", subsets: ["latin"] });
 const playfair = Playfair_Display({ variable: "--font-playfair", subsets: ["latin"], style: ["normal", "italic"] });

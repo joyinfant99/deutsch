@@ -1,4 +1,4 @@
-import type { Status } from "@/lib/progress";
+import type { Status } from "@/lib/state/progress";
 
 export default function StatusMark({ status, className = "" }: { status: Status; className?: string }) {
   if (status === "done") {

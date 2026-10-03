@@ -2,9 +2,9 @@
 
 import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
-import type { MissedQuestion, Phase, Question } from "@/lib/types";
-import { PASS_MARK } from "@/lib/types";
-import { useProgress } from "@/lib/progress";
+import type { MissedQuestion, Phase, Question } from "@/lib/shared/types";
+import { PASS_MARK } from "@/lib/shared/types";
+import { useProgress } from "@/lib/state/progress";
 
 const SRC_LABEL: Record<string, string> = {
   video: "From the video",

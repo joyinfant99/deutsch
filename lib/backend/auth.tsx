@@ -2,7 +2,7 @@
 
 import { createContext, useCallback, useContext, useEffect, useMemo, useState } from "react";
 import { GoogleAuthProvider, onAuthStateChanged, signInWithPopup, signInWithRedirect, signOut as fbSignOut, type User } from "firebase/auth";
-import { fb } from "./firebase";
+import { fb } from "@/lib/backend/firebase";
 
 interface AuthCtx {
   user: User | null;

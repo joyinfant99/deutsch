@@ -1,5 +1,5 @@
-import type { Progress } from "./types";
-import { addDays } from "./dates";
+import type { Progress } from "@/lib/shared/types";
+import { addDays } from "@/lib/shared/dates";
 
 export type Status = "done" | "partial" | "missed" | "today" | "future";
 

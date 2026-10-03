@@ -1,9 +1,9 @@
-import { getDay, getSchedule, phaseLabel } from "@/lib/course";
-import { statusFor } from "@/lib/status";
-import { addDays } from "@/lib/dates";
-import type { Progress } from "@/lib/types";
-import { firebaseConfig } from "@/lib/firebase";
-import type { TutorMode, TutorMsg, TutorRequest } from "@/lib/tutorTypes";
+import { getDay, getSchedule, phaseLabel } from "@/lib/course/course";
+import { statusFor } from "@/lib/shared/status";
+import { addDays } from "@/lib/shared/dates";
+import type { Progress } from "@/lib/shared/types";
+import { firebaseConfig } from "@/lib/backend/firebase";
+import type { TutorMode, TutorMsg, TutorRequest } from "@/lib/shared/tutorTypes";
 
 export const maxDuration = 60;
 

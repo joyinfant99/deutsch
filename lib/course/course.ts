@@ -13,7 +13,7 @@ import type {
   Phase,
   Question,
   SpecialDay,
-} from "./types";
+} from "@/lib/shared/types";
 
 const LESSONS = nicos as NicosLesson[];
 const NOTES = lessonNotes as unknown as Record<string, LessonNotes>;

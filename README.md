@@ -48,35 +48,27 @@ There is no separate backend server: the only server code is the Next.js route `
 
 ## Project structure
 
-```
-app/
-  layout.tsx            Providers, viewport/PWA metadata, shell (sidebar + tutor + install hint)
-  page.tsx              Calendar dashboard
-  day/[day]/page.tsx    Day page          day/[day]/exam/page.tsx   Exam
-  progress/page.tsx     Progress page
-  api/tutor/route.ts    AI teacher endpoint (auth-checked, streams from Groq)
-  icon.tsx, apple-icon.tsx, maskable-icon/, favicon.ico, manifest.ts   Icons + web manifest
-components/
-  AuthGate.tsx          Login screen; nothing else renders until signed in
-  Sidebar.tsx           Desktop sidebar, mobile header/drawer, bottom tab bar, account card
-  Dashboard.tsx  DayView.tsx  ExamView.tsx  ProgressView.tsx  StatusMark.tsx  RichText.tsx
-  Tutor.tsx             Chat panel (auto-growing input, keyboard-aware on phones)
-  CloudSetup.tsx        Shown if Firestore isn't reachable / not set up
-  InstallHint.tsx       "Add to Home Screen" hint (iPhone) / install button (Android)
-lib/
-  course.ts             Builds the 218-day plan from content JSON (server-only)
-  progress.tsx          Progress + chat state, cloud load/save/merge
-  cloud.ts              Firestore REST read/write
-  auth.tsx firebase.ts  Google sign-in, Firebase config
-  status.ts mergeProgress.ts dates.ts types.ts tutorTypes.ts iconArt.tsx
-content/
-  nicos.json            228 lessons (ids like a1-05): titles, DW URLs, script PDF URLs
-  src/                  Authored source (see "Editing content")
-  lessons.json extras.json special.json     GENERATED – do not edit by hand
-scripts/
-  build-content.mjs     Validates and merges content/src → content/*.json
-  gen_b1_*.py           Generators for B1 extras, B1 test and the exam-prep days
-```
+Where things live, by role:
+
+| Role | Folder | What is in it |
+| --- | --- | --- |
+| **Pages / routing** | `app/` | Next.js routes (must stay here). Thin: each page just renders a screen. |
+| **Backend (server code)** | `app/api/` | `tutor/route.ts` AI teacher (auth-checked, streams from Groq); `pdf/route.ts` proxy that serves DW PDFs inline. |
+| **Frontend: screens** | `components/screens/` | Dashboard, DayView, ExamView, ProgressView. |
+| **Frontend: app shell** | `components/shell/` | Sidebar/tab bar, AuthGate (login), CloudSetup, InstallHint. |
+| **Frontend: chat** | `components/tutor/` | Tutor chat panel. |
+| **Frontend: small pieces** | `components/ui/` | StatusMark, RichText. |
+| **Database / cloud / auth** | `lib/backend/` | `firebase.ts` config, `cloud.ts` Firestore read/write, `mergeProgress.ts`, `auth.tsx` Google sign-in. |
+| **App state (browser)** | `lib/state/` | `progress.tsx`: progress + chat state, cloud load/save/merge. |
+| **Course logic** | `lib/course/` | `course.ts` builds the 218-day plan from content JSON (server-only). |
+| **Shared helpers & types** | `lib/shared/` | `types.ts`, `tutorTypes.ts`, `dates.ts`, `status.ts`. |
+| **Icons** | `lib/icons/` | `iconArt.tsx` used by app icons. Icon routes are `app/icon.tsx`, `apple-icon.tsx`, `maskable-icon/`. |
+| **Course content (data)** | `content/` | `nicos.json` (228 lessons); `src/` hand-authored source; `lessons/extras/special.json` are GENERATED, do not edit. |
+| **Build tooling** | `scripts/` | `build-content.mjs` validates + merges `content/src`; `gen_b1_*.py` generators. |
+| **Raw research** | `../reference/` | Moved outside the app: scraped course material, the workbook PDF and the original spec. Not part of the app. |
+| **Docs** | `docs/` | `ROADMAP.md`: planned features (iPhone notifications). |
+
+The database is Firebase (Firestore), reached through `lib/backend/`. There is no separate backend server beyond the two API routes.
 
 ## How progress is stored
 
@@ -201,4 +193,4 @@ Fill answers are compared case-insensitively with ä/ö/ü/ß ↔ ae/oe/ue/ss an
 
 ## History
 
-Built in one long session: content research and authoring (A1 → B1 + exam prep), calendar/exam/progress UI, mobile polish, Google sign-in with Firestore sync, and the Groq teacher. An earlier, heavier prototype (`german-journey`, with its own backend) was replaced by this app and removed; the original product notes remain in `../GERMAN_B1_APP_SPEC.md`.
+Built in one long session: content research and authoring (A1 → B1 + exam prep), calendar/exam/progress UI, mobile polish, Google sign-in with Firestore sync, and the Groq teacher. An earlier, heavier prototype (`german-journey`, with its own backend) was replaced by this app and removed; the original product notes remain in `../reference/GERMAN_B1_APP_SPEC.md`.

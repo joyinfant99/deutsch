@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
-import DayView from "@/components/DayView";
-import { getDay, getPlan } from "@/lib/course";
+import DayView from "@/components/screens/DayView";
+import { getDay, getPlan } from "@/lib/course/course";
 
 export default async function DayPage({ params }: PageProps<"/day/[day]">) {
   const { day } = await params;

@@ -2,10 +2,10 @@
 
 import Link from "next/link";
 import { useMemo, useState } from "react";
-import type { ScheduleItem } from "@/lib/course";
-import { useProgress } from "@/lib/progress";
-import { MONTHS, WEEKDAYS, fromISO, toISO, addDays, niceDate } from "@/lib/dates";
-import StatusMark from "./StatusMark";
+import type { ScheduleItem } from "@/lib/course/course";
+import { useProgress } from "@/lib/state/progress";
+import { MONTHS, WEEKDAYS, fromISO, toISO, addDays, niceDate } from "@/lib/shared/dates";
+import StatusMark from "@/components/ui/StatusMark";
 
 const PHASE_COLOR: Record<string, string> = { a1: "var(--a1)", a2: "var(--a2)", b1: "var(--b1)", exam: "var(--exam)" };
 

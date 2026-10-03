@@ -1,7 +1,7 @@
 "use client";
 
-import { useAuth } from "@/lib/auth";
-import { useProgress } from "@/lib/progress";
+import { useAuth } from "@/lib/backend/auth";
+import { useProgress } from "@/lib/state/progress";
 
 export default function CloudSetup() {
   const { retry, loadError } = useProgress();

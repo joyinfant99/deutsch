@@ -1,4 +1,4 @@
-import type { Attempt, DayProgress, Progress } from "./types";
+import type { Attempt, DayProgress, Progress } from "@/lib/shared/types";
 
 export function mergeProgress(local: Progress, cloud: Progress): Progress {
   const days: Progress["days"] = {};

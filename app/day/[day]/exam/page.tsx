@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
-import ExamView from "@/components/ExamView";
-import { getDay, getPlan } from "@/lib/course";
+import ExamView from "@/components/screens/ExamView";
+import { getDay, getPlan } from "@/lib/course/course";
 
 export default async function ExamPage({ params }: PageProps<"/day/[day]/exam">) {
   const { day } = await params;

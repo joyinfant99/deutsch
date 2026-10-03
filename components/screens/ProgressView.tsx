@@ -1,11 +1,11 @@
 "use client";
 
 import Link from "next/link";
-import type { ScheduleItem } from "@/lib/course";
-import { useProgress } from "@/lib/progress";
-import type { Progress } from "@/lib/types";
+import type { ScheduleItem } from "@/lib/course/course";
+import { useProgress } from "@/lib/state/progress";
+import type { Progress } from "@/lib/shared/types";
 import { useState } from "react";
-import { fromISO, MONTHS } from "@/lib/dates";
+import { fromISO, MONTHS } from "@/lib/shared/dates";
 
 const PHASES: { key: string; label: string; color: string; blurb: string }[] = [
   { key: "a1", label: "A1 · Reactivation", color: "var(--a1)", blurb: "Two Nicos Weg lessons a day" },

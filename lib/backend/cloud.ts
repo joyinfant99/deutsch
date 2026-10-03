@@ -1,4 +1,4 @@
-import { firebaseConfig, USERS_COLLECTION } from "./firebase";
+import { firebaseConfig, USERS_COLLECTION } from "@/lib/backend/firebase";
 
 const base = (uid: string) =>
   `https://firestore.googleapis.com/v1/projects/${firebaseConfig.projectId}/databases/(default)/documents/${USERS_COLLECTION}/${encodeURIComponent(uid)}`;

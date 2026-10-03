@@ -1,4 +1,4 @@
-import { iconImage } from "@/lib/iconArt";
+import { iconImage } from "@/lib/icons/iconArt";
 
 export const dynamic = "force-static";
 

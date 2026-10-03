@@ -1,17 +1,17 @@
 "use client";
 
 import { createContext, useCallback, useContext, useEffect, useMemo, useRef, useState } from "react";
-import type { DayProgress, MissedQuestion, Progress } from "./types";
-import { statusFor, type Status } from "./status";
-import { PASS_MARK } from "./types";
-import { addDays, todayISO } from "./dates";
-import { readCloud, writeCloud } from "./cloud";
-import { useAuth } from "./auth";
-import { mergeProgress } from "./mergeProgress";
-import type { TutorMsg } from "./tutorTypes";
-import CloudSetup from "@/components/CloudSetup";
+import type { DayProgress, MissedQuestion, Progress } from "@/lib/shared/types";
+import { statusFor, type Status } from "@/lib/shared/status";
+import { PASS_MARK } from "@/lib/shared/types";
+import { addDays, todayISO } from "@/lib/shared/dates";
+import { readCloud, writeCloud } from "@/lib/backend/cloud";
+import { useAuth } from "@/lib/backend/auth";
+import { mergeProgress } from "@/lib/backend/mergeProgress";
+import type { TutorMsg } from "@/lib/shared/tutorTypes";
+import CloudSetup from "@/components/shell/CloudSetup";
 
-export type { Status } from "./status";
+export type { Status } from "@/lib/shared/status";
 
 export type Chats = Record<string, TutorMsg[]>;
 

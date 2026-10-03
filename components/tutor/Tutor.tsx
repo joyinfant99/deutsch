@@ -2,11 +2,11 @@
 
 import { usePathname } from "next/navigation";
 import { useCallback, useEffect, useRef, useState } from "react";
-import { useProgress } from "@/lib/progress";
-import { useAuth } from "@/lib/auth";
-import type { Progress } from "@/lib/types";
-import type { TutorMode, TutorMsg, TutorRequest } from "@/lib/tutorTypes";
-import RichText from "./RichText";
+import { useProgress } from "@/lib/state/progress";
+import { useAuth } from "@/lib/backend/auth";
+import type { Progress } from "@/lib/shared/types";
+import type { TutorMode, TutorMsg, TutorRequest } from "@/lib/shared/tutorTypes";
+import RichText from "@/components/ui/RichText";
 
 
 function compact(p: Progress): Progress {

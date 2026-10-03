@@ -2,12 +2,12 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import type { DayContent, DayLesson, Extra, NoteBlock } from "@/lib/types";
-import { PASS_MARK } from "@/lib/types";
-import { useProgress } from "@/lib/progress";
-import { niceDate } from "@/lib/dates";
-import RichText, { German } from "./RichText";
-import StatusMark from "./StatusMark";
+import type { DayContent, DayLesson, Extra, NoteBlock } from "@/lib/shared/types";
+import { PASS_MARK } from "@/lib/shared/types";
+import { useProgress } from "@/lib/state/progress";
+import { niceDate } from "@/lib/shared/dates";
+import RichText, { German } from "@/components/ui/RichText";
+import StatusMark from "@/components/ui/StatusMark";
 
 const PHASE_COLOR: Record<string, string> = { a1: "var(--a1)", a2: "var(--a2)", b1: "var(--b1)", exam: "var(--exam)" };
 const KIND_LABEL: Record<string, string> = { video: "Video", audio: "Audio", article: "Reading", pdf: "PDF", exercise: "Exercises", lesson: "Video + exercises" };

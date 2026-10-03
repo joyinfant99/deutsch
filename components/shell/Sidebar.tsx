@@ -3,8 +3,8 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
-import { useProgress } from "@/lib/progress";
-import { useAuth } from "@/lib/auth";
+import { useProgress } from "@/lib/state/progress";
+import { useAuth } from "@/lib/backend/auth";
 
 export interface PhaseInfo {
   key: string;
